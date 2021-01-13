@@ -33,11 +33,11 @@ body {
 }
 .display-5 {
   font-family: 'Open Sans', sans-serif;
-  font-size: 2rem;
+  font-size: 1.6rem;
   line-height: 1.5;
 }
 .display-5 > .mbr-iconfont {
-  font-size: 2.5rem;
+  font-size: 2rem;
 }
 .display-7 {
   font-family: 'Open Sans', sans-serif;
@@ -74,9 +74,9 @@ body {
     line-height: calc( 1.4 * (1.0350000000000001rem + (1.1 - 1.0350000000000001) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
-    font-size: 1.6rem;
-    font-size: calc( 1.35rem + (2 - 1.35) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.35rem + (2 - 1.35) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.28rem;
+    font-size: calc( 1.21rem + (1.6 - 1.21) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.21rem + (1.6 - 1.21) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-7 {
     font-size: 0.96rem;
@@ -1052,6 +1052,33 @@ a {
   font-size: 60px;
   color: #777;
 }
+.cid-slV7hILiEO {
+  padding-top: 8rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-slV7hILiEO .card .card-header {
+  background-color: transparent;
+  margin-bottom: 0;
+}
+.cid-slV7hILiEO .panel-title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.cid-slV7hILiEO .mbr-iconfont {
+  padding-left: 1rem;
+  font-family: 'Moririse2' !important;
+  font-size: 1.4rem !important;
+  color: #1c4e80;
+}
+.cid-slV7hILiEO .panel-body,
+.cid-slV7hILiEO .card-header {
+  padding: 1rem 0;
+}
+.cid-slV7hILiEO .panel-title-edit {
+  color: #000000;
+}
 .cid-slTCuSpIMN {
   z-index: 1000;
   width: 100%;
@@ -1405,8 +1432,8 @@ a {
   }
 }
 .cid-slUFTqnAg9 {
-  padding-top: 9rem;
-  padding-bottom: 6rem;
+  padding-top: 0rem;
+  padding-bottom: 0rem;
   background-color: #ffffff;
 }
 .cid-slUFTqnAg9 .card .card-header {
@@ -1429,6 +1456,33 @@ a {
   padding: 1rem 0;
 }
 .cid-slUFTqnAg9 .panel-title-edit {
+  color: #000000;
+}
+.cid-slV6xAhUSv {
+  padding-top: 0rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-slV6xAhUSv .card .card-header {
+  background-color: transparent;
+  margin-bottom: 0;
+}
+.cid-slV6xAhUSv .panel-title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.cid-slV6xAhUSv .mbr-iconfont {
+  padding-left: 1rem;
+  font-family: 'Moririse2' !important;
+  font-size: 1.4rem !important;
+  color: #1c4e80;
+}
+.cid-slV6xAhUSv .panel-body,
+.cid-slV6xAhUSv .card-header {
+  padding: 1rem 0;
+}
+.cid-slV6xAhUSv .panel-title-edit {
   color: #000000;
 }
 .cid-slTCuSpIMN {
