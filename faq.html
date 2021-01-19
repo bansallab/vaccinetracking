@@ -87,7 +87,7 @@
                             </div>
                             <div id="collapse1_12" class="panel-collapse noScroll collapse" role="tabpanel" aria-labelledby="headingOne">
                                 <div class="panel-body">
-                                    <p class="mbr-fonts-style panel-text display-7">We visualize two measures:<br><br><strong><em>Partial vaccination coverage</em></strong>: the cumulative proportion of the population that has received at least one dose of COVID-19 vaccine.<br><br><em><strong>Complete vaccination coverage</strong></em>: the cumulative proportion of the population that has received two doses of COVID-19 vaccine, completing the vaccine regimen needed for full protection. (Not yet available for most states.)<br><br>We note that in the demographic visualizations, the vaccination coverage levels are a proportion of demographic group.<br></p>
+                                    <p class="mbr-fonts-style panel-text display-7">We visualize two measures:<br><br><strong><em>Partial vaccination coverage</em></strong>: the cumulative proportion of the population that has received at least one dose of COVID-19 vaccine.<br><br><em><strong>Complete vaccination coverage</strong></em>: the cumulative proportion of the population that has received two doses of COVID-19 vaccine, completing the vaccine regimen needed for full protection.<br><br>We note that in the demographic visualizations, the vaccination coverage levels are a proportion of demographic group.<br></p>
                                 </div>
                             </div>
                         </div>
@@ -101,7 +101,7 @@
                             </div>
                             <div id="collapse2_12" class="panel-collapse noScroll collapse" role="tabpanel" aria-labelledby="headingTwo">
                                 <div class="panel-body">
-                                    <p class="mbr-fonts-style panel-text display-7">We currently focus the dashboard on the 50 US states and the District of Columbia.&nbsp;<br><br>Some states are sharing county-level data which is important for estimation of vaccine herd immunity. Other states are sharing only state-level data. We derive our county-level vaccination coverage estimates using county-level data where available. Where county-level data is not available, we assume that that the county-level vaccination coverage is homogeneous across the entire state. (We denote this in the map hover text as "Scale of data"). This assumption limits our ability to understand geographic variability in vaccine coverage. We urge more state health departments to report and share county-level public health data.</p>
+                                    <p class="mbr-fonts-style panel-text display-7">The geographic scope of the dashboard is the 50 US states and the District of Columbia (and does not include populations counted by the Indian Health Service, the Bureau of Prisons, the Department of Defense, or Veterans Health nor includes the territories of American Samoa, Guam, Federated States of Micronesia, Marshall Islands, Northern Mariana Islands,  Puerto Rico, Republic of Palau, US Virgin Islands.)<br><br>Some states are sharing county-level data which is important for estimation of vaccine herd immunity. Other states are sharing only state-level data. We derive our county-level vaccination coverage estimates using county-level data where available. Where county-level data is not available, we assume that that the county-level vaccination coverage is homogeneous across the entire state. (We denote this in the map hover text as "Scale of data"). This assumption limits our ability to understand geographic variability in vaccine coverage. We urge more state health departments to report and share county-level public health data.</p>
                                 </div>
                             </div>
                         </div>
@@ -134,14 +134,22 @@
                         <div class="card mb-3">
                             <div class="card-header" role="tab" id="headingFive">
                                 <a role="button" class="collapsed panel-title text-black" data-toggle="collapse" data-core="" href="#collapse5_12" aria-expanded="false" aria-controls="collapse5">
-                                   <h6 class="panel-title-edit mbr-fonts-style mb-0 display-7"><strong>How often is the dashboard data updated?</strong></h6>
+                                   <h6 class="panel-title-edit mbr-fonts-style mb-0 display-7"><strong>What happens under the hood of the dashboard?</strong></h6>
                                         <span class="mbr-iconfont mobi-mbri-arrow-down mobi-mbri"></span>
                                 </a>
                             </div>
                             <div id="collapse5_12" class="panel-collapse noScroll collapse" role="tabpanel" aria-labelledby="headingFive">
                                 <div class="panel-body">
                                     <p class="mbr-fonts-style panel-text display-7">
-                                       The county-level data displayed in the map is updated daily. The demographic-specific data displayed is updated weekly.</p>
+                                    </p>
+                                        <ul>
+                                          <li>DATA ACQUISITION: We download vaccination counts for 1+ doses and 2 doses at the county-level for those states that make the data available for download. For states not making county-level data downloadable, we webscrape vaccination counts for 1+ doses and 2 doses at the county-level for those states that are making data available in a scrapable form. For states that are not making county data available (for download or webscraping), we compile state-level 1+ dose and 2 doses data from the CDC. Most states are not providing demographic data in a downloadable or scrapeable form, so we are manually extracting those data.</li>
+                                          <br>
+                                          <li>DATA PREPARATION: We parse and clean data for all states (each of which has its own format) by county and demographic group and compile them into a uniform format. We then normalize all vaccination counts by population sizes, for the entire state, county or demographic group as necessary. For demographic groups, we also infer the proportion of data which is missing demographic information. </li>
+                                            <br>
+                                            <li>DASHBOARD: The dashboard is written in Plotly and Dash and deployed via Herokuapp.</li>
+                                        </ul>  
+
                                 </div>
                             </div>
                         </div>
