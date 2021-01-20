@@ -1,0 +1,3333 @@
+STATE_NAME,STATE,DATE,CASE_TYPE,DEMO_GROUP,CASES
+Alabama,1,01-20-2021,Partial Coverage,CASES_Female,
+Alaska,2,01-20-2021,Partial Coverage,CASES_Female,6.968899856337843
+Arizona,4,01-20-2021,Partial Coverage,CASES_Female,
+Arkansas,5,01-20-2021,Partial Coverage,CASES_Female,
+California,6,01-20-2021,Partial Coverage,CASES_Female,
+Colorado,8,01-20-2021,Partial Coverage,CASES_Female,
+Connecticut,9,01-20-2021,Partial Coverage,CASES_Female,
+Florida,12,01-20-2021,Partial Coverage,CASES_Female,5.483503254488497
+Georgia,13,01-20-2021,Partial Coverage,CASES_Female,
+Hawaii,15,01-20-2021,Partial Coverage,CASES_Female,
+Idaho,16,01-20-2021,Partial Coverage,CASES_Female,
+Illinois,17,01-20-2021,Partial Coverage,CASES_Female,
+Iowa,19,01-20-2021,Partial Coverage,CASES_Female,
+Kansas,20,01-20-2021,Partial Coverage,CASES_Female,
+Kentucky,21,01-20-2021,Partial Coverage,CASES_Female,
+Louisiana,22,01-20-2021,Partial Coverage,CASES_Female,
+Maine,23,01-20-2021,Partial Coverage,CASES_Female,
+Maryland,24,01-20-2021,Partial Coverage,CASES_Female,4.564884345076624
+Massachusetts,25,01-20-2021,Partial Coverage,CASES_Female,
+Michigan,26,01-20-2021,Partial Coverage,CASES_Female,
+Mississippi,28,01-20-2021,Partial Coverage,CASES_Female,
+Missouri,29,01-20-2021,Partial Coverage,CASES_Female,
+Montana,30,01-20-2021,Partial Coverage,CASES_Female,
+Nebraska,31,01-20-2021,Partial Coverage,CASES_Female,6.291175555989458
+Nevada,32,01-20-2021,Partial Coverage,CASES_Female,
+New Hampshire,33,01-20-2021,Partial Coverage,CASES_Female,
+New Jersey,34,01-20-2021,Partial Coverage,CASES_Female,4.991629607431561
+New Mexico,35,01-20-2021,Partial Coverage,CASES_Female,
+New York,36,01-20-2021,Partial Coverage,CASES_Female,
+North Carolina,37,01-20-2021,Partial Coverage,CASES_Female,
+Ohio,39,01-20-2021,Partial Coverage,CASES_Female,
+Oklahoma,40,01-20-2021,Partial Coverage,CASES_Female,
+Oregon,41,01-20-2021,Partial Coverage,CASES_Female,5.5393721703236
+Pennsylvania,42,01-20-2021,Partial Coverage,CASES_Female,3.5667167307940955
+Rhode Island,44,01-20-2021,Partial Coverage,CASES_Female,
+South Carolina,45,01-20-2021,Partial Coverage,CASES_Female,
+South Dakota,46,01-20-2021,Partial Coverage,CASES_Female,7.4598882855068025
+Tennessee,47,01-20-2021,Partial Coverage,CASES_Female,5.189201400655145
+Texas,48,01-20-2021,Partial Coverage,CASES_Female,4.587972230039801
+Utah,49,01-20-2021,Partial Coverage,CASES_Female,
+Vermont,50,01-20-2021,Partial Coverage,CASES_Female,
+Virginia,51,01-20-2021,Partial Coverage,CASES_Female,4.895897871916391
+Washington,53,01-20-2021,Partial Coverage,CASES_Female,
+West Virginia,54,01-20-2021,Partial Coverage,CASES_Female,11.11958840173954
+Wisconsin,55,01-20-2021,Partial Coverage,CASES_Female,
+Wyoming,56,01-20-2021,Partial Coverage,CASES_Female,
+Alabama,1,01-20-2021,Complete Coverage,CASES_Female,
+Alaska,2,01-20-2021,Complete Coverage,CASES_Female,1.8279081590394342
+Arizona,4,01-20-2021,Complete Coverage,CASES_Female,
+Arkansas,5,01-20-2021,Complete Coverage,CASES_Female,
+California,6,01-20-2021,Complete Coverage,CASES_Female,
+Colorado,8,01-20-2021,Complete Coverage,CASES_Female,
+Connecticut,9,01-20-2021,Complete Coverage,CASES_Female,
+Florida,12,01-20-2021,Complete Coverage,CASES_Female,0.5087025112559048
+Georgia,13,01-20-2021,Complete Coverage,CASES_Female,
+Hawaii,15,01-20-2021,Complete Coverage,CASES_Female,
+Idaho,16,01-20-2021,Complete Coverage,CASES_Female,
+Illinois,17,01-20-2021,Complete Coverage,CASES_Female,
+Iowa,19,01-20-2021,Complete Coverage,CASES_Female,
+Kansas,20,01-20-2021,Complete Coverage,CASES_Female,
+Kentucky,21,01-20-2021,Complete Coverage,CASES_Female,
+Louisiana,22,01-20-2021,Complete Coverage,CASES_Female,
+Maine,23,01-20-2021,Complete Coverage,CASES_Female,
+Maryland,24,01-20-2021,Complete Coverage,CASES_Female,4.564884345076624
+Massachusetts,25,01-20-2021,Complete Coverage,CASES_Female,
+Michigan,26,01-20-2021,Complete Coverage,CASES_Female,
+Minnesota,27,01-20-2021,Complete Coverage,CASES_Female,
+Mississippi,28,01-20-2021,Complete Coverage,CASES_Female,
+Missouri,29,01-20-2021,Complete Coverage,CASES_Female,
+Montana,30,01-20-2021,Complete Coverage,CASES_Female,
+Nebraska,31,01-20-2021,Complete Coverage,CASES_Female,1.1274237855115765
+Nevada,32,01-20-2021,Complete Coverage,CASES_Female,
+New Hampshire,33,01-20-2021,Complete Coverage,CASES_Female,
+New Jersey,34,01-20-2021,Complete Coverage,CASES_Female,
+New Mexico,35,01-20-2021,Complete Coverage,CASES_Female,
+New York,36,01-20-2021,Complete Coverage,CASES_Female,
+North Carolina,37,01-20-2021,Complete Coverage,CASES_Female,
+Ohio,39,01-20-2021,Complete Coverage,CASES_Female,
+Oklahoma,40,01-20-2021,Complete Coverage,CASES_Female,
+Oregon,41,01-20-2021,Complete Coverage,CASES_Female,
+Pennsylvania,42,01-20-2021,Complete Coverage,CASES_Female,0.5712794908043166
+Rhode Island,44,01-20-2021,Complete Coverage,CASES_Female,
+South Carolina,45,01-20-2021,Complete Coverage,CASES_Female,
+South Dakota,46,01-20-2021,Complete Coverage,CASES_Female,
+Tennessee,47,01-20-2021,Complete Coverage,CASES_Female,
+Texas,48,01-20-2021,Complete Coverage,CASES_Female,0.7285527026016744
+Utah,49,01-20-2021,Complete Coverage,CASES_Female,
+Vermont,50,01-20-2021,Complete Coverage,CASES_Female,
+Virginia,51,01-20-2021,Complete Coverage,CASES_Female,0.5263580378763729
+Washington,53,01-20-2021,Complete Coverage,CASES_Female,
+West Virginia,54,01-20-2021,Complete Coverage,CASES_Female,
+Wisconsin,55,01-20-2021,Complete Coverage,CASES_Female,
+Wyoming,56,01-20-2021,Complete Coverage,CASES_Female,
+Indiana,18,01-20-2021,Partial Coverage,CASES_Female,6.137575673555092
+Minnesota,27,01-20-2021,Partial Coverage,CASES_Female,4.7003682565080975
+Indiana,18,01-20-2021,Complete Coverage,CASES_Female,1.1986784916961692
+Delaware,10,2021-01-19 00:00:00,Partial Coverage,CASES_Female,6.257816056989369
+North Dakota,38,01-20-2021,Partial Coverage,CASES_Female,
+North Dakota,38,01-20-2021,Complete Coverage,CASES_Female,
+Alabama,1,01-20-2021,Partial,CASES_Female,
+Alaska,2,01-20-2021,Partial,CASES_Female,24400.0
+Arizona,4,01-20-2021,Partial,CASES_Female,
+Arkansas,5,01-20-2021,Partial,CASES_Female,
+California,6,01-20-2021,Partial,CASES_Female,
+Colorado,8,01-20-2021,Partial,CASES_Female,
+Connecticut,9,01-20-2021,Partial,CASES_Female,
+Florida,12,01-20-2021,Partial,CASES_Female,602126.0
+Georgia,13,01-20-2021,Partial,CASES_Female,
+Hawaii,15,01-20-2021,Partial,CASES_Female,
+Idaho,16,01-20-2021,Partial,CASES_Female,
+Illinois,17,01-20-2021,Partial,CASES_Female,
+Iowa,19,01-20-2021,Partial,CASES_Female,
+Kansas,20,01-20-2021,Partial,CASES_Female,
+Kentucky,21,01-20-2021,Partial,CASES_Female,
+Louisiana,22,01-20-2021,Partial,CASES_Female,
+Maine,23,01-20-2021,Partial,CASES_Female,
+Maryland,24,01-20-2021,Partial,CASES_Female,142279.0
+Massachusetts,25,01-20-2021,Partial,CASES_Female,
+Michigan,26,01-20-2021,Partial,CASES_Female,
+Mississippi,28,01-20-2021,Partial,CASES_Female,
+Missouri,29,01-20-2021,Partial,CASES_Female,
+Montana,30,01-20-2021,Partial,CASES_Female,
+Nebraska,31,01-20-2021,Partial,CASES_Female,60896.0
+Nevada,32,01-20-2021,Partial,CASES_Female,
+New Hampshire,33,01-20-2021,Partial,CASES_Female,
+New Jersey,34,01-20-2021,Partial,CASES_Female,226700.0
+New Mexico,35,01-20-2021,Partial,CASES_Female,
+New York,36,01-20-2021,Partial,CASES_Female,
+North Carolina,37,01-20-2021,Partial,CASES_Female,
+Ohio,39,01-20-2021,Partial,CASES_Female,
+Oklahoma,40,01-20-2021,Partial,CASES_Female,
+Oregon,41,01-20-2021,Partial,CASES_Female,117823.0
+Pennsylvania,42,01-20-2021,Partial,CASES_Female,232822.0
+Rhode Island,44,01-20-2021,Partial,CASES_Female,
+South Carolina,45,01-20-2021,Partial,CASES_Female,
+South Dakota,46,01-20-2021,Partial,CASES_Female,32667.0
+Tennessee,47,01-20-2021,Partial,CASES_Female,181463.0
+Texas,48,01-20-2021,Partial,CASES_Female,669531.0
+Utah,49,01-20-2021,Partial,CASES_Female,
+Vermont,50,01-20-2021,Partial,CASES_Female,
+Virginia,51,01-20-2021,Partial,CASES_Female,212250.0
+Washington,53,01-20-2021,Partial,CASES_Female,
+West Virginia,54,01-20-2021,Partial,CASES_Female,100563.0
+Wisconsin,55,01-20-2021,Partial,CASES_Female,
+Wyoming,56,01-20-2021,Partial,CASES_Female,
+Alabama,1,01-20-2021,Complete,CASES_Female,
+Alaska,2,01-20-2021,Complete,CASES_Female,6400.0
+Arizona,4,01-20-2021,Complete,CASES_Female,
+Arkansas,5,01-20-2021,Complete,CASES_Female,
+California,6,01-20-2021,Complete,CASES_Female,
+Colorado,8,01-20-2021,Complete,CASES_Female,
+Connecticut,9,01-20-2021,Complete,CASES_Female,
+Florida,12,01-20-2021,Complete,CASES_Female,55859.0
+Georgia,13,01-20-2021,Complete,CASES_Female,
+Hawaii,15,01-20-2021,Complete,CASES_Female,
+Idaho,16,01-20-2021,Complete,CASES_Female,
+Illinois,17,01-20-2021,Complete,CASES_Female,
+Iowa,19,01-20-2021,Complete,CASES_Female,
+Kansas,20,01-20-2021,Complete,CASES_Female,
+Kentucky,21,01-20-2021,Complete,CASES_Female,
+Louisiana,22,01-20-2021,Complete,CASES_Female,
+Maine,23,01-20-2021,Complete,CASES_Female,
+Maryland,24,01-20-2021,Complete,CASES_Female,142279.0
+Massachusetts,25,01-20-2021,Complete,CASES_Female,
+Michigan,26,01-20-2021,Complete,CASES_Female,
+Minnesota,27,01-20-2021,Complete,CASES_Female,
+Mississippi,28,01-20-2021,Complete,CASES_Female,
+Missouri,29,01-20-2021,Complete,CASES_Female,
+Montana,30,01-20-2021,Complete,CASES_Female,
+Nebraska,31,01-20-2021,Complete,CASES_Female,10913.0
+Nevada,32,01-20-2021,Complete,CASES_Female,
+New Hampshire,33,01-20-2021,Complete,CASES_Female,
+New Jersey,34,01-20-2021,Complete,CASES_Female,
+New Mexico,35,01-20-2021,Complete,CASES_Female,
+New York,36,01-20-2021,Complete,CASES_Female,
+North Carolina,37,01-20-2021,Complete,CASES_Female,
+Ohio,39,01-20-2021,Complete,CASES_Female,
+Oklahoma,40,01-20-2021,Complete,CASES_Female,
+Oregon,41,01-20-2021,Complete,CASES_Female,
+Pennsylvania,42,01-20-2021,Complete,CASES_Female,37291.0
+Rhode Island,44,01-20-2021,Complete,CASES_Female,
+South Carolina,45,01-20-2021,Complete,CASES_Female,
+South Dakota,46,01-20-2021,Complete,CASES_Female,
+Tennessee,47,01-20-2021,Complete,CASES_Female,
+Texas,48,01-20-2021,Complete,CASES_Female,106319.0
+Utah,49,01-20-2021,Complete,CASES_Female,
+Vermont,50,01-20-2021,Complete,CASES_Female,
+Virginia,51,01-20-2021,Complete,CASES_Female,22819.0
+Washington,53,01-20-2021,Complete,CASES_Female,
+West Virginia,54,01-20-2021,Complete,CASES_Female,
+Wisconsin,55,01-20-2021,Complete,CASES_Female,
+Wyoming,56,01-20-2021,Complete,CASES_Female,
+Indiana,18,01-20-2021,Partial,CASES_Female,209405.428
+Minnesota,27,01-20-2021,Partial,CASES_Female,133012.008
+Indiana,18,01-20-2021,Complete,CASES_Female,40897.22
+Delaware,10,2021-01-19 00:00:00,Partial,CASES_Female,31475.0
+Alabama,1,01-20-2021,Partial Coverage,CASES_Male,
+Alaska,2,01-20-2021,Partial Coverage,CASES_Male,4.693013963682889
+Arizona,4,01-20-2021,Partial Coverage,CASES_Male,
+Arkansas,5,01-20-2021,Partial Coverage,CASES_Male,
+California,6,01-20-2021,Partial Coverage,CASES_Male,
+Colorado,8,01-20-2021,Partial Coverage,CASES_Male,
+Connecticut,9,01-20-2021,Partial Coverage,CASES_Male,
+Florida,12,01-20-2021,Partial Coverage,CASES_Male,4.035598171525426
+Georgia,13,01-20-2021,Partial Coverage,CASES_Male,
+Hawaii,15,01-20-2021,Partial Coverage,CASES_Male,
+Idaho,16,01-20-2021,Partial Coverage,CASES_Male,
+Illinois,17,01-20-2021,Partial Coverage,CASES_Male,
+Iowa,19,01-20-2021,Partial Coverage,CASES_Male,
+Kansas,20,01-20-2021,Partial Coverage,CASES_Male,
+Kentucky,21,01-20-2021,Partial Coverage,CASES_Male,
+Louisiana,22,01-20-2021,Partial Coverage,CASES_Male,
+Maine,23,01-20-2021,Partial Coverage,CASES_Male,
+Maryland,24,01-20-2021,Partial Coverage,CASES_Male,2.8234828167225188
+Massachusetts,25,01-20-2021,Partial Coverage,CASES_Male,
+Michigan,26,01-20-2021,Partial Coverage,CASES_Male,
+Mississippi,28,01-20-2021,Partial Coverage,CASES_Male,
+Missouri,29,01-20-2021,Partial Coverage,CASES_Male,
+Montana,30,01-20-2021,Partial Coverage,CASES_Male,
+Nebraska,31,01-20-2021,Partial Coverage,CASES_Male,2.524189067400349
+Nevada,32,01-20-2021,Partial Coverage,CASES_Male,
+New Hampshire,33,01-20-2021,Partial Coverage,CASES_Male,
+New Jersey,34,01-20-2021,Partial Coverage,CASES_Male,3.1862049994620545
+New Mexico,35,01-20-2021,Partial Coverage,CASES_Male,
+New York,36,01-20-2021,Partial Coverage,CASES_Male,
+North Carolina,37,01-20-2021,Partial Coverage,CASES_Male,
+Ohio,39,01-20-2021,Partial Coverage,CASES_Male,
+Oklahoma,40,01-20-2021,Partial Coverage,CASES_Male,
+Oregon,41,01-20-2021,Partial Coverage,CASES_Male,3.004887773487404
+Pennsylvania,42,01-20-2021,Partial Coverage,CASES_Male,1.6032708350698979
+Rhode Island,44,01-20-2021,Partial Coverage,CASES_Male,
+South Carolina,45,01-20-2021,Partial Coverage,CASES_Male,
+South Dakota,46,01-20-2021,Partial Coverage,CASES_Male,2.8411418287794037
+Tennessee,47,01-20-2021,Partial Coverage,CASES_Male,3.1689803762575255
+Texas,48,01-20-2021,Partial Coverage,CASES_Male,2.9521127355131003
+Utah,49,01-20-2021,Partial Coverage,CASES_Male,
+Vermont,50,01-20-2021,Partial Coverage,CASES_Male,
+Virginia,51,01-20-2021,Partial Coverage,CASES_Male,2.449921516707192
+Washington,53,01-20-2021,Partial Coverage,CASES_Male,
+West Virginia,54,01-20-2021,Partial Coverage,CASES_Male,6.21951631616297
+Wisconsin,55,01-20-2021,Partial Coverage,CASES_Male,
+Wyoming,56,01-20-2021,Partial Coverage,CASES_Male,
+Alabama,1,01-20-2021,Complete Coverage,CASES_Male,
+Alaska,2,01-20-2021,Complete Coverage,CASES_Male,1.0487182041749472
+Arizona,4,01-20-2021,Complete Coverage,CASES_Male,
+Arkansas,5,01-20-2021,Complete Coverage,CASES_Male,
+California,6,01-20-2021,Complete Coverage,CASES_Male,
+Colorado,8,01-20-2021,Complete Coverage,CASES_Male,
+Connecticut,9,01-20-2021,Complete Coverage,CASES_Male,
+Florida,12,01-20-2021,Complete Coverage,CASES_Male,0.3529179991037487
+Georgia,13,01-20-2021,Complete Coverage,CASES_Male,
+Hawaii,15,01-20-2021,Complete Coverage,CASES_Male,
+Idaho,16,01-20-2021,Complete Coverage,CASES_Male,
+Illinois,17,01-20-2021,Complete Coverage,CASES_Male,
+Iowa,19,01-20-2021,Complete Coverage,CASES_Male,
+Kansas,20,01-20-2021,Complete Coverage,CASES_Male,
+Kentucky,21,01-20-2021,Complete Coverage,CASES_Male,
+Louisiana,22,01-20-2021,Complete Coverage,CASES_Male,
+Maine,23,01-20-2021,Complete Coverage,CASES_Male,
+Maryland,24,01-20-2021,Complete Coverage,CASES_Male,0.24729716118701273
+Massachusetts,25,01-20-2021,Complete Coverage,CASES_Male,
+Michigan,26,01-20-2021,Complete Coverage,CASES_Male,
+Minnesota,27,01-20-2021,Complete Coverage,CASES_Male,
+Mississippi,28,01-20-2021,Complete Coverage,CASES_Male,
+Missouri,29,01-20-2021,Complete Coverage,CASES_Male,
+Montana,30,01-20-2021,Complete Coverage,CASES_Male,
+Nebraska,31,01-20-2021,Complete Coverage,CASES_Male,0.4371674035567319
+Nevada,32,01-20-2021,Complete Coverage,CASES_Male,
+New Hampshire,33,01-20-2021,Complete Coverage,CASES_Male,
+New Jersey,34,01-20-2021,Complete Coverage,CASES_Male,
+New Mexico,35,01-20-2021,Complete Coverage,CASES_Male,
+New York,36,01-20-2021,Complete Coverage,CASES_Male,
+North Carolina,37,01-20-2021,Complete Coverage,CASES_Male,
+Ohio,39,01-20-2021,Complete Coverage,CASES_Male,
+Oklahoma,40,01-20-2021,Complete Coverage,CASES_Male,
+Oregon,41,01-20-2021,Complete Coverage,CASES_Male,
+Pennsylvania,42,01-20-2021,Complete Coverage,CASES_Male,0.2927788184326659
+Rhode Island,44,01-20-2021,Complete Coverage,CASES_Male,
+South Carolina,45,01-20-2021,Complete Coverage,CASES_Male,
+South Dakota,46,01-20-2021,Complete Coverage,CASES_Male,
+Tennessee,47,01-20-2021,Complete Coverage,CASES_Male,
+Texas,48,01-20-2021,Complete Coverage,CASES_Male,0.41636631793117707
+Utah,49,01-20-2021,Complete Coverage,CASES_Male,
+Vermont,50,01-20-2021,Complete Coverage,CASES_Male,
+Virginia,51,01-20-2021,Complete Coverage,CASES_Male,0.2431517880929667
+Washington,53,01-20-2021,Complete Coverage,CASES_Male,
+West Virginia,54,01-20-2021,Complete Coverage,CASES_Male,
+Wisconsin,55,01-20-2021,Complete Coverage,CASES_Male,
+Wyoming,56,01-20-2021,Complete Coverage,CASES_Male,
+Indiana,18,01-20-2021,Partial Coverage,CASES_Male,2.752349684973918
+Minnesota,27,01-20-2021,Partial Coverage,CASES_Male,2.1108505162802764
+Indiana,18,01-20-2021,Complete Coverage,CASES_Male,0.677058210555482
+Delaware,10,2021-01-19 00:00:00,Partial Coverage,CASES_Male,3.1058235785153987
+North Dakota,38,01-20-2021,Partial Coverage,CASES_Male,
+North Dakota,38,01-20-2021,Complete Coverage,CASES_Male,
+Alabama,1,01-20-2021,Partial,CASES_Male,
+Alaska,2,01-20-2021,Partial,CASES_Male,17900.0
+Arizona,4,01-20-2021,Partial,CASES_Male,
+Arkansas,5,01-20-2021,Partial,CASES_Male,
+California,6,01-20-2021,Partial,CASES_Male,
+Colorado,8,01-20-2021,Partial,CASES_Male,
+Connecticut,9,01-20-2021,Partial,CASES_Male,
+Florida,12,01-20-2021,Partial,CASES_Male,423619.0
+Georgia,13,01-20-2021,Partial,CASES_Male,
+Hawaii,15,01-20-2021,Partial,CASES_Male,
+Idaho,16,01-20-2021,Partial,CASES_Male,
+Illinois,17,01-20-2021,Partial,CASES_Male,
+Iowa,19,01-20-2021,Partial,CASES_Male,
+Kansas,20,01-20-2021,Partial,CASES_Male,
+Kentucky,21,01-20-2021,Partial,CASES_Male,
+Louisiana,22,01-20-2021,Partial,CASES_Male,
+Maine,23,01-20-2021,Partial,CASES_Male,
+Maryland,24,01-20-2021,Partial,CASES_Male,82696.0
+Massachusetts,25,01-20-2021,Partial,CASES_Male,
+Michigan,26,01-20-2021,Partial,CASES_Male,
+Mississippi,28,01-20-2021,Partial,CASES_Male,
+Missouri,29,01-20-2021,Partial,CASES_Male,
+Montana,30,01-20-2021,Partial,CASES_Male,
+Nebraska,31,01-20-2021,Partial,CASES_Male,24395.0
+Nevada,32,01-20-2021,Partial,CASES_Male,
+New Hampshire,33,01-20-2021,Partial,CASES_Male,
+New Jersey,34,01-20-2021,Partial,CASES_Male,138300.0
+New Mexico,35,01-20-2021,Partial,CASES_Male,
+New York,36,01-20-2021,Partial,CASES_Male,
+North Carolina,37,01-20-2021,Partial,CASES_Male,
+Ohio,39,01-20-2021,Partial,CASES_Male,
+Oklahoma,40,01-20-2021,Partial,CASES_Male,
+Oregon,41,01-20-2021,Partial,CASES_Male,62824.0
+Pennsylvania,42,01-20-2021,Partial,CASES_Male,100595.0
+Rhode Island,44,01-20-2021,Partial,CASES_Male,
+South Carolina,45,01-20-2021,Partial,CASES_Male,
+South Dakota,46,01-20-2021,Partial,CASES_Male,12693.0
+Tennessee,47,01-20-2021,Partial,CASES_Male,105598.0
+Texas,48,01-20-2021,Partial,CASES_Male,425184.0
+Utah,49,01-20-2021,Partial,CASES_Male,
+Vermont,50,01-20-2021,Partial,CASES_Male,
+Virginia,51,01-20-2021,Partial,CASES_Male,102903.0
+Washington,53,01-20-2021,Partial,CASES_Male,
+West Virginia,54,01-20-2021,Partial,CASES_Male,55215.0
+Wisconsin,55,01-20-2021,Partial,CASES_Male,
+Wyoming,56,01-20-2021,Partial,CASES_Male,
+Alabama,1,01-20-2021,Complete,CASES_Male,
+Alaska,2,01-20-2021,Complete,CASES_Male,4000.0
+Arizona,4,01-20-2021,Complete,CASES_Male,
+Arkansas,5,01-20-2021,Complete,CASES_Male,
+California,6,01-20-2021,Complete,CASES_Male,
+Colorado,8,01-20-2021,Complete,CASES_Male,
+Connecticut,9,01-20-2021,Complete,CASES_Male,
+Florida,12,01-20-2021,Complete,CASES_Male,37046.0
+Georgia,13,01-20-2021,Complete,CASES_Male,
+Hawaii,15,01-20-2021,Complete,CASES_Male,
+Idaho,16,01-20-2021,Complete,CASES_Male,
+Illinois,17,01-20-2021,Complete,CASES_Male,
+Iowa,19,01-20-2021,Complete,CASES_Male,
+Kansas,20,01-20-2021,Complete,CASES_Male,
+Kentucky,21,01-20-2021,Complete,CASES_Male,
+Louisiana,22,01-20-2021,Complete,CASES_Male,
+Maine,23,01-20-2021,Complete,CASES_Male,
+Maryland,24,01-20-2021,Complete,CASES_Male,7243.0
+Massachusetts,25,01-20-2021,Complete,CASES_Male,
+Michigan,26,01-20-2021,Complete,CASES_Male,
+Minnesota,27,01-20-2021,Complete,CASES_Male,
+Mississippi,28,01-20-2021,Complete,CASES_Male,
+Missouri,29,01-20-2021,Complete,CASES_Male,
+Montana,30,01-20-2021,Complete,CASES_Male,
+Nebraska,31,01-20-2021,Complete,CASES_Male,4225.0
+Nevada,32,01-20-2021,Complete,CASES_Male,
+New Hampshire,33,01-20-2021,Complete,CASES_Male,
+New Jersey,34,01-20-2021,Complete,CASES_Male,
+New Mexico,35,01-20-2021,Complete,CASES_Male,
+New York,36,01-20-2021,Complete,CASES_Male,
+North Carolina,37,01-20-2021,Complete,CASES_Male,
+Ohio,39,01-20-2021,Complete,CASES_Male,
+Oklahoma,40,01-20-2021,Complete,CASES_Male,
+Oregon,41,01-20-2021,Complete,CASES_Male,
+Pennsylvania,42,01-20-2021,Complete,CASES_Male,18370.0
+Rhode Island,44,01-20-2021,Complete,CASES_Male,
+South Carolina,45,01-20-2021,Complete,CASES_Male,
+South Dakota,46,01-20-2021,Complete,CASES_Male,
+Tennessee,47,01-20-2021,Complete,CASES_Male,
+Texas,48,01-20-2021,Complete,CASES_Male,59968.0
+Utah,49,01-20-2021,Complete,CASES_Male,
+Vermont,50,01-20-2021,Complete,CASES_Male,
+Virginia,51,01-20-2021,Complete,CASES_Male,10213.0
+Washington,53,01-20-2021,Complete,CASES_Male,
+West Virginia,54,01-20-2021,Complete,CASES_Male,
+Wisconsin,55,01-20-2021,Complete,CASES_Male,
+Wyoming,56,01-20-2021,Complete,CASES_Male,
+Indiana,18,01-20-2021,Partial,CASES_Male,91387.91799999999
+Minnesota,27,01-20-2021,Partial,CASES_Male,59310.909999999996
+Indiana,18,01-20-2021,Complete,CASES_Male,22480.77
+Delaware,10,2021-01-19 00:00:00,Partial,CASES_Male,14622.0
+Alabama,1,01-20-2021,Partial Coverage,CASES_UnknownGender,
+Alaska,2,01-20-2021,Partial Coverage,CASES_UnknownGender,3.8636363636363638
+Arizona,4,01-20-2021,Partial Coverage,CASES_UnknownGender,
+Arkansas,5,01-20-2021,Partial Coverage,CASES_UnknownGender,
+California,6,01-20-2021,Partial Coverage,CASES_UnknownGender,
+Colorado,8,01-20-2021,Partial Coverage,CASES_UnknownGender,
+Connecticut,9,01-20-2021,Partial Coverage,CASES_UnknownGender,
+Florida,12,01-20-2021,Partial Coverage,CASES_UnknownGender,0.586356785989465
+Georgia,13,01-20-2021,Partial Coverage,CASES_UnknownGender,
+Hawaii,15,01-20-2021,Partial Coverage,CASES_UnknownGender,
+Idaho,16,01-20-2021,Partial Coverage,CASES_UnknownGender,
+Illinois,17,01-20-2021,Partial Coverage,CASES_UnknownGender,
+Iowa,19,01-20-2021,Partial Coverage,CASES_UnknownGender,
+Kansas,20,01-20-2021,Partial Coverage,CASES_UnknownGender,
+Kentucky,21,01-20-2021,Partial Coverage,CASES_UnknownGender,
+Louisiana,22,01-20-2021,Partial Coverage,CASES_UnknownGender,
+Maine,23,01-20-2021,Partial Coverage,CASES_UnknownGender,
+Maryland,24,01-20-2021,Partial Coverage,CASES_UnknownGender,3.5720868033380624
+Massachusetts,25,01-20-2021,Partial Coverage,CASES_UnknownGender,100.0
+Michigan,26,01-20-2021,Partial Coverage,CASES_UnknownGender,
+Mississippi,28,01-20-2021,Partial Coverage,CASES_UnknownGender,100.0
+Missouri,29,01-20-2021,Partial Coverage,CASES_UnknownGender,
+Montana,30,01-20-2021,Partial Coverage,CASES_UnknownGender,
+Nebraska,31,01-20-2021,Partial Coverage,CASES_UnknownGender,5.895073647045844
+Nevada,32,01-20-2021,Partial Coverage,CASES_UnknownGender,
+New Hampshire,33,01-20-2021,Partial Coverage,CASES_UnknownGender,
+New Jersey,34,01-20-2021,Partial Coverage,CASES_UnknownGender,0.0027396509684666174
+New Mexico,35,01-20-2021,Partial Coverage,CASES_UnknownGender,
+New York,36,01-20-2021,Partial Coverage,CASES_UnknownGender,
+North Carolina,37,01-20-2021,Partial Coverage,CASES_UnknownGender,
+Ohio,39,01-20-2021,Partial Coverage,CASES_UnknownGender,
+Oklahoma,40,01-20-2021,Partial Coverage,CASES_UnknownGender,100.0
+Oregon,41,01-20-2021,Partial Coverage,CASES_UnknownGender,1.0034086300814344
+Pennsylvania,42,01-20-2021,Partial Coverage,CASES_UnknownGender,4.492682633392628
+Rhode Island,44,01-20-2021,Partial Coverage,CASES_UnknownGender,
+South Carolina,45,01-20-2021,Partial Coverage,CASES_UnknownGender,
+South Dakota,46,01-20-2021,Partial Coverage,CASES_UnknownGender,4.054819820765211
+Tennessee,47,01-20-2021,Partial Coverage,CASES_UnknownGender,0.18255408816840876
+Texas,48,01-20-2021,Partial Coverage,CASES_UnknownGender,1.3658307159191043
+Utah,49,01-20-2021,Partial Coverage,CASES_UnknownGender,100.0
+Vermont,50,01-20-2021,Partial Coverage,CASES_UnknownGender,
+Virginia,51,01-20-2021,Partial Coverage,CASES_UnknownGender,3.0194020894557876
+Washington,53,01-20-2021,Partial Coverage,CASES_UnknownGender,
+West Virginia,54,01-20-2021,Partial Coverage,CASES_UnknownGender,
+Wisconsin,55,01-20-2021,Partial Coverage,CASES_UnknownGender,
+Wyoming,56,01-20-2021,Partial Coverage,CASES_UnknownGender,
+Alabama,1,01-20-2021,Complete Coverage,CASES_UnknownGender,
+Alaska,2,01-20-2021,Complete Coverage,CASES_UnknownGender,5.092170104033583
+Arizona,4,01-20-2021,Complete Coverage,CASES_UnknownGender,
+Arkansas,5,01-20-2021,Complete Coverage,CASES_UnknownGender,
+California,6,01-20-2021,Complete Coverage,CASES_UnknownGender,
+Colorado,8,01-20-2021,Complete Coverage,CASES_UnknownGender,100.0
+Connecticut,9,01-20-2021,Complete Coverage,CASES_UnknownGender,
+Florida,12,01-20-2021,Complete Coverage,CASES_UnknownGender,0.3785198052713976
+Georgia,13,01-20-2021,Complete Coverage,CASES_UnknownGender,
+Hawaii,15,01-20-2021,Complete Coverage,CASES_UnknownGender,
+Idaho,16,01-20-2021,Complete Coverage,CASES_UnknownGender,
+Illinois,17,01-20-2021,Complete Coverage,CASES_UnknownGender,
+Iowa,19,01-20-2021,Complete Coverage,CASES_UnknownGender,
+Kansas,20,01-20-2021,Complete Coverage,CASES_UnknownGender,
+Kentucky,21,01-20-2021,Complete Coverage,CASES_UnknownGender,
+Louisiana,22,01-20-2021,Complete Coverage,CASES_UnknownGender,
+Maine,23,01-20-2021,Complete Coverage,CASES_UnknownGender,
+Maryland,24,01-20-2021,Complete Coverage,CASES_UnknownGender,0.08686820089273782
+Massachusetts,25,01-20-2021,Complete Coverage,CASES_UnknownGender,100.0
+Michigan,26,01-20-2021,Complete Coverage,CASES_UnknownGender,
+Minnesota,27,01-20-2021,Complete Coverage,CASES_UnknownGender,
+Mississippi,28,01-20-2021,Complete Coverage,CASES_UnknownGender,100.0
+Missouri,29,01-20-2021,Complete Coverage,CASES_UnknownGender,
+Montana,30,01-20-2021,Complete Coverage,CASES_UnknownGender,
+Nebraska,31,01-20-2021,Complete Coverage,CASES_UnknownGender,2.76207605344296
+Nevada,32,01-20-2021,Complete Coverage,CASES_UnknownGender,
+New Hampshire,33,01-20-2021,Complete Coverage,CASES_UnknownGender,
+New Jersey,34,01-20-2021,Complete Coverage,CASES_UnknownGender,
+New Mexico,35,01-20-2021,Complete Coverage,CASES_UnknownGender,
+New York,36,01-20-2021,Complete Coverage,CASES_UnknownGender,
+North Carolina,37,01-20-2021,Complete Coverage,CASES_UnknownGender,
+Ohio,39,01-20-2021,Complete Coverage,CASES_UnknownGender,
+Oklahoma,40,01-20-2021,Complete Coverage,CASES_UnknownGender,100.0
+Oregon,41,01-20-2021,Complete Coverage,CASES_UnknownGender,100.0
+Pennsylvania,42,01-20-2021,Complete Coverage,CASES_UnknownGender,4.224310000688279
+Rhode Island,44,01-20-2021,Complete Coverage,CASES_UnknownGender,100.0
+South Carolina,45,01-20-2021,Complete Coverage,CASES_UnknownGender,
+South Dakota,46,01-20-2021,Complete Coverage,CASES_UnknownGender,100.0
+Tennessee,47,01-20-2021,Complete Coverage,CASES_UnknownGender,100.0
+Texas,48,01-20-2021,Complete Coverage,CASES_UnknownGender,0.38757832436771417
+Utah,49,01-20-2021,Complete Coverage,CASES_UnknownGender,100.0
+Vermont,50,01-20-2021,Complete Coverage,CASES_UnknownGender,100.0
+Virginia,51,01-20-2021,Complete Coverage,CASES_UnknownGender,3.9962798267794346
+Washington,53,01-20-2021,Complete Coverage,CASES_UnknownGender,
+West Virginia,54,01-20-2021,Complete Coverage,CASES_UnknownGender,100.0
+Wisconsin,55,01-20-2021,Complete Coverage,CASES_UnknownGender,
+Wyoming,56,01-20-2021,Complete Coverage,CASES_UnknownGender,100.0
+Indiana,18,01-20-2021,Partial Coverage,CASES_UnknownGender,0.0001652297188781563
+Minnesota,27,01-20-2021,Partial Coverage,CASES_UnknownGender,0.0005656632144069279
+Indiana,18,01-20-2021,Complete Coverage,CASES_UnknownGender,0.0001574679159121329
+Delaware,10,2021-01-19 00:00:00,Partial Coverage,CASES_UnknownGender,0.09535987516525433
+North Dakota,38,01-20-2021,Partial Coverage,CASES_UnknownGender,100.0
+North Dakota,38,01-20-2021,Complete Coverage,CASES_UnknownGender,100.0
+Alabama,1,01-20-2021,Partial,CASES_UnknownGender,
+Alaska,2,01-20-2021,Partial,CASES_UnknownGender,3.8636363636363638
+Arizona,4,01-20-2021,Partial,CASES_UnknownGender,
+Arkansas,5,01-20-2021,Partial,CASES_UnknownGender,
+California,6,01-20-2021,Partial,CASES_UnknownGender,
+Colorado,8,01-20-2021,Partial,CASES_UnknownGender,
+Connecticut,9,01-20-2021,Partial,CASES_UnknownGender,
+Florida,12,01-20-2021,Partial,CASES_UnknownGender,0.586356785989465
+Georgia,13,01-20-2021,Partial,CASES_UnknownGender,
+Hawaii,15,01-20-2021,Partial,CASES_UnknownGender,
+Idaho,16,01-20-2021,Partial,CASES_UnknownGender,
+Illinois,17,01-20-2021,Partial,CASES_UnknownGender,
+Iowa,19,01-20-2021,Partial,CASES_UnknownGender,
+Kansas,20,01-20-2021,Partial,CASES_UnknownGender,
+Kentucky,21,01-20-2021,Partial,CASES_UnknownGender,
+Louisiana,22,01-20-2021,Partial,CASES_UnknownGender,
+Maine,23,01-20-2021,Partial,CASES_UnknownGender,
+Maryland,24,01-20-2021,Partial,CASES_UnknownGender,3.5720868033380624
+Massachusetts,25,01-20-2021,Partial,CASES_UnknownGender,100.0
+Michigan,26,01-20-2021,Partial,CASES_UnknownGender,
+Mississippi,28,01-20-2021,Partial,CASES_UnknownGender,100.0
+Missouri,29,01-20-2021,Partial,CASES_UnknownGender,
+Montana,30,01-20-2021,Partial,CASES_UnknownGender,
+Nebraska,31,01-20-2021,Partial,CASES_UnknownGender,5.895073647045844
+Nevada,32,01-20-2021,Partial,CASES_UnknownGender,
+New Hampshire,33,01-20-2021,Partial,CASES_UnknownGender,
+New Jersey,34,01-20-2021,Partial,CASES_UnknownGender,0.0027396509684666174
+New Mexico,35,01-20-2021,Partial,CASES_UnknownGender,
+New York,36,01-20-2021,Partial,CASES_UnknownGender,
+North Carolina,37,01-20-2021,Partial,CASES_UnknownGender,
+Ohio,39,01-20-2021,Partial,CASES_UnknownGender,
+Oklahoma,40,01-20-2021,Partial,CASES_UnknownGender,100.0
+Oregon,41,01-20-2021,Partial,CASES_UnknownGender,1.0034086300814344
+Pennsylvania,42,01-20-2021,Partial,CASES_UnknownGender,4.492682633392628
+Rhode Island,44,01-20-2021,Partial,CASES_UnknownGender,
+South Carolina,45,01-20-2021,Partial,CASES_UnknownGender,
+South Dakota,46,01-20-2021,Partial,CASES_UnknownGender,4.054819820765211
+Tennessee,47,01-20-2021,Partial,CASES_UnknownGender,0.18255408816840876
+Texas,48,01-20-2021,Partial,CASES_UnknownGender,1.3658307159191043
+Utah,49,01-20-2021,Partial,CASES_UnknownGender,100.0
+Vermont,50,01-20-2021,Partial,CASES_UnknownGender,
+Virginia,51,01-20-2021,Partial,CASES_UnknownGender,3.0194020894557876
+Washington,53,01-20-2021,Partial,CASES_UnknownGender,
+West Virginia,54,01-20-2021,Partial,CASES_UnknownGender,
+Wisconsin,55,01-20-2021,Partial,CASES_UnknownGender,
+Wyoming,56,01-20-2021,Partial,CASES_UnknownGender,
+Alabama,1,01-20-2021,Complete,CASES_UnknownGender,
+Alaska,2,01-20-2021,Complete,CASES_UnknownGender,5.092170104033583
+Arizona,4,01-20-2021,Complete,CASES_UnknownGender,
+Arkansas,5,01-20-2021,Complete,CASES_UnknownGender,
+California,6,01-20-2021,Complete,CASES_UnknownGender,
+Colorado,8,01-20-2021,Complete,CASES_UnknownGender,100.0
+Connecticut,9,01-20-2021,Complete,CASES_UnknownGender,
+Florida,12,01-20-2021,Complete,CASES_UnknownGender,0.3785198052713976
+Georgia,13,01-20-2021,Complete,CASES_UnknownGender,
+Hawaii,15,01-20-2021,Complete,CASES_UnknownGender,
+Idaho,16,01-20-2021,Complete,CASES_UnknownGender,
+Illinois,17,01-20-2021,Complete,CASES_UnknownGender,
+Iowa,19,01-20-2021,Complete,CASES_UnknownGender,
+Kansas,20,01-20-2021,Complete,CASES_UnknownGender,
+Kentucky,21,01-20-2021,Complete,CASES_UnknownGender,
+Louisiana,22,01-20-2021,Complete,CASES_UnknownGender,
+Maine,23,01-20-2021,Complete,CASES_UnknownGender,
+Maryland,24,01-20-2021,Complete,CASES_UnknownGender,0.08686820089273782
+Massachusetts,25,01-20-2021,Complete,CASES_UnknownGender,100.0
+Michigan,26,01-20-2021,Complete,CASES_UnknownGender,
+Minnesota,27,01-20-2021,Complete,CASES_UnknownGender,
+Mississippi,28,01-20-2021,Complete,CASES_UnknownGender,100.0
+Missouri,29,01-20-2021,Complete,CASES_UnknownGender,
+Montana,30,01-20-2021,Complete,CASES_UnknownGender,
+Nebraska,31,01-20-2021,Complete,CASES_UnknownGender,2.76207605344296
+Nevada,32,01-20-2021,Complete,CASES_UnknownGender,
+New Hampshire,33,01-20-2021,Complete,CASES_UnknownGender,
+New Jersey,34,01-20-2021,Complete,CASES_UnknownGender,
+New Mexico,35,01-20-2021,Complete,CASES_UnknownGender,
+New York,36,01-20-2021,Complete,CASES_UnknownGender,
+North Carolina,37,01-20-2021,Complete,CASES_UnknownGender,
+Ohio,39,01-20-2021,Complete,CASES_UnknownGender,
+Oklahoma,40,01-20-2021,Complete,CASES_UnknownGender,100.0
+Oregon,41,01-20-2021,Complete,CASES_UnknownGender,100.0
+Pennsylvania,42,01-20-2021,Complete,CASES_UnknownGender,4.224310000688279
+Rhode Island,44,01-20-2021,Complete,CASES_UnknownGender,100.0
+South Carolina,45,01-20-2021,Complete,CASES_UnknownGender,
+South Dakota,46,01-20-2021,Complete,CASES_UnknownGender,100.0
+Tennessee,47,01-20-2021,Complete,CASES_UnknownGender,100.0
+Texas,48,01-20-2021,Complete,CASES_UnknownGender,0.38757832436771417
+Utah,49,01-20-2021,Complete,CASES_UnknownGender,100.0
+Vermont,50,01-20-2021,Complete,CASES_UnknownGender,100.0
+Virginia,51,01-20-2021,Complete,CASES_UnknownGender,3.9962798267794346
+Washington,53,01-20-2021,Complete,CASES_UnknownGender,
+West Virginia,54,01-20-2021,Complete,CASES_UnknownGender,100.0
+Wisconsin,55,01-20-2021,Complete,CASES_UnknownGender,
+Wyoming,56,01-20-2021,Complete,CASES_UnknownGender,100.0
+Indiana,18,01-20-2021,Partial,CASES_UnknownGender,0.0001652297188781563
+Minnesota,27,01-20-2021,Partial,CASES_UnknownGender,0.0005656632144069279
+Indiana,18,01-20-2021,Complete,CASES_UnknownGender,0.0001574679159121329
+Delaware,10,2021-01-19 00:00:00,Partial,CASES_UnknownGender,0.09535987516525433
+Alabama,1,01-20-2021,Partial Coverage,CASES_White,
+Alaska,2,01-20-2021,Partial Coverage,CASES_White,1.654491840632644
+Arizona,4,01-20-2021,Partial Coverage,CASES_White,
+Arkansas,5,01-20-2021,Partial Coverage,CASES_White,
+California,6,01-20-2021,Partial Coverage,CASES_White,
+Colorado,8,01-20-2021,Partial Coverage,CASES_White,
+Connecticut,9,01-20-2021,Partial Coverage,CASES_White,
+Florida,12,01-20-2021,Partial Coverage,CASES_White,3.9588990848682735
+Georgia,13,01-20-2021,Partial Coverage,CASES_White,
+Hawaii,15,01-20-2021,Partial Coverage,CASES_White,
+Idaho,16,01-20-2021,Partial Coverage,CASES_White,
+Illinois,17,01-20-2021,Partial Coverage,CASES_White,
+Iowa,19,01-20-2021,Partial Coverage,CASES_White,
+Kansas,20,01-20-2021,Partial Coverage,CASES_White,
+Kentucky,21,01-20-2021,Partial Coverage,CASES_White,
+Louisiana,22,01-20-2021,Partial Coverage,CASES_White,
+Maine,23,01-20-2021,Partial Coverage,CASES_White,
+Maryland,24,01-20-2021,Partial Coverage,CASES_White,3.9683916456935044
+Massachusetts,25,01-20-2021,Partial Coverage,CASES_White,1.6219899840930185
+Michigan,26,01-20-2021,Partial Coverage,CASES_White,
+Mississippi,28,01-20-2021,Partial Coverage,CASES_White,3.789188325225061
+Missouri,29,01-20-2021,Partial Coverage,CASES_White,
+Montana,30,01-20-2021,Partial Coverage,CASES_White,
+Nebraska,31,01-20-2021,Partial Coverage,CASES_White,3.884975843964864
+Nevada,32,01-20-2021,Partial Coverage,CASES_White,
+New Hampshire,33,01-20-2021,Partial Coverage,CASES_White,
+New Jersey,34,01-20-2021,Partial Coverage,CASES_White,2.6656006351110473
+New Mexico,35,01-20-2021,Partial Coverage,CASES_White,
+New York,36,01-20-2021,Partial Coverage,CASES_White,
+North Carolina,37,01-20-2021,Partial Coverage,CASES_White,
+Ohio,39,01-20-2021,Partial Coverage,CASES_White,
+Oklahoma,40,01-20-2021,Partial Coverage,CASES_White,
+Oregon,41,01-20-2021,Partial Coverage,CASES_White,3.5502646139569087
+Pennsylvania,42,01-20-2021,Partial Coverage,CASES_White,1.7774853829717867
+Rhode Island,44,01-20-2021,Partial Coverage,CASES_White,
+South Carolina,45,01-20-2021,Partial Coverage,CASES_White,
+South Dakota,46,01-20-2021,Partial Coverage,CASES_White,
+Tennessee,47,01-20-2021,Partial Coverage,CASES_White,1.8404472579119435
+Texas,48,01-20-2021,Partial Coverage,CASES_White,
+Utah,49,01-20-2021,Partial Coverage,CASES_White,
+Vermont,50,01-20-2021,Partial Coverage,CASES_White,
+Virginia,51,01-20-2021,Partial Coverage,CASES_White,1.7138617726395355
+Washington,53,01-20-2021,Partial Coverage,CASES_White,
+West Virginia,54,01-20-2021,Partial Coverage,CASES_White,8.686233002730548
+Wisconsin,55,01-20-2021,Partial Coverage,CASES_White,
+Wyoming,56,01-20-2021,Partial Coverage,CASES_White,
+Alabama,1,01-20-2021,Complete Coverage,CASES_White,
+Alaska,2,01-20-2021,Complete Coverage,CASES_White,0.5445163019803639
+Arizona,4,01-20-2021,Complete Coverage,CASES_White,
+Arkansas,5,01-20-2021,Complete Coverage,CASES_White,
+California,6,01-20-2021,Complete Coverage,CASES_White,
+Colorado,8,01-20-2021,Complete Coverage,CASES_White,
+Connecticut,9,01-20-2021,Complete Coverage,CASES_White,
+Florida,12,01-20-2021,Complete Coverage,CASES_White,0.31509167223380635
+Georgia,13,01-20-2021,Complete Coverage,CASES_White,
+Hawaii,15,01-20-2021,Complete Coverage,CASES_White,
+Idaho,16,01-20-2021,Complete Coverage,CASES_White,
+Illinois,17,01-20-2021,Complete Coverage,CASES_White,
+Iowa,19,01-20-2021,Complete Coverage,CASES_White,
+Kansas,20,01-20-2021,Complete Coverage,CASES_White,
+Kentucky,21,01-20-2021,Complete Coverage,CASES_White,
+Louisiana,22,01-20-2021,Complete Coverage,CASES_White,
+Maine,23,01-20-2021,Complete Coverage,CASES_White,
+Maryland,24,01-20-2021,Complete Coverage,CASES_White,0.3735614972295084
+Massachusetts,25,01-20-2021,Complete Coverage,CASES_White,0.33879079933707407
+Michigan,26,01-20-2021,Complete Coverage,CASES_White,
+Minnesota,27,01-20-2021,Complete Coverage,CASES_White,
+Mississippi,28,01-20-2021,Complete Coverage,CASES_White,
+Missouri,29,01-20-2021,Complete Coverage,CASES_White,
+Montana,30,01-20-2021,Complete Coverage,CASES_White,
+Nebraska,31,01-20-2021,Complete Coverage,CASES_White,0.7557526454863452
+Nevada,32,01-20-2021,Complete Coverage,CASES_White,
+New Hampshire,33,01-20-2021,Complete Coverage,CASES_White,
+New Jersey,34,01-20-2021,Complete Coverage,CASES_White,
+New Mexico,35,01-20-2021,Complete Coverage,CASES_White,
+New York,36,01-20-2021,Complete Coverage,CASES_White,
+North Carolina,37,01-20-2021,Complete Coverage,CASES_White,
+Ohio,39,01-20-2021,Complete Coverage,CASES_White,
+Oklahoma,40,01-20-2021,Complete Coverage,CASES_White,
+Oregon,41,01-20-2021,Complete Coverage,CASES_White,
+Pennsylvania,42,01-20-2021,Complete Coverage,CASES_White,0.3545685858856777
+Rhode Island,44,01-20-2021,Complete Coverage,CASES_White,
+South Carolina,45,01-20-2021,Complete Coverage,CASES_White,
+South Dakota,46,01-20-2021,Complete Coverage,CASES_White,
+Tennessee,47,01-20-2021,Complete Coverage,CASES_White,
+Texas,48,01-20-2021,Complete Coverage,CASES_White,
+Utah,49,01-20-2021,Complete Coverage,CASES_White,
+Vermont,50,01-20-2021,Complete Coverage,CASES_White,
+Virginia,51,01-20-2021,Complete Coverage,CASES_White,0.13340316696180493
+Washington,53,01-20-2021,Complete Coverage,CASES_White,
+West Virginia,54,01-20-2021,Complete Coverage,CASES_White,
+Wisconsin,55,01-20-2021,Complete Coverage,CASES_White,
+Wyoming,56,01-20-2021,Complete Coverage,CASES_White,
+Indiana,18,01-20-2021,Partial Coverage,CASES_White,4.414909103837893
+Minnesota,27,01-20-2021,Partial Coverage,CASES_White,
+Indiana,18,01-20-2021,Complete Coverage,CASES_White,0.9576481997312593
+Delaware,10,2021-01-19 00:00:00,Partial Coverage,CASES_White,2.2550903089418832
+North Dakota,38,01-20-2021,Partial Coverage,CASES_White,7.93
+North Dakota,38,01-20-2021,Complete Coverage,CASES_White,1.17
+Alabama,1,01-20-2021,Partial,CASES_White,
+Alaska,2,01-20-2021,Partial,CASES_White,7900.0
+Arizona,4,01-20-2021,Partial,CASES_White,
+Arkansas,5,01-20-2021,Partial,CASES_White,
+California,6,01-20-2021,Partial,CASES_White,
+Colorado,8,01-20-2021,Partial,CASES_White,
+Connecticut,9,01-20-2021,Partial,CASES_White,
+Florida,12,01-20-2021,Partial,CASES_White,657074.0
+Georgia,13,01-20-2021,Partial,CASES_White,
+Hawaii,15,01-20-2021,Partial,CASES_White,
+Idaho,16,01-20-2021,Partial,CASES_White,
+Illinois,17,01-20-2021,Partial,CASES_White,
+Iowa,19,01-20-2021,Partial,CASES_White,
+Kansas,20,01-20-2021,Partial,CASES_White,
+Kentucky,21,01-20-2021,Partial,CASES_White,
+Louisiana,22,01-20-2021,Partial,CASES_White,
+Maine,23,01-20-2021,Partial,CASES_White,
+Maryland,24,01-20-2021,Partial,CASES_White,140459.0
+Massachusetts,25,01-20-2021,Partial,CASES_White,90088.0
+Michigan,26,01-20-2021,Partial,CASES_White,
+Mississippi,28,01-20-2021,Partial,CASES_White,66617.0
+Missouri,29,01-20-2021,Partial,CASES_White,
+Montana,30,01-20-2021,Partial,CASES_White,
+Nebraska,31,01-20-2021,Partial,CASES_White,66205.0
+Nevada,32,01-20-2021,Partial,CASES_White,
+New Hampshire,33,01-20-2021,Partial,CASES_White,
+New Jersey,34,01-20-2021,Partial,CASES_White,170300.0
+New Mexico,35,01-20-2021,Partial,CASES_White,
+New York,36,01-20-2021,Partial,CASES_White,
+North Carolina,37,01-20-2021,Partial,CASES_White,
+Ohio,39,01-20-2021,Partial,CASES_White,
+Oklahoma,40,01-20-2021,Partial,CASES_White,
+Oregon,41,01-20-2021,Partial,CASES_White,129767.0
+Pennsylvania,42,01-20-2021,Partial,CASES_White,185695.0
+Rhode Island,44,01-20-2021,Partial,CASES_White,
+South Carolina,45,01-20-2021,Partial,CASES_White,
+South Dakota,46,01-20-2021,Partial,CASES_White,
+Tennessee,47,01-20-2021,Partial,CASES_White,98545.0
+Texas,48,01-20-2021,Partial,CASES_White,
+Utah,49,01-20-2021,Partial,CASES_White,
+Vermont,50,01-20-2021,Partial,CASES_White,
+Virginia,51,01-20-2021,Partial,CASES_White,101506.0
+Washington,53,01-20-2021,Partial,CASES_White,
+West Virginia,54,01-20-2021,Partial,CASES_White,145505.0
+Wisconsin,55,01-20-2021,Partial,CASES_White,
+Wyoming,56,01-20-2021,Partial,CASES_White,
+Alabama,1,01-20-2021,Complete,CASES_White,
+Alaska,2,01-20-2021,Complete,CASES_White,2600.0
+Arizona,4,01-20-2021,Complete,CASES_White,
+Arkansas,5,01-20-2021,Complete,CASES_White,
+California,6,01-20-2021,Complete,CASES_White,
+Colorado,8,01-20-2021,Complete,CASES_White,
+Connecticut,9,01-20-2021,Complete,CASES_White,
+Florida,12,01-20-2021,Complete,CASES_White,52297.0
+Georgia,13,01-20-2021,Complete,CASES_White,
+Hawaii,15,01-20-2021,Complete,CASES_White,
+Idaho,16,01-20-2021,Complete,CASES_White,
+Illinois,17,01-20-2021,Complete,CASES_White,
+Iowa,19,01-20-2021,Complete,CASES_White,
+Kansas,20,01-20-2021,Complete,CASES_White,
+Kentucky,21,01-20-2021,Complete,CASES_White,
+Louisiana,22,01-20-2021,Complete,CASES_White,
+Maine,23,01-20-2021,Complete,CASES_White,
+Maryland,24,01-20-2021,Complete,CASES_White,13222.0
+Massachusetts,25,01-20-2021,Complete,CASES_White,18817.0
+Michigan,26,01-20-2021,Complete,CASES_White,
+Minnesota,27,01-20-2021,Complete,CASES_White,
+Mississippi,28,01-20-2021,Complete,CASES_White,
+Missouri,29,01-20-2021,Complete,CASES_White,
+Montana,30,01-20-2021,Complete,CASES_White,
+Nebraska,31,01-20-2021,Complete,CASES_White,12879.0
+Nevada,32,01-20-2021,Complete,CASES_White,
+New Hampshire,33,01-20-2021,Complete,CASES_White,
+New Jersey,34,01-20-2021,Complete,CASES_White,
+New Mexico,35,01-20-2021,Complete,CASES_White,
+New York,36,01-20-2021,Complete,CASES_White,
+North Carolina,37,01-20-2021,Complete,CASES_White,
+Ohio,39,01-20-2021,Complete,CASES_White,
+Oklahoma,40,01-20-2021,Complete,CASES_White,
+Oregon,41,01-20-2021,Complete,CASES_White,
+Pennsylvania,42,01-20-2021,Complete,CASES_White,37042.0
+Rhode Island,44,01-20-2021,Complete,CASES_White,
+South Carolina,45,01-20-2021,Complete,CASES_White,
+South Dakota,46,01-20-2021,Complete,CASES_White,
+Tennessee,47,01-20-2021,Complete,CASES_White,
+Texas,48,01-20-2021,Complete,CASES_White,
+Utah,49,01-20-2021,Complete,CASES_White,
+Vermont,50,01-20-2021,Complete,CASES_White,
+Virginia,51,01-20-2021,Complete,CASES_White,7901.0
+Washington,53,01-20-2021,Complete,CASES_White,
+West Virginia,54,01-20-2021,Complete,CASES_White,
+Wisconsin,55,01-20-2021,Complete,CASES_White,
+Wyoming,56,01-20-2021,Complete,CASES_White,
+Indiana,18,01-20-2021,Partial,CASES_White,252073.297
+Minnesota,27,01-20-2021,Partial,CASES_White,
+Indiana,18,01-20-2021,Complete,CASES_White,54677.805
+Delaware,10,2021-01-19 00:00:00,Partial,CASES_White,15201.0
+Alabama,1,01-20-2021,Partial Coverage,CASES_Black,
+Alaska,2,01-20-2021,Partial Coverage,CASES_Black,0.7709901136195957
+Arizona,4,01-20-2021,Partial Coverage,CASES_Black,
+Arkansas,5,01-20-2021,Partial Coverage,CASES_Black,
+California,6,01-20-2021,Partial Coverage,CASES_Black,
+Colorado,8,01-20-2021,Partial Coverage,CASES_Black,
+Connecticut,9,01-20-2021,Partial Coverage,CASES_Black,
+Florida,12,01-20-2021,Partial Coverage,CASES_Black,1.4449094059058516
+Georgia,13,01-20-2021,Partial Coverage,CASES_Black,
+Hawaii,15,01-20-2021,Partial Coverage,CASES_Black,
+Idaho,16,01-20-2021,Partial Coverage,CASES_Black,
+Illinois,17,01-20-2021,Partial Coverage,CASES_Black,
+Iowa,19,01-20-2021,Partial Coverage,CASES_Black,
+Kansas,20,01-20-2021,Partial Coverage,CASES_Black,
+Kentucky,21,01-20-2021,Partial Coverage,CASES_Black,
+Louisiana,22,01-20-2021,Partial Coverage,CASES_Black,
+Maine,23,01-20-2021,Partial Coverage,CASES_Black,
+Maryland,24,01-20-2021,Partial Coverage,CASES_Black,1.9124422123392126
+Massachusetts,25,01-20-2021,Partial Coverage,CASES_Black,1.0861839968355143
+Michigan,26,01-20-2021,Partial Coverage,CASES_Black,
+Mississippi,28,01-20-2021,Partial Coverage,CASES_Black,1.2813911942370297
+Missouri,29,01-20-2021,Partial Coverage,CASES_Black,
+Montana,30,01-20-2021,Partial Coverage,CASES_Black,
+Nebraska,31,01-20-2021,Partial Coverage,CASES_Black,1.6007860027986462
+Nevada,32,01-20-2021,Partial Coverage,CASES_Black,
+New Hampshire,33,01-20-2021,Partial Coverage,CASES_Black,
+New Jersey,34,01-20-2021,Partial Coverage,CASES_Black,0.9869476177551877
+New Mexico,35,01-20-2021,Partial Coverage,CASES_Black,
+New York,36,01-20-2021,Partial Coverage,CASES_Black,
+North Carolina,37,01-20-2021,Partial Coverage,CASES_Black,
+Ohio,39,01-20-2021,Partial Coverage,CASES_Black,
+Oklahoma,40,01-20-2021,Partial Coverage,CASES_Black,
+Oregon,41,01-20-2021,Partial Coverage,CASES_Black,2.7938980157883506
+Pennsylvania,42,01-20-2021,Partial Coverage,CASES_Black,0.41679328247922853
+Rhode Island,44,01-20-2021,Partial Coverage,CASES_Black,
+South Carolina,45,01-20-2021,Partial Coverage,CASES_Black,
+South Dakota,46,01-20-2021,Partial Coverage,CASES_Black,
+Tennessee,47,01-20-2021,Partial Coverage,CASES_Black,0.8393582953830141
+Texas,48,01-20-2021,Partial Coverage,CASES_Black,
+Utah,49,01-20-2021,Partial Coverage,CASES_Black,
+Vermont,50,01-20-2021,Partial Coverage,CASES_Black,
+Virginia,51,01-20-2021,Partial Coverage,CASES_Black,0.853315229850004
+Washington,53,01-20-2021,Partial Coverage,CASES_Black,
+West Virginia,54,01-20-2021,Partial Coverage,CASES_Black,4.406438631790745
+Wisconsin,55,01-20-2021,Partial Coverage,CASES_Black,
+Wyoming,56,01-20-2021,Partial Coverage,CASES_Black,
+Alabama,1,01-20-2021,Complete Coverage,CASES_Black,
+Alaska,2,01-20-2021,Complete Coverage,CASES_Black,0.23240371845949534
+Arizona,4,01-20-2021,Complete Coverage,CASES_Black,
+Arkansas,5,01-20-2021,Complete Coverage,CASES_Black,
+California,6,01-20-2021,Complete Coverage,CASES_Black,
+Colorado,8,01-20-2021,Complete Coverage,CASES_Black,
+Connecticut,9,01-20-2021,Complete Coverage,CASES_Black,
+Florida,12,01-20-2021,Complete Coverage,CASES_Black,0.17311061052451965
+Georgia,13,01-20-2021,Complete Coverage,CASES_Black,
+Hawaii,15,01-20-2021,Complete Coverage,CASES_Black,
+Idaho,16,01-20-2021,Complete Coverage,CASES_Black,
+Illinois,17,01-20-2021,Complete Coverage,CASES_Black,
+Iowa,19,01-20-2021,Complete Coverage,CASES_Black,
+Kansas,20,01-20-2021,Complete Coverage,CASES_Black,
+Kentucky,21,01-20-2021,Complete Coverage,CASES_Black,
+Louisiana,22,01-20-2021,Complete Coverage,CASES_Black,
+Maine,23,01-20-2021,Complete Coverage,CASES_Black,
+Maryland,24,01-20-2021,Complete Coverage,CASES_Black,0.16463993995672413
+Massachusetts,25,01-20-2021,Complete Coverage,CASES_Black,0.13539110663738016
+Michigan,26,01-20-2021,Complete Coverage,CASES_Black,
+Minnesota,27,01-20-2021,Complete Coverage,CASES_Black,
+Mississippi,28,01-20-2021,Complete Coverage,CASES_Black,
+Missouri,29,01-20-2021,Complete Coverage,CASES_Black,
+Montana,30,01-20-2021,Complete Coverage,CASES_Black,
+Nebraska,31,01-20-2021,Complete Coverage,CASES_Black,0.297728332820579
+Nevada,32,01-20-2021,Complete Coverage,CASES_Black,
+New Hampshire,33,01-20-2021,Complete Coverage,CASES_Black,
+New Jersey,34,01-20-2021,Complete Coverage,CASES_Black,
+New Mexico,35,01-20-2021,Complete Coverage,CASES_Black,
+New York,36,01-20-2021,Complete Coverage,CASES_Black,
+North Carolina,37,01-20-2021,Complete Coverage,CASES_Black,
+Ohio,39,01-20-2021,Complete Coverage,CASES_Black,
+Oklahoma,40,01-20-2021,Complete Coverage,CASES_Black,
+Oregon,41,01-20-2021,Complete Coverage,CASES_Black,
+Pennsylvania,42,01-20-2021,Complete Coverage,CASES_Black,0.07058019910498853
+Rhode Island,44,01-20-2021,Complete Coverage,CASES_Black,
+South Carolina,45,01-20-2021,Complete Coverage,CASES_Black,
+South Dakota,46,01-20-2021,Complete Coverage,CASES_Black,
+Tennessee,47,01-20-2021,Complete Coverage,CASES_Black,
+Texas,48,01-20-2021,Complete Coverage,CASES_Black,
+Utah,49,01-20-2021,Complete Coverage,CASES_Black,
+Vermont,50,01-20-2021,Complete Coverage,CASES_Black,
+Virginia,51,01-20-2021,Complete Coverage,CASES_Black,0.05887167918647472
+Washington,53,01-20-2021,Complete Coverage,CASES_Black,
+West Virginia,54,01-20-2021,Complete Coverage,CASES_Black,
+Wisconsin,55,01-20-2021,Complete Coverage,CASES_Black,
+Wyoming,56,01-20-2021,Complete Coverage,CASES_Black,
+Indiana,18,01-20-2021,Partial Coverage,CASES_Black,1.7625181452696852
+Minnesota,27,01-20-2021,Partial Coverage,CASES_Black,
+Indiana,18,01-20-2021,Complete Coverage,CASES_Black,0.24658600111111775
+Delaware,10,2021-01-19 00:00:00,Partial Coverage,CASES_Black,1.0658674138970667
+North Dakota,38,01-20-2021,Partial Coverage,CASES_Black,3.92
+North Dakota,38,01-20-2021,Complete Coverage,CASES_Black,0.84
+Alabama,1,01-20-2021,Partial,CASES_Black,
+Alaska,2,01-20-2021,Partial,CASES_Black,209.0
+Arizona,4,01-20-2021,Partial,CASES_Black,
+Arkansas,5,01-20-2021,Partial,CASES_Black,
+California,6,01-20-2021,Partial,CASES_Black,
+Colorado,8,01-20-2021,Partial,CASES_Black,
+Connecticut,9,01-20-2021,Partial,CASES_Black,
+Florida,12,01-20-2021,Partial,CASES_Black,52501.0
+Georgia,13,01-20-2021,Partial,CASES_Black,
+Hawaii,15,01-20-2021,Partial,CASES_Black,
+Idaho,16,01-20-2021,Partial,CASES_Black,
+Illinois,17,01-20-2021,Partial,CASES_Black,
+Iowa,19,01-20-2021,Partial,CASES_Black,
+Kansas,20,01-20-2021,Partial,CASES_Black,
+Kentucky,21,01-20-2021,Partial,CASES_Black,
+Louisiana,22,01-20-2021,Partial,CASES_Black,
+Maine,23,01-20-2021,Partial,CASES_Black,
+Maryland,24,01-20-2021,Partial,CASES_Black,35928.0
+Massachusetts,25,01-20-2021,Partial,CASES_Black,6755.0
+Michigan,26,01-20-2021,Partial,CASES_Black,
+Mississippi,28,01-20-2021,Partial,CASES_Black,14410.0
+Missouri,29,01-20-2021,Partial,CASES_Black,
+Montana,30,01-20-2021,Partial,CASES_Black,
+Nebraska,31,01-20-2021,Partial,CASES_Black,1613.0
+Nevada,32,01-20-2021,Partial,CASES_Black,
+New Hampshire,33,01-20-2021,Partial,CASES_Black,
+New Jersey,34,01-20-2021,Partial,CASES_Black,13200.0
+New Mexico,35,01-20-2021,Partial,CASES_Black,
+New York,36,01-20-2021,Partial,CASES_Black,
+North Carolina,37,01-20-2021,Partial,CASES_Black,
+Ohio,39,01-20-2021,Partial,CASES_Black,
+Oklahoma,40,01-20-2021,Partial,CASES_Black,
+Oregon,41,01-20-2021,Partial,CASES_Black,2619.0
+Pennsylvania,42,01-20-2021,Partial,CASES_Black,6419.0
+Rhode Island,44,01-20-2021,Partial,CASES_Black,
+South Carolina,45,01-20-2021,Partial,CASES_Black,
+South Dakota,46,01-20-2021,Partial,CASES_Black,
+Tennessee,47,01-20-2021,Partial,CASES_Black,9774.0
+Texas,48,01-20-2021,Partial,CASES_Black,
+Utah,49,01-20-2021,Partial,CASES_Black,
+Vermont,50,01-20-2021,Partial,CASES_Black,
+Virginia,51,01-20-2021,Partial,CASES_Black,14480.0
+Washington,53,01-20-2021,Partial,CASES_Black,
+West Virginia,54,01-20-2021,Partial,CASES_Black,2847.0
+Wisconsin,55,01-20-2021,Partial,CASES_Black,
+Wyoming,56,01-20-2021,Partial,CASES_Black,
+Alabama,1,01-20-2021,Complete,CASES_Black,
+Alaska,2,01-20-2021,Complete,CASES_Black,63.0
+Arizona,4,01-20-2021,Complete,CASES_Black,
+Arkansas,5,01-20-2021,Complete,CASES_Black,
+California,6,01-20-2021,Complete,CASES_Black,
+Colorado,8,01-20-2021,Complete,CASES_Black,
+Connecticut,9,01-20-2021,Complete,CASES_Black,
+Florida,12,01-20-2021,Complete,CASES_Black,6290.0
+Georgia,13,01-20-2021,Complete,CASES_Black,
+Hawaii,15,01-20-2021,Complete,CASES_Black,
+Idaho,16,01-20-2021,Complete,CASES_Black,
+Illinois,17,01-20-2021,Complete,CASES_Black,
+Iowa,19,01-20-2021,Complete,CASES_Black,
+Kansas,20,01-20-2021,Complete,CASES_Black,
+Kentucky,21,01-20-2021,Complete,CASES_Black,
+Louisiana,22,01-20-2021,Complete,CASES_Black,
+Maine,23,01-20-2021,Complete,CASES_Black,
+Maryland,24,01-20-2021,Complete,CASES_Black,3093.0
+Massachusetts,25,01-20-2021,Complete,CASES_Black,842.0
+Michigan,26,01-20-2021,Complete,CASES_Black,
+Minnesota,27,01-20-2021,Complete,CASES_Black,
+Mississippi,28,01-20-2021,Complete,CASES_Black,
+Missouri,29,01-20-2021,Complete,CASES_Black,
+Montana,30,01-20-2021,Complete,CASES_Black,
+Nebraska,31,01-20-2021,Complete,CASES_Black,300.0
+Nevada,32,01-20-2021,Complete,CASES_Black,
+New Hampshire,33,01-20-2021,Complete,CASES_Black,
+New Jersey,34,01-20-2021,Complete,CASES_Black,
+New Mexico,35,01-20-2021,Complete,CASES_Black,
+New York,36,01-20-2021,Complete,CASES_Black,
+North Carolina,37,01-20-2021,Complete,CASES_Black,
+Ohio,39,01-20-2021,Complete,CASES_Black,
+Oklahoma,40,01-20-2021,Complete,CASES_Black,
+Oregon,41,01-20-2021,Complete,CASES_Black,
+Pennsylvania,42,01-20-2021,Complete,CASES_Black,1087.0
+Rhode Island,44,01-20-2021,Complete,CASES_Black,
+South Carolina,45,01-20-2021,Complete,CASES_Black,
+South Dakota,46,01-20-2021,Complete,CASES_Black,
+Tennessee,47,01-20-2021,Complete,CASES_Black,
+Texas,48,01-20-2021,Complete,CASES_Black,
+Utah,49,01-20-2021,Complete,CASES_Black,
+Vermont,50,01-20-2021,Complete,CASES_Black,
+Virginia,51,01-20-2021,Complete,CASES_Black,999.0
+Washington,53,01-20-2021,Complete,CASES_Black,
+West Virginia,54,01-20-2021,Complete,CASES_Black,
+Wisconsin,55,01-20-2021,Complete,CASES_Black,
+Wyoming,56,01-20-2021,Complete,CASES_Black,
+Indiana,18,01-20-2021,Partial,CASES_Black,11801.751
+Minnesota,27,01-20-2021,Partial,CASES_Black,
+Indiana,18,01-20-2021,Complete,CASES_Black,1651.13
+Delaware,10,2021-01-19 00:00:00,Partial,CASES_Black,2404.0
+Alabama,1,01-20-2021,Partial Coverage,CASES_Asian,
+Alaska,2,01-20-2021,Partial Coverage,CASES_Asian,1.5502416368543275
+Arizona,4,01-20-2021,Partial Coverage,CASES_Asian,
+Arkansas,5,01-20-2021,Partial Coverage,CASES_Asian,
+California,6,01-20-2021,Partial Coverage,CASES_Asian,
+Colorado,8,01-20-2021,Partial Coverage,CASES_Asian,
+Connecticut,9,01-20-2021,Partial Coverage,CASES_Asian,
+Florida,12,01-20-2021,Partial Coverage,CASES_Asian,
+Georgia,13,01-20-2021,Partial Coverage,CASES_Asian,
+Hawaii,15,01-20-2021,Partial Coverage,CASES_Asian,
+Idaho,16,01-20-2021,Partial Coverage,CASES_Asian,
+Illinois,17,01-20-2021,Partial Coverage,CASES_Asian,
+Iowa,19,01-20-2021,Partial Coverage,CASES_Asian,
+Kansas,20,01-20-2021,Partial Coverage,CASES_Asian,
+Kentucky,21,01-20-2021,Partial Coverage,CASES_Asian,
+Louisiana,22,01-20-2021,Partial Coverage,CASES_Asian,
+Maine,23,01-20-2021,Partial Coverage,CASES_Asian,
+Maryland,24,01-20-2021,Partial Coverage,CASES_Asian,4.124015820705237
+Massachusetts,25,01-20-2021,Partial Coverage,CASES_Asian,
+Michigan,26,01-20-2021,Partial Coverage,CASES_Asian,
+Mississippi,28,01-20-2021,Partial Coverage,CASES_Asian,4.577379510777428
+Missouri,29,01-20-2021,Partial Coverage,CASES_Asian,
+Montana,30,01-20-2021,Partial Coverage,CASES_Asian,
+Nebraska,31,01-20-2021,Partial Coverage,CASES_Asian,2.2035459792806513
+Nevada,32,01-20-2021,Partial Coverage,CASES_Asian,
+New Hampshire,33,01-20-2021,Partial Coverage,CASES_Asian,
+New Jersey,34,01-20-2021,Partial Coverage,CASES_Asian,2.480801975620482
+New Mexico,35,01-20-2021,Partial Coverage,CASES_Asian,
+New York,36,01-20-2021,Partial Coverage,CASES_Asian,
+North Carolina,37,01-20-2021,Partial Coverage,CASES_Asian,
+Ohio,39,01-20-2021,Partial Coverage,CASES_Asian,
+Oklahoma,40,01-20-2021,Partial Coverage,CASES_Asian,
+Oregon,41,01-20-2021,Partial Coverage,CASES_Asian,4.418308187497253
+Pennsylvania,42,01-20-2021,Partial Coverage,CASES_Asian,0.18386434712592634
+Rhode Island,44,01-20-2021,Partial Coverage,CASES_Asian,
+South Carolina,45,01-20-2021,Partial Coverage,CASES_Asian,
+South Dakota,46,01-20-2021,Partial Coverage,CASES_Asian,
+Tennessee,47,01-20-2021,Partial Coverage,CASES_Asian,1.0494048151794504
+Texas,48,01-20-2021,Partial Coverage,CASES_Asian,
+Utah,49,01-20-2021,Partial Coverage,CASES_Asian,
+Vermont,50,01-20-2021,Partial Coverage,CASES_Asian,
+Virginia,51,01-20-2021,Partial Coverage,CASES_Asian,1.3418459920978107
+Washington,53,01-20-2021,Partial Coverage,CASES_Asian,
+West Virginia,54,01-20-2021,Partial Coverage,CASES_Asian,
+Wisconsin,55,01-20-2021,Partial Coverage,CASES_Asian,
+Wyoming,56,01-20-2021,Partial Coverage,CASES_Asian,
+Alabama,1,01-20-2021,Complete Coverage,CASES_Asian,
+Alaska,2,01-20-2021,Complete Coverage,CASES_Asian,0.4686290508169627
+Arizona,4,01-20-2021,Complete Coverage,CASES_Asian,
+Arkansas,5,01-20-2021,Complete Coverage,CASES_Asian,
+California,6,01-20-2021,Complete Coverage,CASES_Asian,
+Colorado,8,01-20-2021,Complete Coverage,CASES_Asian,
+Connecticut,9,01-20-2021,Complete Coverage,CASES_Asian,
+Florida,12,01-20-2021,Complete Coverage,CASES_Asian,
+Georgia,13,01-20-2021,Complete Coverage,CASES_Asian,
+Hawaii,15,01-20-2021,Complete Coverage,CASES_Asian,
+Idaho,16,01-20-2021,Complete Coverage,CASES_Asian,
+Illinois,17,01-20-2021,Complete Coverage,CASES_Asian,
+Iowa,19,01-20-2021,Complete Coverage,CASES_Asian,
+Kansas,20,01-20-2021,Complete Coverage,CASES_Asian,
+Kentucky,21,01-20-2021,Complete Coverage,CASES_Asian,
+Louisiana,22,01-20-2021,Complete Coverage,CASES_Asian,
+Maine,23,01-20-2021,Complete Coverage,CASES_Asian,
+Maryland,24,01-20-2021,Complete Coverage,CASES_Asian,0.5156250384565214
+Massachusetts,25,01-20-2021,Complete Coverage,CASES_Asian,0.27697546013503055
+Michigan,26,01-20-2021,Complete Coverage,CASES_Asian,
+Minnesota,27,01-20-2021,Complete Coverage,CASES_Asian,
+Mississippi,28,01-20-2021,Complete Coverage,CASES_Asian,
+Missouri,29,01-20-2021,Complete Coverage,CASES_Asian,
+Montana,30,01-20-2021,Complete Coverage,CASES_Asian,
+Nebraska,31,01-20-2021,Complete Coverage,CASES_Asian,0.757703950213398
+Nevada,32,01-20-2021,Complete Coverage,CASES_Asian,
+New Hampshire,33,01-20-2021,Complete Coverage,CASES_Asian,
+New Jersey,34,01-20-2021,Complete Coverage,CASES_Asian,
+New Mexico,35,01-20-2021,Complete Coverage,CASES_Asian,
+New York,36,01-20-2021,Complete Coverage,CASES_Asian,
+North Carolina,37,01-20-2021,Complete Coverage,CASES_Asian,
+Ohio,39,01-20-2021,Complete Coverage,CASES_Asian,
+Oklahoma,40,01-20-2021,Complete Coverage,CASES_Asian,
+Oregon,41,01-20-2021,Complete Coverage,CASES_Asian,
+Pennsylvania,42,01-20-2021,Complete Coverage,CASES_Asian,0.006848220604013057
+Rhode Island,44,01-20-2021,Complete Coverage,CASES_Asian,
+South Carolina,45,01-20-2021,Complete Coverage,CASES_Asian,
+South Dakota,46,01-20-2021,Complete Coverage,CASES_Asian,
+Tennessee,47,01-20-2021,Complete Coverage,CASES_Asian,
+Texas,48,01-20-2021,Complete Coverage,CASES_Asian,
+Utah,49,01-20-2021,Complete Coverage,CASES_Asian,
+Vermont,50,01-20-2021,Complete Coverage,CASES_Asian,
+Virginia,51,01-20-2021,Complete Coverage,CASES_Asian,0.1551610113445592
+Washington,53,01-20-2021,Complete Coverage,CASES_Asian,
+West Virginia,54,01-20-2021,Complete Coverage,CASES_Asian,
+Wisconsin,55,01-20-2021,Complete Coverage,CASES_Asian,
+Wyoming,56,01-20-2021,Complete Coverage,CASES_Asian,
+Indiana,18,01-20-2021,Partial Coverage,CASES_Asian,5.887671530758226
+Minnesota,27,01-20-2021,Partial Coverage,CASES_Asian,
+Indiana,18,01-20-2021,Complete Coverage,CASES_Asian,2.1440886981402003
+Delaware,10,2021-01-19 00:00:00,Partial Coverage,CASES_Asian,1.3646740084790407
+North Dakota,38,01-20-2021,Partial Coverage,CASES_Asian,5.43
+North Dakota,38,01-20-2021,Complete Coverage,CASES_Asian,1.59
+Alabama,1,01-20-2021,Partial,CASES_Asian,
+Alaska,2,01-20-2021,Partial,CASES_Asian,741.0
+Arizona,4,01-20-2021,Partial,CASES_Asian,
+Arkansas,5,01-20-2021,Partial,CASES_Asian,
+California,6,01-20-2021,Partial,CASES_Asian,
+Colorado,8,01-20-2021,Partial,CASES_Asian,
+Connecticut,9,01-20-2021,Partial,CASES_Asian,
+Florida,12,01-20-2021,Partial,CASES_Asian,
+Georgia,13,01-20-2021,Partial,CASES_Asian,
+Hawaii,15,01-20-2021,Partial,CASES_Asian,
+Idaho,16,01-20-2021,Partial,CASES_Asian,
+Illinois,17,01-20-2021,Partial,CASES_Asian,
+Iowa,19,01-20-2021,Partial,CASES_Asian,
+Kansas,20,01-20-2021,Partial,CASES_Asian,
+Kentucky,21,01-20-2021,Partial,CASES_Asian,
+Louisiana,22,01-20-2021,Partial,CASES_Asian,
+Maine,23,01-20-2021,Partial,CASES_Asian,
+Maryland,24,01-20-2021,Partial,CASES_Asian,16756.0
+Massachusetts,25,01-20-2021,Partial,CASES_Asian,
+Michigan,26,01-20-2021,Partial,CASES_Asian,
+Mississippi,28,01-20-2021,Partial,CASES_Asian,1512.0
+Missouri,29,01-20-2021,Partial,CASES_Asian,
+Montana,30,01-20-2021,Partial,CASES_Asian,
+Nebraska,31,01-20-2021,Partial,CASES_Asian,1172.0
+Nevada,32,01-20-2021,Partial,CASES_Asian,
+New Hampshire,33,01-20-2021,Partial,CASES_Asian,
+New Jersey,34,01-20-2021,Partial,CASES_Asian,22000.0
+New Mexico,35,01-20-2021,Partial,CASES_Asian,
+New York,36,01-20-2021,Partial,CASES_Asian,
+North Carolina,37,01-20-2021,Partial,CASES_Asian,
+Ohio,39,01-20-2021,Partial,CASES_Asian,
+Oklahoma,40,01-20-2021,Partial,CASES_Asian,
+Oregon,41,01-20-2021,Partial,CASES_Asian,9046.0
+Pennsylvania,42,01-20-2021,Partial,CASES_Asian,886.0
+Rhode Island,44,01-20-2021,Partial,CASES_Asian,
+South Carolina,45,01-20-2021,Partial,CASES_Asian,
+South Dakota,46,01-20-2021,Partial,CASES_Asian,
+Tennessee,47,01-20-2021,Partial,CASES_Asian,1407.0
+Texas,48,01-20-2021,Partial,CASES_Asian,
+Utah,49,01-20-2021,Partial,CASES_Asian,
+Vermont,50,01-20-2021,Partial,CASES_Asian,
+Virginia,51,01-20-2021,Partial,CASES_Asian,7913.0
+Washington,53,01-20-2021,Partial,CASES_Asian,
+West Virginia,54,01-20-2021,Partial,CASES_Asian,
+Wisconsin,55,01-20-2021,Partial,CASES_Asian,
+Wyoming,56,01-20-2021,Partial,CASES_Asian,
+Alabama,1,01-20-2021,Complete,CASES_Asian,
+Alaska,2,01-20-2021,Complete,CASES_Asian,224.0
+Arizona,4,01-20-2021,Complete,CASES_Asian,
+Arkansas,5,01-20-2021,Complete,CASES_Asian,
+California,6,01-20-2021,Complete,CASES_Asian,
+Colorado,8,01-20-2021,Complete,CASES_Asian,
+Connecticut,9,01-20-2021,Complete,CASES_Asian,
+Florida,12,01-20-2021,Complete,CASES_Asian,
+Georgia,13,01-20-2021,Complete,CASES_Asian,
+Hawaii,15,01-20-2021,Complete,CASES_Asian,
+Idaho,16,01-20-2021,Complete,CASES_Asian,
+Illinois,17,01-20-2021,Complete,CASES_Asian,
+Iowa,19,01-20-2021,Complete,CASES_Asian,
+Kansas,20,01-20-2021,Complete,CASES_Asian,
+Kentucky,21,01-20-2021,Complete,CASES_Asian,
+Louisiana,22,01-20-2021,Complete,CASES_Asian,
+Maine,23,01-20-2021,Complete,CASES_Asian,
+Maryland,24,01-20-2021,Complete,CASES_Asian,2095.0
+Massachusetts,25,01-20-2021,Complete,CASES_Asian,1378.0
+Michigan,26,01-20-2021,Complete,CASES_Asian,
+Minnesota,27,01-20-2021,Complete,CASES_Asian,
+Mississippi,28,01-20-2021,Complete,CASES_Asian,
+Missouri,29,01-20-2021,Complete,CASES_Asian,
+Montana,30,01-20-2021,Complete,CASES_Asian,
+Nebraska,31,01-20-2021,Complete,CASES_Asian,403.0
+Nevada,32,01-20-2021,Complete,CASES_Asian,
+New Hampshire,33,01-20-2021,Complete,CASES_Asian,
+New Jersey,34,01-20-2021,Complete,CASES_Asian,
+New Mexico,35,01-20-2021,Complete,CASES_Asian,
+New York,36,01-20-2021,Complete,CASES_Asian,
+North Carolina,37,01-20-2021,Complete,CASES_Asian,
+Ohio,39,01-20-2021,Complete,CASES_Asian,
+Oklahoma,40,01-20-2021,Complete,CASES_Asian,
+Oregon,41,01-20-2021,Complete,CASES_Asian,
+Pennsylvania,42,01-20-2021,Complete,CASES_Asian,33.0
+Rhode Island,44,01-20-2021,Complete,CASES_Asian,
+South Carolina,45,01-20-2021,Complete,CASES_Asian,
+South Dakota,46,01-20-2021,Complete,CASES_Asian,
+Tennessee,47,01-20-2021,Complete,CASES_Asian,
+Texas,48,01-20-2021,Complete,CASES_Asian,
+Utah,49,01-20-2021,Complete,CASES_Asian,
+Vermont,50,01-20-2021,Complete,CASES_Asian,
+Virginia,51,01-20-2021,Complete,CASES_Asian,915.0
+Washington,53,01-20-2021,Complete,CASES_Asian,
+West Virginia,54,01-20-2021,Complete,CASES_Asian,
+Wisconsin,55,01-20-2021,Complete,CASES_Asian,
+Wyoming,56,01-20-2021,Complete,CASES_Asian,
+Indiana,18,01-20-2021,Partial,CASES_Asian,10288.706
+Minnesota,27,01-20-2021,Partial,CASES_Asian,
+Indiana,18,01-20-2021,Complete,CASES_Asian,3746.795
+Delaware,10,2021-01-19 00:00:00,Partial,CASES_Asian,544.0
+Alabama,1,01-20-2021,Partial Coverage,CASES_OtherRace,
+Alaska,2,01-20-2021,Partial Coverage,CASES_OtherRace,13.162946306148193
+Arizona,4,01-20-2021,Partial Coverage,CASES_OtherRace,
+Arkansas,5,01-20-2021,Partial Coverage,CASES_OtherRace,
+California,6,01-20-2021,Partial Coverage,CASES_OtherRace,
+Colorado,8,01-20-2021,Partial Coverage,CASES_OtherRace,
+Connecticut,9,01-20-2021,Partial Coverage,CASES_OtherRace,
+Florida,12,01-20-2021,Partial Coverage,CASES_OtherRace,34.13375918664248
+Georgia,13,01-20-2021,Partial Coverage,CASES_OtherRace,
+Hawaii,15,01-20-2021,Partial Coverage,CASES_OtherRace,
+Idaho,16,01-20-2021,Partial Coverage,CASES_OtherRace,
+Illinois,17,01-20-2021,Partial Coverage,CASES_OtherRace,
+Iowa,19,01-20-2021,Partial Coverage,CASES_OtherRace,
+Kansas,20,01-20-2021,Partial Coverage,CASES_OtherRace,
+Kentucky,21,01-20-2021,Partial Coverage,CASES_OtherRace,
+Louisiana,22,01-20-2021,Partial Coverage,CASES_OtherRace,
+Maine,23,01-20-2021,Partial Coverage,CASES_OtherRace,
+Maryland,24,01-20-2021,Partial Coverage,CASES_OtherRace,12.409490106502085
+Massachusetts,25,01-20-2021,Partial Coverage,CASES_OtherRace,52.54826494506177
+Michigan,26,01-20-2021,Partial Coverage,CASES_OtherRace,
+Mississippi,28,01-20-2021,Partial Coverage,CASES_OtherRace,28.57679027173097
+Missouri,29,01-20-2021,Partial Coverage,CASES_OtherRace,
+Montana,30,01-20-2021,Partial Coverage,CASES_OtherRace,
+Nebraska,31,01-20-2021,Partial Coverage,CASES_OtherRace,13.833762165790358
+Nevada,32,01-20-2021,Partial Coverage,CASES_OtherRace,
+New Hampshire,33,01-20-2021,Partial Coverage,CASES_OtherRace,
+New Jersey,34,01-20-2021,Partial Coverage,CASES_OtherRace,32.53870729909069
+New Mexico,35,01-20-2021,Partial Coverage,CASES_OtherRace,
+New York,36,01-20-2021,Partial Coverage,CASES_OtherRace,
+North Carolina,37,01-20-2021,Partial Coverage,CASES_OtherRace,
+Ohio,39,01-20-2021,Partial Coverage,CASES_OtherRace,
+Oklahoma,40,01-20-2021,Partial Coverage,CASES_OtherRace,
+Oregon,41,01-20-2021,Partial Coverage,CASES_OtherRace,28.507051656513394
+Pennsylvania,42,01-20-2021,Partial Coverage,CASES_OtherRace,4.160836207244828
+Rhode Island,44,01-20-2021,Partial Coverage,CASES_OtherRace,
+South Carolina,45,01-20-2021,Partial Coverage,CASES_OtherRace,
+South Dakota,46,01-20-2021,Partial Coverage,CASES_OtherRace,
+Tennessee,47,01-20-2021,Partial Coverage,CASES_OtherRace,36.57194163205419
+Texas,48,01-20-2021,Partial Coverage,CASES_OtherRace,
+Utah,49,01-20-2021,Partial Coverage,CASES_OtherRace,
+Vermont,50,01-20-2021,Partial Coverage,CASES_OtherRace,
+Virginia,51,01-20-2021,Partial Coverage,CASES_OtherRace,3.4182136550475595
+Washington,53,01-20-2021,Partial Coverage,CASES_OtherRace,
+West Virginia,54,01-20-2021,Partial Coverage,CASES_OtherRace,8.99162499616529
+Wisconsin,55,01-20-2021,Partial Coverage,CASES_OtherRace,
+Wyoming,56,01-20-2021,Partial Coverage,CASES_OtherRace,
+Alabama,1,01-20-2021,Complete Coverage,CASES_OtherRace,
+Alaska,2,01-20-2021,Complete Coverage,CASES_OtherRace,3.056728642205525
+Arizona,4,01-20-2021,Complete Coverage,CASES_OtherRace,
+Arkansas,5,01-20-2021,Complete Coverage,CASES_OtherRace,
+California,6,01-20-2021,Complete Coverage,CASES_OtherRace,
+Colorado,8,01-20-2021,Complete Coverage,CASES_OtherRace,
+Connecticut,9,01-20-2021,Complete Coverage,CASES_OtherRace,
+Florida,12,01-20-2021,Complete Coverage,CASES_OtherRace,5.177127664021805
+Georgia,13,01-20-2021,Complete Coverage,CASES_OtherRace,
+Hawaii,15,01-20-2021,Complete Coverage,CASES_OtherRace,
+Idaho,16,01-20-2021,Complete Coverage,CASES_OtherRace,
+Illinois,17,01-20-2021,Complete Coverage,CASES_OtherRace,
+Iowa,19,01-20-2021,Complete Coverage,CASES_OtherRace,
+Kansas,20,01-20-2021,Complete Coverage,CASES_OtherRace,
+Kentucky,21,01-20-2021,Complete Coverage,CASES_OtherRace,
+Louisiana,22,01-20-2021,Complete Coverage,CASES_OtherRace,
+Maine,23,01-20-2021,Complete Coverage,CASES_OtherRace,
+Maryland,24,01-20-2021,Complete Coverage,CASES_OtherRace,0.8247863488294898
+Massachusetts,25,01-20-2021,Complete Coverage,CASES_OtherRace,2.5795856635759797
+Michigan,26,01-20-2021,Complete Coverage,CASES_OtherRace,
+Minnesota,27,01-20-2021,Complete Coverage,CASES_OtherRace,
+Mississippi,28,01-20-2021,Complete Coverage,CASES_OtherRace,
+Missouri,29,01-20-2021,Complete Coverage,CASES_OtherRace,
+Montana,30,01-20-2021,Complete Coverage,CASES_OtherRace,
+Nebraska,31,01-20-2021,Complete Coverage,CASES_OtherRace,1.9174404295782526
+Nevada,32,01-20-2021,Complete Coverage,CASES_OtherRace,
+New Hampshire,33,01-20-2021,Complete Coverage,CASES_OtherRace,
+New Jersey,34,01-20-2021,Complete Coverage,CASES_OtherRace,
+New Mexico,35,01-20-2021,Complete Coverage,CASES_OtherRace,
+New York,36,01-20-2021,Complete Coverage,CASES_OtherRace,
+North Carolina,37,01-20-2021,Complete Coverage,CASES_OtherRace,
+Ohio,39,01-20-2021,Complete Coverage,CASES_OtherRace,
+Oklahoma,40,01-20-2021,Complete Coverage,CASES_OtherRace,
+Oregon,41,01-20-2021,Complete Coverage,CASES_OtherRace,
+Pennsylvania,42,01-20-2021,Complete Coverage,CASES_OtherRace,1.02689540431252
+Rhode Island,44,01-20-2021,Complete Coverage,CASES_OtherRace,
+South Carolina,45,01-20-2021,Complete Coverage,CASES_OtherRace,
+South Dakota,46,01-20-2021,Complete Coverage,CASES_OtherRace,
+Tennessee,47,01-20-2021,Complete Coverage,CASES_OtherRace,
+Texas,48,01-20-2021,Complete Coverage,CASES_OtherRace,
+Utah,49,01-20-2021,Complete Coverage,CASES_OtherRace,
+Vermont,50,01-20-2021,Complete Coverage,CASES_OtherRace,
+Virginia,51,01-20-2021,Complete Coverage,CASES_OtherRace,0.27267061389841074
+Washington,53,01-20-2021,Complete Coverage,CASES_OtherRace,
+West Virginia,54,01-20-2021,Complete Coverage,CASES_OtherRace,
+Wisconsin,55,01-20-2021,Complete Coverage,CASES_OtherRace,
+Wyoming,56,01-20-2021,Complete Coverage,CASES_OtherRace,
+Indiana,18,01-20-2021,Partial Coverage,CASES_OtherRace,5.411090631490626
+Minnesota,27,01-20-2021,Partial Coverage,CASES_OtherRace,
+Indiana,18,01-20-2021,Complete Coverage,CASES_OtherRace,0.9608602357601683
+Delaware,10,2021-01-19 00:00:00,Partial Coverage,CASES_OtherRace,35.654000525150984
+North Dakota,38,01-20-2021,Partial Coverage,CASES_OtherRace,5.92
+North Dakota,38,01-20-2021,Complete Coverage,CASES_OtherRace,1.53
+Alabama,1,01-20-2021,Partial,CASES_OtherRace,
+Alaska,2,01-20-2021,Partial,CASES_OtherRace,7200.0
+Arizona,4,01-20-2021,Partial,CASES_OtherRace,
+Arkansas,5,01-20-2021,Partial,CASES_OtherRace,
+California,6,01-20-2021,Partial,CASES_OtherRace,
+Colorado,8,01-20-2021,Partial,CASES_OtherRace,
+Connecticut,9,01-20-2021,Partial,CASES_OtherRace,
+Florida,12,01-20-2021,Partial,CASES_OtherRace,163300.0
+Georgia,13,01-20-2021,Partial,CASES_OtherRace,
+Hawaii,15,01-20-2021,Partial,CASES_OtherRace,
+Idaho,16,01-20-2021,Partial,CASES_OtherRace,
+Illinois,17,01-20-2021,Partial,CASES_OtherRace,
+Iowa,19,01-20-2021,Partial,CASES_OtherRace,
+Kansas,20,01-20-2021,Partial,CASES_OtherRace,
+Kentucky,21,01-20-2021,Partial,CASES_OtherRace,
+Louisiana,22,01-20-2021,Partial,CASES_OtherRace,
+Maine,23,01-20-2021,Partial,CASES_OtherRace,
+Maryland,24,01-20-2021,Partial,CASES_OtherRace,22057.0
+Massachusetts,25,01-20-2021,Partial,CASES_OtherRace,93115.0
+Michigan,26,01-20-2021,Partial,CASES_OtherRace,
+Mississippi,28,01-20-2021,Partial,CASES_OtherRace,11421.0
+Missouri,29,01-20-2021,Partial,CASES_OtherRace,
+Montana,30,01-20-2021,Partial,CASES_OtherRace,
+Nebraska,31,01-20-2021,Partial,CASES_OtherRace,6183.0
+Nevada,32,01-20-2021,Partial,CASES_OtherRace,
+New Hampshire,33,01-20-2021,Partial,CASES_OtherRace,
+New Jersey,34,01-20-2021,Partial,CASES_OtherRace,66200.0
+New Mexico,35,01-20-2021,Partial,CASES_OtherRace,
+New York,36,01-20-2021,Partial,CASES_OtherRace,
+North Carolina,37,01-20-2021,Partial,CASES_OtherRace,
+Ohio,39,01-20-2021,Partial,CASES_OtherRace,
+Oklahoma,40,01-20-2021,Partial,CASES_OtherRace,
+Oregon,41,01-20-2021,Partial,CASES_OtherRace,47824.0
+Pennsylvania,42,01-20-2021,Partial,CASES_OtherRace,11329.0
+Rhode Island,44,01-20-2021,Partial,CASES_OtherRace,
+South Carolina,45,01-20-2021,Partial,CASES_OtherRace,
+South Dakota,46,01-20-2021,Partial,CASES_OtherRace,
+Tennessee,47,01-20-2021,Partial,CASES_OtherRace,50101.0
+Texas,48,01-20-2021,Partial,CASES_OtherRace,
+Utah,49,01-20-2021,Partial,CASES_OtherRace,
+Vermont,50,01-20-2021,Partial,CASES_OtherRace,
+Virginia,51,01-20-2021,Partial,CASES_OtherRace,9214.0
+Washington,53,01-20-2021,Partial,CASES_OtherRace,
+West Virginia,54,01-20-2021,Partial,CASES_OtherRace,2931.0
+Wisconsin,55,01-20-2021,Partial,CASES_OtherRace,
+Wyoming,56,01-20-2021,Partial,CASES_OtherRace,
+Alabama,1,01-20-2021,Complete,CASES_OtherRace,
+Alaska,2,01-20-2021,Complete,CASES_OtherRace,1672.0
+Arizona,4,01-20-2021,Complete,CASES_OtherRace,
+Arkansas,5,01-20-2021,Complete,CASES_OtherRace,
+California,6,01-20-2021,Complete,CASES_OtherRace,
+Colorado,8,01-20-2021,Complete,CASES_OtherRace,
+Connecticut,9,01-20-2021,Complete,CASES_OtherRace,
+Florida,12,01-20-2021,Complete,CASES_OtherRace,24768.0
+Georgia,13,01-20-2021,Complete,CASES_OtherRace,
+Hawaii,15,01-20-2021,Complete,CASES_OtherRace,
+Idaho,16,01-20-2021,Complete,CASES_OtherRace,
+Illinois,17,01-20-2021,Complete,CASES_OtherRace,
+Iowa,19,01-20-2021,Complete,CASES_OtherRace,
+Kansas,20,01-20-2021,Complete,CASES_OtherRace,
+Kentucky,21,01-20-2021,Complete,CASES_OtherRace,
+Louisiana,22,01-20-2021,Complete,CASES_OtherRace,
+Maine,23,01-20-2021,Complete,CASES_OtherRace,
+Maryland,24,01-20-2021,Complete,CASES_OtherRace,1466.0
+Massachusetts,25,01-20-2021,Complete,CASES_OtherRace,4571.0
+Michigan,26,01-20-2021,Complete,CASES_OtherRace,
+Minnesota,27,01-20-2021,Complete,CASES_OtherRace,
+Mississippi,28,01-20-2021,Complete,CASES_OtherRace,
+Missouri,29,01-20-2021,Complete,CASES_OtherRace,
+Montana,30,01-20-2021,Complete,CASES_OtherRace,
+Nebraska,31,01-20-2021,Complete,CASES_OtherRace,857.0
+Nevada,32,01-20-2021,Complete,CASES_OtherRace,
+New Hampshire,33,01-20-2021,Complete,CASES_OtherRace,
+New Jersey,34,01-20-2021,Complete,CASES_OtherRace,
+New Mexico,35,01-20-2021,Complete,CASES_OtherRace,
+New York,36,01-20-2021,Complete,CASES_OtherRace,
+North Carolina,37,01-20-2021,Complete,CASES_OtherRace,
+Ohio,39,01-20-2021,Complete,CASES_OtherRace,
+Oklahoma,40,01-20-2021,Complete,CASES_OtherRace,
+Oregon,41,01-20-2021,Complete,CASES_OtherRace,
+Pennsylvania,42,01-20-2021,Complete,CASES_OtherRace,2796.0
+Rhode Island,44,01-20-2021,Complete,CASES_OtherRace,
+South Carolina,45,01-20-2021,Complete,CASES_OtherRace,
+South Dakota,46,01-20-2021,Complete,CASES_OtherRace,
+Tennessee,47,01-20-2021,Complete,CASES_OtherRace,
+Texas,48,01-20-2021,Complete,CASES_OtherRace,
+Utah,49,01-20-2021,Complete,CASES_OtherRace,
+Vermont,50,01-20-2021,Complete,CASES_OtherRace,
+Virginia,51,01-20-2021,Complete,CASES_OtherRace,735.0
+Washington,53,01-20-2021,Complete,CASES_OtherRace,
+West Virginia,54,01-20-2021,Complete,CASES_OtherRace,
+Wisconsin,55,01-20-2021,Complete,CASES_OtherRace,
+Wyoming,56,01-20-2021,Complete,CASES_OtherRace,
+Indiana,18,01-20-2021,Partial,CASES_OtherRace,7867.834000000001
+Minnesota,27,01-20-2021,Partial,CASES_OtherRace,
+Indiana,18,01-20-2021,Complete,CASES_OtherRace,1397.1100000000001
+Delaware,10,2021-01-19 00:00:00,Partial,CASES_OtherRace,9505.0
+Alabama,1,01-20-2021,Partial Coverage,CASES_UnknownRace,
+Alaska,2,01-20-2021,Partial Coverage,CASES_UnknownRace,63.52272727272727
+Arizona,4,01-20-2021,Partial Coverage,CASES_UnknownRace,
+Arkansas,5,01-20-2021,Partial Coverage,CASES_UnknownRace,
+California,6,01-20-2021,Partial Coverage,CASES_UnknownRace,
+Colorado,8,01-20-2021,Partial Coverage,CASES_UnknownRace,
+Connecticut,9,01-20-2021,Partial Coverage,CASES_UnknownRace,
+Florida,12,01-20-2021,Partial Coverage,CASES_UnknownRace,
+Georgia,13,01-20-2021,Partial Coverage,CASES_UnknownRace,
+Hawaii,15,01-20-2021,Partial Coverage,CASES_UnknownRace,
+Idaho,16,01-20-2021,Partial Coverage,CASES_UnknownRace,
+Illinois,17,01-20-2021,Partial Coverage,CASES_UnknownRace,
+Iowa,19,01-20-2021,Partial Coverage,CASES_UnknownRace,
+Kansas,20,01-20-2021,Partial Coverage,CASES_UnknownRace,
+Kentucky,21,01-20-2021,Partial Coverage,CASES_UnknownRace,
+Louisiana,22,01-20-2021,Partial Coverage,CASES_UnknownRace,
+Maine,23,01-20-2021,Partial Coverage,CASES_UnknownRace,
+Maryland,24,01-20-2021,Partial Coverage,CASES_UnknownRace,7.761809445842209
+Massachusetts,25,01-20-2021,Partial Coverage,CASES_UnknownRace,
+Michigan,26,01-20-2021,Partial Coverage,CASES_UnknownRace,
+Mississippi,28,01-20-2021,Partial Coverage,CASES_UnknownRace,17.27271126450545
+Missouri,29,01-20-2021,Partial Coverage,CASES_UnknownRace,
+Montana,30,01-20-2021,Partial Coverage,CASES_UnknownRace,
+Nebraska,31,01-20-2021,Partial Coverage,CASES_UnknownRace,17.05963479891874
+Nevada,32,01-20-2021,Partial Coverage,CASES_UnknownRace,
+New Hampshire,33,01-20-2021,Partial Coverage,CASES_UnknownRace,
+New Jersey,34,01-20-2021,Partial Coverage,CASES_UnknownRace,25.563683186762006
+New Mexico,35,01-20-2021,Partial Coverage,CASES_UnknownRace,
+New York,36,01-20-2021,Partial Coverage,CASES_UnknownRace,
+North Carolina,37,01-20-2021,Partial Coverage,CASES_UnknownRace,
+Ohio,39,01-20-2021,Partial Coverage,CASES_UnknownRace,
+Oklahoma,40,01-20-2021,Partial Coverage,CASES_UnknownRace,
+Oregon,41,01-20-2021,Partial Coverage,CASES_UnknownRace,0.0
+Pennsylvania,42,01-20-2021,Partial Coverage,CASES_UnknownRace,41.469947092675184
+Rhode Island,44,01-20-2021,Partial Coverage,CASES_UnknownRace,
+South Carolina,45,01-20-2021,Partial Coverage,CASES_UnknownRace,
+South Dakota,46,01-20-2021,Partial Coverage,CASES_UnknownRace,
+Tennessee,47,01-20-2021,Partial Coverage,CASES_UnknownRace,44.42462428630044
+Texas,48,01-20-2021,Partial Coverage,CASES_UnknownRace,
+Utah,49,01-20-2021,Partial Coverage,CASES_UnknownRace,
+Vermont,50,01-20-2021,Partial Coverage,CASES_UnknownRace,
+Virginia,51,01-20-2021,Partial Coverage,CASES_UnknownRace,59.037742526118194
+Washington,53,01-20-2021,Partial Coverage,CASES_UnknownRace,
+West Virginia,54,01-20-2021,Partial Coverage,CASES_UnknownRace,
+Wisconsin,55,01-20-2021,Partial Coverage,CASES_UnknownRace,
+Wyoming,56,01-20-2021,Partial Coverage,CASES_UnknownRace,
+Alabama,1,01-20-2021,Complete Coverage,CASES_UnknownRace,
+Alaska,2,01-20-2021,Complete Coverage,CASES_UnknownRace,58.395692644643184
+Arizona,4,01-20-2021,Complete Coverage,CASES_UnknownRace,
+Arkansas,5,01-20-2021,Complete Coverage,CASES_UnknownRace,
+California,6,01-20-2021,Complete Coverage,CASES_UnknownRace,
+Colorado,8,01-20-2021,Complete Coverage,CASES_UnknownRace,
+Connecticut,9,01-20-2021,Complete Coverage,CASES_UnknownRace,
+Florida,12,01-20-2021,Complete Coverage,CASES_UnknownRace,
+Georgia,13,01-20-2021,Complete Coverage,CASES_UnknownRace,
+Hawaii,15,01-20-2021,Complete Coverage,CASES_UnknownRace,
+Idaho,16,01-20-2021,Complete Coverage,CASES_UnknownRace,
+Illinois,17,01-20-2021,Complete Coverage,CASES_UnknownRace,
+Iowa,19,01-20-2021,Complete Coverage,CASES_UnknownRace,
+Kansas,20,01-20-2021,Complete Coverage,CASES_UnknownRace,
+Kentucky,21,01-20-2021,Complete Coverage,CASES_UnknownRace,
+Louisiana,22,01-20-2021,Complete Coverage,CASES_UnknownRace,
+Maine,23,01-20-2021,Complete Coverage,CASES_UnknownRace,
+Maryland,24,01-20-2021,Complete Coverage,CASES_UnknownRace,86.71852030043033
+Massachusetts,25,01-20-2021,Complete Coverage,CASES_UnknownRace,22.362357506669902
+Michigan,26,01-20-2021,Complete Coverage,CASES_UnknownRace,
+Minnesota,27,01-20-2021,Complete Coverage,CASES_UnknownRace,
+Mississippi,28,01-20-2021,Complete Coverage,CASES_UnknownRace,
+Missouri,29,01-20-2021,Complete Coverage,CASES_UnknownRace,
+Montana,30,01-20-2021,Complete Coverage,CASES_UnknownRace,
+Nebraska,31,01-20-2021,Complete Coverage,CASES_UnknownRace,7.252055498458376
+Nevada,32,01-20-2021,Complete Coverage,CASES_UnknownRace,
+New Hampshire,33,01-20-2021,Complete Coverage,CASES_UnknownRace,
+New Jersey,34,01-20-2021,Complete Coverage,CASES_UnknownRace,
+New Mexico,35,01-20-2021,Complete Coverage,CASES_UnknownRace,
+New York,36,01-20-2021,Complete Coverage,CASES_UnknownRace,
+North Carolina,37,01-20-2021,Complete Coverage,CASES_UnknownRace,
+Ohio,39,01-20-2021,Complete Coverage,CASES_UnknownRace,
+Oklahoma,40,01-20-2021,Complete Coverage,CASES_UnknownRace,
+Oregon,41,01-20-2021,Complete Coverage,CASES_UnknownRace,
+Pennsylvania,42,01-20-2021,Complete Coverage,CASES_UnknownRace,29.523711198293068
+Rhode Island,44,01-20-2021,Complete Coverage,CASES_UnknownRace,
+South Carolina,45,01-20-2021,Complete Coverage,CASES_UnknownRace,
+South Dakota,46,01-20-2021,Complete Coverage,CASES_UnknownRace,
+Tennessee,47,01-20-2021,Complete Coverage,CASES_UnknownRace,
+Texas,48,01-20-2021,Complete Coverage,CASES_UnknownRace,
+Utah,49,01-20-2021,Complete Coverage,CASES_UnknownRace,
+Vermont,50,01-20-2021,Complete Coverage,CASES_UnknownRace,
+Virginia,51,01-20-2021,Complete Coverage,CASES_UnknownRace,69.3376347836196
+Washington,53,01-20-2021,Complete Coverage,CASES_UnknownRace,
+West Virginia,54,01-20-2021,Complete Coverage,CASES_UnknownRace,
+Wisconsin,55,01-20-2021,Complete Coverage,CASES_UnknownRace,
+Wyoming,56,01-20-2021,Complete Coverage,CASES_UnknownRace,
+Indiana,18,01-20-2021,Partial Coverage,CASES_UnknownRace,6.800000000000002
+Minnesota,27,01-20-2021,Partial Coverage,CASES_UnknownRace,
+Indiana,18,01-20-2021,Complete Coverage,CASES_UnknownRace,3.1999999999999993
+Delaware,10,2021-01-19 00:00:00,Partial Coverage,CASES_UnknownRace,40.06631845863765
+North Dakota,38,01-20-2021,Partial Coverage,CASES_UnknownRace,3.34
+North Dakota,38,01-20-2021,Complete Coverage,CASES_UnknownRace,0.68
+Alabama,1,01-20-2021,Partial,CASES_UnknownRace,
+Alaska,2,01-20-2021,Partial,CASES_UnknownRace,63.52272727272727
+Arizona,4,01-20-2021,Partial,CASES_UnknownRace,
+Arkansas,5,01-20-2021,Partial,CASES_UnknownRace,
+California,6,01-20-2021,Partial,CASES_UnknownRace,
+Colorado,8,01-20-2021,Partial,CASES_UnknownRace,
+Connecticut,9,01-20-2021,Partial,CASES_UnknownRace,
+Florida,12,01-20-2021,Partial,CASES_UnknownRace,
+Georgia,13,01-20-2021,Partial,CASES_UnknownRace,
+Hawaii,15,01-20-2021,Partial,CASES_UnknownRace,
+Idaho,16,01-20-2021,Partial,CASES_UnknownRace,
+Illinois,17,01-20-2021,Partial,CASES_UnknownRace,
+Iowa,19,01-20-2021,Partial,CASES_UnknownRace,
+Kansas,20,01-20-2021,Partial,CASES_UnknownRace,
+Kentucky,21,01-20-2021,Partial,CASES_UnknownRace,
+Louisiana,22,01-20-2021,Partial,CASES_UnknownRace,
+Maine,23,01-20-2021,Partial,CASES_UnknownRace,
+Maryland,24,01-20-2021,Partial,CASES_UnknownRace,7.761809445842209
+Massachusetts,25,01-20-2021,Partial,CASES_UnknownRace,
+Michigan,26,01-20-2021,Partial,CASES_UnknownRace,
+Mississippi,28,01-20-2021,Partial,CASES_UnknownRace,17.27271126450545
+Missouri,29,01-20-2021,Partial,CASES_UnknownRace,
+Montana,30,01-20-2021,Partial,CASES_UnknownRace,
+Nebraska,31,01-20-2021,Partial,CASES_UnknownRace,17.05963479891874
+Nevada,32,01-20-2021,Partial,CASES_UnknownRace,
+New Hampshire,33,01-20-2021,Partial,CASES_UnknownRace,
+New Jersey,34,01-20-2021,Partial,CASES_UnknownRace,25.563683186762006
+New Mexico,35,01-20-2021,Partial,CASES_UnknownRace,
+New York,36,01-20-2021,Partial,CASES_UnknownRace,
+North Carolina,37,01-20-2021,Partial,CASES_UnknownRace,
+Ohio,39,01-20-2021,Partial,CASES_UnknownRace,
+Oklahoma,40,01-20-2021,Partial,CASES_UnknownRace,
+Oregon,41,01-20-2021,Partial,CASES_UnknownRace,0.0
+Pennsylvania,42,01-20-2021,Partial,CASES_UnknownRace,41.469947092675184
+Rhode Island,44,01-20-2021,Partial,CASES_UnknownRace,
+South Carolina,45,01-20-2021,Partial,CASES_UnknownRace,
+South Dakota,46,01-20-2021,Partial,CASES_UnknownRace,
+Tennessee,47,01-20-2021,Partial,CASES_UnknownRace,44.42462428630044
+Texas,48,01-20-2021,Partial,CASES_UnknownRace,
+Utah,49,01-20-2021,Partial,CASES_UnknownRace,
+Vermont,50,01-20-2021,Partial,CASES_UnknownRace,
+Virginia,51,01-20-2021,Partial,CASES_UnknownRace,59.037742526118194
+Washington,53,01-20-2021,Partial,CASES_UnknownRace,
+West Virginia,54,01-20-2021,Partial,CASES_UnknownRace,
+Wisconsin,55,01-20-2021,Partial,CASES_UnknownRace,
+Wyoming,56,01-20-2021,Partial,CASES_UnknownRace,
+Alabama,1,01-20-2021,Complete,CASES_UnknownRace,
+Alaska,2,01-20-2021,Complete,CASES_UnknownRace,58.395692644643184
+Arizona,4,01-20-2021,Complete,CASES_UnknownRace,
+Arkansas,5,01-20-2021,Complete,CASES_UnknownRace,
+California,6,01-20-2021,Complete,CASES_UnknownRace,
+Colorado,8,01-20-2021,Complete,CASES_UnknownRace,
+Connecticut,9,01-20-2021,Complete,CASES_UnknownRace,
+Florida,12,01-20-2021,Complete,CASES_UnknownRace,
+Georgia,13,01-20-2021,Complete,CASES_UnknownRace,
+Hawaii,15,01-20-2021,Complete,CASES_UnknownRace,
+Idaho,16,01-20-2021,Complete,CASES_UnknownRace,
+Illinois,17,01-20-2021,Complete,CASES_UnknownRace,
+Iowa,19,01-20-2021,Complete,CASES_UnknownRace,
+Kansas,20,01-20-2021,Complete,CASES_UnknownRace,
+Kentucky,21,01-20-2021,Complete,CASES_UnknownRace,
+Louisiana,22,01-20-2021,Complete,CASES_UnknownRace,
+Maine,23,01-20-2021,Complete,CASES_UnknownRace,
+Maryland,24,01-20-2021,Complete,CASES_UnknownRace,86.71852030043033
+Massachusetts,25,01-20-2021,Complete,CASES_UnknownRace,22.362357506669902
+Michigan,26,01-20-2021,Complete,CASES_UnknownRace,
+Minnesota,27,01-20-2021,Complete,CASES_UnknownRace,
+Mississippi,28,01-20-2021,Complete,CASES_UnknownRace,
+Missouri,29,01-20-2021,Complete,CASES_UnknownRace,
+Montana,30,01-20-2021,Complete,CASES_UnknownRace,
+Nebraska,31,01-20-2021,Complete,CASES_UnknownRace,7.252055498458376
+Nevada,32,01-20-2021,Complete,CASES_UnknownRace,
+New Hampshire,33,01-20-2021,Complete,CASES_UnknownRace,
+New Jersey,34,01-20-2021,Complete,CASES_UnknownRace,
+New Mexico,35,01-20-2021,Complete,CASES_UnknownRace,
+New York,36,01-20-2021,Complete,CASES_UnknownRace,
+North Carolina,37,01-20-2021,Complete,CASES_UnknownRace,
+Ohio,39,01-20-2021,Complete,CASES_UnknownRace,
+Oklahoma,40,01-20-2021,Complete,CASES_UnknownRace,
+Oregon,41,01-20-2021,Complete,CASES_UnknownRace,
+Pennsylvania,42,01-20-2021,Complete,CASES_UnknownRace,29.523711198293068
+Rhode Island,44,01-20-2021,Complete,CASES_UnknownRace,
+South Carolina,45,01-20-2021,Complete,CASES_UnknownRace,
+South Dakota,46,01-20-2021,Complete,CASES_UnknownRace,
+Tennessee,47,01-20-2021,Complete,CASES_UnknownRace,
+Texas,48,01-20-2021,Complete,CASES_UnknownRace,
+Utah,49,01-20-2021,Complete,CASES_UnknownRace,
+Vermont,50,01-20-2021,Complete,CASES_UnknownRace,
+Virginia,51,01-20-2021,Complete,CASES_UnknownRace,69.3376347836196
+Washington,53,01-20-2021,Complete,CASES_UnknownRace,
+West Virginia,54,01-20-2021,Complete,CASES_UnknownRace,
+Wisconsin,55,01-20-2021,Complete,CASES_UnknownRace,
+Wyoming,56,01-20-2021,Complete,CASES_UnknownRace,
+Indiana,18,01-20-2021,Partial,CASES_UnknownRace,6.800000000000002
+Minnesota,27,01-20-2021,Partial,CASES_UnknownRace,
+Indiana,18,01-20-2021,Complete,CASES_UnknownRace,3.1999999999999993
+Delaware,10,2021-01-19 00:00:00,Partial,CASES_UnknownRace,40.06631845863765
+Alabama,1,01-20-2021,Partial Coverage,CASES_Native,
+Alaska,2,01-20-2021,Partial Coverage,CASES_Native,12.549033373408335
+Arizona,4,01-20-2021,Partial Coverage,CASES_Native,
+Arkansas,5,01-20-2021,Partial Coverage,CASES_Native,
+California,6,01-20-2021,Partial Coverage,CASES_Native,
+Colorado,8,01-20-2021,Partial Coverage,CASES_Native,
+Connecticut,9,01-20-2021,Partial Coverage,CASES_Native,
+Florida,12,01-20-2021,Partial Coverage,CASES_Native,3.3969710876548875
+Georgia,13,01-20-2021,Partial Coverage,CASES_Native,
+Hawaii,15,01-20-2021,Partial Coverage,CASES_Native,
+Idaho,16,01-20-2021,Partial Coverage,CASES_Native,
+Illinois,17,01-20-2021,Partial Coverage,CASES_Native,
+Iowa,19,01-20-2021,Partial Coverage,CASES_Native,
+Kansas,20,01-20-2021,Partial Coverage,CASES_Native,
+Kentucky,21,01-20-2021,Partial Coverage,CASES_Native,
+Louisiana,22,01-20-2021,Partial Coverage,CASES_Native,
+Maine,23,01-20-2021,Partial Coverage,CASES_Native,
+Maryland,24,01-20-2021,Partial Coverage,CASES_Native,1.5960912052117264
+Massachusetts,25,01-20-2021,Partial Coverage,CASES_Native,
+Michigan,26,01-20-2021,Partial Coverage,CASES_Native,
+Mississippi,28,01-20-2021,Partial Coverage,CASES_Native,0.47580860732424485
+Missouri,29,01-20-2021,Partial Coverage,CASES_Native,
+Montana,30,01-20-2021,Partial Coverage,CASES_Native,
+Nebraska,31,01-20-2021,Partial Coverage,CASES_Native,1.0585624039610722
+Nevada,32,01-20-2021,Partial Coverage,CASES_Native,
+New Hampshire,33,01-20-2021,Partial Coverage,CASES_Native,
+New Jersey,34,01-20-2021,Partial Coverage,CASES_Native,
+New Mexico,35,01-20-2021,Partial Coverage,CASES_Native,
+New York,36,01-20-2021,Partial Coverage,CASES_Native,
+North Carolina,37,01-20-2021,Partial Coverage,CASES_Native,
+Ohio,39,01-20-2021,Partial Coverage,CASES_Native,
+Oklahoma,40,01-20-2021,Partial Coverage,CASES_Native,
+Oregon,41,01-20-2021,Partial Coverage,CASES_Native,4.005705764118524
+Pennsylvania,42,01-20-2021,Partial Coverage,CASES_Native,
+Rhode Island,44,01-20-2021,Partial Coverage,CASES_Native,
+South Carolina,45,01-20-2021,Partial Coverage,CASES_Native,
+South Dakota,46,01-20-2021,Partial Coverage,CASES_Native,
+Tennessee,47,01-20-2021,Partial Coverage,CASES_Native,
+Texas,48,01-20-2021,Partial Coverage,CASES_Native,
+Utah,49,01-20-2021,Partial Coverage,CASES_Native,
+Vermont,50,01-20-2021,Partial Coverage,CASES_Native,
+Virginia,51,01-20-2021,Partial Coverage,CASES_Native,1.544998068752414
+Washington,53,01-20-2021,Partial Coverage,CASES_Native,
+West Virginia,54,01-20-2021,Partial Coverage,CASES_Native,
+Wisconsin,55,01-20-2021,Partial Coverage,CASES_Native,
+Wyoming,56,01-20-2021,Partial Coverage,CASES_Native,
+Alabama,1,01-20-2021,Complete Coverage,CASES_Native,
+Alaska,2,01-20-2021,Complete Coverage,CASES_Native,2.281642431528788
+Arizona,4,01-20-2021,Complete Coverage,CASES_Native,
+Arkansas,5,01-20-2021,Complete Coverage,CASES_Native,
+California,6,01-20-2021,Complete Coverage,CASES_Native,
+Colorado,8,01-20-2021,Complete Coverage,CASES_Native,
+Connecticut,9,01-20-2021,Complete Coverage,CASES_Native,
+Florida,12,01-20-2021,Complete Coverage,CASES_Native,0.2625057365764112
+Georgia,13,01-20-2021,Complete Coverage,CASES_Native,
+Hawaii,15,01-20-2021,Complete Coverage,CASES_Native,
+Idaho,16,01-20-2021,Complete Coverage,CASES_Native,
+Illinois,17,01-20-2021,Complete Coverage,CASES_Native,
+Iowa,19,01-20-2021,Complete Coverage,CASES_Native,
+Kansas,20,01-20-2021,Complete Coverage,CASES_Native,
+Kentucky,21,01-20-2021,Complete Coverage,CASES_Native,
+Louisiana,22,01-20-2021,Complete Coverage,CASES_Native,
+Maine,23,01-20-2021,Complete Coverage,CASES_Native,
+Maryland,24,01-20-2021,Complete Coverage,CASES_Native,0.34201954397394135
+Massachusetts,25,01-20-2021,Complete Coverage,CASES_Native,
+Michigan,26,01-20-2021,Complete Coverage,CASES_Native,
+Minnesota,27,01-20-2021,Complete Coverage,CASES_Native,
+Mississippi,28,01-20-2021,Complete Coverage,CASES_Native,
+Missouri,29,01-20-2021,Complete Coverage,CASES_Native,
+Montana,30,01-20-2021,Complete Coverage,CASES_Native,
+Nebraska,31,01-20-2021,Complete Coverage,CASES_Native,0.12292982755676968
+Nevada,32,01-20-2021,Complete Coverage,CASES_Native,
+New Hampshire,33,01-20-2021,Complete Coverage,CASES_Native,
+New Jersey,34,01-20-2021,Complete Coverage,CASES_Native,
+New Mexico,35,01-20-2021,Complete Coverage,CASES_Native,
+New York,36,01-20-2021,Complete Coverage,CASES_Native,
+North Carolina,37,01-20-2021,Complete Coverage,CASES_Native,
+Ohio,39,01-20-2021,Complete Coverage,CASES_Native,
+Oklahoma,40,01-20-2021,Complete Coverage,CASES_Native,
+Oregon,41,01-20-2021,Complete Coverage,CASES_Native,
+Pennsylvania,42,01-20-2021,Complete Coverage,CASES_Native,
+Rhode Island,44,01-20-2021,Complete Coverage,CASES_Native,
+South Carolina,45,01-20-2021,Complete Coverage,CASES_Native,
+South Dakota,46,01-20-2021,Complete Coverage,CASES_Native,
+Tennessee,47,01-20-2021,Complete Coverage,CASES_Native,
+Texas,48,01-20-2021,Complete Coverage,CASES_Native,
+Utah,49,01-20-2021,Complete Coverage,CASES_Native,
+Vermont,50,01-20-2021,Complete Coverage,CASES_Native,
+Virginia,51,01-20-2021,Complete Coverage,CASES_Native,0.15020814557315137
+Washington,53,01-20-2021,Complete Coverage,CASES_Native,
+West Virginia,54,01-20-2021,Complete Coverage,CASES_Native,
+Wisconsin,55,01-20-2021,Complete Coverage,CASES_Native,
+Wyoming,56,01-20-2021,Complete Coverage,CASES_Native,
+Indiana,18,01-20-2021,Partial Coverage,CASES_Native,
+Minnesota,27,01-20-2021,Partial Coverage,CASES_Native,
+Indiana,18,01-20-2021,Complete Coverage,CASES_Native,
+Delaware,10,2021-01-19 00:00:00,Partial Coverage,CASES_Native,
+North Dakota,38,01-20-2021,Partial Coverage,CASES_Native,6.76
+North Dakota,38,01-20-2021,Complete Coverage,CASES_Native,0.18
+Alabama,1,01-20-2021,Partial,CASES_Native,
+Alaska,2,01-20-2021,Partial,CASES_Native,14300.0
+Arizona,4,01-20-2021,Partial,CASES_Native,
+Arkansas,5,01-20-2021,Partial,CASES_Native,
+California,6,01-20-2021,Partial,CASES_Native,
+Colorado,8,01-20-2021,Partial,CASES_Native,
+Connecticut,9,01-20-2021,Partial,CASES_Native,
+Florida,12,01-20-2021,Partial,CASES_Native,3701.0
+Georgia,13,01-20-2021,Partial,CASES_Native,
+Hawaii,15,01-20-2021,Partial,CASES_Native,
+Idaho,16,01-20-2021,Partial,CASES_Native,
+Illinois,17,01-20-2021,Partial,CASES_Native,
+Iowa,19,01-20-2021,Partial,CASES_Native,
+Kansas,20,01-20-2021,Partial,CASES_Native,
+Kentucky,21,01-20-2021,Partial,CASES_Native,
+Louisiana,22,01-20-2021,Partial,CASES_Native,
+Maine,23,01-20-2021,Partial,CASES_Native,
+Maryland,24,01-20-2021,Partial,CASES_Native,588.0
+Massachusetts,25,01-20-2021,Partial,CASES_Native,
+Michigan,26,01-20-2021,Partial,CASES_Native,
+Mississippi,28,01-20-2021,Partial,CASES_Native,89.0
+Missouri,29,01-20-2021,Partial,CASES_Native,
+Montana,30,01-20-2021,Partial,CASES_Native,
+Nebraska,31,01-20-2021,Partial,CASES_Native,310.0
+Nevada,32,01-20-2021,Partial,CASES_Native,
+New Hampshire,33,01-20-2021,Partial,CASES_Native,
+New Jersey,34,01-20-2021,Partial,CASES_Native,
+New Mexico,35,01-20-2021,Partial,CASES_Native,
+New York,36,01-20-2021,Partial,CASES_Native,
+North Carolina,37,01-20-2021,Partial,CASES_Native,
+Ohio,39,01-20-2021,Partial,CASES_Native,
+Oklahoma,40,01-20-2021,Partial,CASES_Native,
+Oregon,41,01-20-2021,Partial,CASES_Native,3089.0
+Pennsylvania,42,01-20-2021,Partial,CASES_Native,
+Rhode Island,44,01-20-2021,Partial,CASES_Native,
+South Carolina,45,01-20-2021,Partial,CASES_Native,
+South Dakota,46,01-20-2021,Partial,CASES_Native,
+Tennessee,47,01-20-2021,Partial,CASES_Native,
+Texas,48,01-20-2021,Partial,CASES_Native,
+Utah,49,01-20-2021,Partial,CASES_Native,
+Vermont,50,01-20-2021,Partial,CASES_Native,
+Virginia,51,01-20-2021,Partial,CASES_Native,720.0
+Washington,53,01-20-2021,Partial,CASES_Native,
+West Virginia,54,01-20-2021,Partial,CASES_Native,
+Wisconsin,55,01-20-2021,Partial,CASES_Native,
+Wyoming,56,01-20-2021,Partial,CASES_Native,
+Alabama,1,01-20-2021,Complete,CASES_Native,
+Alaska,2,01-20-2021,Complete,CASES_Native,2600.0
+Arizona,4,01-20-2021,Complete,CASES_Native,
+Arkansas,5,01-20-2021,Complete,CASES_Native,
+California,6,01-20-2021,Complete,CASES_Native,
+Colorado,8,01-20-2021,Complete,CASES_Native,
+Connecticut,9,01-20-2021,Complete,CASES_Native,
+Florida,12,01-20-2021,Complete,CASES_Native,286.0
+Georgia,13,01-20-2021,Complete,CASES_Native,
+Hawaii,15,01-20-2021,Complete,CASES_Native,
+Idaho,16,01-20-2021,Complete,CASES_Native,
+Illinois,17,01-20-2021,Complete,CASES_Native,
+Iowa,19,01-20-2021,Complete,CASES_Native,
+Kansas,20,01-20-2021,Complete,CASES_Native,
+Kentucky,21,01-20-2021,Complete,CASES_Native,
+Louisiana,22,01-20-2021,Complete,CASES_Native,
+Maine,23,01-20-2021,Complete,CASES_Native,
+Maryland,24,01-20-2021,Complete,CASES_Native,126.0
+Massachusetts,25,01-20-2021,Complete,CASES_Native,
+Michigan,26,01-20-2021,Complete,CASES_Native,
+Minnesota,27,01-20-2021,Complete,CASES_Native,
+Mississippi,28,01-20-2021,Complete,CASES_Native,
+Missouri,29,01-20-2021,Complete,CASES_Native,
+Montana,30,01-20-2021,Complete,CASES_Native,
+Nebraska,31,01-20-2021,Complete,CASES_Native,36.0
+Nevada,32,01-20-2021,Complete,CASES_Native,
+New Hampshire,33,01-20-2021,Complete,CASES_Native,
+New Jersey,34,01-20-2021,Complete,CASES_Native,
+New Mexico,35,01-20-2021,Complete,CASES_Native,
+New York,36,01-20-2021,Complete,CASES_Native,
+North Carolina,37,01-20-2021,Complete,CASES_Native,
+Ohio,39,01-20-2021,Complete,CASES_Native,
+Oklahoma,40,01-20-2021,Complete,CASES_Native,
+Oregon,41,01-20-2021,Complete,CASES_Native,
+Pennsylvania,42,01-20-2021,Complete,CASES_Native,
+Rhode Island,44,01-20-2021,Complete,CASES_Native,
+South Carolina,45,01-20-2021,Complete,CASES_Native,
+South Dakota,46,01-20-2021,Complete,CASES_Native,
+Tennessee,47,01-20-2021,Complete,CASES_Native,
+Texas,48,01-20-2021,Complete,CASES_Native,
+Utah,49,01-20-2021,Complete,CASES_Native,
+Vermont,50,01-20-2021,Complete,CASES_Native,
+Virginia,51,01-20-2021,Complete,CASES_Native,70.0
+Washington,53,01-20-2021,Complete,CASES_Native,
+West Virginia,54,01-20-2021,Complete,CASES_Native,
+Wisconsin,55,01-20-2021,Complete,CASES_Native,
+Wyoming,56,01-20-2021,Complete,CASES_Native,
+Indiana,18,01-20-2021,Partial,CASES_Native,
+Minnesota,27,01-20-2021,Partial,CASES_Native,
+Indiana,18,01-20-2021,Complete,CASES_Native,
+Delaware,10,2021-01-19 00:00:00,Partial,CASES_Native,
+Alabama,1,01-20-2021,Partial Coverage,CASES_Pacific,
+Alaska,2,01-20-2021,Partial Coverage,CASES_Pacific,0.7144217946275481
+Arizona,4,01-20-2021,Partial Coverage,CASES_Pacific,
+Arkansas,5,01-20-2021,Partial Coverage,CASES_Pacific,
+California,6,01-20-2021,Partial Coverage,CASES_Pacific,
+Colorado,8,01-20-2021,Partial Coverage,CASES_Pacific,
+Connecticut,9,01-20-2021,Partial Coverage,CASES_Pacific,
+Florida,12,01-20-2021,Partial Coverage,CASES_Pacific,
+Georgia,13,01-20-2021,Partial Coverage,CASES_Pacific,
+Hawaii,15,01-20-2021,Partial Coverage,CASES_Pacific,
+Idaho,16,01-20-2021,Partial Coverage,CASES_Pacific,
+Illinois,17,01-20-2021,Partial Coverage,CASES_Pacific,
+Iowa,19,01-20-2021,Partial Coverage,CASES_Pacific,
+Kansas,20,01-20-2021,Partial Coverage,CASES_Pacific,
+Kentucky,21,01-20-2021,Partial Coverage,CASES_Pacific,
+Louisiana,22,01-20-2021,Partial Coverage,CASES_Pacific,
+Maine,23,01-20-2021,Partial Coverage,CASES_Pacific,
+Maryland,24,01-20-2021,Partial Coverage,CASES_Pacific,6.964951528709918
+Massachusetts,25,01-20-2021,Partial Coverage,CASES_Pacific,
+Michigan,26,01-20-2021,Partial Coverage,CASES_Pacific,
+Mississippi,28,01-20-2021,Partial Coverage,CASES_Pacific,2.6578073089700998
+Missouri,29,01-20-2021,Partial Coverage,CASES_Pacific,
+Montana,30,01-20-2021,Partial Coverage,CASES_Pacific,
+Nebraska,31,01-20-2021,Partial Coverage,CASES_Pacific,3.1928480204342273
+Nevada,32,01-20-2021,Partial Coverage,CASES_Pacific,
+New Hampshire,33,01-20-2021,Partial Coverage,CASES_Pacific,
+New Jersey,34,01-20-2021,Partial Coverage,CASES_Pacific,
+New Mexico,35,01-20-2021,Partial Coverage,CASES_Pacific,
+New York,36,01-20-2021,Partial Coverage,CASES_Pacific,
+North Carolina,37,01-20-2021,Partial Coverage,CASES_Pacific,
+Ohio,39,01-20-2021,Partial Coverage,CASES_Pacific,
+Oklahoma,40,01-20-2021,Partial Coverage,CASES_Pacific,
+Oregon,41,01-20-2021,Partial Coverage,CASES_Pacific,7.555209145232528
+Pennsylvania,42,01-20-2021,Partial Coverage,CASES_Pacific,
+Rhode Island,44,01-20-2021,Partial Coverage,CASES_Pacific,
+South Carolina,45,01-20-2021,Partial Coverage,CASES_Pacific,
+South Dakota,46,01-20-2021,Partial Coverage,CASES_Pacific,
+Tennessee,47,01-20-2021,Partial Coverage,CASES_Pacific,
+Texas,48,01-20-2021,Partial Coverage,CASES_Pacific,
+Utah,49,01-20-2021,Partial Coverage,CASES_Pacific,
+Vermont,50,01-20-2021,Partial Coverage,CASES_Pacific,
+Virginia,51,01-20-2021,Partial Coverage,CASES_Pacific,
+Washington,53,01-20-2021,Partial Coverage,CASES_Pacific,
+West Virginia,54,01-20-2021,Partial Coverage,CASES_Pacific,
+Wisconsin,55,01-20-2021,Partial Coverage,CASES_Pacific,
+Wyoming,56,01-20-2021,Partial Coverage,CASES_Pacific,
+Alabama,1,01-20-2021,Complete Coverage,CASES_Pacific,
+Alaska,2,01-20-2021,Complete Coverage,CASES_Pacific,0.2381405982091827
+Arizona,4,01-20-2021,Complete Coverage,CASES_Pacific,
+Arkansas,5,01-20-2021,Complete Coverage,CASES_Pacific,
+California,6,01-20-2021,Complete Coverage,CASES_Pacific,
+Colorado,8,01-20-2021,Complete Coverage,CASES_Pacific,
+Connecticut,9,01-20-2021,Complete Coverage,CASES_Pacific,
+Florida,12,01-20-2021,Complete Coverage,CASES_Pacific,
+Georgia,13,01-20-2021,Complete Coverage,CASES_Pacific,
+Hawaii,15,01-20-2021,Complete Coverage,CASES_Pacific,
+Idaho,16,01-20-2021,Complete Coverage,CASES_Pacific,
+Illinois,17,01-20-2021,Complete Coverage,CASES_Pacific,
+Iowa,19,01-20-2021,Complete Coverage,CASES_Pacific,
+Kansas,20,01-20-2021,Complete Coverage,CASES_Pacific,
+Kentucky,21,01-20-2021,Complete Coverage,CASES_Pacific,
+Louisiana,22,01-20-2021,Complete Coverage,CASES_Pacific,
+Maine,23,01-20-2021,Complete Coverage,CASES_Pacific,
+Maryland,24,01-20-2021,Complete Coverage,CASES_Pacific,0.8650260999254288
+Massachusetts,25,01-20-2021,Complete Coverage,CASES_Pacific,
+Michigan,26,01-20-2021,Complete Coverage,CASES_Pacific,
+Minnesota,27,01-20-2021,Complete Coverage,CASES_Pacific,
+Mississippi,28,01-20-2021,Complete Coverage,CASES_Pacific,
+Missouri,29,01-20-2021,Complete Coverage,CASES_Pacific,
+Montana,30,01-20-2021,Complete Coverage,CASES_Pacific,
+Nebraska,31,01-20-2021,Complete Coverage,CASES_Pacific,0.7662835249042146
+Nevada,32,01-20-2021,Complete Coverage,CASES_Pacific,
+New Hampshire,33,01-20-2021,Complete Coverage,CASES_Pacific,
+New Jersey,34,01-20-2021,Complete Coverage,CASES_Pacific,
+New Mexico,35,01-20-2021,Complete Coverage,CASES_Pacific,
+New York,36,01-20-2021,Complete Coverage,CASES_Pacific,
+North Carolina,37,01-20-2021,Complete Coverage,CASES_Pacific,
+Ohio,39,01-20-2021,Complete Coverage,CASES_Pacific,
+Oklahoma,40,01-20-2021,Complete Coverage,CASES_Pacific,
+Oregon,41,01-20-2021,Complete Coverage,CASES_Pacific,
+Pennsylvania,42,01-20-2021,Complete Coverage,CASES_Pacific,
+Rhode Island,44,01-20-2021,Complete Coverage,CASES_Pacific,
+South Carolina,45,01-20-2021,Complete Coverage,CASES_Pacific,
+South Dakota,46,01-20-2021,Complete Coverage,CASES_Pacific,
+Tennessee,47,01-20-2021,Complete Coverage,CASES_Pacific,
+Texas,48,01-20-2021,Complete Coverage,CASES_Pacific,
+Utah,49,01-20-2021,Complete Coverage,CASES_Pacific,
+Vermont,50,01-20-2021,Complete Coverage,CASES_Pacific,
+Virginia,51,01-20-2021,Complete Coverage,CASES_Pacific,
+Washington,53,01-20-2021,Complete Coverage,CASES_Pacific,
+West Virginia,54,01-20-2021,Complete Coverage,CASES_Pacific,
+Wisconsin,55,01-20-2021,Complete Coverage,CASES_Pacific,
+Wyoming,56,01-20-2021,Complete Coverage,CASES_Pacific,
+Indiana,18,01-20-2021,Partial Coverage,CASES_Pacific,
+Minnesota,27,01-20-2021,Partial Coverage,CASES_Pacific,
+Indiana,18,01-20-2021,Complete Coverage,CASES_Pacific,
+Delaware,10,2021-01-19 00:00:00,Partial Coverage,CASES_Pacific,
+North Dakota,38,01-20-2021,Partial Coverage,CASES_Pacific,5.53
+North Dakota,38,01-20-2021,Complete Coverage,CASES_Pacific,0.74
+Alabama,1,01-20-2021,Partial,CASES_Pacific,
+Alaska,2,01-20-2021,Partial,CASES_Pacific,75.0
+Arizona,4,01-20-2021,Partial,CASES_Pacific,
+Arkansas,5,01-20-2021,Partial,CASES_Pacific,
+California,6,01-20-2021,Partial,CASES_Pacific,
+Colorado,8,01-20-2021,Partial,CASES_Pacific,
+Connecticut,9,01-20-2021,Partial,CASES_Pacific,
+Florida,12,01-20-2021,Partial,CASES_Pacific,
+Georgia,13,01-20-2021,Partial,CASES_Pacific,
+Hawaii,15,01-20-2021,Partial,CASES_Pacific,
+Idaho,16,01-20-2021,Partial,CASES_Pacific,
+Illinois,17,01-20-2021,Partial,CASES_Pacific,
+Iowa,19,01-20-2021,Partial,CASES_Pacific,
+Kansas,20,01-20-2021,Partial,CASES_Pacific,
+Kentucky,21,01-20-2021,Partial,CASES_Pacific,
+Louisiana,22,01-20-2021,Partial,CASES_Pacific,
+Maine,23,01-20-2021,Partial,CASES_Pacific,
+Maryland,24,01-20-2021,Partial,CASES_Pacific,467.0
+Massachusetts,25,01-20-2021,Partial,CASES_Pacific,
+Michigan,26,01-20-2021,Partial,CASES_Pacific,
+Mississippi,28,01-20-2021,Partial,CASES_Pacific,48.0
+Missouri,29,01-20-2021,Partial,CASES_Pacific,
+Montana,30,01-20-2021,Partial,CASES_Pacific,
+Nebraska,31,01-20-2021,Partial,CASES_Pacific,75.0
+Nevada,32,01-20-2021,Partial,CASES_Pacific,
+New Hampshire,33,01-20-2021,Partial,CASES_Pacific,
+New Jersey,34,01-20-2021,Partial,CASES_Pacific,
+New Mexico,35,01-20-2021,Partial,CASES_Pacific,
+New York,36,01-20-2021,Partial,CASES_Pacific,
+North Carolina,37,01-20-2021,Partial,CASES_Pacific,
+Ohio,39,01-20-2021,Partial,CASES_Pacific,
+Oklahoma,40,01-20-2021,Partial,CASES_Pacific,
+Oregon,41,01-20-2021,Partial,CASES_Pacific,1454.0
+Pennsylvania,42,01-20-2021,Partial,CASES_Pacific,
+Rhode Island,44,01-20-2021,Partial,CASES_Pacific,
+South Carolina,45,01-20-2021,Partial,CASES_Pacific,
+South Dakota,46,01-20-2021,Partial,CASES_Pacific,
+Tennessee,47,01-20-2021,Partial,CASES_Pacific,
+Texas,48,01-20-2021,Partial,CASES_Pacific,
+Utah,49,01-20-2021,Partial,CASES_Pacific,
+Vermont,50,01-20-2021,Partial,CASES_Pacific,
+Virginia,51,01-20-2021,Partial,CASES_Pacific,
+Washington,53,01-20-2021,Partial,CASES_Pacific,
+West Virginia,54,01-20-2021,Partial,CASES_Pacific,
+Wisconsin,55,01-20-2021,Partial,CASES_Pacific,
+Wyoming,56,01-20-2021,Partial,CASES_Pacific,
+Alabama,1,01-20-2021,Complete,CASES_Pacific,
+Alaska,2,01-20-2021,Complete,CASES_Pacific,25.0
+Arizona,4,01-20-2021,Complete,CASES_Pacific,
+Arkansas,5,01-20-2021,Complete,CASES_Pacific,
+California,6,01-20-2021,Complete,CASES_Pacific,
+Colorado,8,01-20-2021,Complete,CASES_Pacific,
+Connecticut,9,01-20-2021,Complete,CASES_Pacific,
+Florida,12,01-20-2021,Complete,CASES_Pacific,
+Georgia,13,01-20-2021,Complete,CASES_Pacific,
+Hawaii,15,01-20-2021,Complete,CASES_Pacific,
+Idaho,16,01-20-2021,Complete,CASES_Pacific,
+Illinois,17,01-20-2021,Complete,CASES_Pacific,
+Iowa,19,01-20-2021,Complete,CASES_Pacific,
+Kansas,20,01-20-2021,Complete,CASES_Pacific,
+Kentucky,21,01-20-2021,Complete,CASES_Pacific,
+Louisiana,22,01-20-2021,Complete,CASES_Pacific,
+Maine,23,01-20-2021,Complete,CASES_Pacific,
+Maryland,24,01-20-2021,Complete,CASES_Pacific,58.0
+Massachusetts,25,01-20-2021,Complete,CASES_Pacific,
+Michigan,26,01-20-2021,Complete,CASES_Pacific,
+Minnesota,27,01-20-2021,Complete,CASES_Pacific,
+Mississippi,28,01-20-2021,Complete,CASES_Pacific,
+Missouri,29,01-20-2021,Complete,CASES_Pacific,
+Montana,30,01-20-2021,Complete,CASES_Pacific,
+Nebraska,31,01-20-2021,Complete,CASES_Pacific,18.0
+Nevada,32,01-20-2021,Complete,CASES_Pacific,
+New Hampshire,33,01-20-2021,Complete,CASES_Pacific,
+New Jersey,34,01-20-2021,Complete,CASES_Pacific,
+New Mexico,35,01-20-2021,Complete,CASES_Pacific,
+New York,36,01-20-2021,Complete,CASES_Pacific,
+North Carolina,37,01-20-2021,Complete,CASES_Pacific,
+Ohio,39,01-20-2021,Complete,CASES_Pacific,
+Oklahoma,40,01-20-2021,Complete,CASES_Pacific,
+Oregon,41,01-20-2021,Complete,CASES_Pacific,
+Pennsylvania,42,01-20-2021,Complete,CASES_Pacific,
+Rhode Island,44,01-20-2021,Complete,CASES_Pacific,
+South Carolina,45,01-20-2021,Complete,CASES_Pacific,
+South Dakota,46,01-20-2021,Complete,CASES_Pacific,
+Tennessee,47,01-20-2021,Complete,CASES_Pacific,
+Texas,48,01-20-2021,Complete,CASES_Pacific,
+Utah,49,01-20-2021,Complete,CASES_Pacific,
+Vermont,50,01-20-2021,Complete,CASES_Pacific,
+Virginia,51,01-20-2021,Complete,CASES_Pacific,
+Washington,53,01-20-2021,Complete,CASES_Pacific,
+West Virginia,54,01-20-2021,Complete,CASES_Pacific,
+Wisconsin,55,01-20-2021,Complete,CASES_Pacific,
+Wyoming,56,01-20-2021,Complete,CASES_Pacific,
+Indiana,18,01-20-2021,Partial,CASES_Pacific,
+Minnesota,27,01-20-2021,Partial,CASES_Pacific,
+Indiana,18,01-20-2021,Complete,CASES_Pacific,
+Delaware,10,2021-01-19 00:00:00,Partial,CASES_Pacific,
+Alabama,1,01-20-2021,Partial Coverage,CASES_Hispanic,
+Alaska,2,01-20-2021,Partial Coverage,CASES_Hispanic,1.2403217319401638
+Arizona,4,01-20-2021,Partial Coverage,CASES_Hispanic,
+Arkansas,5,01-20-2021,Partial Coverage,CASES_Hispanic,
+California,6,01-20-2021,Partial Coverage,CASES_Hispanic,
+Colorado,8,01-20-2021,Partial Coverage,CASES_Hispanic,
+Connecticut,9,01-20-2021,Partial Coverage,CASES_Hispanic,
+Florida,12,01-20-2021,Partial Coverage,CASES_Hispanic,
+Georgia,13,01-20-2021,Partial Coverage,CASES_Hispanic,
+Hawaii,15,01-20-2021,Partial Coverage,CASES_Hispanic,
+Idaho,16,01-20-2021,Partial Coverage,CASES_Hispanic,
+Illinois,17,01-20-2021,Partial Coverage,CASES_Hispanic,
+Iowa,19,01-20-2021,Partial Coverage,CASES_Hispanic,
+Kansas,20,01-20-2021,Partial Coverage,CASES_Hispanic,
+Kentucky,21,01-20-2021,Partial Coverage,CASES_Hispanic,
+Louisiana,22,01-20-2021,Partial Coverage,CASES_Hispanic,
+Maine,23,01-20-2021,Partial Coverage,CASES_Hispanic,
+Maryland,24,01-20-2021,Partial Coverage,CASES_Hispanic,
+Massachusetts,25,01-20-2021,Partial Coverage,CASES_Hispanic,0.9461847896905745
+Michigan,26,01-20-2021,Partial Coverage,CASES_Hispanic,
+Mississippi,28,01-20-2021,Partial Coverage,CASES_Hispanic,0.958945160323644
+Missouri,29,01-20-2021,Partial Coverage,CASES_Hispanic,
+Montana,30,01-20-2021,Partial Coverage,CASES_Hispanic,
+Nebraska,31,01-20-2021,Partial Coverage,CASES_Hispanic,1.133192196498896
+Nevada,32,01-20-2021,Partial Coverage,CASES_Hispanic,
+New Hampshire,33,01-20-2021,Partial Coverage,CASES_Hispanic,
+New Jersey,34,01-20-2021,Partial Coverage,CASES_Hispanic,1.02324158626142
+New Mexico,35,01-20-2021,Partial Coverage,CASES_Hispanic,
+New York,36,01-20-2021,Partial Coverage,CASES_Hispanic,
+North Carolina,37,01-20-2021,Partial Coverage,CASES_Hispanic,
+Ohio,39,01-20-2021,Partial Coverage,CASES_Hispanic,
+Oklahoma,40,01-20-2021,Partial Coverage,CASES_Hispanic,
+Oregon,41,01-20-2021,Partial Coverage,CASES_Hispanic,1.5736168666324422
+Pennsylvania,42,01-20-2021,Partial Coverage,CASES_Hispanic,0.5506174073888916
+Rhode Island,44,01-20-2021,Partial Coverage,CASES_Hispanic,
+South Carolina,45,01-20-2021,Partial Coverage,CASES_Hispanic,
+South Dakota,46,01-20-2021,Partial Coverage,CASES_Hispanic,
+Tennessee,47,01-20-2021,Partial Coverage,CASES_Hispanic,1.5307295685545068
+Texas,48,01-20-2021,Partial Coverage,CASES_Hispanic,
+Utah,49,01-20-2021,Partial Coverage,CASES_Hispanic,
+Vermont,50,01-20-2021,Partial Coverage,CASES_Hispanic,
+Virginia,51,01-20-2021,Partial Coverage,CASES_Hispanic,1.3743645301777758
+Washington,53,01-20-2021,Partial Coverage,CASES_Hispanic,
+West Virginia,54,01-20-2021,Partial Coverage,CASES_Hispanic,
+Wisconsin,55,01-20-2021,Partial Coverage,CASES_Hispanic,
+Wyoming,56,01-20-2021,Partial Coverage,CASES_Hispanic,
+Alabama,1,01-20-2021,Complete Coverage,CASES_Hispanic,
+Alaska,2,01-20-2021,Complete Coverage,CASES_Hispanic,0.39088927309629407
+Arizona,4,01-20-2021,Complete Coverage,CASES_Hispanic,
+Arkansas,5,01-20-2021,Complete Coverage,CASES_Hispanic,
+California,6,01-20-2021,Complete Coverage,CASES_Hispanic,
+Colorado,8,01-20-2021,Complete Coverage,CASES_Hispanic,
+Connecticut,9,01-20-2021,Complete Coverage,CASES_Hispanic,
+Florida,12,01-20-2021,Complete Coverage,CASES_Hispanic,
+Georgia,13,01-20-2021,Complete Coverage,CASES_Hispanic,
+Hawaii,15,01-20-2021,Complete Coverage,CASES_Hispanic,
+Idaho,16,01-20-2021,Complete Coverage,CASES_Hispanic,
+Illinois,17,01-20-2021,Complete Coverage,CASES_Hispanic,
+Iowa,19,01-20-2021,Complete Coverage,CASES_Hispanic,
+Kansas,20,01-20-2021,Complete Coverage,CASES_Hispanic,
+Kentucky,21,01-20-2021,Complete Coverage,CASES_Hispanic,
+Louisiana,22,01-20-2021,Complete Coverage,CASES_Hispanic,
+Maine,23,01-20-2021,Complete Coverage,CASES_Hispanic,
+Maryland,24,01-20-2021,Complete Coverage,CASES_Hispanic,
+Massachusetts,25,01-20-2021,Complete Coverage,CASES_Hispanic,0.1532330417226669
+Michigan,26,01-20-2021,Complete Coverage,CASES_Hispanic,
+Minnesota,27,01-20-2021,Complete Coverage,CASES_Hispanic,
+Mississippi,28,01-20-2021,Complete Coverage,CASES_Hispanic,
+Missouri,29,01-20-2021,Complete Coverage,CASES_Hispanic,
+Montana,30,01-20-2021,Complete Coverage,CASES_Hispanic,
+Nebraska,31,01-20-2021,Complete Coverage,CASES_Hispanic,0.22900589587743858
+Nevada,32,01-20-2021,Complete Coverage,CASES_Hispanic,
+New Hampshire,33,01-20-2021,Complete Coverage,CASES_Hispanic,
+New Jersey,34,01-20-2021,Complete Coverage,CASES_Hispanic,
+New Mexico,35,01-20-2021,Complete Coverage,CASES_Hispanic,
+New York,36,01-20-2021,Complete Coverage,CASES_Hispanic,
+North Carolina,37,01-20-2021,Complete Coverage,CASES_Hispanic,
+Ohio,39,01-20-2021,Complete Coverage,CASES_Hispanic,
+Oklahoma,40,01-20-2021,Complete Coverage,CASES_Hispanic,
+Oregon,41,01-20-2021,Complete Coverage,CASES_Hispanic,
+Pennsylvania,42,01-20-2021,Complete Coverage,CASES_Hispanic,0.1107833824926261
+Rhode Island,44,01-20-2021,Complete Coverage,CASES_Hispanic,
+South Carolina,45,01-20-2021,Complete Coverage,CASES_Hispanic,
+South Dakota,46,01-20-2021,Complete Coverage,CASES_Hispanic,
+Tennessee,47,01-20-2021,Complete Coverage,CASES_Hispanic,
+Texas,48,01-20-2021,Complete Coverage,CASES_Hispanic,
+Utah,49,01-20-2021,Complete Coverage,CASES_Hispanic,
+Vermont,50,01-20-2021,Complete Coverage,CASES_Hispanic,
+Virginia,51,01-20-2021,Complete Coverage,CASES_Hispanic,0.1408160379280508
+Washington,53,01-20-2021,Complete Coverage,CASES_Hispanic,
+West Virginia,54,01-20-2021,Complete Coverage,CASES_Hispanic,
+Wisconsin,55,01-20-2021,Complete Coverage,CASES_Hispanic,
+Wyoming,56,01-20-2021,Complete Coverage,CASES_Hispanic,
+Indiana,18,01-20-2021,Partial Coverage,CASES_Hispanic,1.6696419558069535
+Minnesota,27,01-20-2021,Partial Coverage,CASES_Hispanic,
+Indiana,18,01-20-2021,Complete Coverage,CASES_Hispanic,0.3374108261316473
+Delaware,10,2021-01-19 00:00:00,Partial Coverage,CASES_Hispanic,1.0547054855392919
+North Dakota,38,01-20-2021,Partial Coverage,CASES_Hispanic,3.42
+North Dakota,38,01-20-2021,Complete Coverage,CASES_Hispanic,0.51
+Alabama,1,01-20-2021,Partial,CASES_Hispanic,
+Alaska,2,01-20-2021,Partial,CASES_Hispanic,660.0
+Arizona,4,01-20-2021,Partial,CASES_Hispanic,
+Arkansas,5,01-20-2021,Partial,CASES_Hispanic,
+California,6,01-20-2021,Partial,CASES_Hispanic,
+Colorado,8,01-20-2021,Partial,CASES_Hispanic,
+Connecticut,9,01-20-2021,Partial,CASES_Hispanic,
+Florida,12,01-20-2021,Partial,CASES_Hispanic,
+Georgia,13,01-20-2021,Partial,CASES_Hispanic,
+Hawaii,15,01-20-2021,Partial,CASES_Hispanic,
+Idaho,16,01-20-2021,Partial,CASES_Hispanic,
+Illinois,17,01-20-2021,Partial,CASES_Hispanic,
+Iowa,19,01-20-2021,Partial,CASES_Hispanic,
+Kansas,20,01-20-2021,Partial,CASES_Hispanic,
+Kentucky,21,01-20-2021,Partial,CASES_Hispanic,
+Louisiana,22,01-20-2021,Partial,CASES_Hispanic,
+Maine,23,01-20-2021,Partial,CASES_Hispanic,
+Maryland,24,01-20-2021,Partial,CASES_Hispanic,
+Massachusetts,25,01-20-2021,Partial,CASES_Hispanic,8089.0
+Michigan,26,01-20-2021,Partial,CASES_Hispanic,
+Mississippi,28,01-20-2021,Partial,CASES_Hispanic,960.0
+Missouri,29,01-20-2021,Partial,CASES_Hispanic,
+Montana,30,01-20-2021,Partial,CASES_Hispanic,
+Nebraska,31,01-20-2021,Partial,CASES_Hispanic,2489.0
+Nevada,32,01-20-2021,Partial,CASES_Hispanic,
+New Hampshire,33,01-20-2021,Partial,CASES_Hispanic,
+New Jersey,34,01-20-2021,Partial,CASES_Hispanic,19000.0
+New Mexico,35,01-20-2021,Partial,CASES_Hispanic,
+New York,36,01-20-2021,Partial,CASES_Hispanic,
+North Carolina,37,01-20-2021,Partial,CASES_Hispanic,
+Ohio,39,01-20-2021,Partial,CASES_Hispanic,
+Oklahoma,40,01-20-2021,Partial,CASES_Hispanic,
+Oregon,41,01-20-2021,Partial,CASES_Hispanic,8920.0
+Pennsylvania,42,01-20-2021,Partial,CASES_Hispanic,5507.0
+Rhode Island,44,01-20-2021,Partial,CASES_Hispanic,
+South Carolina,45,01-20-2021,Partial,CASES_Hispanic,
+South Dakota,46,01-20-2021,Partial,CASES_Hispanic,
+Tennessee,47,01-20-2021,Partial,CASES_Hispanic,5991.0
+Texas,48,01-20-2021,Partial,CASES_Hispanic,
+Utah,49,01-20-2021,Partial,CASES_Hispanic,
+Vermont,50,01-20-2021,Partial,CASES_Hispanic,
+Virginia,51,01-20-2021,Partial,CASES_Hispanic,11468.0
+Washington,53,01-20-2021,Partial,CASES_Hispanic,
+West Virginia,54,01-20-2021,Partial,CASES_Hispanic,
+Wisconsin,55,01-20-2021,Partial,CASES_Hispanic,
+Wyoming,56,01-20-2021,Partial,CASES_Hispanic,
+Alabama,1,01-20-2021,Complete,CASES_Hispanic,
+Alaska,2,01-20-2021,Complete,CASES_Hispanic,208.0
+Arizona,4,01-20-2021,Complete,CASES_Hispanic,
+Arkansas,5,01-20-2021,Complete,CASES_Hispanic,
+California,6,01-20-2021,Complete,CASES_Hispanic,
+Colorado,8,01-20-2021,Complete,CASES_Hispanic,
+Connecticut,9,01-20-2021,Complete,CASES_Hispanic,
+Florida,12,01-20-2021,Complete,CASES_Hispanic,
+Georgia,13,01-20-2021,Complete,CASES_Hispanic,
+Hawaii,15,01-20-2021,Complete,CASES_Hispanic,
+Idaho,16,01-20-2021,Complete,CASES_Hispanic,
+Illinois,17,01-20-2021,Complete,CASES_Hispanic,
+Iowa,19,01-20-2021,Complete,CASES_Hispanic,
+Kansas,20,01-20-2021,Complete,CASES_Hispanic,
+Kentucky,21,01-20-2021,Complete,CASES_Hispanic,
+Louisiana,22,01-20-2021,Complete,CASES_Hispanic,
+Maine,23,01-20-2021,Complete,CASES_Hispanic,
+Maryland,24,01-20-2021,Complete,CASES_Hispanic,
+Massachusetts,25,01-20-2021,Complete,CASES_Hispanic,1310.0
+Michigan,26,01-20-2021,Complete,CASES_Hispanic,
+Minnesota,27,01-20-2021,Complete,CASES_Hispanic,
+Mississippi,28,01-20-2021,Complete,CASES_Hispanic,
+Missouri,29,01-20-2021,Complete,CASES_Hispanic,
+Montana,30,01-20-2021,Complete,CASES_Hispanic,
+Nebraska,31,01-20-2021,Complete,CASES_Hispanic,503.0
+Nevada,32,01-20-2021,Complete,CASES_Hispanic,
+New Hampshire,33,01-20-2021,Complete,CASES_Hispanic,
+New Jersey,34,01-20-2021,Complete,CASES_Hispanic,
+New Mexico,35,01-20-2021,Complete,CASES_Hispanic,
+New York,36,01-20-2021,Complete,CASES_Hispanic,
+North Carolina,37,01-20-2021,Complete,CASES_Hispanic,
+Ohio,39,01-20-2021,Complete,CASES_Hispanic,
+Oklahoma,40,01-20-2021,Complete,CASES_Hispanic,
+Oregon,41,01-20-2021,Complete,CASES_Hispanic,
+Pennsylvania,42,01-20-2021,Complete,CASES_Hispanic,1108.0
+Rhode Island,44,01-20-2021,Complete,CASES_Hispanic,
+South Carolina,45,01-20-2021,Complete,CASES_Hispanic,
+South Dakota,46,01-20-2021,Complete,CASES_Hispanic,
+Tennessee,47,01-20-2021,Complete,CASES_Hispanic,
+Texas,48,01-20-2021,Complete,CASES_Hispanic,
+Utah,49,01-20-2021,Complete,CASES_Hispanic,
+Vermont,50,01-20-2021,Complete,CASES_Hispanic,
+Virginia,51,01-20-2021,Complete,CASES_Hispanic,1175.0
+Washington,53,01-20-2021,Complete,CASES_Hispanic,
+West Virginia,54,01-20-2021,Complete,CASES_Hispanic,
+Wisconsin,55,01-20-2021,Complete,CASES_Hispanic,
+Wyoming,56,01-20-2021,Complete,CASES_Hispanic,
+Indiana,18,01-20-2021,Partial,CASES_Hispanic,8170.443000000001
+Minnesota,27,01-20-2021,Partial,CASES_Hispanic,
+Indiana,18,01-20-2021,Complete,CASES_Hispanic,1651.13
+Delaware,10,2021-01-19 00:00:00,Partial,CASES_Hispanic,985.0
+Alabama,1,01-20-2021,Partial Coverage,CASES_NotHispanic,
+Alaska,2,01-20-2021,Partial Coverage,CASES_NotHispanic,4.407864573889226
+Arizona,4,01-20-2021,Partial Coverage,CASES_NotHispanic,
+Arkansas,5,01-20-2021,Partial Coverage,CASES_NotHispanic,
+California,6,01-20-2021,Partial Coverage,CASES_NotHispanic,
+Colorado,8,01-20-2021,Partial Coverage,CASES_NotHispanic,
+Connecticut,9,01-20-2021,Partial Coverage,CASES_NotHispanic,
+Florida,12,01-20-2021,Partial Coverage,CASES_NotHispanic,
+Georgia,13,01-20-2021,Partial Coverage,CASES_NotHispanic,
+Hawaii,15,01-20-2021,Partial Coverage,CASES_NotHispanic,
+Idaho,16,01-20-2021,Partial Coverage,CASES_NotHispanic,
+Illinois,17,01-20-2021,Partial Coverage,CASES_NotHispanic,
+Iowa,19,01-20-2021,Partial Coverage,CASES_NotHispanic,
+Kansas,20,01-20-2021,Partial Coverage,CASES_NotHispanic,
+Kentucky,21,01-20-2021,Partial Coverage,CASES_NotHispanic,
+Louisiana,22,01-20-2021,Partial Coverage,CASES_NotHispanic,
+Maine,23,01-20-2021,Partial Coverage,CASES_NotHispanic,
+Maryland,24,01-20-2021,Partial Coverage,CASES_NotHispanic,
+Massachusetts,25,01-20-2021,Partial Coverage,CASES_NotHispanic,
+Michigan,26,01-20-2021,Partial Coverage,CASES_NotHispanic,
+Mississippi,28,01-20-2021,Partial Coverage,CASES_NotHispanic,3.700679997732993
+Missouri,29,01-20-2021,Partial Coverage,CASES_NotHispanic,
+Montana,30,01-20-2021,Partial Coverage,CASES_NotHispanic,
+Nebraska,31,01-20-2021,Partial Coverage,CASES_NotHispanic,3.8657237180881556
+Nevada,32,01-20-2021,Partial Coverage,CASES_NotHispanic,
+New Hampshire,33,01-20-2021,Partial Coverage,CASES_NotHispanic,
+New Jersey,34,01-20-2021,Partial Coverage,CASES_NotHispanic,
+New Mexico,35,01-20-2021,Partial Coverage,CASES_NotHispanic,
+New York,36,01-20-2021,Partial Coverage,CASES_NotHispanic,
+North Carolina,37,01-20-2021,Partial Coverage,CASES_NotHispanic,
+Ohio,39,01-20-2021,Partial Coverage,CASES_NotHispanic,
+Oklahoma,40,01-20-2021,Partial Coverage,CASES_NotHispanic,
+Oregon,41,01-20-2021,Partial Coverage,CASES_NotHispanic,3.5336589160451286
+Pennsylvania,42,01-20-2021,Partial Coverage,CASES_NotHispanic,1.6024028119685416
+Rhode Island,44,01-20-2021,Partial Coverage,CASES_NotHispanic,
+South Carolina,45,01-20-2021,Partial Coverage,CASES_NotHispanic,
+South Dakota,46,01-20-2021,Partial Coverage,CASES_NotHispanic,
+Tennessee,47,01-20-2021,Partial Coverage,CASES_NotHispanic,2.969294441323982
+Texas,48,01-20-2021,Partial Coverage,CASES_NotHispanic,
+Utah,49,01-20-2021,Partial Coverage,CASES_NotHispanic,
+Vermont,50,01-20-2021,Partial Coverage,CASES_NotHispanic,
+Virginia,51,01-20-2021,Partial Coverage,CASES_NotHispanic,
+Washington,53,01-20-2021,Partial Coverage,CASES_NotHispanic,
+West Virginia,54,01-20-2021,Partial Coverage,CASES_NotHispanic,
+Wisconsin,55,01-20-2021,Partial Coverage,CASES_NotHispanic,
+Wyoming,56,01-20-2021,Partial Coverage,CASES_NotHispanic,
+Alabama,1,01-20-2021,Complete Coverage,CASES_NotHispanic,
+Alaska,2,01-20-2021,Complete Coverage,CASES_NotHispanic,1.0024574950651082
+Arizona,4,01-20-2021,Complete Coverage,CASES_NotHispanic,
+Arkansas,5,01-20-2021,Complete Coverage,CASES_NotHispanic,
+California,6,01-20-2021,Complete Coverage,CASES_NotHispanic,
+Colorado,8,01-20-2021,Complete Coverage,CASES_NotHispanic,
+Connecticut,9,01-20-2021,Complete Coverage,CASES_NotHispanic,
+Florida,12,01-20-2021,Complete Coverage,CASES_NotHispanic,
+Georgia,13,01-20-2021,Complete Coverage,CASES_NotHispanic,
+Hawaii,15,01-20-2021,Complete Coverage,CASES_NotHispanic,
+Idaho,16,01-20-2021,Complete Coverage,CASES_NotHispanic,
+Illinois,17,01-20-2021,Complete Coverage,CASES_NotHispanic,
+Iowa,19,01-20-2021,Complete Coverage,CASES_NotHispanic,
+Kansas,20,01-20-2021,Complete Coverage,CASES_NotHispanic,
+Kentucky,21,01-20-2021,Complete Coverage,CASES_NotHispanic,
+Louisiana,22,01-20-2021,Complete Coverage,CASES_NotHispanic,
+Maine,23,01-20-2021,Complete Coverage,CASES_NotHispanic,
+Maryland,24,01-20-2021,Complete Coverage,CASES_NotHispanic,
+Massachusetts,25,01-20-2021,Complete Coverage,CASES_NotHispanic,
+Michigan,26,01-20-2021,Complete Coverage,CASES_NotHispanic,
+Minnesota,27,01-20-2021,Complete Coverage,CASES_NotHispanic,
+Mississippi,28,01-20-2021,Complete Coverage,CASES_NotHispanic,
+Missouri,29,01-20-2021,Complete Coverage,CASES_NotHispanic,
+Montana,30,01-20-2021,Complete Coverage,CASES_NotHispanic,
+Nebraska,31,01-20-2021,Complete Coverage,CASES_NotHispanic,0.7241233919789498
+Nevada,32,01-20-2021,Complete Coverage,CASES_NotHispanic,
+New Hampshire,33,01-20-2021,Complete Coverage,CASES_NotHispanic,
+New Jersey,34,01-20-2021,Complete Coverage,CASES_NotHispanic,
+New Mexico,35,01-20-2021,Complete Coverage,CASES_NotHispanic,
+New York,36,01-20-2021,Complete Coverage,CASES_NotHispanic,
+North Carolina,37,01-20-2021,Complete Coverage,CASES_NotHispanic,
+Ohio,39,01-20-2021,Complete Coverage,CASES_NotHispanic,
+Oklahoma,40,01-20-2021,Complete Coverage,CASES_NotHispanic,
+Oregon,41,01-20-2021,Complete Coverage,CASES_NotHispanic,
+Pennsylvania,42,01-20-2021,Complete Coverage,CASES_NotHispanic,0.3340750538962614
+Rhode Island,44,01-20-2021,Complete Coverage,CASES_NotHispanic,
+South Carolina,45,01-20-2021,Complete Coverage,CASES_NotHispanic,
+South Dakota,46,01-20-2021,Complete Coverage,CASES_NotHispanic,
+Tennessee,47,01-20-2021,Complete Coverage,CASES_NotHispanic,
+Texas,48,01-20-2021,Complete Coverage,CASES_NotHispanic,
+Utah,49,01-20-2021,Complete Coverage,CASES_NotHispanic,
+Vermont,50,01-20-2021,Complete Coverage,CASES_NotHispanic,
+Virginia,51,01-20-2021,Complete Coverage,CASES_NotHispanic,
+Washington,53,01-20-2021,Complete Coverage,CASES_NotHispanic,
+West Virginia,54,01-20-2021,Complete Coverage,CASES_NotHispanic,
+Wisconsin,55,01-20-2021,Complete Coverage,CASES_NotHispanic,
+Wyoming,56,01-20-2021,Complete Coverage,CASES_NotHispanic,
+Indiana,18,01-20-2021,Partial Coverage,CASES_NotHispanic,4.2849927581338445
+Minnesota,27,01-20-2021,Partial Coverage,CASES_NotHispanic,
+Indiana,18,01-20-2021,Complete Coverage,CASES_NotHispanic,0.9511204469229357
+Delaware,10,2021-01-19 00:00:00,Partial Coverage,CASES_NotHispanic,2.061512563424821
+North Dakota,38,01-20-2021,Partial Coverage,CASES_NotHispanic,7.72
+North Dakota,38,01-20-2021,Complete Coverage,CASES_NotHispanic,1.14
+Alabama,1,01-20-2021,Partial,CASES_NotHispanic,
+Alaska,2,01-20-2021,Partial,CASES_NotHispanic,29900.0
+Arizona,4,01-20-2021,Partial,CASES_NotHispanic,
+Arkansas,5,01-20-2021,Partial,CASES_NotHispanic,
+California,6,01-20-2021,Partial,CASES_NotHispanic,
+Colorado,8,01-20-2021,Partial,CASES_NotHispanic,
+Connecticut,9,01-20-2021,Partial,CASES_NotHispanic,
+Florida,12,01-20-2021,Partial,CASES_NotHispanic,
+Georgia,13,01-20-2021,Partial,CASES_NotHispanic,
+Hawaii,15,01-20-2021,Partial,CASES_NotHispanic,
+Idaho,16,01-20-2021,Partial,CASES_NotHispanic,
+Illinois,17,01-20-2021,Partial,CASES_NotHispanic,
+Iowa,19,01-20-2021,Partial,CASES_NotHispanic,
+Kansas,20,01-20-2021,Partial,CASES_NotHispanic,
+Kentucky,21,01-20-2021,Partial,CASES_NotHispanic,
+Louisiana,22,01-20-2021,Partial,CASES_NotHispanic,
+Maine,23,01-20-2021,Partial,CASES_NotHispanic,
+Maryland,24,01-20-2021,Partial,CASES_NotHispanic,
+Massachusetts,25,01-20-2021,Partial,CASES_NotHispanic,
+Michigan,26,01-20-2021,Partial,CASES_NotHispanic,
+Mississippi,28,01-20-2021,Partial,CASES_NotHispanic,106433.0
+Missouri,29,01-20-2021,Partial,CASES_NotHispanic,
+Montana,30,01-20-2021,Partial,CASES_NotHispanic,
+Nebraska,31,01-20-2021,Partial,CASES_NotHispanic,66288.0
+Nevada,32,01-20-2021,Partial,CASES_NotHispanic,
+New Hampshire,33,01-20-2021,Partial,CASES_NotHispanic,
+New Jersey,34,01-20-2021,Partial,CASES_NotHispanic,
+New Mexico,35,01-20-2021,Partial,CASES_NotHispanic,
+New York,36,01-20-2021,Partial,CASES_NotHispanic,
+North Carolina,37,01-20-2021,Partial,CASES_NotHispanic,
+Ohio,39,01-20-2021,Partial,CASES_NotHispanic,
+Oklahoma,40,01-20-2021,Partial,CASES_NotHispanic,
+Oregon,41,01-20-2021,Partial,CASES_NotHispanic,129010.0
+Pennsylvania,42,01-20-2021,Partial,CASES_NotHispanic,189113.0
+Rhode Island,44,01-20-2021,Partial,CASES_NotHispanic,
+South Carolina,45,01-20-2021,Partial,CASES_NotHispanic,
+South Dakota,46,01-20-2021,Partial,CASES_NotHispanic,
+Tennessee,47,01-20-2021,Partial,CASES_NotHispanic,191157.0
+Texas,48,01-20-2021,Partial,CASES_NotHispanic,
+Utah,49,01-20-2021,Partial,CASES_NotHispanic,
+Vermont,50,01-20-2021,Partial,CASES_NotHispanic,
+Virginia,51,01-20-2021,Partial,CASES_NotHispanic,
+Washington,53,01-20-2021,Partial,CASES_NotHispanic,
+West Virginia,54,01-20-2021,Partial,CASES_NotHispanic,
+Wisconsin,55,01-20-2021,Partial,CASES_NotHispanic,
+Wyoming,56,01-20-2021,Partial,CASES_NotHispanic,
+Alabama,1,01-20-2021,Complete,CASES_NotHispanic,
+Alaska,2,01-20-2021,Complete,CASES_NotHispanic,6800.0
+Arizona,4,01-20-2021,Complete,CASES_NotHispanic,
+Arkansas,5,01-20-2021,Complete,CASES_NotHispanic,
+California,6,01-20-2021,Complete,CASES_NotHispanic,
+Colorado,8,01-20-2021,Complete,CASES_NotHispanic,
+Connecticut,9,01-20-2021,Complete,CASES_NotHispanic,
+Florida,12,01-20-2021,Complete,CASES_NotHispanic,
+Georgia,13,01-20-2021,Complete,CASES_NotHispanic,
+Hawaii,15,01-20-2021,Complete,CASES_NotHispanic,
+Idaho,16,01-20-2021,Complete,CASES_NotHispanic,
+Illinois,17,01-20-2021,Complete,CASES_NotHispanic,
+Iowa,19,01-20-2021,Complete,CASES_NotHispanic,
+Kansas,20,01-20-2021,Complete,CASES_NotHispanic,
+Kentucky,21,01-20-2021,Complete,CASES_NotHispanic,
+Louisiana,22,01-20-2021,Complete,CASES_NotHispanic,
+Maine,23,01-20-2021,Complete,CASES_NotHispanic,
+Maryland,24,01-20-2021,Complete,CASES_NotHispanic,
+Massachusetts,25,01-20-2021,Complete,CASES_NotHispanic,
+Michigan,26,01-20-2021,Complete,CASES_NotHispanic,
+Minnesota,27,01-20-2021,Complete,CASES_NotHispanic,
+Mississippi,28,01-20-2021,Complete,CASES_NotHispanic,
+Missouri,29,01-20-2021,Complete,CASES_NotHispanic,
+Montana,30,01-20-2021,Complete,CASES_NotHispanic,
+Nebraska,31,01-20-2021,Complete,CASES_NotHispanic,12417.0
+Nevada,32,01-20-2021,Complete,CASES_NotHispanic,
+New Hampshire,33,01-20-2021,Complete,CASES_NotHispanic,
+New Jersey,34,01-20-2021,Complete,CASES_NotHispanic,
+New Mexico,35,01-20-2021,Complete,CASES_NotHispanic,
+New York,36,01-20-2021,Complete,CASES_NotHispanic,
+North Carolina,37,01-20-2021,Complete,CASES_NotHispanic,
+Ohio,39,01-20-2021,Complete,CASES_NotHispanic,
+Oklahoma,40,01-20-2021,Complete,CASES_NotHispanic,
+Oregon,41,01-20-2021,Complete,CASES_NotHispanic,
+Pennsylvania,42,01-20-2021,Complete,CASES_NotHispanic,39427.0
+Rhode Island,44,01-20-2021,Complete,CASES_NotHispanic,
+South Carolina,45,01-20-2021,Complete,CASES_NotHispanic,
+South Dakota,46,01-20-2021,Complete,CASES_NotHispanic,
+Tennessee,47,01-20-2021,Complete,CASES_NotHispanic,
+Texas,48,01-20-2021,Complete,CASES_NotHispanic,
+Utah,49,01-20-2021,Complete,CASES_NotHispanic,
+Vermont,50,01-20-2021,Complete,CASES_NotHispanic,
+Virginia,51,01-20-2021,Complete,CASES_NotHispanic,
+Washington,53,01-20-2021,Complete,CASES_NotHispanic,
+West Virginia,54,01-20-2021,Complete,CASES_NotHispanic,
+Wisconsin,55,01-20-2021,Complete,CASES_NotHispanic,
+Wyoming,56,01-20-2021,Complete,CASES_NotHispanic,
+Indiana,18,01-20-2021,Partial,CASES_NotHispanic,267506.356
+Minnesota,27,01-20-2021,Partial,CASES_NotHispanic,
+Indiana,18,01-20-2021,Complete,CASES_NotHispanic,59377.175
+Delaware,10,2021-01-19 00:00:00,Partial,CASES_NotHispanic,18149.0
+Alabama,1,01-20-2021,Partial Coverage,CASES_UnknownEthnicity,
+Alaska,2,01-20-2021,Partial Coverage,CASES_UnknownEthnicity,30.545454545454547
+Arizona,4,01-20-2021,Partial Coverage,CASES_UnknownEthnicity,
+Arkansas,5,01-20-2021,Partial Coverage,CASES_UnknownEthnicity,
+California,6,01-20-2021,Partial Coverage,CASES_UnknownEthnicity,
+Colorado,8,01-20-2021,Partial Coverage,CASES_UnknownEthnicity,
+Connecticut,9,01-20-2021,Partial Coverage,CASES_UnknownEthnicity,
+Florida,12,01-20-2021,Partial Coverage,CASES_UnknownEthnicity,100.0
+Georgia,13,01-20-2021,Partial Coverage,CASES_UnknownEthnicity,
+Hawaii,15,01-20-2021,Partial Coverage,CASES_UnknownEthnicity,
+Idaho,16,01-20-2021,Partial Coverage,CASES_UnknownEthnicity,
+Illinois,17,01-20-2021,Partial Coverage,CASES_UnknownEthnicity,
+Iowa,19,01-20-2021,Partial Coverage,CASES_UnknownEthnicity,
+Kansas,20,01-20-2021,Partial Coverage,CASES_UnknownEthnicity,
+Kentucky,21,01-20-2021,Partial Coverage,CASES_UnknownEthnicity,
+Louisiana,22,01-20-2021,Partial Coverage,CASES_UnknownEthnicity,
+Maine,23,01-20-2021,Partial Coverage,CASES_UnknownEthnicity,
+Maryland,24,01-20-2021,Partial Coverage,CASES_UnknownEthnicity,100.0
+Massachusetts,25,01-20-2021,Partial Coverage,CASES_UnknownEthnicity,100.0
+Michigan,26,01-20-2021,Partial Coverage,CASES_UnknownEthnicity,
+Mississippi,28,01-20-2021,Partial Coverage,CASES_UnknownEthnicity,5.4455968585465495
+Missouri,29,01-20-2021,Partial Coverage,CASES_UnknownEthnicity,
+Montana,30,01-20-2021,Partial Coverage,CASES_UnknownEthnicity,
+Nebraska,31,01-20-2021,Partial Coverage,CASES_UnknownEthnicity,24.116511281513763
+Nevada,32,01-20-2021,Partial Coverage,CASES_UnknownEthnicity,
+New Hampshire,33,01-20-2021,Partial Coverage,CASES_UnknownEthnicity,
+New Jersey,34,01-20-2021,Partial Coverage,CASES_UnknownEthnicity,100.0
+New Mexico,35,01-20-2021,Partial Coverage,CASES_UnknownEthnicity,
+New York,36,01-20-2021,Partial Coverage,CASES_UnknownEthnicity,
+North Carolina,37,01-20-2021,Partial Coverage,CASES_UnknownEthnicity,
+Ohio,39,01-20-2021,Partial Coverage,CASES_UnknownEthnicity,
+Oklahoma,40,01-20-2021,Partial Coverage,CASES_UnknownEthnicity,100.0
+Oregon,41,01-20-2021,Partial Coverage,CASES_UnknownEthnicity,24.412805927289867
+Pennsylvania,42,01-20-2021,Partial Coverage,CASES_UnknownEthnicity,44.25109065857732
+Rhode Island,44,01-20-2021,Partial Coverage,CASES_UnknownEthnicity,
+South Carolina,45,01-20-2021,Partial Coverage,CASES_UnknownEthnicity,
+South Dakota,46,01-20-2021,Partial Coverage,CASES_UnknownEthnicity,100.0
+Tennessee,47,01-20-2021,Partial Coverage,CASES_UnknownEthnicity,31.447288810999144
+Texas,48,01-20-2021,Partial Coverage,CASES_UnknownEthnicity,100.0
+Utah,49,01-20-2021,Partial Coverage,CASES_UnknownEthnicity,100.0
+Vermont,50,01-20-2021,Partial Coverage,CASES_UnknownEthnicity,
+Virginia,51,01-20-2021,Partial Coverage,CASES_UnknownEthnicity,100.0
+Washington,53,01-20-2021,Partial Coverage,CASES_UnknownEthnicity,
+West Virginia,54,01-20-2021,Partial Coverage,CASES_UnknownEthnicity,100.0
+Wisconsin,55,01-20-2021,Partial Coverage,CASES_UnknownEthnicity,
+Wyoming,56,01-20-2021,Partial Coverage,CASES_UnknownEthnicity,
+Alabama,1,01-20-2021,Complete Coverage,CASES_UnknownEthnicity,
+Alaska,2,01-20-2021,Complete Coverage,CASES_UnknownEthnicity,36.04672385471802
+Arizona,4,01-20-2021,Complete Coverage,CASES_UnknownEthnicity,
+Arkansas,5,01-20-2021,Complete Coverage,CASES_UnknownEthnicity,
+California,6,01-20-2021,Complete Coverage,CASES_UnknownEthnicity,
+Colorado,8,01-20-2021,Complete Coverage,CASES_UnknownEthnicity,100.0
+Connecticut,9,01-20-2021,Complete Coverage,CASES_UnknownEthnicity,
+Florida,12,01-20-2021,Complete Coverage,CASES_UnknownEthnicity,100.0
+Georgia,13,01-20-2021,Complete Coverage,CASES_UnknownEthnicity,
+Hawaii,15,01-20-2021,Complete Coverage,CASES_UnknownEthnicity,
+Idaho,16,01-20-2021,Complete Coverage,CASES_UnknownEthnicity,
+Illinois,17,01-20-2021,Complete Coverage,CASES_UnknownEthnicity,
+Iowa,19,01-20-2021,Complete Coverage,CASES_UnknownEthnicity,
+Kansas,20,01-20-2021,Complete Coverage,CASES_UnknownEthnicity,
+Kentucky,21,01-20-2021,Complete Coverage,CASES_UnknownEthnicity,
+Louisiana,22,01-20-2021,Complete Coverage,CASES_UnknownEthnicity,
+Maine,23,01-20-2021,Complete Coverage,CASES_UnknownEthnicity,
+Maryland,24,01-20-2021,Complete Coverage,CASES_UnknownEthnicity,100.0
+Massachusetts,25,01-20-2021,Complete Coverage,CASES_UnknownEthnicity,100.0
+Michigan,26,01-20-2021,Complete Coverage,CASES_UnknownEthnicity,
+Minnesota,27,01-20-2021,Complete Coverage,CASES_UnknownEthnicity,
+Mississippi,28,01-20-2021,Complete Coverage,CASES_UnknownEthnicity,100.0
+Missouri,29,01-20-2021,Complete Coverage,CASES_UnknownEthnicity,
+Montana,30,01-20-2021,Complete Coverage,CASES_UnknownEthnicity,
+Nebraska,31,01-20-2021,Complete Coverage,CASES_UnknownEthnicity,17.009249743062693
+Nevada,32,01-20-2021,Complete Coverage,CASES_UnknownEthnicity,
+New Hampshire,33,01-20-2021,Complete Coverage,CASES_UnknownEthnicity,
+New Jersey,34,01-20-2021,Complete Coverage,CASES_UnknownEthnicity,
+New Mexico,35,01-20-2021,Complete Coverage,CASES_UnknownEthnicity,
+New York,36,01-20-2021,Complete Coverage,CASES_UnknownEthnicity,
+North Carolina,37,01-20-2021,Complete Coverage,CASES_UnknownEthnicity,
+Ohio,39,01-20-2021,Complete Coverage,CASES_UnknownEthnicity,
+Oklahoma,40,01-20-2021,Complete Coverage,CASES_UnknownEthnicity,100.0
+Oregon,41,01-20-2021,Complete Coverage,CASES_UnknownEthnicity,100.0
+Pennsylvania,42,01-20-2021,Complete Coverage,CASES_UnknownEthnicity,30.251565833849543
+Rhode Island,44,01-20-2021,Complete Coverage,CASES_UnknownEthnicity,100.0
+South Carolina,45,01-20-2021,Complete Coverage,CASES_UnknownEthnicity,
+South Dakota,46,01-20-2021,Complete Coverage,CASES_UnknownEthnicity,100.0
+Tennessee,47,01-20-2021,Complete Coverage,CASES_UnknownEthnicity,100.0
+Texas,48,01-20-2021,Complete Coverage,CASES_UnknownEthnicity,100.0
+Utah,49,01-20-2021,Complete Coverage,CASES_UnknownEthnicity,100.0
+Vermont,50,01-20-2021,Complete Coverage,CASES_UnknownEthnicity,100.0
+Virginia,51,01-20-2021,Complete Coverage,CASES_UnknownEthnicity,100.0
+Washington,53,01-20-2021,Complete Coverage,CASES_UnknownEthnicity,
+West Virginia,54,01-20-2021,Complete Coverage,CASES_UnknownEthnicity,100.0
+Wisconsin,55,01-20-2021,Complete Coverage,CASES_UnknownEthnicity,
+Wyoming,56,01-20-2021,Complete Coverage,CASES_UnknownEthnicity,100.0
+Indiana,18,01-20-2021,Partial Coverage,CASES_UnknownEthnicity,8.89999999999998
+Minnesota,27,01-20-2021,Partial Coverage,CASES_UnknownEthnicity,100.0
+Indiana,18,01-20-2021,Complete Coverage,CASES_UnknownEthnicity,3.8999999999999995
+Delaware,10,2021-01-19 00:00:00,Partial Coverage,CASES_UnknownEthnicity,58.53145792245508
+North Dakota,38,01-20-2021,Partial Coverage,CASES_UnknownEthnicity,3.67
+North Dakota,38,01-20-2021,Complete Coverage,CASES_UnknownEthnicity,0.71
+Alabama,1,01-20-2021,Partial,CASES_UnknownEthnicity,
+Alaska,2,01-20-2021,Partial,CASES_UnknownEthnicity,30.545454545454547
+Arizona,4,01-20-2021,Partial,CASES_UnknownEthnicity,
+Arkansas,5,01-20-2021,Partial,CASES_UnknownEthnicity,
+California,6,01-20-2021,Partial,CASES_UnknownEthnicity,
+Colorado,8,01-20-2021,Partial,CASES_UnknownEthnicity,
+Connecticut,9,01-20-2021,Partial,CASES_UnknownEthnicity,
+Florida,12,01-20-2021,Partial,CASES_UnknownEthnicity,100.0
+Georgia,13,01-20-2021,Partial,CASES_UnknownEthnicity,
+Hawaii,15,01-20-2021,Partial,CASES_UnknownEthnicity,
+Idaho,16,01-20-2021,Partial,CASES_UnknownEthnicity,
+Illinois,17,01-20-2021,Partial,CASES_UnknownEthnicity,
+Iowa,19,01-20-2021,Partial,CASES_UnknownEthnicity,
+Kansas,20,01-20-2021,Partial,CASES_UnknownEthnicity,
+Kentucky,21,01-20-2021,Partial,CASES_UnknownEthnicity,
+Louisiana,22,01-20-2021,Partial,CASES_UnknownEthnicity,
+Maine,23,01-20-2021,Partial,CASES_UnknownEthnicity,
+Maryland,24,01-20-2021,Partial,CASES_UnknownEthnicity,100.0
+Massachusetts,25,01-20-2021,Partial,CASES_UnknownEthnicity,100.0
+Michigan,26,01-20-2021,Partial,CASES_UnknownEthnicity,
+Mississippi,28,01-20-2021,Partial,CASES_UnknownEthnicity,5.4455968585465495
+Missouri,29,01-20-2021,Partial,CASES_UnknownEthnicity,
+Montana,30,01-20-2021,Partial,CASES_UnknownEthnicity,
+Nebraska,31,01-20-2021,Partial,CASES_UnknownEthnicity,24.116511281513763
+Nevada,32,01-20-2021,Partial,CASES_UnknownEthnicity,
+New Hampshire,33,01-20-2021,Partial,CASES_UnknownEthnicity,
+New Jersey,34,01-20-2021,Partial,CASES_UnknownEthnicity,100.0
+New Mexico,35,01-20-2021,Partial,CASES_UnknownEthnicity,
+New York,36,01-20-2021,Partial,CASES_UnknownEthnicity,
+North Carolina,37,01-20-2021,Partial,CASES_UnknownEthnicity,
+Ohio,39,01-20-2021,Partial,CASES_UnknownEthnicity,
+Oklahoma,40,01-20-2021,Partial,CASES_UnknownEthnicity,100.0
+Oregon,41,01-20-2021,Partial,CASES_UnknownEthnicity,24.412805927289867
+Pennsylvania,42,01-20-2021,Partial,CASES_UnknownEthnicity,44.25109065857732
+Rhode Island,44,01-20-2021,Partial,CASES_UnknownEthnicity,
+South Carolina,45,01-20-2021,Partial,CASES_UnknownEthnicity,
+South Dakota,46,01-20-2021,Partial,CASES_UnknownEthnicity,100.0
+Tennessee,47,01-20-2021,Partial,CASES_UnknownEthnicity,31.447288810999144
+Texas,48,01-20-2021,Partial,CASES_UnknownEthnicity,100.0
+Utah,49,01-20-2021,Partial,CASES_UnknownEthnicity,100.0
+Vermont,50,01-20-2021,Partial,CASES_UnknownEthnicity,
+Virginia,51,01-20-2021,Partial,CASES_UnknownEthnicity,100.0
+Washington,53,01-20-2021,Partial,CASES_UnknownEthnicity,
+West Virginia,54,01-20-2021,Partial,CASES_UnknownEthnicity,100.0
+Wisconsin,55,01-20-2021,Partial,CASES_UnknownEthnicity,
+Wyoming,56,01-20-2021,Partial,CASES_UnknownEthnicity,
+Alabama,1,01-20-2021,Complete,CASES_UnknownEthnicity,
+Alaska,2,01-20-2021,Complete,CASES_UnknownEthnicity,36.04672385471802
+Arizona,4,01-20-2021,Complete,CASES_UnknownEthnicity,
+Arkansas,5,01-20-2021,Complete,CASES_UnknownEthnicity,
+California,6,01-20-2021,Complete,CASES_UnknownEthnicity,
+Colorado,8,01-20-2021,Complete,CASES_UnknownEthnicity,100.0
+Connecticut,9,01-20-2021,Complete,CASES_UnknownEthnicity,
+Florida,12,01-20-2021,Complete,CASES_UnknownEthnicity,100.0
+Georgia,13,01-20-2021,Complete,CASES_UnknownEthnicity,
+Hawaii,15,01-20-2021,Complete,CASES_UnknownEthnicity,
+Idaho,16,01-20-2021,Complete,CASES_UnknownEthnicity,
+Illinois,17,01-20-2021,Complete,CASES_UnknownEthnicity,
+Iowa,19,01-20-2021,Complete,CASES_UnknownEthnicity,
+Kansas,20,01-20-2021,Complete,CASES_UnknownEthnicity,
+Kentucky,21,01-20-2021,Complete,CASES_UnknownEthnicity,
+Louisiana,22,01-20-2021,Complete,CASES_UnknownEthnicity,
+Maine,23,01-20-2021,Complete,CASES_UnknownEthnicity,
+Maryland,24,01-20-2021,Complete,CASES_UnknownEthnicity,100.0
+Massachusetts,25,01-20-2021,Complete,CASES_UnknownEthnicity,100.0
+Michigan,26,01-20-2021,Complete,CASES_UnknownEthnicity,
+Minnesota,27,01-20-2021,Complete,CASES_UnknownEthnicity,
+Mississippi,28,01-20-2021,Complete,CASES_UnknownEthnicity,100.0
+Missouri,29,01-20-2021,Complete,CASES_UnknownEthnicity,
+Montana,30,01-20-2021,Complete,CASES_UnknownEthnicity,
+Nebraska,31,01-20-2021,Complete,CASES_UnknownEthnicity,17.009249743062693
+Nevada,32,01-20-2021,Complete,CASES_UnknownEthnicity,
+New Hampshire,33,01-20-2021,Complete,CASES_UnknownEthnicity,
+New Jersey,34,01-20-2021,Complete,CASES_UnknownEthnicity,
+New Mexico,35,01-20-2021,Complete,CASES_UnknownEthnicity,
+New York,36,01-20-2021,Complete,CASES_UnknownEthnicity,
+North Carolina,37,01-20-2021,Complete,CASES_UnknownEthnicity,
+Ohio,39,01-20-2021,Complete,CASES_UnknownEthnicity,
+Oklahoma,40,01-20-2021,Complete,CASES_UnknownEthnicity,100.0
+Oregon,41,01-20-2021,Complete,CASES_UnknownEthnicity,100.0
+Pennsylvania,42,01-20-2021,Complete,CASES_UnknownEthnicity,30.251565833849543
+Rhode Island,44,01-20-2021,Complete,CASES_UnknownEthnicity,100.0
+South Carolina,45,01-20-2021,Complete,CASES_UnknownEthnicity,
+South Dakota,46,01-20-2021,Complete,CASES_UnknownEthnicity,100.0
+Tennessee,47,01-20-2021,Complete,CASES_UnknownEthnicity,100.0
+Texas,48,01-20-2021,Complete,CASES_UnknownEthnicity,100.0
+Utah,49,01-20-2021,Complete,CASES_UnknownEthnicity,100.0
+Vermont,50,01-20-2021,Complete,CASES_UnknownEthnicity,100.0
+Virginia,51,01-20-2021,Complete,CASES_UnknownEthnicity,100.0
+Washington,53,01-20-2021,Complete,CASES_UnknownEthnicity,
+West Virginia,54,01-20-2021,Complete,CASES_UnknownEthnicity,100.0
+Wisconsin,55,01-20-2021,Complete,CASES_UnknownEthnicity,
+Wyoming,56,01-20-2021,Complete,CASES_UnknownEthnicity,100.0
+Indiana,18,01-20-2021,Partial,CASES_UnknownEthnicity,8.89999999999998
+Minnesota,27,01-20-2021,Partial,CASES_UnknownEthnicity,100.0
+Indiana,18,01-20-2021,Complete,CASES_UnknownEthnicity,3.8999999999999995
+Delaware,10,2021-01-19 00:00:00,Partial,CASES_UnknownEthnicity,58.53145792245508
+Alabama,1,01-20-2021,Partial Coverage,CASES_Child,
+Alaska,2,01-20-2021,Partial Coverage,CASES_Child,0.20680110506026397
+Arizona,4,01-20-2021,Partial Coverage,CASES_Child,
+Arkansas,5,01-20-2021,Partial Coverage,CASES_Child,
+California,6,01-20-2021,Partial Coverage,CASES_Child,
+Colorado,8,01-20-2021,Partial Coverage,CASES_Child,
+Connecticut,9,01-20-2021,Partial Coverage,CASES_Child,
+Florida,12,01-20-2021,Partial Coverage,CASES_Child,0.40361119451519817
+Georgia,13,01-20-2021,Partial Coverage,CASES_Child,
+Hawaii,15,01-20-2021,Partial Coverage,CASES_Child,
+Idaho,16,01-20-2021,Partial Coverage,CASES_Child,
+Illinois,17,01-20-2021,Partial Coverage,CASES_Child,
+Iowa,19,01-20-2021,Partial Coverage,CASES_Child,
+Kansas,20,01-20-2021,Partial Coverage,CASES_Child,
+Kentucky,21,01-20-2021,Partial Coverage,CASES_Child,
+Louisiana,22,01-20-2021,Partial Coverage,CASES_Child,
+Maine,23,01-20-2021,Partial Coverage,CASES_Child,
+Maryland,24,01-20-2021,Partial Coverage,CASES_Child,0.09253612658489341
+Massachusetts,25,01-20-2021,Partial Coverage,CASES_Child,0.07010814715955153
+Michigan,26,01-20-2021,Partial Coverage,CASES_Child,
+Mississippi,28,01-20-2021,Partial Coverage,CASES_Child,0.3810305013901184
+Missouri,29,01-20-2021,Partial Coverage,CASES_Child,
+Montana,30,01-20-2021,Partial Coverage,CASES_Child,
+Nebraska,31,01-20-2021,Partial Coverage,CASES_Child,0.15085661447466225
+Nevada,32,01-20-2021,Partial Coverage,CASES_Child,
+New Hampshire,33,01-20-2021,Partial Coverage,CASES_Child,
+New Jersey,34,01-20-2021,Partial Coverage,CASES_Child,0.006249359196566758
+New Mexico,35,01-20-2021,Partial Coverage,CASES_Child,
+New York,36,01-20-2021,Partial Coverage,CASES_Child,
+North Carolina,37,01-20-2021,Partial Coverage,CASES_Child,
+Ohio,39,01-20-2021,Partial Coverage,CASES_Child,
+Oklahoma,40,01-20-2021,Partial Coverage,CASES_Child,
+Oregon,41,01-20-2021,Partial Coverage,CASES_Child,0.14334702754162576
+Pennsylvania,42,01-20-2021,Partial Coverage,CASES_Child,0.08100137548831977
+Rhode Island,44,01-20-2021,Partial Coverage,CASES_Child,
+South Carolina,45,01-20-2021,Partial Coverage,CASES_Child,
+South Dakota,46,01-20-2021,Partial Coverage,CASES_Child,0.20436624536228962
+Tennessee,47,01-20-2021,Partial Coverage,CASES_Child,0.11261925406527273
+Texas,48,01-20-2021,Partial Coverage,CASES_Child,
+Utah,49,01-20-2021,Partial Coverage,CASES_Child,
+Vermont,50,01-20-2021,Partial Coverage,CASES_Child,
+Virginia,51,01-20-2021,Partial Coverage,CASES_Child,0.0575034963545623
+Washington,53,01-20-2021,Partial Coverage,CASES_Child,
+West Virginia,54,01-20-2021,Partial Coverage,CASES_Child,1.248135151604295
+Wisconsin,55,01-20-2021,Partial Coverage,CASES_Child,
+Wyoming,56,01-20-2021,Partial Coverage,CASES_Child,
+Alabama,1,01-20-2021,Complete Coverage,CASES_Child,
+Alaska,2,01-20-2021,Complete Coverage,CASES_Child,0.029164258405934663
+Arizona,4,01-20-2021,Complete Coverage,CASES_Child,
+Arkansas,5,01-20-2021,Complete Coverage,CASES_Child,
+California,6,01-20-2021,Complete Coverage,CASES_Child,
+Colorado,8,01-20-2021,Complete Coverage,CASES_Child,
+Connecticut,9,01-20-2021,Complete Coverage,CASES_Child,
+Florida,12,01-20-2021,Complete Coverage,CASES_Child,0.05678681848272328
+Georgia,13,01-20-2021,Complete Coverage,CASES_Child,
+Hawaii,15,01-20-2021,Complete Coverage,CASES_Child,
+Idaho,16,01-20-2021,Complete Coverage,CASES_Child,
+Illinois,17,01-20-2021,Complete Coverage,CASES_Child,
+Iowa,19,01-20-2021,Complete Coverage,CASES_Child,
+Kansas,20,01-20-2021,Complete Coverage,CASES_Child,
+Kentucky,21,01-20-2021,Complete Coverage,CASES_Child,
+Louisiana,22,01-20-2021,Complete Coverage,CASES_Child,
+Maine,23,01-20-2021,Complete Coverage,CASES_Child,
+Maryland,24,01-20-2021,Complete Coverage,CASES_Child,0.0023346270468665767
+Massachusetts,25,01-20-2021,Complete Coverage,CASES_Child,0.005101281110921153
+Michigan,26,01-20-2021,Complete Coverage,CASES_Child,
+Minnesota,27,01-20-2021,Complete Coverage,CASES_Child,
+Mississippi,28,01-20-2021,Complete Coverage,CASES_Child,
+Missouri,29,01-20-2021,Complete Coverage,CASES_Child,
+Montana,30,01-20-2021,Complete Coverage,CASES_Child,
+Nebraska,31,01-20-2021,Complete Coverage,CASES_Child,0.004982054639189639
+Nevada,32,01-20-2021,Complete Coverage,CASES_Child,
+New Hampshire,33,01-20-2021,Complete Coverage,CASES_Child,
+New Jersey,34,01-20-2021,Complete Coverage,CASES_Child,
+New Mexico,35,01-20-2021,Complete Coverage,CASES_Child,
+New York,36,01-20-2021,Complete Coverage,CASES_Child,
+North Carolina,37,01-20-2021,Complete Coverage,CASES_Child,
+Ohio,39,01-20-2021,Complete Coverage,CASES_Child,
+Oklahoma,40,01-20-2021,Complete Coverage,CASES_Child,
+Oregon,41,01-20-2021,Complete Coverage,CASES_Child,
+Pennsylvania,42,01-20-2021,Complete Coverage,CASES_Child,0.0061759532655263644
+Rhode Island,44,01-20-2021,Complete Coverage,CASES_Child,
+South Carolina,45,01-20-2021,Complete Coverage,CASES_Child,
+South Dakota,46,01-20-2021,Complete Coverage,CASES_Child,
+Tennessee,47,01-20-2021,Complete Coverage,CASES_Child,
+Texas,48,01-20-2021,Complete Coverage,CASES_Child,
+Utah,49,01-20-2021,Complete Coverage,CASES_Child,
+Vermont,50,01-20-2021,Complete Coverage,CASES_Child,
+Virginia,51,01-20-2021,Complete Coverage,CASES_Child,0.001876216371356971
+Washington,53,01-20-2021,Complete Coverage,CASES_Child,
+West Virginia,54,01-20-2021,Complete Coverage,CASES_Child,
+Wisconsin,55,01-20-2021,Complete Coverage,CASES_Child,
+Wyoming,56,01-20-2021,Complete Coverage,CASES_Child,
+Indiana,18,01-20-2021,Partial Coverage,CASES_Child,0.10958654580878331
+Minnesota,27,01-20-2021,Partial Coverage,CASES_Child,
+Indiana,18,01-20-2021,Complete Coverage,CASES_Child,0.015331761649712523
+Delaware,10,2021-01-19 00:00:00,Partial Coverage,CASES_Child,0.0
+North Dakota,38,01-20-2021,Partial Coverage,CASES_Child,0.0
+North Dakota,38,01-20-2021,Complete Coverage,CASES_Child,0.0
+Alabama,1,01-20-2021,Partial,CASES_Child,
+Alaska,2,01-20-2021,Partial,CASES_Child,390.0
+Arizona,4,01-20-2021,Partial,CASES_Child,
+Arkansas,5,01-20-2021,Partial,CASES_Child,
+California,6,01-20-2021,Partial,CASES_Child,
+Colorado,8,01-20-2021,Partial,CASES_Child,
+Connecticut,9,01-20-2021,Partial,CASES_Child,
+Florida,12,01-20-2021,Partial,CASES_Child,18053.0
+Georgia,13,01-20-2021,Partial,CASES_Child,
+Hawaii,15,01-20-2021,Partial,CASES_Child,
+Idaho,16,01-20-2021,Partial,CASES_Child,
+Illinois,17,01-20-2021,Partial,CASES_Child,
+Iowa,19,01-20-2021,Partial,CASES_Child,
+Kansas,20,01-20-2021,Partial,CASES_Child,
+Kentucky,21,01-20-2021,Partial,CASES_Child,
+Louisiana,22,01-20-2021,Partial,CASES_Child,
+Maine,23,01-20-2021,Partial,CASES_Child,
+Maryland,24,01-20-2021,Partial,CASES_Child,1308.0
+Massachusetts,25,01-20-2021,Partial,CASES_Child,1017.0
+Michigan,26,01-20-2021,Partial,CASES_Child,
+Mississippi,28,01-20-2021,Partial,CASES_Child,2815.0
+Missouri,29,01-20-2021,Partial,CASES_Child,
+Montana,30,01-20-2021,Partial,CASES_Child,
+Nebraska,31,01-20-2021,Partial,CASES_Child,757.0
+Nevada,32,01-20-2021,Partial,CASES_Child,
+New Hampshire,33,01-20-2021,Partial,CASES_Child,
+New Jersey,34,01-20-2021,Partial,CASES_Child,128.0
+New Mexico,35,01-20-2021,Partial,CASES_Child,
+New York,36,01-20-2021,Partial,CASES_Child,
+North Carolina,37,01-20-2021,Partial,CASES_Child,
+Ohio,39,01-20-2021,Partial,CASES_Child,
+Oklahoma,40,01-20-2021,Partial,CASES_Child,
+Oregon,41,01-20-2021,Partial,CASES_Child,1313.0
+Pennsylvania,42,01-20-2021,Partial,CASES_Child,2269.0
+Rhode Island,44,01-20-2021,Partial,CASES_Child,
+South Carolina,45,01-20-2021,Partial,CASES_Child,
+South Dakota,46,01-20-2021,Partial,CASES_Child,466.0
+Tennessee,47,01-20-2021,Partial,CASES_Child,1795.0
+Texas,48,01-20-2021,Partial,CASES_Child,
+Utah,49,01-20-2021,Partial,CASES_Child,
+Vermont,50,01-20-2021,Partial,CASES_Child,
+Virginia,51,01-20-2021,Partial,CASES_Child,1134.0
+Washington,53,01-20-2021,Partial,CASES_Child,
+West Virginia,54,01-20-2021,Partial,CASES_Child,4752.0
+Wisconsin,55,01-20-2021,Partial,CASES_Child,
+Wyoming,56,01-20-2021,Partial,CASES_Child,
+Alabama,1,01-20-2021,Complete,CASES_Child,
+Alaska,2,01-20-2021,Complete,CASES_Child,55.0
+Arizona,4,01-20-2021,Complete,CASES_Child,
+Arkansas,5,01-20-2021,Complete,CASES_Child,
+California,6,01-20-2021,Complete,CASES_Child,
+Colorado,8,01-20-2021,Complete,CASES_Child,
+Connecticut,9,01-20-2021,Complete,CASES_Child,
+Florida,12,01-20-2021,Complete,CASES_Child,2540.0
+Georgia,13,01-20-2021,Complete,CASES_Child,
+Hawaii,15,01-20-2021,Complete,CASES_Child,
+Idaho,16,01-20-2021,Complete,CASES_Child,
+Illinois,17,01-20-2021,Complete,CASES_Child,
+Iowa,19,01-20-2021,Complete,CASES_Child,
+Kansas,20,01-20-2021,Complete,CASES_Child,
+Kentucky,21,01-20-2021,Complete,CASES_Child,
+Louisiana,22,01-20-2021,Complete,CASES_Child,
+Maine,23,01-20-2021,Complete,CASES_Child,
+Maryland,24,01-20-2021,Complete,CASES_Child,33.0
+Massachusetts,25,01-20-2021,Complete,CASES_Child,74.0
+Michigan,26,01-20-2021,Complete,CASES_Child,
+Minnesota,27,01-20-2021,Complete,CASES_Child,
+Mississippi,28,01-20-2021,Complete,CASES_Child,
+Missouri,29,01-20-2021,Complete,CASES_Child,
+Montana,30,01-20-2021,Complete,CASES_Child,
+Nebraska,31,01-20-2021,Complete,CASES_Child,25.0
+Nevada,32,01-20-2021,Complete,CASES_Child,
+New Hampshire,33,01-20-2021,Complete,CASES_Child,
+New Jersey,34,01-20-2021,Complete,CASES_Child,
+New Mexico,35,01-20-2021,Complete,CASES_Child,
+New York,36,01-20-2021,Complete,CASES_Child,
+North Carolina,37,01-20-2021,Complete,CASES_Child,
+Ohio,39,01-20-2021,Complete,CASES_Child,
+Oklahoma,40,01-20-2021,Complete,CASES_Child,
+Oregon,41,01-20-2021,Complete,CASES_Child,
+Pennsylvania,42,01-20-2021,Complete,CASES_Child,173.0
+Rhode Island,44,01-20-2021,Complete,CASES_Child,
+South Carolina,45,01-20-2021,Complete,CASES_Child,
+South Dakota,46,01-20-2021,Complete,CASES_Child,
+Tennessee,47,01-20-2021,Complete,CASES_Child,
+Texas,48,01-20-2021,Complete,CASES_Child,
+Utah,49,01-20-2021,Complete,CASES_Child,
+Vermont,50,01-20-2021,Complete,CASES_Child,
+Virginia,51,01-20-2021,Complete,CASES_Child,37.0
+Washington,53,01-20-2021,Complete,CASES_Child,
+West Virginia,54,01-20-2021,Complete,CASES_Child,
+Wisconsin,55,01-20-2021,Complete,CASES_Child,
+Wyoming,56,01-20-2021,Complete,CASES_Child,
+Indiana,18,01-20-2021,Partial,CASES_Child,1815.654
+Minnesota,27,01-20-2021,Partial,CASES_Child,
+Indiana,18,01-20-2021,Complete,CASES_Child,254.02
+Delaware,10,2021-01-19 00:00:00,Partial,CASES_Child,0.0
+Alabama,1,01-20-2021,Partial Coverage,CASES_Adult,
+Alaska,2,01-20-2021,Partial Coverage,CASES_Adult,6.129185507553175
+Arizona,4,01-20-2021,Partial Coverage,CASES_Adult,
+Arkansas,5,01-20-2021,Partial Coverage,CASES_Adult,
+California,6,01-20-2021,Partial Coverage,CASES_Adult,
+Colorado,8,01-20-2021,Partial Coverage,CASES_Adult,
+Connecticut,9,01-20-2021,Partial Coverage,CASES_Adult,
+Florida,12,01-20-2021,Partial Coverage,CASES_Adult,3.2411854880839046
+Georgia,13,01-20-2021,Partial Coverage,CASES_Adult,
+Hawaii,15,01-20-2021,Partial Coverage,CASES_Adult,
+Idaho,16,01-20-2021,Partial Coverage,CASES_Adult,
+Illinois,17,01-20-2021,Partial Coverage,CASES_Adult,
+Iowa,19,01-20-2021,Partial Coverage,CASES_Adult,
+Kansas,20,01-20-2021,Partial Coverage,CASES_Adult,
+Kentucky,21,01-20-2021,Partial Coverage,CASES_Adult,
+Louisiana,22,01-20-2021,Partial Coverage,CASES_Adult,
+Maine,23,01-20-2021,Partial Coverage,CASES_Adult,
+Maryland,24,01-20-2021,Partial Coverage,CASES_Adult,5.001230998271125
+Massachusetts,25,01-20-2021,Partial Coverage,CASES_Adult,4.889478018368066
+Michigan,26,01-20-2021,Partial Coverage,CASES_Adult,
+Mississippi,28,01-20-2021,Partial Coverage,CASES_Adult,3.9434776735786357
+Missouri,29,01-20-2021,Partial Coverage,CASES_Adult,
+Montana,30,01-20-2021,Partial Coverage,CASES_Adult,
+Nebraska,31,01-20-2021,Partial Coverage,CASES_Adult,6.491320042538532
+Nevada,32,01-20-2021,Partial Coverage,CASES_Adult,
+New Hampshire,33,01-20-2021,Partial Coverage,CASES_Adult,
+New Jersey,34,01-20-2021,Partial Coverage,CASES_Adult,5.965590474145131
+New Mexico,35,01-20-2021,Partial Coverage,CASES_Adult,
+New York,36,01-20-2021,Partial Coverage,CASES_Adult,
+North Carolina,37,01-20-2021,Partial Coverage,CASES_Adult,
+Ohio,39,01-20-2021,Partial Coverage,CASES_Adult,
+Oklahoma,40,01-20-2021,Partial Coverage,CASES_Adult,
+Oregon,41,01-20-2021,Partial Coverage,CASES_Adult,6.034210441443435
+Pennsylvania,42,01-20-2021,Partial Coverage,CASES_Adult,4.090205763965428
+Rhode Island,44,01-20-2021,Partial Coverage,CASES_Adult,
+South Carolina,45,01-20-2021,Partial Coverage,CASES_Adult,
+South Dakota,46,01-20-2021,Partial Coverage,CASES_Adult,7.102679702369876
+Tennessee,47,01-20-2021,Partial Coverage,CASES_Adult,4.435446828335765
+Texas,48,01-20-2021,Partial Coverage,CASES_Adult,4.610172211321745
+Utah,49,01-20-2021,Partial Coverage,CASES_Adult,
+Vermont,50,01-20-2021,Partial Coverage,CASES_Adult,
+Virginia,51,01-20-2021,Partial Coverage,CASES_Adult,4.962760842568694
+Washington,53,01-20-2021,Partial Coverage,CASES_Adult,
+West Virginia,54,01-20-2021,Partial Coverage,CASES_Adult,10.34241491009709
+Wisconsin,55,01-20-2021,Partial Coverage,CASES_Adult,
+Wyoming,56,01-20-2021,Partial Coverage,CASES_Adult,
+Alabama,1,01-20-2021,Complete Coverage,CASES_Adult,
+Alaska,2,01-20-2021,Complete Coverage,CASES_Adult,1.8953706188015842
+Arizona,4,01-20-2021,Complete Coverage,CASES_Adult,
+Arkansas,5,01-20-2021,Complete Coverage,CASES_Adult,
+California,6,01-20-2021,Complete Coverage,CASES_Adult,
+Colorado,8,01-20-2021,Complete Coverage,CASES_Adult,
+Connecticut,9,01-20-2021,Complete Coverage,CASES_Adult,
+Florida,12,01-20-2021,Complete Coverage,CASES_Adult,0.6597627863334452
+Georgia,13,01-20-2021,Complete Coverage,CASES_Adult,
+Hawaii,15,01-20-2021,Complete Coverage,CASES_Adult,
+Idaho,16,01-20-2021,Complete Coverage,CASES_Adult,
+Illinois,17,01-20-2021,Complete Coverage,CASES_Adult,
+Iowa,19,01-20-2021,Complete Coverage,CASES_Adult,
+Kansas,20,01-20-2021,Complete Coverage,CASES_Adult,
+Kentucky,21,01-20-2021,Complete Coverage,CASES_Adult,
+Louisiana,22,01-20-2021,Complete Coverage,CASES_Adult,
+Maine,23,01-20-2021,Complete Coverage,CASES_Adult,
+Maryland,24,01-20-2021,Complete Coverage,CASES_Adult,0.535583153857133
+Massachusetts,25,01-20-2021,Complete Coverage,CASES_Adult,0.8437238078635174
+Michigan,26,01-20-2021,Complete Coverage,CASES_Adult,
+Minnesota,27,01-20-2021,Complete Coverage,CASES_Adult,
+Mississippi,28,01-20-2021,Complete Coverage,CASES_Adult,
+Missouri,29,01-20-2021,Complete Coverage,CASES_Adult,
+Montana,30,01-20-2021,Complete Coverage,CASES_Adult,
+Nebraska,31,01-20-2021,Complete Coverage,CASES_Adult,1.4383216252515116
+Nevada,32,01-20-2021,Complete Coverage,CASES_Adult,
+New Hampshire,33,01-20-2021,Complete Coverage,CASES_Adult,
+New Jersey,34,01-20-2021,Complete Coverage,CASES_Adult,
+New Mexico,35,01-20-2021,Complete Coverage,CASES_Adult,
+New York,36,01-20-2021,Complete Coverage,CASES_Adult,
+North Carolina,37,01-20-2021,Complete Coverage,CASES_Adult,
+Ohio,39,01-20-2021,Complete Coverage,CASES_Adult,
+Oklahoma,40,01-20-2021,Complete Coverage,CASES_Adult,
+Oregon,41,01-20-2021,Complete Coverage,CASES_Adult,
+Pennsylvania,42,01-20-2021,Complete Coverage,CASES_Adult,0.7158847087729397
+Rhode Island,44,01-20-2021,Complete Coverage,CASES_Adult,
+South Carolina,45,01-20-2021,Complete Coverage,CASES_Adult,
+South Dakota,46,01-20-2021,Complete Coverage,CASES_Adult,
+Tennessee,47,01-20-2021,Complete Coverage,CASES_Adult,
+Texas,48,01-20-2021,Complete Coverage,CASES_Adult,0.9827909406517465
+Utah,49,01-20-2021,Complete Coverage,CASES_Adult,
+Vermont,50,01-20-2021,Complete Coverage,CASES_Adult,
+Virginia,51,01-20-2021,Complete Coverage,CASES_Adult,0.6181389940988531
+Washington,53,01-20-2021,Complete Coverage,CASES_Adult,
+West Virginia,54,01-20-2021,Complete Coverage,CASES_Adult,
+Wisconsin,55,01-20-2021,Complete Coverage,CASES_Adult,
+Wyoming,56,01-20-2021,Complete Coverage,CASES_Adult,
+Indiana,18,01-20-2021,Partial Coverage,CASES_Adult,6.055172767016966
+Minnesota,27,01-20-2021,Partial Coverage,CASES_Adult,
+Indiana,18,01-20-2021,Complete Coverage,CASES_Adult,1.4685552859505877
+Delaware,10,2021-01-19 00:00:00,Partial Coverage,CASES_Adult,7.3104915037748786
+North Dakota,38,01-20-2021,Partial Coverage,CASES_Adult,0.95
+North Dakota,38,01-20-2021,Complete Coverage,CASES_Adult,0.225
+Alabama,1,01-20-2021,Partial,CASES_Adult,
+Alaska,2,01-20-2021,Partial,CASES_Adult,24900.0
+Arizona,4,01-20-2021,Partial,CASES_Adult,
+Arkansas,5,01-20-2021,Partial,CASES_Adult,
+California,6,01-20-2021,Partial,CASES_Adult,
+Colorado,8,01-20-2021,Partial,CASES_Adult,
+Connecticut,9,01-20-2021,Partial,CASES_Adult,
+Florida,12,01-20-2021,Partial,CASES_Adult,359729.0
+Georgia,13,01-20-2021,Partial,CASES_Adult,
+Hawaii,15,01-20-2021,Partial,CASES_Adult,
+Idaho,16,01-20-2021,Partial,CASES_Adult,
+Illinois,17,01-20-2021,Partial,CASES_Adult,
+Iowa,19,01-20-2021,Partial,CASES_Adult,
+Kansas,20,01-20-2021,Partial,CASES_Adult,
+Kentucky,21,01-20-2021,Partial,CASES_Adult,
+Louisiana,22,01-20-2021,Partial,CASES_Adult,
+Maine,23,01-20-2021,Partial,CASES_Adult,
+Maryland,24,01-20-2021,Partial,CASES_Adult,164338.0
+Massachusetts,25,01-20-2021,Partial,CASES_Adult,186794.0
+Michigan,26,01-20-2021,Partial,CASES_Adult,
+Mississippi,28,01-20-2021,Partial,CASES_Adult,61600.0
+Missouri,29,01-20-2021,Partial,CASES_Adult,
+Montana,30,01-20-2021,Partial,CASES_Adult,
+Nebraska,31,01-20-2021,Partial,CASES_Adult,65007.0
+Nevada,32,01-20-2021,Partial,CASES_Adult,
+New Hampshire,33,01-20-2021,Partial,CASES_Adult,
+New Jersey,34,01-20-2021,Partial,CASES_Adult,285000.0
+New Mexico,35,01-20-2021,Partial,CASES_Adult,
+New York,36,01-20-2021,Partial,CASES_Adult,
+North Carolina,37,01-20-2021,Partial,CASES_Adult,
+Ohio,39,01-20-2021,Partial,CASES_Adult,
+Oklahoma,40,01-20-2021,Partial,CASES_Adult,
+Oregon,41,01-20-2021,Partial,CASES_Adult,136582.0
+Pennsylvania,42,01-20-2021,Partial,CASES_Adult,274545.0
+Rhode Island,44,01-20-2021,Partial,CASES_Adult,
+South Carolina,45,01-20-2021,Partial,CASES_Adult,
+South Dakota,46,01-20-2021,Partial,CASES_Adult,31682.0
+Tennessee,47,01-20-2021,Partial,CASES_Adult,162227.0
+Texas,48,01-20-2021,Partial,CASES_Adult,733178.0
+Utah,49,01-20-2021,Partial,CASES_Adult,
+Vermont,50,01-20-2021,Partial,CASES_Adult,
+Virginia,51,01-20-2021,Partial,CASES_Adult,231985.0
+Washington,53,01-20-2021,Partial,CASES_Adult,
+West Virginia,54,01-20-2021,Partial,CASES_Adult,94603.0
+Wisconsin,55,01-20-2021,Partial,CASES_Adult,
+Wyoming,56,01-20-2021,Partial,CASES_Adult,
+Alabama,1,01-20-2021,Complete,CASES_Adult,
+Alaska,2,01-20-2021,Complete,CASES_Adult,7700.0
+Arizona,4,01-20-2021,Complete,CASES_Adult,
+Arkansas,5,01-20-2021,Complete,CASES_Adult,
+California,6,01-20-2021,Complete,CASES_Adult,
+Colorado,8,01-20-2021,Complete,CASES_Adult,
+Connecticut,9,01-20-2021,Complete,CASES_Adult,
+Florida,12,01-20-2021,Complete,CASES_Adult,73225.0
+Georgia,13,01-20-2021,Complete,CASES_Adult,
+Hawaii,15,01-20-2021,Complete,CASES_Adult,
+Idaho,16,01-20-2021,Complete,CASES_Adult,
+Illinois,17,01-20-2021,Complete,CASES_Adult,
+Iowa,19,01-20-2021,Complete,CASES_Adult,
+Kansas,20,01-20-2021,Complete,CASES_Adult,
+Kentucky,21,01-20-2021,Complete,CASES_Adult,
+Louisiana,22,01-20-2021,Complete,CASES_Adult,
+Maine,23,01-20-2021,Complete,CASES_Adult,
+Maryland,24,01-20-2021,Complete,CASES_Adult,17599.0
+Massachusetts,25,01-20-2021,Complete,CASES_Adult,32233.0
+Michigan,26,01-20-2021,Complete,CASES_Adult,
+Minnesota,27,01-20-2021,Complete,CASES_Adult,
+Mississippi,28,01-20-2021,Complete,CASES_Adult,
+Missouri,29,01-20-2021,Complete,CASES_Adult,
+Montana,30,01-20-2021,Complete,CASES_Adult,
+Nebraska,31,01-20-2021,Complete,CASES_Adult,14404.0
+Nevada,32,01-20-2021,Complete,CASES_Adult,
+New Hampshire,33,01-20-2021,Complete,CASES_Adult,
+New Jersey,34,01-20-2021,Complete,CASES_Adult,
+New Mexico,35,01-20-2021,Complete,CASES_Adult,
+New York,36,01-20-2021,Complete,CASES_Adult,
+North Carolina,37,01-20-2021,Complete,CASES_Adult,
+Ohio,39,01-20-2021,Complete,CASES_Adult,
+Oklahoma,40,01-20-2021,Complete,CASES_Adult,
+Oregon,41,01-20-2021,Complete,CASES_Adult,
+Pennsylvania,42,01-20-2021,Complete,CASES_Adult,48052.0
+Rhode Island,44,01-20-2021,Complete,CASES_Adult,
+South Carolina,45,01-20-2021,Complete,CASES_Adult,
+South Dakota,46,01-20-2021,Complete,CASES_Adult,
+Tennessee,47,01-20-2021,Complete,CASES_Adult,
+Texas,48,01-20-2021,Complete,CASES_Adult,156298.0
+Utah,49,01-20-2021,Complete,CASES_Adult,
+Vermont,50,01-20-2021,Complete,CASES_Adult,
+Virginia,51,01-20-2021,Complete,CASES_Adult,28895.0
+Washington,53,01-20-2021,Complete,CASES_Adult,
+West Virginia,54,01-20-2021,Complete,CASES_Adult,
+Wisconsin,55,01-20-2021,Complete,CASES_Adult,
+Wyoming,56,01-20-2021,Complete,CASES_Adult,
+Indiana,18,01-20-2021,Partial,CASES_Adult,215760.217
+Minnesota,27,01-20-2021,Partial,CASES_Adult,
+Indiana,18,01-20-2021,Complete,CASES_Adult,52328.12
+Delaware,10,2021-01-19 00:00:00,Partial,CASES_Adult,36573.0
+Alabama,1,01-20-2021,Partial Coverage,CASES_Elderly,
+Alaska,2,01-20-2021,Partial Coverage,CASES_Elderly,13.679090011338284
+Arizona,4,01-20-2021,Partial Coverage,CASES_Elderly,
+Arkansas,5,01-20-2021,Partial Coverage,CASES_Elderly,
+California,6,01-20-2021,Partial Coverage,CASES_Elderly,
+Colorado,8,01-20-2021,Partial Coverage,CASES_Elderly,
+Connecticut,9,01-20-2021,Partial Coverage,CASES_Elderly,
+Florida,12,01-20-2021,Partial Coverage,CASES_Elderly,11.073363468988934
+Georgia,13,01-20-2021,Partial Coverage,CASES_Elderly,
+Hawaii,15,01-20-2021,Partial Coverage,CASES_Elderly,
+Idaho,16,01-20-2021,Partial Coverage,CASES_Elderly,
+Illinois,17,01-20-2021,Partial Coverage,CASES_Elderly,
+Iowa,19,01-20-2021,Partial Coverage,CASES_Elderly,
+Kansas,20,01-20-2021,Partial Coverage,CASES_Elderly,
+Kentucky,21,01-20-2021,Partial Coverage,CASES_Elderly,
+Louisiana,22,01-20-2021,Partial Coverage,CASES_Elderly,
+Maine,23,01-20-2021,Partial Coverage,CASES_Elderly,
+Maryland,24,01-20-2021,Partial Coverage,CASES_Elderly,4.431793449395979
+Massachusetts,25,01-20-2021,Partial Coverage,CASES_Elderly,1.1334140374614339
+Michigan,26,01-20-2021,Partial Coverage,CASES_Elderly,
+Mississippi,28,01-20-2021,Partial Coverage,CASES_Elderly,8.527151297960875
+Missouri,29,01-20-2021,Partial Coverage,CASES_Elderly,
+Montana,30,01-20-2021,Partial Coverage,CASES_Elderly,
+Nebraska,31,01-20-2021,Partial Coverage,CASES_Elderly,5.766510035671047
+Nevada,32,01-20-2021,Partial Coverage,CASES_Elderly,
+New Hampshire,33,01-20-2021,Partial Coverage,CASES_Elderly,
+New Jersey,34,01-20-2021,Partial Coverage,CASES_Elderly,3.9871981763917024
+New Mexico,35,01-20-2021,Partial Coverage,CASES_Elderly,
+New York,36,01-20-2021,Partial Coverage,CASES_Elderly,
+North Carolina,37,01-20-2021,Partial Coverage,CASES_Elderly,
+Ohio,39,01-20-2021,Partial Coverage,CASES_Elderly,
+Oklahoma,40,01-20-2021,Partial Coverage,CASES_Elderly,
+Oregon,41,01-20-2021,Partial Coverage,CASES_Elderly,4.293775407703042
+Pennsylvania,42,01-20-2021,Partial Coverage,CASES_Elderly,3.1240231250995882
+Rhode Island,44,01-20-2021,Partial Coverage,CASES_Elderly,
+South Carolina,45,01-20-2021,Partial Coverage,CASES_Elderly,
+South Dakota,46,01-20-2021,Partial Coverage,CASES_Elderly,7.379618197359673
+Tennessee,47,01-20-2021,Partial Coverage,CASES_Elderly,7.829339154111178
+Texas,48,01-20-2021,Partial Coverage,CASES_Elderly,7.103679420594422
+Utah,49,01-20-2021,Partial Coverage,CASES_Elderly,
+Vermont,50,01-20-2021,Partial Coverage,CASES_Elderly,
+Virginia,51,01-20-2021,Partial Coverage,CASES_Elderly,4.8622779851240105
+Washington,53,01-20-2021,Partial Coverage,CASES_Elderly,
+West Virginia,54,01-20-2021,Partial Coverage,CASES_Elderly,11.479132693120734
+Wisconsin,55,01-20-2021,Partial Coverage,CASES_Elderly,
+Wyoming,56,01-20-2021,Partial Coverage,CASES_Elderly,
+Alabama,1,01-20-2021,Complete Coverage,CASES_Elderly,
+Alaska,2,01-20-2021,Complete Coverage,CASES_Elderly,2.332028821184302
+Arizona,4,01-20-2021,Complete Coverage,CASES_Elderly,
+Arkansas,5,01-20-2021,Complete Coverage,CASES_Elderly,
+California,6,01-20-2021,Complete Coverage,CASES_Elderly,
+Colorado,8,01-20-2021,Complete Coverage,CASES_Elderly,
+Connecticut,9,01-20-2021,Complete Coverage,CASES_Elderly,
+Florida,12,01-20-2021,Complete Coverage,CASES_Elderly,0.2961811877791778
+Georgia,13,01-20-2021,Complete Coverage,CASES_Elderly,
+Hawaii,15,01-20-2021,Complete Coverage,CASES_Elderly,
+Idaho,16,01-20-2021,Complete Coverage,CASES_Elderly,
+Illinois,17,01-20-2021,Complete Coverage,CASES_Elderly,
+Iowa,19,01-20-2021,Complete Coverage,CASES_Elderly,
+Kansas,20,01-20-2021,Complete Coverage,CASES_Elderly,
+Kentucky,21,01-20-2021,Complete Coverage,CASES_Elderly,
+Louisiana,22,01-20-2021,Complete Coverage,CASES_Elderly,
+Maine,23,01-20-2021,Complete Coverage,CASES_Elderly,
+Maryland,24,01-20-2021,Complete Coverage,CASES_Elderly,0.30968031394408224
+Massachusetts,25,01-20-2021,Complete Coverage,CASES_Elderly,0.04174989408354049
+Michigan,26,01-20-2021,Complete Coverage,CASES_Elderly,
+Minnesota,27,01-20-2021,Complete Coverage,CASES_Elderly,
+Mississippi,28,01-20-2021,Complete Coverage,CASES_Elderly,
+Missouri,29,01-20-2021,Complete Coverage,CASES_Elderly,
+Montana,30,01-20-2021,Complete Coverage,CASES_Elderly,
+Nebraska,31,01-20-2021,Complete Coverage,CASES_Elderly,0.2637059852213321
+Nevada,32,01-20-2021,Complete Coverage,CASES_Elderly,
+New Hampshire,33,01-20-2021,Complete Coverage,CASES_Elderly,
+New Jersey,34,01-20-2021,Complete Coverage,CASES_Elderly,
+New Mexico,35,01-20-2021,Complete Coverage,CASES_Elderly,
+New York,36,01-20-2021,Complete Coverage,CASES_Elderly,
+North Carolina,37,01-20-2021,Complete Coverage,CASES_Elderly,
+Ohio,39,01-20-2021,Complete Coverage,CASES_Elderly,
+Oklahoma,40,01-20-2021,Complete Coverage,CASES_Elderly,
+Oregon,41,01-20-2021,Complete Coverage,CASES_Elderly,
+Pennsylvania,42,01-20-2021,Complete Coverage,CASES_Elderly,0.3005885880333813
+Rhode Island,44,01-20-2021,Complete Coverage,CASES_Elderly,
+South Carolina,45,01-20-2021,Complete Coverage,CASES_Elderly,
+South Dakota,46,01-20-2021,Complete Coverage,CASES_Elderly,
+Tennessee,47,01-20-2021,Complete Coverage,CASES_Elderly,
+Texas,48,01-20-2021,Complete Coverage,CASES_Elderly,0.2004302119703625
+Utah,49,01-20-2021,Complete Coverage,CASES_Elderly,
+Vermont,50,01-20-2021,Complete Coverage,CASES_Elderly,
+Virginia,51,01-20-2021,Complete Coverage,CASES_Elderly,0.28984356388469784
+Washington,53,01-20-2021,Complete Coverage,CASES_Elderly,
+West Virginia,54,01-20-2021,Complete Coverage,CASES_Elderly,
+Wisconsin,55,01-20-2021,Complete Coverage,CASES_Elderly,
+Wyoming,56,01-20-2021,Complete Coverage,CASES_Elderly,
+Indiana,18,01-20-2021,Partial Coverage,CASES_Elderly,5.583269418096906
+Minnesota,27,01-20-2021,Partial Coverage,CASES_Elderly,
+Indiana,18,01-20-2021,Complete Coverage,CASES_Elderly,0.7223354157863028
+Delaware,10,2021-01-19 00:00:00,Partial Coverage,CASES_Elderly,3.700047800218404
+North Dakota,38,01-20-2021,Partial Coverage,CASES_Elderly,1.3
+North Dakota,38,01-20-2021,Complete Coverage,CASES_Elderly,0.025
+Alabama,1,01-20-2021,Partial,CASES_Elderly,
+Alaska,2,01-20-2021,Partial,CASES_Elderly,18700.0
+Arizona,4,01-20-2021,Partial,CASES_Elderly,
+Arkansas,5,01-20-2021,Partial,CASES_Elderly,
+California,6,01-20-2021,Partial,CASES_Elderly,
+Colorado,8,01-20-2021,Partial,CASES_Elderly,
+Connecticut,9,01-20-2021,Partial,CASES_Elderly,
+Florida,12,01-20-2021,Partial,CASES_Elderly,654013.0
+Georgia,13,01-20-2021,Partial,CASES_Elderly,
+Hawaii,15,01-20-2021,Partial,CASES_Elderly,
+Idaho,16,01-20-2021,Partial,CASES_Elderly,
+Illinois,17,01-20-2021,Partial,CASES_Elderly,
+Iowa,19,01-20-2021,Partial,CASES_Elderly,
+Kansas,20,01-20-2021,Partial,CASES_Elderly,
+Kentucky,21,01-20-2021,Partial,CASES_Elderly,
+Louisiana,22,01-20-2021,Partial,CASES_Elderly,
+Maine,23,01-20-2021,Partial,CASES_Elderly,
+Maryland,24,01-20-2021,Partial,CASES_Elderly,59662.0
+Massachusetts,25,01-20-2021,Partial,CASES_Elderly,18379.0
+Michigan,26,01-20-2021,Partial,CASES_Elderly,
+Mississippi,28,01-20-2021,Partial,CASES_Elderly,57583.0
+Missouri,29,01-20-2021,Partial,CASES_Elderly,
+Montana,30,01-20-2021,Partial,CASES_Elderly,
+Nebraska,31,01-20-2021,Partial,CASES_Elderly,24863.0
+Nevada,32,01-20-2021,Partial,CASES_Elderly,
+New Hampshire,33,01-20-2021,Partial,CASES_Elderly,
+New Jersey,34,01-20-2021,Partial,CASES_Elderly,82000.0
+New Mexico,35,01-20-2021,Partial,CASES_Elderly,
+New York,36,01-20-2021,Partial,CASES_Elderly,
+North Carolina,37,01-20-2021,Partial,CASES_Elderly,
+Ohio,39,01-20-2021,Partial,CASES_Elderly,
+Oklahoma,40,01-20-2021,Partial,CASES_Elderly,
+Oregon,41,01-20-2021,Partial,CASES_Elderly,44583.0
+Pennsylvania,42,01-20-2021,Partial,CASES_Elderly,102735.0
+Rhode Island,44,01-20-2021,Partial,CASES_Elderly,
+South Carolina,45,01-20-2021,Partial,CASES_Elderly,
+South Dakota,46,01-20-2021,Partial,CASES_Elderly,15540.0
+Tennessee,47,01-20-2021,Partial,CASES_Elderly,123531.0
+Texas,48,01-20-2021,Partial,CASES_Elderly,375616.0
+Utah,49,01-20-2021,Partial,CASES_Elderly,
+Vermont,50,01-20-2021,Partial,CASES_Elderly,
+Virginia,51,01-20-2021,Partial,CASES_Elderly,91846.0
+Washington,53,01-20-2021,Partial,CASES_Elderly,
+West Virginia,54,01-20-2021,Partial,CASES_Elderly,57018.0
+Wisconsin,55,01-20-2021,Partial,CASES_Elderly,
+Wyoming,56,01-20-2021,Partial,CASES_Elderly,
+Alabama,1,01-20-2021,Complete,CASES_Elderly,
+Alaska,2,01-20-2021,Complete,CASES_Elderly,3188.0
+Arizona,4,01-20-2021,Complete,CASES_Elderly,
+Arkansas,5,01-20-2021,Complete,CASES_Elderly,
+California,6,01-20-2021,Complete,CASES_Elderly,
+Colorado,8,01-20-2021,Complete,CASES_Elderly,
+Connecticut,9,01-20-2021,Complete,CASES_Elderly,
+Florida,12,01-20-2021,Complete,CASES_Elderly,17493.0
+Georgia,13,01-20-2021,Complete,CASES_Elderly,
+Hawaii,15,01-20-2021,Complete,CASES_Elderly,
+Idaho,16,01-20-2021,Complete,CASES_Elderly,
+Illinois,17,01-20-2021,Complete,CASES_Elderly,
+Iowa,19,01-20-2021,Complete,CASES_Elderly,
+Kansas,20,01-20-2021,Complete,CASES_Elderly,
+Kentucky,21,01-20-2021,Complete,CASES_Elderly,
+Louisiana,22,01-20-2021,Complete,CASES_Elderly,
+Maine,23,01-20-2021,Complete,CASES_Elderly,
+Maryland,24,01-20-2021,Complete,CASES_Elderly,4169.0
+Massachusetts,25,01-20-2021,Complete,CASES_Elderly,677.0
+Michigan,26,01-20-2021,Complete,CASES_Elderly,
+Minnesota,27,01-20-2021,Complete,CASES_Elderly,
+Mississippi,28,01-20-2021,Complete,CASES_Elderly,
+Missouri,29,01-20-2021,Complete,CASES_Elderly,
+Montana,30,01-20-2021,Complete,CASES_Elderly,
+Nebraska,31,01-20-2021,Complete,CASES_Elderly,1137.0
+Nevada,32,01-20-2021,Complete,CASES_Elderly,
+New Hampshire,33,01-20-2021,Complete,CASES_Elderly,
+New Jersey,34,01-20-2021,Complete,CASES_Elderly,
+New Mexico,35,01-20-2021,Complete,CASES_Elderly,
+New York,36,01-20-2021,Complete,CASES_Elderly,
+North Carolina,37,01-20-2021,Complete,CASES_Elderly,
+Ohio,39,01-20-2021,Complete,CASES_Elderly,
+Oklahoma,40,01-20-2021,Complete,CASES_Elderly,
+Oregon,41,01-20-2021,Complete,CASES_Elderly,
+Pennsylvania,42,01-20-2021,Complete,CASES_Elderly,9885.0
+Rhode Island,44,01-20-2021,Complete,CASES_Elderly,
+South Carolina,45,01-20-2021,Complete,CASES_Elderly,
+South Dakota,46,01-20-2021,Complete,CASES_Elderly,
+Tennessee,47,01-20-2021,Complete,CASES_Elderly,
+Texas,48,01-20-2021,Complete,CASES_Elderly,10598.0
+Utah,49,01-20-2021,Complete,CASES_Elderly,
+Vermont,50,01-20-2021,Complete,CASES_Elderly,
+Virginia,51,01-20-2021,Complete,CASES_Elderly,5475.0
+Washington,53,01-20-2021,Complete,CASES_Elderly,
+West Virginia,54,01-20-2021,Complete,CASES_Elderly,
+Wisconsin,55,01-20-2021,Complete,CASES_Elderly,
+Wyoming,56,01-20-2021,Complete,CASES_Elderly,
+Indiana,18,01-20-2021,Partial,CASES_Elderly,84427.911
+Minnesota,27,01-20-2021,Partial,CASES_Elderly,
+Indiana,18,01-20-2021,Complete,CASES_Elderly,10922.859999999999
+Delaware,10,2021-01-19 00:00:00,Partial,CASES_Elderly,9521.0
+Alabama,1,01-20-2021,Partial Coverage,CASES_UnknownAge,
+Alaska,2,01-20-2021,Partial Coverage,CASES_UnknownAge,0.9090909090909091
+Arizona,4,01-20-2021,Partial Coverage,CASES_UnknownAge,
+Arkansas,5,01-20-2021,Partial Coverage,CASES_UnknownAge,
+California,6,01-20-2021,Partial Coverage,CASES_UnknownAge,
+Colorado,8,01-20-2021,Partial Coverage,CASES_UnknownAge,
+Connecticut,9,01-20-2021,Partial Coverage,CASES_UnknownAge,
+Florida,12,01-20-2021,Partial Coverage,CASES_UnknownAge,1.7496692656971589
+Georgia,13,01-20-2021,Partial Coverage,CASES_UnknownAge,
+Hawaii,15,01-20-2021,Partial Coverage,CASES_UnknownAge,
+Idaho,16,01-20-2021,Partial Coverage,CASES_UnknownAge,
+Illinois,17,01-20-2021,Partial Coverage,CASES_UnknownAge,
+Iowa,19,01-20-2021,Partial Coverage,CASES_UnknownAge,
+Kansas,20,01-20-2021,Partial Coverage,CASES_UnknownAge,
+Kentucky,21,01-20-2021,Partial Coverage,CASES_UnknownAge,
+Louisiana,22,01-20-2021,Partial Coverage,CASES_UnknownAge,
+Maine,23,01-20-2021,Partial Coverage,CASES_UnknownAge,
+Maryland,24,01-20-2021,Partial Coverage,CASES_UnknownAge,3.989987527270701
+Massachusetts,25,01-20-2021,Partial Coverage,CASES_UnknownAge,0.4932343954604976
+Michigan,26,01-20-2021,Partial Coverage,CASES_UnknownAge,
+Mississippi,28,01-20-2021,Partial Coverage,CASES_UnknownAge,0.0
+Missouri,29,01-20-2021,Partial Coverage,CASES_UnknownAge,
+Montana,30,01-20-2021,Partial Coverage,CASES_UnknownAge,
+Nebraska,31,01-20-2021,Partial Coverage,CASES_UnknownAge,0.8440447950570972
+Nevada,32,01-20-2021,Partial Coverage,CASES_UnknownAge,
+New Hampshire,33,01-20-2021,Partial Coverage,CASES_UnknownAge,
+New Jersey,34,01-20-2021,Partial Coverage,CASES_UnknownAge,0.0
+New Mexico,35,01-20-2021,Partial Coverage,CASES_UnknownAge,
+New York,36,01-20-2021,Partial Coverage,CASES_UnknownAge,
+North Carolina,37,01-20-2021,Partial Coverage,CASES_UnknownAge,
+Ohio,39,01-20-2021,Partial Coverage,CASES_UnknownAge,
+Oklahoma,40,01-20-2021,Partial Coverage,CASES_UnknownAge,
+Oregon,41,01-20-2021,Partial Coverage,CASES_UnknownAge,0.7195387937175989
+Pennsylvania,42,01-20-2021,Partial Coverage,CASES_UnknownAge,0.0
+Rhode Island,44,01-20-2021,Partial Coverage,CASES_UnknownAge,
+South Carolina,45,01-20-2021,Partial Coverage,CASES_UnknownAge,
+South Dakota,46,01-20-2021,Partial Coverage,CASES_UnknownAge,0.8919764098474195
+Tennessee,47,01-20-2021,Partial Coverage,CASES_UnknownAge,0.6356359488987642
+Texas,48,01-20-2021,Partial Coverage,CASES_UnknownAge,0.09730834310921781
+Utah,49,01-20-2021,Partial Coverage,CASES_UnknownAge,
+Vermont,50,01-20-2021,Partial Coverage,CASES_UnknownAge,
+Virginia,51,01-20-2021,Partial Coverage,CASES_UnknownAge,0.34896065730155557
+Washington,53,01-20-2021,Partial Coverage,CASES_UnknownAge,
+West Virginia,54,01-20-2021,Partial Coverage,CASES_UnknownAge,0.0
+Wisconsin,55,01-20-2021,Partial Coverage,CASES_UnknownAge,
+Wyoming,56,01-20-2021,Partial Coverage,CASES_UnknownAge,
+Alabama,1,01-20-2021,Complete Coverage,CASES_UnknownAge,
+Alaska,2,01-20-2021,Complete Coverage,CASES_UnknownAge,0.6388027012228509
+Arizona,4,01-20-2021,Complete Coverage,CASES_UnknownAge,
+Arkansas,5,01-20-2021,Complete Coverage,CASES_UnknownAge,
+California,6,01-20-2021,Complete Coverage,CASES_UnknownAge,
+Colorado,8,01-20-2021,Complete Coverage,CASES_UnknownAge,
+Connecticut,9,01-20-2021,Complete Coverage,CASES_UnknownAge,
+Florida,12,01-20-2021,Complete Coverage,CASES_UnknownAge,2.7236269274485836
+Georgia,13,01-20-2021,Complete Coverage,CASES_UnknownAge,
+Hawaii,15,01-20-2021,Complete Coverage,CASES_UnknownAge,
+Idaho,16,01-20-2021,Complete Coverage,CASES_UnknownAge,
+Illinois,17,01-20-2021,Complete Coverage,CASES_UnknownAge,
+Iowa,19,01-20-2021,Complete Coverage,CASES_UnknownAge,
+Kansas,20,01-20-2021,Complete Coverage,CASES_UnknownAge,
+Kentucky,21,01-20-2021,Complete Coverage,CASES_UnknownAge,
+Louisiana,22,01-20-2021,Complete Coverage,CASES_UnknownAge,
+Maine,23,01-20-2021,Complete Coverage,CASES_UnknownAge,
+Maryland,24,01-20-2021,Complete Coverage,CASES_UnknownAge,85.45425386897602
+Massachusetts,25,01-20-2021,Complete Coverage,CASES_UnknownAge,0.22435120058210042
+Michigan,26,01-20-2021,Complete Coverage,CASES_UnknownAge,
+Minnesota,27,01-20-2021,Complete Coverage,CASES_UnknownAge,
+Mississippi,28,01-20-2021,Complete Coverage,CASES_UnknownAge,
+Missouri,29,01-20-2021,Complete Coverage,CASES_UnknownAge,
+Montana,30,01-20-2021,Complete Coverage,CASES_UnknownAge,
+Nebraska,31,01-20-2021,Complete Coverage,CASES_UnknownAge,0.17343268242548818
+Nevada,32,01-20-2021,Complete Coverage,CASES_UnknownAge,
+New Hampshire,33,01-20-2021,Complete Coverage,CASES_UnknownAge,
+New Jersey,34,01-20-2021,Complete Coverage,CASES_UnknownAge,
+New Mexico,35,01-20-2021,Complete Coverage,CASES_UnknownAge,
+New York,36,01-20-2021,Complete Coverage,CASES_UnknownAge,
+North Carolina,37,01-20-2021,Complete Coverage,CASES_UnknownAge,
+Ohio,39,01-20-2021,Complete Coverage,CASES_UnknownAge,
+Oklahoma,40,01-20-2021,Complete Coverage,CASES_UnknownAge,
+Oregon,41,01-20-2021,Complete Coverage,CASES_UnknownAge,
+Pennsylvania,42,01-20-2021,Complete Coverage,CASES_UnknownAge,0.3080046802945832
+Rhode Island,44,01-20-2021,Complete Coverage,CASES_UnknownAge,
+South Carolina,45,01-20-2021,Complete Coverage,CASES_UnknownAge,
+South Dakota,46,01-20-2021,Complete Coverage,CASES_UnknownAge,
+Tennessee,47,01-20-2021,Complete Coverage,CASES_UnknownAge,
+Texas,48,01-20-2021,Complete Coverage,CASES_UnknownAge,0.02276348736626451
+Utah,49,01-20-2021,Complete Coverage,CASES_UnknownAge,
+Vermont,50,01-20-2021,Complete Coverage,CASES_UnknownAge,
+Virginia,51,01-20-2021,Complete Coverage,CASES_UnknownAge,0.10753625715697387
+Washington,53,01-20-2021,Complete Coverage,CASES_UnknownAge,
+West Virginia,54,01-20-2021,Complete Coverage,CASES_UnknownAge,
+Wisconsin,55,01-20-2021,Complete Coverage,CASES_UnknownAge,
+Wyoming,56,01-20-2021,Complete Coverage,CASES_UnknownAge,
+Indiana,18,01-20-2021,Partial Coverage,CASES_UnknownAge,0.800000000000001
+Minnesota,27,01-20-2021,Partial Coverage,CASES_UnknownAge,
+Indiana,18,01-20-2021,Complete Coverage,CASES_UnknownAge,0.3999999999999978
+Delaware,10,2021-01-19 00:00:00,Partial Coverage,CASES_UnknownAge,0.10186168483561257
+North Dakota,38,01-20-2021,Partial Coverage,CASES_UnknownAge,
+North Dakota,38,01-20-2021,Complete Coverage,CASES_UnknownAge,
+Alabama,1,01-20-2021,Partial,CASES_UnknownAge,
+Alaska,2,01-20-2021,Partial,CASES_UnknownAge,0.9090909090909091
+Arizona,4,01-20-2021,Partial,CASES_UnknownAge,
+Arkansas,5,01-20-2021,Partial,CASES_UnknownAge,
+California,6,01-20-2021,Partial,CASES_UnknownAge,
+Colorado,8,01-20-2021,Partial,CASES_UnknownAge,
+Connecticut,9,01-20-2021,Partial,CASES_UnknownAge,
+Florida,12,01-20-2021,Partial,CASES_UnknownAge,1.7496692656971589
+Georgia,13,01-20-2021,Partial,CASES_UnknownAge,
+Hawaii,15,01-20-2021,Partial,CASES_UnknownAge,
+Idaho,16,01-20-2021,Partial,CASES_UnknownAge,
+Illinois,17,01-20-2021,Partial,CASES_UnknownAge,
+Iowa,19,01-20-2021,Partial,CASES_UnknownAge,
+Kansas,20,01-20-2021,Partial,CASES_UnknownAge,
+Kentucky,21,01-20-2021,Partial,CASES_UnknownAge,
+Louisiana,22,01-20-2021,Partial,CASES_UnknownAge,
+Maine,23,01-20-2021,Partial,CASES_UnknownAge,
+Maryland,24,01-20-2021,Partial,CASES_UnknownAge,3.989987527270701
+Massachusetts,25,01-20-2021,Partial,CASES_UnknownAge,0.4932343954604976
+Michigan,26,01-20-2021,Partial,CASES_UnknownAge,
+Mississippi,28,01-20-2021,Partial,CASES_UnknownAge,0.0
+Missouri,29,01-20-2021,Partial,CASES_UnknownAge,
+Montana,30,01-20-2021,Partial,CASES_UnknownAge,
+Nebraska,31,01-20-2021,Partial,CASES_UnknownAge,0.8440447950570972
+Nevada,32,01-20-2021,Partial,CASES_UnknownAge,
+New Hampshire,33,01-20-2021,Partial,CASES_UnknownAge,
+New Jersey,34,01-20-2021,Partial,CASES_UnknownAge,0.0
+New Mexico,35,01-20-2021,Partial,CASES_UnknownAge,
+New York,36,01-20-2021,Partial,CASES_UnknownAge,
+North Carolina,37,01-20-2021,Partial,CASES_UnknownAge,
+Ohio,39,01-20-2021,Partial,CASES_UnknownAge,
+Oklahoma,40,01-20-2021,Partial,CASES_UnknownAge,
+Oregon,41,01-20-2021,Partial,CASES_UnknownAge,0.7195387937175989
+Pennsylvania,42,01-20-2021,Partial,CASES_UnknownAge,0.0
+Rhode Island,44,01-20-2021,Partial,CASES_UnknownAge,
+South Carolina,45,01-20-2021,Partial,CASES_UnknownAge,
+South Dakota,46,01-20-2021,Partial,CASES_UnknownAge,0.8919764098474195
+Tennessee,47,01-20-2021,Partial,CASES_UnknownAge,0.6356359488987642
+Texas,48,01-20-2021,Partial,CASES_UnknownAge,0.09730834310921781
+Utah,49,01-20-2021,Partial,CASES_UnknownAge,
+Vermont,50,01-20-2021,Partial,CASES_UnknownAge,
+Virginia,51,01-20-2021,Partial,CASES_UnknownAge,0.34896065730155557
+Washington,53,01-20-2021,Partial,CASES_UnknownAge,
+West Virginia,54,01-20-2021,Partial,CASES_UnknownAge,0.0
+Wisconsin,55,01-20-2021,Partial,CASES_UnknownAge,
+Wyoming,56,01-20-2021,Partial,CASES_UnknownAge,
+Alabama,1,01-20-2021,Complete,CASES_UnknownAge,
+Alaska,2,01-20-2021,Complete,CASES_UnknownAge,0.6388027012228509
+Arizona,4,01-20-2021,Complete,CASES_UnknownAge,
+Arkansas,5,01-20-2021,Complete,CASES_UnknownAge,
+California,6,01-20-2021,Complete,CASES_UnknownAge,
+Colorado,8,01-20-2021,Complete,CASES_UnknownAge,
+Connecticut,9,01-20-2021,Complete,CASES_UnknownAge,
+Florida,12,01-20-2021,Complete,CASES_UnknownAge,2.7236269274485836
+Georgia,13,01-20-2021,Complete,CASES_UnknownAge,
+Hawaii,15,01-20-2021,Complete,CASES_UnknownAge,
+Idaho,16,01-20-2021,Complete,CASES_UnknownAge,
+Illinois,17,01-20-2021,Complete,CASES_UnknownAge,
+Iowa,19,01-20-2021,Complete,CASES_UnknownAge,
+Kansas,20,01-20-2021,Complete,CASES_UnknownAge,
+Kentucky,21,01-20-2021,Complete,CASES_UnknownAge,
+Louisiana,22,01-20-2021,Complete,CASES_UnknownAge,
+Maine,23,01-20-2021,Complete,CASES_UnknownAge,
+Maryland,24,01-20-2021,Complete,CASES_UnknownAge,85.45425386897602
+Massachusetts,25,01-20-2021,Complete,CASES_UnknownAge,0.22435120058210042
+Michigan,26,01-20-2021,Complete,CASES_UnknownAge,
+Minnesota,27,01-20-2021,Complete,CASES_UnknownAge,
+Mississippi,28,01-20-2021,Complete,CASES_UnknownAge,
+Missouri,29,01-20-2021,Complete,CASES_UnknownAge,
+Montana,30,01-20-2021,Complete,CASES_UnknownAge,
+Nebraska,31,01-20-2021,Complete,CASES_UnknownAge,0.17343268242548818
+Nevada,32,01-20-2021,Complete,CASES_UnknownAge,
+New Hampshire,33,01-20-2021,Complete,CASES_UnknownAge,
+New Jersey,34,01-20-2021,Complete,CASES_UnknownAge,
+New Mexico,35,01-20-2021,Complete,CASES_UnknownAge,
+New York,36,01-20-2021,Complete,CASES_UnknownAge,
+North Carolina,37,01-20-2021,Complete,CASES_UnknownAge,
+Ohio,39,01-20-2021,Complete,CASES_UnknownAge,
+Oklahoma,40,01-20-2021,Complete,CASES_UnknownAge,
+Oregon,41,01-20-2021,Complete,CASES_UnknownAge,
+Pennsylvania,42,01-20-2021,Complete,CASES_UnknownAge,0.3080046802945832
+Rhode Island,44,01-20-2021,Complete,CASES_UnknownAge,
+South Carolina,45,01-20-2021,Complete,CASES_UnknownAge,
+South Dakota,46,01-20-2021,Complete,CASES_UnknownAge,
+Tennessee,47,01-20-2021,Complete,CASES_UnknownAge,
+Texas,48,01-20-2021,Complete,CASES_UnknownAge,0.02276348736626451
+Utah,49,01-20-2021,Complete,CASES_UnknownAge,
+Vermont,50,01-20-2021,Complete,CASES_UnknownAge,
+Virginia,51,01-20-2021,Complete,CASES_UnknownAge,0.10753625715697387
+Washington,53,01-20-2021,Complete,CASES_UnknownAge,
+West Virginia,54,01-20-2021,Complete,CASES_UnknownAge,
+Wisconsin,55,01-20-2021,Complete,CASES_UnknownAge,
+Wyoming,56,01-20-2021,Complete,CASES_UnknownAge,
+Indiana,18,01-20-2021,Partial,CASES_UnknownAge,0.800000000000001
+Minnesota,27,01-20-2021,Partial,CASES_UnknownAge,
+Indiana,18,01-20-2021,Complete,CASES_UnknownAge,0.3999999999999978
+Delaware,10,2021-01-19 00:00:00,Partial,CASES_UnknownAge,0.10186168483561257
