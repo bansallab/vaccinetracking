@@ -35,15 +35,10 @@ state_demo['DATE'] = pd.to_datetime(state_demo['DATE'])  # convert to datetime o
 
 # function to zero pad county FIPS codes
 def pad_fips_county(x):
-    return str(x).zfill(5)
+    return str(int(x)).zfill(5)
 
 def pad_fips_state(x):
-    return str(x).zfill(2)
-
-# reformat FIPS codes
-county_daily_total['COUNTY'] = county_daily_total['COUNTY'].astype(int)  # convert county FIPS to int for later formatting
-county_daily_total['STATE'] = county_daily_total['STATE'].astype(int)  # same for state FIPS codes
-state_demo['STATE'] = state_demo['STATE'].astype(int)
+    return str(int(x)).zfill(2)
 
 # zero padding FIPS codes
 county_daily_total['COUNTY'] = county_daily_total['COUNTY'].apply(pad_fips_county)
