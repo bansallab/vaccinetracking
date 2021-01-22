@@ -14,6 +14,9 @@ import dash_html_components as html
 import dash_bootstrap_components as dbc
 from dash.dependencies import Input, Output, State
 
+# import time
+# from concurrent.futures import ThreadPoolExecutor
+
 ##########################################################################################################
 # Read in data and modifications
 
@@ -46,6 +49,30 @@ state_demo['STATE'] = state_demo['STATE'].astype(int)
 county_daily_total['COUNTY'] = county_daily_total['COUNTY'].apply(pad_fips_county)
 county_daily_total['STATE'] = county_daily_total['STATE'].apply(pad_fips_state)
 state_demo['STATE'] = state_demo['STATE'].apply(pad_fips_state)
+
+# setup multithreading
+# UPDATE_INTERVAL = 86400  # update interval in seconds; 86400 s --> 24 hrs
+
+# function for getting new global data and some mods
+# def get_new_data():
+#     global county_daily_total, state_demo
+#
+#     county_daily_total = pd.read_csv('https://drive.google.com/uc?export=download&id=1PGHvsyPK61qimnmLX9VGpfD-3tkXjAqD')
+#     state_demo = pd.read_csv('https://drive.google.com/uc?export=download&id=1PF_ytpTnvzM4rilygLLUsD7LVF95YgrQ')
+#
+#     county_daily_total['DATE'] = pd.to_datetime(county_daily_total['DATE'])  # convert date to datetime object
+#     state_demo['DATE'] = pd.to_datetime(state_demo['DATE'])  # convert to datetime obj
+#
+#     county_daily_total['COUNTY'] = county_daily_total['COUNTY'].apply(pad_fips_county)
+#     county_daily_total['STATE'] = county_daily_total['STATE'].apply(pad_fips_state)
+#     state_demo['STATE'] = state_demo['STATE'].apply(pad_fips_state)
+
+# function for updating data after every interval
+# def get_new_data_every(period=UPDATE_INTERVAL):
+#     while True:
+#         get_new_data()
+#         print('data updated')
+#         time.sleep(period)
 
 # static choropleth function (no dropdown)
 def US_choropleth():
@@ -136,12 +163,181 @@ def US_choropleth():
     fig.update_geos(showsubunits=True, subunitcolor='#5a5a5a')  # hacky: effectively controls state borders
     return fig
 
+# define app layout as a function
+def make_layout():
+    # row for title, dropdown
+    # row_1 = dbc.Row(
+    #     children=[
+    #         dbc.Col(
+    #             children=[
+    #                 # map title
+    #                 # html.Div(children='US Vaccination Coverage', style={'font-weight': 'bold', 'font-size': 20}),
+    #                 # dropdown menu
+    #                 html.Div(
+    #                     dcc.Dropdown(
+    #                         id='coverage-dropdown',
+    #                         options=[
+    #                             {
+    #                                 'label': 'Partial vaccination coverage: proportion of population vaccinated with 1 dose',
+    #                                 'value': 'Partial Coverage'},
+    #                             {
+    #                                 'label': 'Complete vaccination coverage: proportion of population vaccinated with 2 doses',
+    #                                 'value': 'Complete Coverage'}
+    #                         ],
+    #                         value='Partial Coverage',
+    #                         clearable=False,
+    #                         searchable=False
+    #                     ), style={'margin-bottom': 0}  # dropdown styling
+    #                 ),
+    #             ], width={'size': 4, 'offset': 2}, className='h-100'
+    #             # column width, height should be 100% of the row height
+    #         )
+    #     ], justify='left', no_gutters=True  # justify elements in row, height of row (h-70 doesn't exist)
+    # )
+
+    # warning modal
+    modal = html.Div(
+        [
+            dbc.Modal(
+                [
+                    dbc.ModalHeader('Warning'),
+                    dbc.ModalBody('No demographic data available for this state. Please make a different selection.'),
+                    dbc.ModalFooter(
+                        dbc.Button('Close', id='close', className='ml-auto')
+                    )
+                ],
+                id='warning-modal',
+                backdrop=False
+            )
+        ]
+    )
+
+    # row for map
+    row_2 = dbc.Row(
+        children=[
+            dbc.Col(
+                children=[
+                    # dcc.Store(id='data-memory', storage_type='session'),
+                    # html.Div(id='hidden-div', style={'display': 'none'}),
+                    dcc.Graph(
+                        id='US-choropleth',
+                        figure=US_choropleth(),
+                        style={'height': '100%'},  # seems to control graph height within the row?
+                        config={'modeBarButtonsToRemove': ['select2d',
+                                                           'lasso2d',
+                                                           'zoom2d',
+                                                           'autoScale2d',
+                                                           'toggleSpikelines',
+                                                           'toggleHover',
+                                                           'sendDataToCloud',
+                                                           'toImage',
+                                                           'hoverClosestGeo'],
+                                'scrollZoom': False,
+                                'displayModeBar': True,
+                                'displaylogo': False}
+                    )], width={'size': 8, 'offset': 2}, className='h-100'  # , style={'background-color': 'black'}
+            ),
+            dbc.Col(
+                children=[
+                    modal,
+                    html.Div(
+                        dbc.Toast(
+                            [
+                                html.P(
+                                    'Hover over a county to see vaccination coverage and the source of the data (state or county).'),
+                                html.P('Click on a state to see vaccination coverage by demography (where available).',
+                                       className='mb-0')
+                            ],
+                            id='instruction-toast',
+                            header='Tips',
+                            dismissable=True
+                        )
+                        # dbc.Alert(
+                        #     [
+                        #         html.P('Hover over a county to see vaccination coverage and the source of the data (state or county).'),
+                        #         html.P('Click on a state to see vaccination coverage by demography (where available).', className='mb-0')
+                        #     ],
+                        #     id='instruction-alert',
+                        #     color='secondary',
+                        #     dismissable=True,
+                        #     is_open=True
+                        # )
+                    )
+                ], width=2  # , style={'background-color': 'orange'}
+            )
+        ], justify='left', no_gutters=True, className='h-50'
+        # justify elements in a row, height of row restricted to 75%
+    )
+
+    # row for barplots
+    row_3 = dbc.Row(
+        children=[
+            dbc.Col([
+                dbc.Fade(
+                    dcc.Graph(
+                        id='age-bar',
+                        config={'displayModeBar': False},
+                        className='h-100'
+                    ),
+                    id='age-fade',
+                    is_in=False
+                )], width=12, lg=5, className='h-100'  # , style={'background-color': 'green'}
+            ),
+            dbc.Col(
+                dbc.Fade(
+                    dcc.Graph(
+                        id='gender-bar',
+                        config={'displayModeBar': False},
+                        className='h-100'
+                    ),
+                    id='gender-fade',
+                    is_in=False
+                ), width=12, lg=5, className='h-100'  # , style={'background-color': 'cyan'}
+            )
+        ], justify='around', align='center'
+    )
+
+    row_4 = dbc.Row(
+        children=[
+            dbc.Col(
+                dbc.Fade(
+                    dcc.Graph(
+                        id='race-bar',
+                        config={'displayModeBar': False},
+                        className='h-100'
+                    ),
+                    id='race-fade',
+                    is_in=False
+                ), width=12, lg=5, className='h-100'  # , style={'background-color': 'blue'}
+            ),
+            dbc.Col(
+                dbc.Fade(
+                    dcc.Graph(
+                        id='ethnicity-bar',
+                        config={'displayModeBar': False},
+                        className='h-100'
+                    ),
+                    id='ethnicity-fade',
+                    is_in=False
+                ), width=12, lg=5, className='h-100'  # , style={'background-color': 'red'}
+            )
+        ], justify='around', align='center'
+    )
+    return dbc.Container([row_2, row_3, row_4], style={'height': '100vh'}, fluid=True)
+
 # ----------------------------------------------------------------------------------------------------------------------
 # initializes Dash app
 #app = dash.Dash(__name__)
 app = dash.Dash(external_stylesheets=[dbc.themes.BOOTSTRAP])  # uses standard bootswatch theme
 server = app.server
+# get_new_data()  # read data upon app initialization
+app.layout = make_layout  # provide layout function
 
+# define multi thread executor
+# executor = ThreadPoolExecutor(max_workers=1)
+# executor.submit(get_new_data_every)
+
+# regular, non-function layout
 # row for title, dropdown, and alert
 # row_1 = dbc.Row(
 #     children=[
@@ -170,134 +366,134 @@ server = app.server
 # )
 
 # warning modal
-modal = html.Div(
-    [
-        dbc.Modal(
-            [
-                dbc.ModalHeader('Warning'),
-                dbc.ModalBody('No demographic data available for this state. Please make a different selection.'),
-                dbc.ModalFooter(
-                    dbc.Button('Close', id='close', className='ml-auto')
-                )
-            ],
-            id='warning-modal',
-            backdrop=False
-        )
-    ]
-)
-
-# row for map
-row_2 = dbc.Row(
-    children=[
-        dbc.Col(
-            dbc.Spinner(
-                size='lg',
-                type='border',
-                fullscreen=True,
-                children=[dcc.Graph(
-                    id='US-choropleth',
-                    figure=US_choropleth(),
-                    style={'height': '100%'},  # seems to control graph height within the row?
-                    config={'modeBarButtonsToRemove': ['select2d',
-                                                       'lasso2d',
-                                                       'zoom2d',
-                                                       'autoScale2d',
-                                                       'toggleSpikelines',
-                                                       'toggleHover',
-                                                       'sendDataToCloud',
-                                                       'toImage',
-                                                       'hoverClosestGeo'],
-                            'scrollZoom': False,
-                            'displayModeBar': True,
-                            'displaylogo': False}
-                    )]), width={'size': 8, 'offset': 2}, className='h-100'#, style={'background-color': 'black'}
-        ),
-        dbc.Col(
-            children=[
-                modal,
-                html.Div(
-                    dbc.Toast(
-                        [
-                            html.P('Hover over a county to see vaccination coverage and the source of the data (state or county).'),
-                            html.P('Click on a state to see vaccination coverage by demography (where available).', className='mb-0')
-                        ],
-                        id='instruction-toast',
-                        header='Tips',
-                        dismissable=True
-                    )
-                    # dbc.Alert(
-                    #     [
-                    #         html.P('Hover over a county to see vaccination coverage and the source of the data (state or county).'),
-                    #         html.P('Click on a state to see vaccination coverage by demography (where available).', className='mb-0')
-                    #     ],
-                    #     id='instruction-alert',
-                    #     color='secondary',
-                    #     dismissable=True,
-                    #     is_open=True
-                    # )
-                )
-            ], width=2#, style={'background-color': 'orange'}
-        )
-    ], justify='left', no_gutters=True, className='h-50'  # justify elements in a row, height of row restricted to 75%
-)
-
-# row for barplots
-row_3 = dbc.Row(
-    children=[
-        dbc.Col([
-            dbc.Fade(
-                dcc.Graph(
-                    id='age-bar',
-                    config={'displayModeBar': False},
-                    className='h-100'
-                ),
-                id='age-fade',
-                is_in=False
-            )], width=12, lg=5, className='h-100'#, style={'background-color': 'green'}
-        ),
-        dbc.Col(
-            dbc.Fade(
-                dcc.Graph(
-                    id='gender-bar',
-                    config={'displayModeBar': False},
-                    className='h-100'
-                ),
-                id='gender-fade',
-                is_in=False
-            ), width=12, lg=5, className='h-100'#, style={'background-color': 'cyan'}
-        )
-    ], justify='around', align='center'
-)
-
-row_4 = dbc.Row(
-    children=[
-        dbc.Col(
-            dbc.Fade(
-                dcc.Graph(
-                    id='race-bar',
-                    config={'displayModeBar': False},
-                    className='h-100'
-                ),
-                id='race-fade',
-                is_in=False
-            ), width=12, lg=5, className='h-100'#, style={'background-color': 'blue'}
-        ),
-        dbc.Col(
-            dbc.Fade(
-                dcc.Graph(
-                    id='ethnicity-bar',
-                    config={'displayModeBar': False},
-                    className='h-100'
-                ),
-                id='ethnicity-fade',
-                is_in=False
-            ), width=12, lg=5, className='h-100'#, style={'background-color': 'red'}
-        )
-    ], justify='around', align='center'
-)
-
-# sets full app container; full screen width and length
-app.layout = dbc.Container([row_2, row_3, row_4], style={'height': '100vh'}, fluid=True)
+# modal = html.Div(
+#     [
+#         dbc.Modal(
+#             [
+#                 dbc.ModalHeader('Warning'),
+#                 dbc.ModalBody('No demographic data available for this state. Please make a different selection.'),
+#                 dbc.ModalFooter(
+#                     dbc.Button('Close', id='close', className='ml-auto')
+#                 )
+#             ],
+#             id='warning-modal',
+#             backdrop=False
+#         )
+#     ]
+# )
+#
+# # row for map
+# row_2 = dbc.Row(
+#     children=[
+#         dbc.Col(
+#             dbc.Spinner(
+#                 size='lg',
+#                 type='border',
+#                 fullscreen=True,
+#                 children=[dcc.Graph(
+#                     id='US-choropleth',
+#                     figure=US_choropleth(),
+#                     style={'height': '100%'},  # seems to control graph height within the row?
+#                     config={'modeBarButtonsToRemove': ['select2d',
+#                                                        'lasso2d',
+#                                                        'zoom2d',
+#                                                        'autoScale2d',
+#                                                        'toggleSpikelines',
+#                                                        'toggleHover',
+#                                                        'sendDataToCloud',
+#                                                        'toImage',
+#                                                        'hoverClosestGeo'],
+#                             'scrollZoom': False,
+#                             'displayModeBar': True,
+#                             'displaylogo': False}
+#                     )]), width={'size': 8, 'offset': 2}, className='h-100'#, style={'background-color': 'black'}
+#         ),
+#         dbc.Col(
+#             children=[
+#                 modal,
+#                 html.Div(
+#                     dbc.Toast(
+#                         [
+#                             html.P('Hover over a county to see vaccination coverage and the source of the data (state or county).'),
+#                             html.P('Click on a state to see vaccination coverage by demography (where available).', className='mb-0')
+#                         ],
+#                         id='instruction-toast',
+#                         header='Tips',
+#                         dismissable=True
+#                     )
+#                     # dbc.Alert(
+#                     #     [
+#                     #         html.P('Hover over a county to see vaccination coverage and the source of the data (state or county).'),
+#                     #         html.P('Click on a state to see vaccination coverage by demography (where available).', className='mb-0')
+#                     #     ],
+#                     #     id='instruction-alert',
+#                     #     color='secondary',
+#                     #     dismissable=True,
+#                     #     is_open=True
+#                     # )
+#                 )
+#             ], width=2#, style={'background-color': 'orange'}
+#         )
+#     ], justify='left', no_gutters=True, className='h-50'  # justify elements in a row, height of row restricted to 75%
+# )
+#
+# # row for barplots
+# row_3 = dbc.Row(
+#     children=[
+#         dbc.Col([
+#             dbc.Fade(
+#                 dcc.Graph(
+#                     id='age-bar',
+#                     config={'displayModeBar': False},
+#                     className='h-100'
+#                 ),
+#                 id='age-fade',
+#                 is_in=False
+#             )], width=12, lg=5, className='h-100'#, style={'background-color': 'green'}
+#         ),
+#         dbc.Col(
+#             dbc.Fade(
+#                 dcc.Graph(
+#                     id='gender-bar',
+#                     config={'displayModeBar': False},
+#                     className='h-100'
+#                 ),
+#                 id='gender-fade',
+#                 is_in=False
+#             ), width=12, lg=5, className='h-100'#, style={'background-color': 'cyan'}
+#         )
+#     ], justify='around', align='center'
+# )
+#
+# row_4 = dbc.Row(
+#     children=[
+#         dbc.Col(
+#             dbc.Fade(
+#                 dcc.Graph(
+#                     id='race-bar',
+#                     config={'displayModeBar': False},
+#                     className='h-100'
+#                 ),
+#                 id='race-fade',
+#                 is_in=False
+#             ), width=12, lg=5, className='h-100'#, style={'background-color': 'blue'}
+#         ),
+#         dbc.Col(
+#             dbc.Fade(
+#                 dcc.Graph(
+#                     id='ethnicity-bar',
+#                     config={'displayModeBar': False},
+#                     className='h-100'
+#                 ),
+#                 id='ethnicity-fade',
+#                 is_in=False
+#             ), width=12, lg=5, className='h-100'#, style={'background-color': 'red'}
+#         )
+#     ], justify='around', align='center'
+# )
+#
+# # sets full app container; full screen width and length
+# app.layout = dbc.Container([row_2, row_3, row_4], style={'height': '100vh'}, fluid=True)
 
 #-----------------------------------------------------------------------------------------------------------------------
 # CALLBACK STRUCTURE
@@ -472,21 +668,21 @@ def update_bar_plots(US_choro_clickData):
         # for now
         fips_code = '31'
 
-    age_NA_part = dff_age.CASES[(dff_age['STATE'] == fips_code) & (dff_age['DEMO_GROUP'] == 'CASES_UnknownAge') & (
+    age_NA_part = dff_age.CASES[(dff_age['DEMO_GROUP'] == 'CASES_UnknownAge') & (
             dff_age['CASE_TYPE'] == 'Partial Coverage')].unique()[0]
-    age_NA_comp = dff_age.CASES[(dff_age['STATE'] == fips_code) & (dff_age['DEMO_GROUP'] == 'CASES_UnknownAge') & (
+    age_NA_comp = dff_age.CASES[(dff_age['DEMO_GROUP'] == 'CASES_UnknownAge') & (
             dff_age['CASE_TYPE'] == 'Complete Coverage')].unique()[0]
-    race_NA_part = dff_race.CASES[(dff_race['STATE'] == fips_code) & (dff_race['DEMO_GROUP'] == 'CASES_UnknownRace') & (
+    race_NA_part = dff_race.CASES[(dff_race['DEMO_GROUP'] == 'CASES_UnknownRace') & (
             dff_race['CASE_TYPE'] == 'Partial Coverage')].unique()[0]
-    race_NA_comp = dff_race.CASES[(dff_race['STATE'] == fips_code) & (dff_race['DEMO_GROUP'] == 'CASES_UnknownRace') & (
+    race_NA_comp = dff_race.CASES[(dff_race['DEMO_GROUP'] == 'CASES_UnknownRace') & (
             dff_race['CASE_TYPE'] == 'Complete Coverage')].unique()[0]
-    gender_NA_part = dff_gender.CASES[(dff_gender['STATE'] == fips_code) & (dff_gender['DEMO_GROUP'] == 'CASES_UnknownGender') & (
+    gender_NA_part = dff_gender.CASES[(dff_gender['DEMO_GROUP'] == 'CASES_UnknownGender') & (
                 dff_gender['CASE_TYPE'] == 'Partial Coverage')].unique()[0]
-    gender_NA_comp = dff_gender.CASES[(dff_gender['STATE'] == fips_code) & (dff_gender['DEMO_GROUP'] == 'CASES_UnknownGender') & (
+    gender_NA_comp = dff_gender.CASES[(dff_gender['DEMO_GROUP'] == 'CASES_UnknownGender') & (
                 dff_gender['CASE_TYPE'] == 'Complete Coverage')].unique()[0]
-    ethnicity_NA_part = dff_ethnicity.CASES[(dff_ethnicity['STATE'] == fips_code) & (dff_ethnicity['DEMO_GROUP'] == 'CASES_UnknownEthnicity') & (
+    ethnicity_NA_part = dff_ethnicity.CASES[(dff_ethnicity['DEMO_GROUP'] == 'CASES_UnknownEthnicity') & (
                 dff_ethnicity['CASE_TYPE'] == 'Partial Coverage')].unique()[0]
-    ethnicity_NA_comp = dff_ethnicity.CASES[(dff_ethnicity['STATE'] == fips_code) & (dff_ethnicity['DEMO_GROUP'] == 'CASES_UnknownEthnicity') & (
+    ethnicity_NA_comp = dff_ethnicity.CASES[(dff_ethnicity['DEMO_GROUP'] == 'CASES_UnknownEthnicity') & (
                 dff_ethnicity['CASE_TYPE'] == 'Complete Coverage')].unique()[0]
 
     # creating the age bar plot
@@ -497,7 +693,10 @@ def update_bar_plots(US_choro_clickData):
             y=dff_age.CASES[(dff_age['CASE_TYPE'] == i) & (dff_age['DEMO_GROUP'] != 'CASES_UnknownAge')],
             name=i,
             marker_color=age_colors[i],  # overrides the color of the bars
-            opacity=0.7
+            opacity=0.7,
+            text=dff_age.CASES[(dff_age['CASE_TYPE'] == i) & (dff_age['DEMO_GROUP'] != 'CASES_UnknownAge')],
+            textposition='auto',
+            texttemplate='%{text:.1f}%'
         ))
     age_barplot.update_layout(
         margin=dict(
@@ -580,7 +779,10 @@ def update_bar_plots(US_choro_clickData):
             y=dff_race.CASES[(dff_race['CASE_TYPE'] == i) & (dff_race['DEMO_GROUP'] != 'CASES_UnknownRace')],
             name=i,
             marker_color=race_colors[i],  # overrides the color of the bars
-            opacity=0.7
+            opacity=0.7,
+            text=dff_race.CASES[(dff_race['CASE_TYPE'] == i) & (dff_race['DEMO_GROUP'] != 'CASES_UnknownRace')],
+            textposition='auto',
+            texttemplate='%{text:.1f}%'
         ))
     race_barplot.update_layout(
         margin=dict(
@@ -661,7 +863,10 @@ def update_bar_plots(US_choro_clickData):
             y=dff_gender.CASES[(dff_gender['CASE_TYPE'] == i) & (dff_gender['DEMO_GROUP'] != 'CASES_UnknownGender')],
             name=i,
             marker_color=gender_colors[i],  # overrides the color of the bars
-            opacity=0.7
+            opacity=0.7,
+            text=dff_gender.CASES[(dff_gender['CASE_TYPE'] == i) & (dff_gender['DEMO_GROUP'] != 'CASES_UnknownGender')],
+            textposition='auto',
+            texttemplate='%{text:.1f}%'
         ))
     gender_barplot.update_layout(
         margin=dict(
@@ -742,7 +947,11 @@ def update_bar_plots(US_choro_clickData):
             y=dff_ethnicity.CASES[(dff_ethnicity['CASE_TYPE'] == i) & (dff_ethnicity['DEMO_GROUP'] != 'CASES_UnknownEthnicity')],
             name=i,
             marker_color=ethnicity_colors[i],  # overrides the color of the bars
-            opacity=0.7
+            opacity=0.7,
+            text=dff_ethnicity.CASES[
+                (dff_ethnicity['CASE_TYPE'] == i) & (dff_ethnicity['DEMO_GROUP'] != 'CASES_UnknownEthnicity')],
+            textposition='auto',
+            texttemplate='%{text:.1f}%'
         ))
     ethnicity_barplot.update_layout(
         margin=dict(
