@@ -83,7 +83,7 @@ def US_choropleth():
                         locations='COUNTY',
                         color='CASES',
                         color_continuous_scale=custom_colorscale,
-                        range_color=[0, max_color],  # restrict colorbar range so that more color variation shows
+                        range_color=[0, 7],  # restrict colorbar range so that more color variation shows
                         scope='usa',
                         custom_data=['COUNTY_NAME', 'STATE_NAME', 'CASES', 'GEOFLAG', 'DATE'],  # data available for hover
                         )
