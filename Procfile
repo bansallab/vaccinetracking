@@ -1,0 +1,1 @@
+web: gunicorn COVID_dash_app:server
