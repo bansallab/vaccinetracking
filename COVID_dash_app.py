@@ -1,6 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
+import math
 
 import plotly.express as px
 import plotly.graph_objects as go
@@ -72,40 +73,36 @@ state_demo['STATE'] = state_demo['STATE'].apply(pad_fips_state)
 # static choropleth function (no dropdown)
 def US_choropleth():
     county_daily_total_choro = county_daily_total[county_daily_total['CASE_TYPE'] == 'Partial Coverage']
-    #max_color = round(np.percentile(list(county_daily_total_choro.CASES), 95))
-    #print(max_color)
-    
-    # define custom color scale for choropleth
-    # custom_colorscale = [[0.0, '#d2dce6'],
-    #                      [0.1, '#bbcad9'],
-    #                      [0.2, '#a4b8cc'],
-    #                      [0.3, '#8ea7c0'],
-    #                      [0.4, '#7795b3'],
-    #                      [0.5, '#6083a6'],
-    #                      [0.6, '#497199'],
-    #                      [0.7, '#33608d'],
-    #                      [0.8, '#1c4e80'],
-    #                      [0.9, '#194673'],
-    #                      [1.0, '#163e66']]
 
-    custom_colorscale = [[0.0, '#e8edf2'],
-                         [0.1, '#d2dce6'],
-                         [0.2, '#bbcad9'],
-                         [0.3, '#a4b8cc'],
-                         [0.4, '#8ea7c0'],
-                         [0.5, '#7795b3'],
-                         [0.6, '#6083a6'],
-                         [0.7, '#33608d'],
-                         [0.8, '#1c4e80'],
-                         [0.9, '#194673'],
-                         [1.0, '#163e66']]
+    val_max = county_daily_total_choro.CASES.max()
+    val_90 = np.percentile(list(county_daily_total_choro.CASES), 90)/val_max
+    val_92 = np.percentile(list(county_daily_total_choro.CASES), 92)/val_max
+    val_94 = np.percentile(list(county_daily_total_choro.CASES), 94)/val_max
+    val_96 = np.percentile(list(county_daily_total_choro.CASES), 96)/val_max
+    val_15= np.percentile(list(county_daily_total_choro.CASES), 15)/val_max
+    val_30= np.percentile(list(county_daily_total_choro.CASES), 30)/val_max
+    val_45= np.percentile(list(county_daily_total_choro.CASES), 45)/val_max
+    val_60= np.percentile(list(county_daily_total_choro.CASES), 60)/val_max
+    val_75= np.percentile(list(county_daily_total_choro.CASES), 75)/val_max
+
+    custom_colorscale = [[0.0, '#ffffff'],
+                         [val_15, '#e8edf2'],
+                         [val_30, '#d2dce6'],
+                         [val_45, '#bbcad9'],
+                         [val_60, '#a4b8cc'],
+                         [val_75, '#8ea7c0'],
+                         [val_90, '#7795b3'],
+                         [val_92, '#6083a6'],
+                         [val_94, '#497199'],
+                         [val_96, '#33608d'],
+                         [1.0, '#1c4e80']]
 
     fig = px.choropleth(county_daily_total_choro,
                         geojson=counties,
                         locations='COUNTY',
-                        color='CASES',
-                        color_continuous_scale=custom_colorscale,
-                        range_color=[0, 7],  # restrict colorbar range so that more color variation shows
+                        color = county_daily_total_choro.CASES,
+                        color_continuous_scale= custom_colorscale,
+                        #range_color=[0, 7],  # restrict colorbar range so that more color variation shows
                         scope='usa',
                         custom_data=['COUNTY_NAME', 'STATE_NAME', 'CASES', 'GEOFLAG', 'DATE'],  # data available for hover
                         )
@@ -682,6 +679,8 @@ def update_bar_plots(US_choro_clickData):
 
     # creating the age bar plot
     age_barplot = go.Figure()
+    y_max = dff_age.CASES[(dff_age['CASE_TYPE'].isin(['Partial Coverage', 'Complete Coverage'])) & (dff_age['DEMO_GROUP'] != 'CASES_UnknownAge')].max()
+    y_max = 5 * math.ceil(y_max/5) # round to nearest 5
     for i in ['Partial Coverage', 'Complete Coverage']:
         age_barplot.add_trace(go.Bar(
             x=dff_age.DEMO_GROUP[(dff_age['CASE_TYPE'] == i) & (dff_age['DEMO_GROUP'] != 'CASES_UnknownAge')],
@@ -691,7 +690,9 @@ def update_bar_plots(US_choro_clickData):
             opacity=0.7,
             text=dff_age.CASES[(dff_age['CASE_TYPE'] == i) & (dff_age['DEMO_GROUP'] != 'CASES_UnknownAge')],
             textposition='auto',
-            texttemplate='%{text:.1f}%'
+            texttemplate='%{text:.1f}%',
+            hoverinfo='skip',
+            #width = [0.3, 0.3, 0.3]
         ))
     age_barplot.update_layout(
         margin=dict(
@@ -753,7 +754,8 @@ def update_bar_plots(US_choro_clickData):
             automargin=True,
             rangemode='nonnegative',
             fixedrange=True,
-            hoverformat='.1f'
+            hoverformat='.1f',
+            range= [0, y_max]
         ),
         legend=dict(
             bgcolor='rgba(0,0,0,0)',
@@ -768,6 +770,8 @@ def update_bar_plots(US_choro_clickData):
 
     # creating the race bar plot
     race_barplot = go.Figure()
+    y_max = dff_race.CASES[(dff_race['CASE_TYPE'].isin(['Partial Coverage', 'Complete Coverage'])) & (dff_race['DEMO_GROUP'] != 'CASES_UnknownRace')].max()
+    y_max = 5 * math.ceil(y_max/5) # round to nearest 5
     for i in ['Partial Coverage', 'Complete Coverage']:
         race_barplot.add_trace(go.Bar(
             x=dff_race.DEMO_GROUP[(dff_race['CASE_TYPE'] == i) & (dff_race['DEMO_GROUP'] != 'CASES_UnknownRace')],
@@ -777,7 +781,9 @@ def update_bar_plots(US_choro_clickData):
             opacity=0.7,
             text=dff_race.CASES[(dff_race['CASE_TYPE'] == i) & (dff_race['DEMO_GROUP'] != 'CASES_UnknownRace')],
             textposition='auto',
-            texttemplate='%{text:.1f}%'
+            texttemplate='%{text:.1f}%',
+            hoverinfo='skip',
+            #width = [0.3, 0.3, 0.3, 0.3, 0.3, 0.3]
         ))
     race_barplot.update_layout(
         margin=dict(
@@ -837,7 +843,8 @@ def update_bar_plots(US_choro_clickData):
             automargin=True,
             rangemode='nonnegative',
             fixedrange=True,
-            hoverformat='.1f'
+            hoverformat='.1f',
+            range = [0,y_max]
         ),
         legend=dict(
             bgcolor='rgba(0,0,0,0)',
@@ -852,6 +859,8 @@ def update_bar_plots(US_choro_clickData):
 
     # creating the gender bar plot
     gender_barplot = go.Figure()
+    y_max = dff_gender.CASES[(dff_gender['CASE_TYPE'].isin(['Partial Coverage', 'Complete Coverage'])) & (dff_gender['DEMO_GROUP'] != 'CASES_UnknownGender')].max()
+    y_max = 5 * math.ceil(y_max/5) # round to nearest 5
     for i in ['Partial Coverage', 'Complete Coverage']:
         gender_barplot.add_trace(go.Bar(
             x=dff_gender.DEMO_GROUP[(dff_gender['CASE_TYPE'] == i) & (dff_gender['DEMO_GROUP'] != 'CASES_UnknownGender')],
@@ -861,7 +870,9 @@ def update_bar_plots(US_choro_clickData):
             opacity=0.7,
             text=dff_gender.CASES[(dff_gender['CASE_TYPE'] == i) & (dff_gender['DEMO_GROUP'] != 'CASES_UnknownGender')],
             textposition='auto',
-            texttemplate='%{text:.1f}%'
+            texttemplate='%{text:.1f}%',
+            hoverinfo='skip',
+            #width = [0.3, 0.3]
         ))
     gender_barplot.update_layout(
         margin=dict(
@@ -921,7 +932,8 @@ def update_bar_plots(US_choro_clickData):
             automargin=True,
             rangemode='nonnegative',
             fixedrange=True,
-            hoverformat='.1f'
+            hoverformat='.1f',
+            range = [0,y_max]
         ),
         legend=dict(
             bgcolor='rgba(0,0,0,0)',
@@ -936,6 +948,8 @@ def update_bar_plots(US_choro_clickData):
 
     # creating the ethnicity bar plot
     ethnicity_barplot = go.Figure()
+    y_max = dff_ethnicity.CASES[(dff_ethnicity['CASE_TYPE'].isin(['Partial Coverage', 'Complete Coverage'])) & (dff_ethnicity['DEMO_GROUP'] != 'CASES_UnknownEthnicity')].max()
+    y_max = 5 * math.ceil(y_max/5) # round to nearest 5
     for i in ['Partial Coverage', 'Complete Coverage']:
         ethnicity_barplot.add_trace(go.Bar(
             x=dff_ethnicity.DEMO_GROUP[(dff_ethnicity['CASE_TYPE'] == i) & (dff_ethnicity['DEMO_GROUP'] != 'CASES_UnknownEthnicity')],
@@ -946,7 +960,9 @@ def update_bar_plots(US_choro_clickData):
             text=dff_ethnicity.CASES[
                 (dff_ethnicity['CASE_TYPE'] == i) & (dff_ethnicity['DEMO_GROUP'] != 'CASES_UnknownEthnicity')],
             textposition='auto',
-            texttemplate='%{text:.1f}%'
+            texttemplate='%{text:.1f}%',
+            hoverinfo='skip'
+
         ))
     ethnicity_barplot.update_layout(
         margin=dict(
@@ -1006,7 +1022,8 @@ def update_bar_plots(US_choro_clickData):
             automargin=True,
             rangemode='nonnegative',
             fixedrange=True,
-            hoverformat='.1f'
+            hoverformat='.1f',
+            range=[0,y_max]
         ),
         legend=dict(
             bgcolor='rgba(0,0,0,0)',
