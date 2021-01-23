@@ -692,7 +692,7 @@ def update_bar_plots(US_choro_clickData):
             textposition='auto',
             texttemplate='%{text:.1f}%',
             hoverinfo='skip',
-            #width = [0.3, 0.3, 0.3]
+            #width = [0.3,0.3, 0.3]
         ))
     age_barplot.update_layout(
         margin=dict(
@@ -733,11 +733,12 @@ def update_bar_plots(US_choro_clickData):
             showline=True,
             linecolor='black',
             tickmode='array',  # allows us to use custom tick text
-            tickvals=[0, 1, 2],  # essential if we want custom text; denotes positions of tick labels
+            tickvals=[1, 2, 3],  # essential if we want custom text; denotes positions of tick labels
             ticktext=['Children', 'Adults', 'Older Adults'],  # sets custom group names along x axis
             categoryorder='array',  # allows us to specify custom order
-            categoryarray=['CASES_Child', 'CASES_Adult', 'CASES_Elderly'],  # sets custom order of group names
-            fixedrange=True
+            categoryarray=['NaN','CASES_Child', 'CASES_Adult', 'CASES_Elderly'],  # sets custom order of group names
+            fixedrange=True,
+            range = [-0.5,5]  # need -0.5 to make sure first bar isn't cut off
         ),
         yaxis=dict(
             type='linear',
@@ -826,7 +827,8 @@ def update_bar_plots(US_choro_clickData):
             ticktext=['White', 'Black', 'Asian', 'Native American', 'Pacific Islander', 'Multiracial'],  # sets custom group names along x axis
             categoryorder='array',  # allows us to specify custom order
             categoryarray=['CASES_White', 'CASES_Black', 'CASES_Asian', 'CASES_Native', 'CASES_Pacific', 'CASES_OtherRace'],  # sets custom order of group names
-            fixedrange=True
+            fixedrange=True,
+            range=[-0.5,5] # need -0.5 to make sure first bar isn't cut off
         ),
         yaxis=dict(
             type='linear',
@@ -911,11 +913,13 @@ def update_bar_plots(US_choro_clickData):
             showline=True,
             linecolor='black',
             tickmode='array',  # allows us to use custom tick text
-            tickvals=[0, 1],  # essential if we want custom text; denotes positions of tick labels
+            tickvals=[1,2],  # essential if we want custom text; denotes positions of tick labels
             ticktext=['Female', 'Male'],  # sets custom group names along x axis
             categoryorder='array',  # allows us to specify custom order
-            categoryarray=['CASES_Female', 'CASES_Male'],  # sets custom order of group names
-            fixedrange=True
+            categoryarray=['NaN', 'CASES_Female', 'CASES_Male'],  # sets custom order of group names
+            fixedrange=True,
+            range=[-0.5,5]  # need -0.5 to make sure first bar isn't cut off
+
         ),
         yaxis=dict(
             type='linear',
@@ -1001,11 +1005,13 @@ def update_bar_plots(US_choro_clickData):
             showline=True,
             linecolor='black',
             tickmode='array',  # allows us to use custom tick text
-            tickvals=[0, 1],  # essential if we want custom text; denotes positions of tick labels
+            tickvals=[1,2],  # essential if we want custom text; denotes positions of tick labels
             ticktext=['Hispanic', 'Not Hispanic'],  # sets custom group names along x axis
             categoryorder='array',  # allows us to specify custom order
-            categoryarray=['CASES_Hispanic', 'CASES_NotHispanic'],  # sets custom order of group names
-            fixedrange=True
+            categoryarray=['NaN','CASES_Hispanic', 'CASES_NotHispanic'],  # sets custom order of group names
+            fixedrange=True,
+            range=[-0.5,5]  # need -0.5 to make sure first bar isn't cut off
+
         ),
         yaxis=dict(
             type='linear',
