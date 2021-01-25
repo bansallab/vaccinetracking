@@ -93,7 +93,7 @@ Wyoming,56,2021-01-25,Complete Coverage,CASES_Female,0.0
 Indiana,18,2021-01-25,Partial Coverage,CASES_Female,7.931284147439855
 Minnesota,27,2021-01-25,Partial Coverage,CASES_Female,4.7003682565080975
 Indiana,18,2021-01-25,Complete Coverage,CASES_Female,1.9214139271288762
-Delaware,10,2021-01-23 00:00:00,Partial Coverage,CASES_Female,8.600893490877208
+Delaware,10,2021-01-24 00:00:00,Partial Coverage,CASES_Female,8.94027687480988
 Texas,48,2021-01-25,Partial Coverage,CASES_Female,5.972913783898628
 Texas,48,2021-01-25,Complete Coverage,CASES_Female,1.1178989855466037
 North Dakota,38,2021-01-25,Partial Coverage,CASES_Female,0.0
@@ -192,7 +192,7 @@ Wyoming,56,2021-01-25,Complete,CASES_Female,0.0
 Indiana,18,2021-01-25,Partial,CASES_Female,270604.23199999996
 Minnesota,27,2021-01-25,Partial,CASES_Female,133012.008
 Indiana,18,2021-01-25,Complete,CASES_Female,65555.93400000001
-Delaware,10,2021-01-23 00:00:00,Partial,CASES_Female,43260.0
+Delaware,10,2021-01-24 00:00:00,Partial,CASES_Female,44967.0
 Texas,48,2021-01-25,Partial,CASES_Female,871638.0
 Texas,48,2021-01-25,Complete,CASES_Female,163137.0
 Alabama,1,2021-01-25,Partial Coverage,CASES_Male,0.0
@@ -289,7 +289,7 @@ Wyoming,56,2021-01-25,Complete Coverage,CASES_Male,0.0
 Indiana,18,2021-01-25,Partial Coverage,CASES_Male,4.4281671866906
 Minnesota,27,2021-01-25,Partial Coverage,CASES_Male,2.1108505162802764
 Indiana,18,2021-01-25,Complete Coverage,CASES_Male,0.8676952197954438
-Delaware,10,2021-01-23 00:00:00,Partial Coverage,CASES_Male,4.54169879331256
+Delaware,10,2021-01-24 00:00:00,Partial Coverage,CASES_Male,4.770249345253647
 Texas,48,2021-01-25,Partial Coverage,CASES_Male,3.937052922430805
 Texas,48,2021-01-25,Complete Coverage,CASES_Male,0.6284654087823243
 North Dakota,38,2021-01-25,Partial Coverage,CASES_Male,0.0
@@ -388,7 +388,7 @@ Wyoming,56,2021-01-25,Complete,CASES_Male,0.0
 Indiana,18,2021-01-25,Partial,CASES_Male,147031.092
 Minnesota,27,2021-01-25,Partial,CASES_Male,59310.909999999996
 Indiana,18,2021-01-25,Complete,CASES_Male,28810.605
-Delaware,10,2021-01-23 00:00:00,Partial,CASES_Male,21382.0
+Delaware,10,2021-01-24 00:00:00,Partial,CASES_Male,22458.0
 Texas,48,2021-01-25,Partial,CASES_Male,567042.0
 Texas,48,2021-01-25,Complete,CASES_Male,90516.0
 Alabama,1,2021-01-25,Partial Coverage,CASES_UnknownGender,100.0
@@ -485,7 +485,7 @@ Wyoming,56,2021-01-25,Complete Coverage,CASES_UnknownGender,100.0
 Indiana,18,2021-01-25,Partial Coverage,CASES_UnknownGender,0.30000000000000854
 Minnesota,27,2021-01-25,Partial Coverage,CASES_UnknownGender,1.0999999999999974
 Indiana,18,2021-01-25,Complete Coverage,CASES_UnknownGender,0.09999999999999544
-Delaware,10,2021-01-23 00:00:00,Partial Coverage,CASES_UnknownGender,0.07420003091667955
+Delaware,10,2021-01-24 00:00:00,Partial Coverage,CASES_UnknownGender,0.07410151908114117
 Texas,48,2021-01-25,Partial Coverage,CASES_UnknownGender,1.4125333294958586
 Texas,48,2021-01-25,Complete Coverage,CASES_UnknownGender,0.40598852709404093
 North Dakota,38,2021-01-25,Partial Coverage,CASES_UnknownGender,100.0
@@ -584,7 +584,7 @@ Wyoming,56,2021-01-25,Complete,CASES_UnknownGender,100.0
 Indiana,18,2021-01-25,Partial,CASES_UnknownGender,0.30000000000000854
 Minnesota,27,2021-01-25,Partial,CASES_UnknownGender,1.0999999999999974
 Indiana,18,2021-01-25,Complete,CASES_UnknownGender,0.09999999999999544
-Delaware,10,2021-01-23 00:00:00,Partial,CASES_UnknownGender,0.07420003091667955
+Delaware,10,2021-01-24 00:00:00,Partial,CASES_UnknownGender,0.07410151908114117
 Texas,48,2021-01-25,Partial,CASES_UnknownGender,1.4125333294958586
 Texas,48,2021-01-25,Complete,CASES_UnknownGender,0.40598852709404093
 Alabama,1,2021-01-25,Partial Coverage,CASES_White,0.0
@@ -681,7 +681,7 @@ Wyoming,56,2021-01-25,Complete Coverage,CASES_White,0.0
 Indiana,18,2021-01-25,Partial Coverage,CASES_White,6.20679432085515
 Minnesota,27,2021-01-25,Partial Coverage,CASES_White,0.0
 Indiana,18,2021-01-25,Complete Coverage,CASES_White,1.4410054343637866
-Delaware,10,2021-01-23 00:00:00,Partial Coverage,CASES_White,3.2677372695916627
+Delaware,10,2021-01-24 00:00:00,Partial Coverage,CASES_White,3.4473908689685864
 Texas,48,2021-01-25,Partial Coverage,CASES_White,1.7697478704190497
 Texas,48,2021-01-25,Complete Coverage,CASES_White,0.321795061240114
 North Dakota,38,2021-01-25,Partial Coverage,CASES_White,10.21
@@ -780,7 +780,7 @@ Wyoming,56,2021-01-25,Complete,CASES_White,0.0
 Indiana,18,2021-01-25,Partial,CASES_White,354382.632
 Minnesota,27,2021-01-25,Partial,CASES_White,0.0
 Indiana,18,2021-01-25,Complete,CASES_White,82275.531
-Delaware,10,2021-01-23 00:00:00,Partial,CASES_White,22027.0
+Delaware,10,2021-01-24 00:00:00,Partial,CASES_White,23238.0
 Texas,48,2021-01-25,Partial,CASES_White,403611.0
 Texas,48,2021-01-25,Complete,CASES_White,73389.0
 Alabama,1,2021-01-25,Partial Coverage,CASES_Black,0.0
@@ -877,7 +877,7 @@ Wyoming,56,2021-01-25,Complete Coverage,CASES_Black,0.0
 Indiana,18,2021-01-25,Partial Coverage,CASES_Black,2.377238812657184
 Minnesota,27,2021-01-25,Partial Coverage,CASES_Black,0.0
 Indiana,18,2021-01-25,Complete Coverage,CASES_Black,0.4655363831325158
-Delaware,10,2021-01-23 00:00:00,Partial Coverage,CASES_Black,1.4214521335083177
+Delaware,10,2021-01-24 00:00:00,Partial Coverage,CASES_Black,1.4600255382541765
 Texas,48,2021-01-25,Partial Coverage,CASES_Black,1.5369778892448454
 Texas,48,2021-01-25,Complete Coverage,CASES_Black,0.3260037317933334
 North Dakota,38,2021-01-25,Partial Coverage,CASES_Black,4.81
@@ -976,7 +976,7 @@ Wyoming,56,2021-01-25,Complete,CASES_Black,0.0
 Indiana,18,2021-01-25,Partial,CASES_Black,15917.895999999999
 Minnesota,27,2021-01-25,Partial,CASES_Black,0.0
 Indiana,18,2021-01-25,Complete,CASES_Black,3117.213
-Delaware,10,2021-01-23 00:00:00,Partial,CASES_Black,3206.0
+Delaware,10,2021-01-24 00:00:00,Partial,CASES_Black,3293.0
 Texas,48,2021-01-25,Partial,CASES_Black,57471.0
 Texas,48,2021-01-25,Complete,CASES_Black,12190.0
 Alabama,1,2021-01-25,Partial Coverage,CASES_Asian,0.0
@@ -1073,7 +1073,7 @@ Wyoming,56,2021-01-25,Complete Coverage,CASES_Asian,0.0
 Indiana,18,2021-01-25,Partial Coverage,CASES_Asian,5.5133138769670955
 Minnesota,27,2021-01-25,Partial Coverage,CASES_Asian,0.0
 Indiana,18,2021-01-25,Complete Coverage,CASES_Asian,2.432472103004292
-Delaware,10,2021-01-23 00:00:00,Partial Coverage,CASES_Asian,1.861375210094574
+Delaware,10,2021-01-24 00:00:00,Partial Coverage,CASES_Asian,1.8739181697313299
 Texas,48,2021-01-25,Partial Coverage,CASES_Asian,4.953888524763816
 Texas,48,2021-01-25,Complete Coverage,CASES_Asian,1.3788423470840203
 North Dakota,38,2021-01-25,Partial Coverage,CASES_Asian,6.52
@@ -1172,7 +1172,7 @@ Wyoming,56,2021-01-25,Complete,CASES_Asian,0.0
 Indiana,18,2021-01-25,Partial,CASES_Asian,9634.516
 Minnesota,27,2021-01-25,Partial,CASES_Asian,0.0
 Indiana,18,2021-01-25,Complete,CASES_Asian,4250.745
-Delaware,10,2021-01-23 00:00:00,Partial,CASES_Asian,742.0
+Delaware,10,2021-01-24 00:00:00,Partial,CASES_Asian,747.0
 Texas,48,2021-01-25,Partial,CASES_Asian,74827.0
 Texas,48,2021-01-25,Complete,CASES_Asian,20827.0
 Alabama,1,2021-01-25,Partial Coverage,CASES_OtherRace,0.0
@@ -1269,7 +1269,7 @@ Wyoming,56,2021-01-25,Complete Coverage,CASES_OtherRace,0.0
 Indiana,18,2021-01-25,Partial Coverage,CASES_OtherRace,0.0
 Minnesota,27,2021-01-25,Partial Coverage,CASES_OtherRace,0.0
 Indiana,18,2021-01-25,Complete Coverage,CASES_OtherRace,0.0
-Delaware,10,2021-01-23 00:00:00,Partial Coverage,CASES_OtherRace,0.0
+Delaware,10,2021-01-24 00:00:00,Partial Coverage,CASES_OtherRace,0.0
 Texas,48,2021-01-25,Partial Coverage,CASES_OtherRace,0.0
 Texas,48,2021-01-25,Complete Coverage,CASES_OtherRace,0.0
 North Dakota,38,2021-01-25,Partial Coverage,CASES_OtherRace,0.0
@@ -1368,7 +1368,7 @@ Wyoming,56,2021-01-25,Complete,CASES_OtherRace,0.0
 Indiana,18,2021-01-25,Partial,CASES_OtherRace,0.0
 Minnesota,27,2021-01-25,Partial,CASES_OtherRace,0.0
 Indiana,18,2021-01-25,Complete,CASES_OtherRace,0.0
-Delaware,10,2021-01-23 00:00:00,Partial,CASES_OtherRace,0.0
+Delaware,10,2021-01-24 00:00:00,Partial,CASES_OtherRace,0.0
 Texas,48,2021-01-25,Partial,CASES_OtherRace,0.0
 Texas,48,2021-01-25,Complete,CASES_OtherRace,0.0
 Alabama,1,2021-01-25,Partial Coverage,CASES_UnknownRace,100.0
@@ -1465,7 +1465,7 @@ Wyoming,56,2021-01-25,Complete Coverage,CASES_UnknownRace,100.0
 Indiana,18,2021-01-25,Partial Coverage,CASES_UnknownRace,11.600000000000005
 Minnesota,27,2021-01-25,Partial Coverage,CASES_UnknownRace,100.0
 Indiana,18,2021-01-25,Complete Coverage,CASES_UnknownRace,9.599999999999998
-Delaware,10,2021-01-23 00:00:00,Partial Coverage,CASES_UnknownRace,37.60704900293708
+Delaware,10,2021-01-24 00:00:00,Partial Coverage,CASES_UnknownRace,37.692478695813264
 Texas,48,2021-01-25,Partial Coverage,CASES_UnknownRace,45.948894430385124
 Texas,48,2021-01-25,Complete Coverage,CASES_UnknownRace,39.98555089187905
 North Dakota,38,2021-01-25,Partial Coverage,CASES_UnknownRace,0.0
@@ -1564,7 +1564,7 @@ Wyoming,56,2021-01-25,Complete,CASES_UnknownRace,100.0
 Indiana,18,2021-01-25,Partial,CASES_UnknownRace,11.600000000000005
 Minnesota,27,2021-01-25,Partial,CASES_UnknownRace,100.0
 Indiana,18,2021-01-25,Complete,CASES_UnknownRace,9.599999999999998
-Delaware,10,2021-01-23 00:00:00,Partial,CASES_UnknownRace,37.60704900293708
+Delaware,10,2021-01-24 00:00:00,Partial,CASES_UnknownRace,37.692478695813264
 Texas,48,2021-01-25,Partial,CASES_UnknownRace,45.948894430385124
 Texas,48,2021-01-25,Complete,CASES_UnknownRace,39.98555089187905
 Alabama,1,2021-01-25,Partial Coverage,CASES_Native,0.0
@@ -1661,7 +1661,7 @@ Wyoming,56,2021-01-25,Complete Coverage,CASES_Native,0.0
 Indiana,18,2021-01-25,Partial Coverage,CASES_Native,0.0
 Minnesota,27,2021-01-25,Partial Coverage,CASES_Native,0.0
 Indiana,18,2021-01-25,Complete Coverage,CASES_Native,0.0
-Delaware,10,2021-01-23 00:00:00,Partial Coverage,CASES_Native,0.0
+Delaware,10,2021-01-24 00:00:00,Partial Coverage,CASES_Native,0.0
 Texas,48,2021-01-25,Partial Coverage,CASES_Native,0.0
 Texas,48,2021-01-25,Complete Coverage,CASES_Native,0.0
 North Dakota,38,2021-01-25,Partial Coverage,CASES_Native,6.85
@@ -1760,7 +1760,7 @@ Wyoming,56,2021-01-25,Complete,CASES_Native,0.0
 Indiana,18,2021-01-25,Partial,CASES_Native,0.0
 Minnesota,27,2021-01-25,Partial,CASES_Native,0.0
 Indiana,18,2021-01-25,Complete,CASES_Native,0.0
-Delaware,10,2021-01-23 00:00:00,Partial,CASES_Native,0.0
+Delaware,10,2021-01-24 00:00:00,Partial,CASES_Native,0.0
 Texas,48,2021-01-25,Partial,CASES_Native,0.0
 Texas,48,2021-01-25,Complete,CASES_Native,0.0
 Alabama,1,2021-01-25,Partial Coverage,CASES_Pacific,0.0
@@ -1857,7 +1857,7 @@ Wyoming,56,2021-01-25,Complete Coverage,CASES_Pacific,0.0
 Indiana,18,2021-01-25,Partial Coverage,CASES_Pacific,0.0
 Minnesota,27,2021-01-25,Partial Coverage,CASES_Pacific,0.0
 Indiana,18,2021-01-25,Complete Coverage,CASES_Pacific,0.0
-Delaware,10,2021-01-23 00:00:00,Partial Coverage,CASES_Pacific,0.0
+Delaware,10,2021-01-24 00:00:00,Partial Coverage,CASES_Pacific,0.0
 Texas,48,2021-01-25,Partial Coverage,CASES_Pacific,0.0
 Texas,48,2021-01-25,Complete Coverage,CASES_Pacific,0.0
 North Dakota,38,2021-01-25,Partial Coverage,CASES_Pacific,8.01
@@ -1956,7 +1956,7 @@ Wyoming,56,2021-01-25,Complete,CASES_Pacific,0.0
 Indiana,18,2021-01-25,Partial,CASES_Pacific,0.0
 Minnesota,27,2021-01-25,Partial,CASES_Pacific,0.0
 Indiana,18,2021-01-25,Complete,CASES_Pacific,0.0
-Delaware,10,2021-01-23 00:00:00,Partial,CASES_Pacific,0.0
+Delaware,10,2021-01-24 00:00:00,Partial,CASES_Pacific,0.0
 Texas,48,2021-01-25,Partial,CASES_Pacific,0.0
 Texas,48,2021-01-25,Complete,CASES_Pacific,0.0
 Alabama,1,2021-01-25,Partial Coverage,CASES_Hispanic,0.0
@@ -2053,7 +2053,7 @@ Wyoming,56,2021-01-25,Complete Coverage,CASES_Hispanic,0.0
 Indiana,18,2021-01-25,Partial Coverage,CASES_Hispanic,1.8832262191097227
 Minnesota,27,2021-01-25,Partial Coverage,CASES_Hispanic,0.0
 Indiana,18,2021-01-25,Complete Coverage,CASES_Hispanic,0.5404908113366016
-Delaware,10,2021-01-23 00:00:00,Partial Coverage,CASES_Hispanic,1.5879474467561114
+Delaware,10,2021-01-24 00:00:00,Partial Coverage,CASES_Hispanic,1.6286365923911297
 Texas,48,2021-01-25,Partial Coverage,CASES_Hispanic,1.0419607589311357
 Texas,48,2021-01-25,Complete Coverage,CASES_Hispanic,0.2523170638383602
 North Dakota,38,2021-01-25,Partial Coverage,CASES_Hispanic,4.03
@@ -2152,7 +2152,7 @@ Wyoming,56,2021-01-25,Complete,CASES_Hispanic,0.0
 Indiana,18,2021-01-25,Partial,CASES_Hispanic,9215.624000000002
 Minnesota,27,2021-01-25,Partial,CASES_Hispanic,0.0
 Indiana,18,2021-01-25,Complete,CASES_Hispanic,2644.908
-Delaware,10,2021-01-23 00:00:00,Partial,CASES_Hispanic,1483.0
+Delaware,10,2021-01-24 00:00:00,Partial,CASES_Hispanic,1521.0
 Texas,48,2021-01-25,Partial,CASES_Hispanic,120092.0
 Texas,48,2021-01-25,Complete,CASES_Hispanic,29081.0
 Alabama,1,2021-01-25,Partial Coverage,CASES_NotHispanic,0.0
@@ -2249,7 +2249,7 @@ Wyoming,56,2021-01-25,Complete Coverage,CASES_NotHispanic,0.0
 Indiana,18,2021-01-25,Partial Coverage,CASES_NotHispanic,5.904739265587312
 Minnesota,27,2021-01-25,Partial Coverage,CASES_NotHispanic,0.0
 Indiana,18,2021-01-25,Complete Coverage,CASES_NotHispanic,1.4177776200866719
-Delaware,10,2021-01-23 00:00:00,Partial Coverage,CASES_NotHispanic,2.950453955312123
+Delaware,10,2021-01-24 00:00:00,Partial Coverage,CASES_NotHispanic,3.0984594030030452
 Texas,48,2021-01-25,Partial Coverage,CASES_NotHispanic,3.827477977914865
 Texas,48,2021-01-25,Complete Coverage,CASES_NotHispanic,0.7084479301818635
 North Dakota,38,2021-01-25,Partial Coverage,CASES_NotHispanic,9.82
@@ -2348,7 +2348,7 @@ Wyoming,56,2021-01-25,Complete,CASES_NotHispanic,0.0
 Indiana,18,2021-01-25,Partial,CASES_NotHispanic,368624.96
 Minnesota,27,2021-01-25,Partial,CASES_NotHispanic,0.0
 Indiana,18,2021-01-25,Complete,CASES_NotHispanic,88509.95700000001
-Delaware,10,2021-01-23 00:00:00,Partial,CASES_NotHispanic,25975.0
+Delaware,10,2021-01-24 00:00:00,Partial,CASES_NotHispanic,27278.0
 Texas,48,2021-01-25,Partial,CASES_NotHispanic,668672.0
 Texas,48,2021-01-25,Complete,CASES_NotHispanic,123768.0
 Alabama,1,2021-01-25,Partial Coverage,CASES_UnknownEthnicity,100.0
@@ -2445,7 +2445,7 @@ Wyoming,56,2021-01-25,Complete Coverage,CASES_UnknownEthnicity,100.0
 Indiana,18,2021-01-25,Partial Coverage,CASES_UnknownEthnicity,9.799999999999992
 Minnesota,27,2021-01-25,Partial Coverage,CASES_UnknownEthnicity,100.0
 Indiana,18,2021-01-25,Complete Coverage,CASES_UnknownEthnicity,3.4999999999999947
-Delaware,10,2021-01-23 00:00:00,Partial Coverage,CASES_UnknownEthnicity,57.554490647704434
+Delaware,10,2021-01-24 00:00:00,Partial Coverage,CASES_UnknownEthnicity,57.31900703964431
 Texas,48,2021-01-25,Partial Coverage,CASES_UnknownEthnicity,0.0
 Texas,48,2021-01-25,Complete Coverage,CASES_UnknownEthnicity,0.0
 North Dakota,38,2021-01-25,Partial Coverage,CASES_UnknownEthnicity,0.0
@@ -2544,7 +2544,7 @@ Wyoming,56,2021-01-25,Complete,CASES_UnknownEthnicity,100.0
 Indiana,18,2021-01-25,Partial,CASES_UnknownEthnicity,9.799999999999992
 Minnesota,27,2021-01-25,Partial,CASES_UnknownEthnicity,100.0
 Indiana,18,2021-01-25,Complete,CASES_UnknownEthnicity,3.4999999999999947
-Delaware,10,2021-01-23 00:00:00,Partial,CASES_UnknownEthnicity,57.554490647704434
+Delaware,10,2021-01-24 00:00:00,Partial,CASES_UnknownEthnicity,57.31900703964431
 Texas,48,2021-01-25,Partial,CASES_UnknownEthnicity,0.0
 Texas,48,2021-01-25,Complete,CASES_UnknownEthnicity,0.0
 Alabama,1,2021-01-25,Partial Coverage,CASES_Child,0.0
@@ -2641,7 +2641,7 @@ Wyoming,56,2021-01-25,Complete Coverage,CASES_Child,0.0
 Indiana,18,2021-01-25,Partial Coverage,CASES_Child,0.0
 Minnesota,27,2021-01-25,Partial Coverage,CASES_Child,0.0
 Indiana,18,2021-01-25,Complete Coverage,CASES_Child,0.0
-Delaware,10,2021-01-23 00:00:00,Partial Coverage,CASES_Child,0.0
+Delaware,10,2021-01-24 00:00:00,Partial Coverage,CASES_Child,0.0
 Texas,48,2021-01-25,Partial Coverage,CASES_Child,0.0
 Texas,48,2021-01-25,Complete Coverage,CASES_Child,0.0
 North Dakota,38,2021-01-25,Partial Coverage,CASES_Child,0.0
@@ -2740,7 +2740,7 @@ Wyoming,56,2021-01-25,Complete,CASES_Child,0.0
 Indiana,18,2021-01-25,Partial,CASES_Child,0.0
 Minnesota,27,2021-01-25,Partial,CASES_Child,0.0
 Indiana,18,2021-01-25,Complete,CASES_Child,0.0
-Delaware,10,2021-01-23 00:00:00,Partial,CASES_Child,0.0
+Delaware,10,2021-01-24 00:00:00,Partial,CASES_Child,0.0
 Texas,48,2021-01-25,Partial,CASES_Child,0.0
 Texas,48,2021-01-25,Complete,CASES_Child,0.0
 Alabama,1,2021-01-25,Partial Coverage,CASES_Adult,0.0
@@ -2837,7 +2837,7 @@ Wyoming,56,2021-01-25,Complete Coverage,CASES_Adult,0.0
 Indiana,18,2021-01-25,Partial Coverage,CASES_Adult,0.0
 Minnesota,27,2021-01-25,Partial Coverage,CASES_Adult,0.0
 Indiana,18,2021-01-25,Complete Coverage,CASES_Adult,0.0
-Delaware,10,2021-01-23 00:00:00,Partial Coverage,CASES_Adult,9.048514734719088
+Delaware,10,2021-01-24 00:00:00,Partial Coverage,CASES_Adult,9.229013294528475
 Texas,48,2021-01-25,Partial Coverage,CASES_Adult,5.622032254064581
 Texas,48,2021-01-25,Complete Coverage,CASES_Adult,1.415149032752823
 North Dakota,38,2021-01-25,Partial Coverage,CASES_Adult,0.0
@@ -2936,7 +2936,7 @@ Wyoming,56,2021-01-25,Complete,CASES_Adult,0.0
 Indiana,18,2021-01-25,Partial,CASES_Adult,0.0
 Minnesota,27,2021-01-25,Partial,CASES_Adult,0.0
 Indiana,18,2021-01-25,Complete,CASES_Adult,0.0
-Delaware,10,2021-01-23 00:00:00,Partial,CASES_Adult,45268.0
+Delaware,10,2021-01-24 00:00:00,Partial,CASES_Adult,46171.0
 Texas,48,2021-01-25,Partial,CASES_Adult,894099.0
 Texas,48,2021-01-25,Complete,CASES_Adult,225058.0
 Alabama,1,2021-01-25,Partial Coverage,CASES_Elderly,0.0
@@ -3033,7 +3033,7 @@ Wyoming,56,2021-01-25,Complete Coverage,CASES_Elderly,0.0
 Indiana,18,2021-01-25,Partial Coverage,CASES_Elderly,0.0
 Minnesota,27,2021-01-25,Partial Coverage,CASES_Elderly,0.0
 Indiana,18,2021-01-25,Complete Coverage,CASES_Elderly,0.0
-Delaware,10,2021-01-23 00:00:00,Partial Coverage,CASES_Elderly,7.522122174249284
+Delaware,10,2021-01-24 00:00:00,Partial Coverage,CASES_Elderly,8.252727138476844
 Texas,48,2021-01-25,Partial Coverage,CASES_Elderly,10.663291995311317
 Texas,48,2021-01-25,Complete Coverage,CASES_Elderly,0.5590977879297817
 North Dakota,38,2021-01-25,Partial Coverage,CASES_Elderly,0.0
@@ -3132,7 +3132,7 @@ Wyoming,56,2021-01-25,Complete,CASES_Elderly,0.0
 Indiana,18,2021-01-25,Partial,CASES_Elderly,0.0
 Minnesota,27,2021-01-25,Partial,CASES_Elderly,0.0
 Indiana,18,2021-01-25,Complete,CASES_Elderly,0.0
-Delaware,10,2021-01-23 00:00:00,Partial,CASES_Elderly,19356.0
+Delaware,10,2021-01-24 00:00:00,Partial,CASES_Elderly,21236.0
 Texas,48,2021-01-25,Partial,CASES_Elderly,563835.0
 Texas,48,2021-01-25,Complete,CASES_Elderly,29563.0
 Alabama,1,2021-01-25,Partial Coverage,CASES_UnknownAge,100.0
@@ -3229,7 +3229,7 @@ Wyoming,56,2021-01-25,Complete Coverage,CASES_UnknownAge,100.0
 Indiana,18,2021-01-25,Partial Coverage,CASES_UnknownAge,100.0
 Minnesota,27,2021-01-25,Partial Coverage,CASES_UnknownAge,100.0
 Indiana,18,2021-01-25,Complete Coverage,CASES_UnknownAge,100.0
-Delaware,10,2021-01-23 00:00:00,Partial Coverage,CASES_UnknownAge,0.10202504251043439
+Delaware,10,2021-01-24 00:00:00,Partial Coverage,CASES_UnknownAge,0.10077806595035198
 Texas,48,2021-01-25,Partial Coverage,CASES_UnknownAge,0.09312728835127695
 Texas,48,2021-01-25,Complete Coverage,CASES_UnknownAge,0.02591416130387495
 North Dakota,38,2021-01-25,Partial Coverage,CASES_UnknownAge,100.0
@@ -3328,6 +3328,6 @@ Wyoming,56,2021-01-25,Complete,CASES_UnknownAge,100.0
 Indiana,18,2021-01-25,Partial,CASES_UnknownAge,100.0
 Minnesota,27,2021-01-25,Partial,CASES_UnknownAge,100.0
 Indiana,18,2021-01-25,Complete,CASES_UnknownAge,100.0
-Delaware,10,2021-01-23 00:00:00,Partial,CASES_UnknownAge,0.10202504251043439
+Delaware,10,2021-01-24 00:00:00,Partial,CASES_UnknownAge,0.10077806595035198
 Texas,48,2021-01-25,Partial,CASES_UnknownAge,0.09312728835127695
 Texas,48,2021-01-25,Complete,CASES_UnknownAge,0.02591416130387495
