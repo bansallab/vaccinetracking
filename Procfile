@@ -1,1 +1,1 @@
-web: gunicorn COVID_dash_app:server
+web: gunicorn COVID_dash_app:server --preload
