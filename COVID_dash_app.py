@@ -400,7 +400,7 @@ row_2 = dbc.Row(
                         html.Div(dcc.Graph(
                             id='US-choropleth',
                             figure=US_choropleth(),
-                            style={'height': '100%'},  # seems to control graph height within the row?
+                            style={'marginBottom': 0},  # can control graph height within the row?
                             config={'modeBarButtonsToRemove': ['select2d',
                                                                'lasso2d',
                                                                'zoom2d',
