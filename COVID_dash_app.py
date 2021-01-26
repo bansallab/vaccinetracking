@@ -68,89 +68,89 @@ state_demo['STATE'] = state_demo['STATE'].apply(pad_fips_state)
 #         time.sleep(period)
 
 # static choropleth function (no dropdown)
-# def US_choropleth():
-#     county_daily_total_choro = county_daily_total[county_daily_total['CASE_TYPE'] == 'Partial Coverage']
-#
-#     val_max = county_daily_total_choro.CASES.max()
-#     val_90 = np.percentile(list(county_daily_total_choro.CASES), 90)/val_max
-#     val_92 = np.percentile(list(county_daily_total_choro.CASES), 92)/val_max
-#     val_94 = np.percentile(list(county_daily_total_choro.CASES), 94)/val_max
-#     val_96 = np.percentile(list(county_daily_total_choro.CASES), 96)/val_max
-#     val_15= np.percentile(list(county_daily_total_choro.CASES), 15)/val_max
-#     val_30= np.percentile(list(county_daily_total_choro.CASES), 30)/val_max
-#     val_45= np.percentile(list(county_daily_total_choro.CASES), 45)/val_max
-#     val_60= np.percentile(list(county_daily_total_choro.CASES), 60)/val_max
-#     val_75= np.percentile(list(county_daily_total_choro.CASES), 75)/val_max
-#
-#     custom_colorscale = [[0.0, '#ffffff'],
-#                          [val_15, '#e8edf2'],
-#                          [val_30, '#d2dce6'],
-#                          [val_45, '#bbcad9'],
-#                          [val_60, '#a4b8cc'],
-#                          [val_75, '#8ea7c0'],
-#                          [val_90, '#7795b3'],
-#                          [val_92, '#6083a6'],
-#                          [val_94, '#497199'],
-#                          [val_96, '#33608d'],
-#                          [1.0, '#1c4e80']]
-#
-#     fig = px.choropleth(county_daily_total_choro,
-#                         geojson=counties,
-#                         locations='COUNTY',
-#                         color = county_daily_total_choro.CASES,
-#                         color_continuous_scale= custom_colorscale,
-#                         #range_color=[0, 7],  # restrict colorbar range so that more color variation shows
-#                         scope='usa',
-#                         custom_data=['COUNTY_NAME', 'STATE_NAME', 'CASES', 'GEOFLAG', 'DATE'],  # data available for hover
-#                         )
-#     fig.update_layout(margin=dict(b=0, t=0, l=0, r=0),  # sets the margins of the plot w/in its div
-#                       # controls appearance of hover label
-#                       hoverlabel=dict(
-#                           bgcolor='white',
-#                           font_size=16
-#                       ),
-#                       # controls appearance of color bar & title
-#                       coloraxis_colorbar=dict(
-#                           lenmode='pixels', len=400,
-#                           thicknessmode='pixels', thickness=40,
-#                           ticks='outside',
-#                           title='Vaccination <br>coverage (%)'
-#                       ),
-#                       # modifications to the map appearance (special geo settings)
-#                       geo=dict(
-#                           showlakes=False,
-#                           showland=True, landcolor='white'
-#                       ),
-#                       # map annotation for when dashboard data were updated/latest date in the sheet
-#                       # annotations=[
-#                       #     dict(
-#                       #         x=1,
-#                       #         y=0,
-#                       #         xanchor='right',
-#                       #         yanchor='bottom',
-#                       #         xref='paper',
-#                       #         yref='paper',
-#                       #         align='left',
-#                       #         showarrow=False,
-#                       #         bgcolor='rgba(0,0,0,0)',
-#                       #         text='Latest date: {:%d %b %Y}'.format(county_daily_total_choro['DATE'].max())
-#                       #     )
-#                       # ]
-#                       )
-#     fig.update_coloraxes(colorbar_title_font=dict(size=14))
-#     fig.update_traces(marker_line_width=0.3,  # controls county border line width
-#                       marker_opacity=0.85,  # changes fill color opacity to let state borders through
-#                       marker_line_color='#262626',  # controls county border color; needs to be darker than "states"
-#                       # denotes custom template for what hover text should say
-#                       hovertemplate='<br>'.join([
-#                           '<b>%{customdata[0]}, %{customdata[1]}</b>',
-#                           'Coverage: %{customdata[2]:.1f}%',
-#                           'Scale of data: %{customdata[3]}',
-#                           'Date: %{customdata[4]|%d %b %Y}'
-#                       ]))
-#     # 5a5a5a is a slightly lighter shade of gray than above
-#     fig.update_geos(showsubunits=True, subunitcolor='#5a5a5a')  # hacky: effectively controls state borders
-#     return fig
+def US_choropleth():
+    county_daily_total_choro = county_daily_total[county_daily_total['CASE_TYPE'] == 'Partial Coverage']
+
+    val_max = county_daily_total_choro.CASES.max()
+    val_90 = np.percentile(list(county_daily_total_choro.CASES), 90)/val_max
+    val_92 = np.percentile(list(county_daily_total_choro.CASES), 92)/val_max
+    val_94 = np.percentile(list(county_daily_total_choro.CASES), 94)/val_max
+    val_96 = np.percentile(list(county_daily_total_choro.CASES), 96)/val_max
+    val_15= np.percentile(list(county_daily_total_choro.CASES), 15)/val_max
+    val_30= np.percentile(list(county_daily_total_choro.CASES), 30)/val_max
+    val_45= np.percentile(list(county_daily_total_choro.CASES), 45)/val_max
+    val_60= np.percentile(list(county_daily_total_choro.CASES), 60)/val_max
+    val_75= np.percentile(list(county_daily_total_choro.CASES), 75)/val_max
+
+    custom_colorscale = [[0.0, '#ffffff'],
+                         [val_15, '#e8edf2'],
+                         [val_30, '#d2dce6'],
+                         [val_45, '#bbcad9'],
+                         [val_60, '#a4b8cc'],
+                         [val_75, '#8ea7c0'],
+                         [val_90, '#7795b3'],
+                         [val_92, '#6083a6'],
+                         [val_94, '#497199'],
+                         [val_96, '#33608d'],
+                         [1.0, '#1c4e80']]
+
+    fig = px.choropleth(county_daily_total_choro,
+                        geojson=counties,
+                        locations='COUNTY',
+                        color='CASES',
+                        color_continuous_scale=custom_colorscale,
+                        #range_color=[0, 7],  # restrict colorbar range so that more color variation shows
+                        scope='usa',
+                        custom_data=['COUNTY_NAME', 'STATE_NAME', 'CASES', 'GEOFLAG', 'DATE'],  # data available for hover
+                        )
+    fig.update_layout(margin=dict(b=0, t=0, l=0, r=0),  # sets the margins of the plot w/in its div
+                      # controls appearance of hover label
+                      hoverlabel=dict(
+                          bgcolor='white',
+                          font_size=16
+                      ),
+                      # controls appearance of color bar & title
+                      coloraxis_colorbar=dict(
+                          lenmode='pixels', len=400,
+                          thicknessmode='pixels', thickness=40,
+                          ticks='outside',
+                          title='Vaccination <br>coverage (%)'
+                      ),
+                      # modifications to the map appearance (special geo settings)
+                      geo=dict(
+                          showlakes=False,
+                          showland=True, landcolor='white'
+                      ),
+                      # map annotation for when dashboard data were updated/latest date in the sheet
+                      # annotations=[
+                      #     dict(
+                      #         x=1,
+                      #         y=0,
+                      #         xanchor='right',
+                      #         yanchor='bottom',
+                      #         xref='paper',
+                      #         yref='paper',
+                      #         align='left',
+                      #         showarrow=False,
+                      #         bgcolor='rgba(0,0,0,0)',
+                      #         text='Latest date: {:%d %b %Y}'.format(county_daily_total_choro['DATE'].max())
+                      #     )
+                      # ]
+                      )
+    fig.update_coloraxes(colorbar_title_font=dict(size=14))
+    fig.update_traces(marker_line_width=0.3,  # controls county border line width
+                      marker_opacity=0.85,  # changes fill color opacity to let state borders through
+                      marker_line_color='#262626',  # controls county border color; needs to be darker than "states"
+                      # denotes custom template for what hover text should say
+                      hovertemplate='<br>'.join([
+                          '<b>%{customdata[0]}, %{customdata[1]}</b>',
+                          'Coverage: %{customdata[2]:.1f}%',
+                          'Scale of data: %{customdata[3]}',
+                          'Date: %{customdata[4]|%d %b %Y}'
+                      ]))
+    # 5a5a5a is a slightly lighter shade of gray than above
+    fig.update_geos(showsubunits=True, subunitcolor='#5a5a5a')  # hacky: effectively controls state borders
+    return fig
 
 # define app layout as a function
 def make_layout():
@@ -183,25 +183,25 @@ def make_layout():
     # )
 
     # row_1 option with radio items
-    row_1 = dbc.Row(
-        children=[
-            dbc.Col(
-                children=[
-                    html.Div(
-                        dcc.RadioItems(
-                            id='coverage-buttons',
-                            options=[
-                                {'label': 'Partial vaccination coverage', 'value': 'Partial Coverage'},
-                                {'label': 'Complete vaccination coverage', 'value': 'Complete Coverage'}
-                            ],
-                            value='Partial Coverage',
-                            labelStyle={'display': 'block'}
-                        )
-                    )
-                ], width={'size': 6, 'offset': 3}, className='h-100'
-            ),
-        ], justify='left', no_gutters=True
-    )
+    # row_1 = dbc.Row(
+    #     children=[
+    #         dbc.Col(
+    #             children=[
+    #                 html.Div(
+    #                     dcc.RadioItems(
+    #                         id='coverage-buttons',
+    #                         options=[
+    #                             {'label': 'Partial vaccination coverage', 'value': 'Partial Coverage'},
+    #                             {'label': 'Complete vaccination coverage', 'value': 'Complete Coverage'}
+    #                         ],
+    #                         value='Partial Coverage',
+    #                         labelStyle={'display': 'block'}
+    #                     )
+    #                 )
+    #             ], width={'size': 6, 'offset': 3}, className='h-100'
+    #         ),
+    #     ], justify='left', no_gutters=True
+    # )
 
     # warning modal
     modal = html.Div(
@@ -249,7 +249,7 @@ def make_layout():
                             dcc.Store(id='data-store', storage_type='session'),
                             html.Div(dcc.Graph(
                                 id='US-choropleth',
-                                # figure=US_choropleth(),
+                                figure=US_choropleth(),
                                 style={'height': '100%'},  # seems to control graph height within the row?
                                 config={'modeBarButtonsToRemove': ['select2d',
                                                                    'lasso2d',
@@ -344,7 +344,7 @@ def make_layout():
             )
         ], justify='around', align='center'
     )
-    return dbc.Container([row_1, row_2, row_3, row_4], style={'height': '100vh'}, fluid=True)
+    return dbc.Container([row_2, row_3, row_4], style={'height': '100vh'}, fluid=True)
 
 # ----------------------------------------------------------------------------------------------------------------------
 # initializes Dash app
@@ -558,79 +558,79 @@ def update_collapse(US_choro_clickData, n, is_in, is_open):
         return is_in, is_in, is_in, is_in, is_open
 
 # callback for updating choropleth depending on coverage selection
-@app.callback(
-    Output('US-choropleth', 'figure'),
-    [Input('coverage-buttons', 'value')])
-# function for plotting base US choropleth
-def update_choropleth(button_value):
-    county_daily_total_choro = county_daily_total[county_daily_total['CASE_TYPE'] == button_value]
-
-    val_max = county_daily_total_choro.CASES.max()
-    val_90 = np.percentile(list(county_daily_total_choro.CASES), 90) / val_max
-    val_92 = np.percentile(list(county_daily_total_choro.CASES), 92) / val_max
-    val_94 = np.percentile(list(county_daily_total_choro.CASES), 94) / val_max
-    val_96 = np.percentile(list(county_daily_total_choro.CASES), 96) / val_max
-    val_15 = np.percentile(list(county_daily_total_choro.CASES), 15) / val_max
-    val_30 = np.percentile(list(county_daily_total_choro.CASES), 30) / val_max
-    val_45 = np.percentile(list(county_daily_total_choro.CASES), 45) / val_max
-    val_60 = np.percentile(list(county_daily_total_choro.CASES), 60) / val_max
-    val_75 = np.percentile(list(county_daily_total_choro.CASES), 75) / val_max
-
-    custom_colorscale = [[0.0, '#ffffff'],
-                         [val_15, '#e8edf2'],
-                         [val_30, '#d2dce6'],
-                         [val_45, '#bbcad9'],
-                         [val_60, '#a4b8cc'],
-                         [val_75, '#8ea7c0'],
-                         [val_90, '#7795b3'],
-                         [val_92, '#6083a6'],
-                         [val_94, '#497199'],
-                         [val_96, '#33608d'],
-                         [1.0, '#1c4e80']]
-
-    fig = px.choropleth(county_daily_total_choro,
-                        geojson=counties,
-                        locations='COUNTY',
-                        color='CASES',
-                        color_continuous_scale=custom_colorscale,
-                        # range_color=[0, 7],  # restrict colorbar range so that more color variation shows
-                        scope='usa',
-                        custom_data=['COUNTY_NAME', 'STATE_NAME', 'CASES', 'GEOFLAG', 'DATE'],
-                        # data available for hover
-                        )
-    fig.update_layout(margin=dict(b=0, t=0, l=0, r=0),  # sets the margins of the plot w/in its div
-                      # controls appearance of hover label
-                      hoverlabel=dict(
-                          bgcolor='white',
-                          font_size=16
-                      ),
-                      # controls appearance of color bar & title
-                      coloraxis_colorbar=dict(
-                          lenmode='pixels', len=400,
-                          thicknessmode='pixels', thickness=40,
-                          ticks='outside',
-                          title='Vaccination <br>coverage (%)'
-                      ),
-                      # modifications to the map appearance (special geo settings)
-                      geo=dict(
-                          showlakes=False,
-                          showland=True, landcolor='white'
-                      )
-                      )
-    fig.update_coloraxes(colorbar_title_font=dict(size=14))
-    fig.update_traces(marker_line_width=0.3,  # controls county border line width
-                      marker_opacity=0.85,  # changes fill color opacity to let state borders through
-                      marker_line_color='#262626',  # controls county border color; needs to be darker than "states"
-                      # denotes custom template for what hover text should say
-                      hovertemplate='<br>'.join([
-                          '<b>%{customdata[0]}, %{customdata[1]}</b>',
-                          'Coverage: %{customdata[2]:.1f}%',
-                          'Scale of data: %{customdata[3]}',
-                          'Date: %{customdata[4]|%d %b %Y}'
-                      ]))
-    # 5a5a5a is a slightly lighter shade of gray than above
-    fig.update_geos(showsubunits=True, subunitcolor='#5a5a5a')  # hacky: effectively controls state borders
-    return fig
+# @app.callback(
+#     Output('US-choropleth', 'figure'),
+#     [Input('coverage-buttons', 'value')])
+# # function for plotting base US choropleth
+# def update_choropleth(button_value):
+#     county_daily_total_choro = county_daily_total[county_daily_total['CASE_TYPE'] == button_value]
+#
+#     val_max = county_daily_total_choro.CASES.max()
+#     val_90 = np.percentile(list(county_daily_total_choro.CASES), 90) / val_max
+#     val_92 = np.percentile(list(county_daily_total_choro.CASES), 92) / val_max
+#     val_94 = np.percentile(list(county_daily_total_choro.CASES), 94) / val_max
+#     val_96 = np.percentile(list(county_daily_total_choro.CASES), 96) / val_max
+#     val_15 = np.percentile(list(county_daily_total_choro.CASES), 15) / val_max
+#     val_30 = np.percentile(list(county_daily_total_choro.CASES), 30) / val_max
+#     val_45 = np.percentile(list(county_daily_total_choro.CASES), 45) / val_max
+#     val_60 = np.percentile(list(county_daily_total_choro.CASES), 60) / val_max
+#     val_75 = np.percentile(list(county_daily_total_choro.CASES), 75) / val_max
+#
+#     custom_colorscale = [[0.0, '#ffffff'],
+#                          [val_15, '#e8edf2'],
+#                          [val_30, '#d2dce6'],
+#                          [val_45, '#bbcad9'],
+#                          [val_60, '#a4b8cc'],
+#                          [val_75, '#8ea7c0'],
+#                          [val_90, '#7795b3'],
+#                          [val_92, '#6083a6'],
+#                          [val_94, '#497199'],
+#                          [val_96, '#33608d'],
+#                          [1.0, '#1c4e80']]
+#
+#     fig = px.choropleth(county_daily_total_choro,
+#                         geojson=counties,
+#                         locations='COUNTY',
+#                         color='CASES',
+#                         color_continuous_scale=custom_colorscale,
+#                         # range_color=[0, 7],  # restrict colorbar range so that more color variation shows
+#                         scope='usa',
+#                         custom_data=['COUNTY_NAME', 'STATE_NAME', 'CASES', 'GEOFLAG', 'DATE'],
+#                         # data available for hover
+#                         )
+#     fig.update_layout(margin=dict(b=0, t=0, l=0, r=0),  # sets the margins of the plot w/in its div
+#                       # controls appearance of hover label
+#                       hoverlabel=dict(
+#                           bgcolor='white',
+#                           font_size=16
+#                       ),
+#                       # controls appearance of color bar & title
+#                       coloraxis_colorbar=dict(
+#                           lenmode='pixels', len=400,
+#                           thicknessmode='pixels', thickness=40,
+#                           ticks='outside',
+#                           title='Vaccination <br>coverage (%)'
+#                       ),
+#                       # modifications to the map appearance (special geo settings)
+#                       geo=dict(
+#                           showlakes=False,
+#                           showland=True, landcolor='white'
+#                       )
+#                       )
+#     fig.update_coloraxes(colorbar_title_font=dict(size=14))
+#     fig.update_traces(marker_line_width=0.3,  # controls county border line width
+#                       marker_opacity=0.85,  # changes fill color opacity to let state borders through
+#                       marker_line_color='#262626',  # controls county border color; needs to be darker than "states"
+#                       # denotes custom template for what hover text should say
+#                       hovertemplate='<br>'.join([
+#                           '<b>%{customdata[0]}, %{customdata[1]}</b>',
+#                           'Coverage: %{customdata[2]:.1f}%',
+#                           'Scale of data: %{customdata[3]}',
+#                           'Date: %{customdata[4]|%d %b %Y}'
+#                       ]))
+#     # 5a5a5a is a slightly lighter shade of gray than above
+#     fig.update_geos(showsubunits=True, subunitcolor='#5a5a5a')  # hacky: effectively controls state borders
+#     return fig
 
 # callback for updating bar plots depending on state clicked
 @app.callback(
