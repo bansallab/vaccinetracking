@@ -465,7 +465,7 @@ row_3 = dbc.Row(
                 is_in=False
             ), width=12, lg=5, className='h-100'  # , style={'background-color': 'cyan'}
         )
-    ], justify='around', align='center'
+    ], justify='around', align='center', no_gutters=True
 )
 
 row_4 = dbc.Row(
@@ -492,7 +492,7 @@ row_4 = dbc.Row(
                 is_in=False
             ), width=12, lg=5, className='h-100'  # , style={'background-color': 'red'}
         )
-    ], justify='around', align='center'
+    ], justify='around', align='center', no_gutters=True
 )
 
 app.layout = dbc.Container([row_2, row_3, row_4], fluid=True)  # explicitly give layout
