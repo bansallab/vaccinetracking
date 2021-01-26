@@ -153,198 +153,198 @@ def US_choropleth():
     return fig
 
 # define app layout as a function
-def make_layout():
-    # row_1 option with dropdown
-    # row_1 = dbc.Row(
-    #     children=[
-    #         dbc.Col(
-    #             children=[
-    #                 # dropdown menu
-    #                 html.Div(
-    #                     dcc.Dropdown(
-    #                         id='coverage-buttons',
-    #                         options=[
-    #                             {
-    #                                 'label': 'Partial vaccination coverage: proportion of population vaccinated with 1 dose',
-    #                                 'value': 'Partial Coverage'},
-    #                             {
-    #                                 'label': 'Complete vaccination coverage: proportion of population vaccinated with 2 doses',
-    #                                 'value': 'Complete Coverage'}
-    #                         ],
-    #                         value='Partial Coverage',
-    #                         clearable=False,
-    #                         searchable=False
-    #                     ), style={'margin-bottom': 0}  # dropdown styling
-    #                 ),
-    #             ], width={'size': 4, 'offset': 2}, className='h-100'
-    #             # column width, height should be 100% of the row height
-    #         )
-    #     ], justify='left', no_gutters=True  # justify elements in row, height of row (h-70 doesn't exist)
-    # )
-
-    # row_1 option with radio items
-    # row_1 = dbc.Row(
-    #     children=[
-    #         dbc.Col(
-    #             children=[
-    #                 html.Div(
-    #                     dcc.RadioItems(
-    #                         id='coverage-buttons',
-    #                         options=[
-    #                             {'label': 'Partial vaccination coverage', 'value': 'Partial Coverage'},
-    #                             {'label': 'Complete vaccination coverage', 'value': 'Complete Coverage'}
-    #                         ],
-    #                         value='Partial Coverage',
-    #                         labelStyle={'display': 'block'}
-    #                     )
-    #                 )
-    #             ], width={'size': 6, 'offset': 3}, className='h-100'
-    #         ),
-    #     ], justify='left', no_gutters=True
-    # )
-
-    # warning modal
-    modal = html.Div(
-        [
-            dbc.Modal(
-                [
-                    dbc.ModalHeader('Warning'),
-                    dbc.ModalBody('No demographic data available for this state. Please make a different selection.'),
-                    dbc.ModalFooter(
-                        dbc.Button('Close', id='close', className='ml-auto')
-                    )
-                ],
-                id='warning-modal',
-                backdrop=False
-            )
-        ]
-    )
-
-    alert = html.Div(
-        [
-            dbc.Alert(
-                [
-                    html.H5('Tips', className='mb-0'),
-                    html.Hr(className='mb-0'),
-                    html.P('Hover over a county to see vaccination coverage and the source of the data (state or county).'),
-                    html.P('Click on a state to see vaccination coverage by demography (where available).',
-                           className='mb-0')
-                ],
-                id='alert-fade',
-                dismissable=True,
-                is_open=True,
-                color='secondary'
-            )
-        ]
-    )
-
-    # row for map
-    row_2 = dbc.Row(
-        children=[
-            dbc.Col(
-                children=[
-                    dbc.Spinner(
-                        color='secondary',
-                        children=[
-                            dcc.Store(id='data-store', storage_type='session'),
-                            html.Div(dcc.Graph(
-                                id='US-choropleth',
-                                figure=US_choropleth(),
-                                style={'height': '100%'},  # seems to control graph height within the row?
-                                config={'modeBarButtonsToRemove': ['select2d',
-                                                                   'lasso2d',
-                                                                   'zoom2d',
-                                                                   'autoScale2d',
-                                                                   'toggleSpikelines',
-                                                                   'toggleHover',
-                                                                   'sendDataToCloud',
-                                                                   'toImage',
-                                                                   'hoverClosestGeo'],
-                                        'scrollZoom': False,
-                                        'displayModeBar': True,
-                                        'displaylogo': False}
-                            ))
-                        ]
-                    )
-                ], width={'size': 8, 'offset': 2}, className='h-100'  # , style={'background-color': 'black'}
-            ),
-            dbc.Col(
-                children=[
-                    modal,
-                    html.Div(
-                        alert
-                        # dbc.Toast(
-                        #     [
-                        #         html.P(
-                        #             'Hover over a county to see vaccination coverage and the source of the data (state or county).'),
-                        #         html.P('Click on a state to see vaccination coverage by demography (where available).',
-                        #                className='mb-0')
-                        #     ],
-                        #     id='instruction-toast',
-                        #     header='Tips',
-                        #     dismissable=True
-                        # )
-                    )
-                ], width=2  # , style={'background-color': 'orange'}
-            )
-        ], justify='left', no_gutters=True, className='h-50'
-    )
-
-    # row for barplots
-    row_3 = dbc.Row(
-        children=[
-            dbc.Col([
-                dbc.Fade(
-                    dcc.Graph(
-                        id='age-bar',
-                        config={'displayModeBar': False},
-                        className='h-100'
-                    ),
-                    id='age-fade',
-                    is_in=False
-                )], width=12, lg=5, className='h-100'  # , style={'background-color': 'green'}
-            ),
-            dbc.Col(
-                dbc.Fade(
-                    dcc.Graph(
-                        id='gender-bar',
-                        config={'displayModeBar': False},
-                        className='h-100'
-                    ),
-                    id='gender-fade',
-                    is_in=False
-                ), width=12, lg=5, className='h-100'  # , style={'background-color': 'cyan'}
-            )
-        ], justify='around', align='center'
-    )
-
-    row_4 = dbc.Row(
-        children=[
-            dbc.Col(
-                dbc.Fade(
-                    dcc.Graph(
-                        id='race-bar',
-                        config={'displayModeBar': False},
-                        className='h-100'
-                    ),
-                    id='race-fade',
-                    is_in=False
-                ), width=12, lg=5, className='h-100'  # , style={'background-color': 'blue'}
-            ),
-            dbc.Col(
-                dbc.Fade(
-                    dcc.Graph(
-                        id='ethnicity-bar',
-                        config={'displayModeBar': False},
-                        className='h-100'
-                    ),
-                    id='ethnicity-fade',
-                    is_in=False
-                ), width=12, lg=5, className='h-100'  # , style={'background-color': 'red'}
-            )
-        ], justify='around', align='center'
-    )
-    return dbc.Container([row_2, row_3, row_4], style={'height': '100vh'}, fluid=True)
+# def make_layout():
+#     # row_1 option with dropdown
+#     # row_1 = dbc.Row(
+#     #     children=[
+#     #         dbc.Col(
+#     #             children=[
+#     #                 # dropdown menu
+#     #                 html.Div(
+#     #                     dcc.Dropdown(
+#     #                         id='coverage-buttons',
+#     #                         options=[
+#     #                             {
+#     #                                 'label': 'Partial vaccination coverage: proportion of population vaccinated with 1 dose',
+#     #                                 'value': 'Partial Coverage'},
+#     #                             {
+#     #                                 'label': 'Complete vaccination coverage: proportion of population vaccinated with 2 doses',
+#     #                                 'value': 'Complete Coverage'}
+#     #                         ],
+#     #                         value='Partial Coverage',
+#     #                         clearable=False,
+#     #                         searchable=False
+#     #                     ), style={'margin-bottom': 0}  # dropdown styling
+#     #                 ),
+#     #             ], width={'size': 4, 'offset': 2}, className='h-100'
+#     #             # column width, height should be 100% of the row height
+#     #         )
+#     #     ], justify='left', no_gutters=True  # justify elements in row, height of row (h-70 doesn't exist)
+#     # )
+#
+#     # row_1 option with radio items
+#     # row_1 = dbc.Row(
+#     #     children=[
+#     #         dbc.Col(
+#     #             children=[
+#     #                 html.Div(
+#     #                     dcc.RadioItems(
+#     #                         id='coverage-buttons',
+#     #                         options=[
+#     #                             {'label': 'Partial vaccination coverage', 'value': 'Partial Coverage'},
+#     #                             {'label': 'Complete vaccination coverage', 'value': 'Complete Coverage'}
+#     #                         ],
+#     #                         value='Partial Coverage',
+#     #                         labelStyle={'display': 'block'}
+#     #                     )
+#     #                 )
+#     #             ], width={'size': 6, 'offset': 3}, className='h-100'
+#     #         ),
+#     #     ], justify='left', no_gutters=True
+#     # )
+#
+#     # warning modal
+#     modal = html.Div(
+#         [
+#             dbc.Modal(
+#                 [
+#                     dbc.ModalHeader('Warning'),
+#                     dbc.ModalBody('No demographic data available for this state. Please make a different selection.'),
+#                     dbc.ModalFooter(
+#                         dbc.Button('Close', id='close', className='ml-auto')
+#                     )
+#                 ],
+#                 id='warning-modal',
+#                 backdrop=False
+#             )
+#         ]
+#     )
+#
+#     alert = html.Div(
+#         [
+#             dbc.Alert(
+#                 [
+#                     html.H5('Tips', className='mb-0'),
+#                     html.Hr(className='mb-0'),
+#                     html.P('Hover over a county to see vaccination coverage and the source of the data (state or county).'),
+#                     html.P('Click on a state to see vaccination coverage by demography (where available).',
+#                            className='mb-0')
+#                 ],
+#                 id='alert-fade',
+#                 dismissable=True,
+#                 is_open=True,
+#                 color='secondary'
+#             )
+#         ]
+#     )
+#
+#     # row for map
+#     row_2 = dbc.Row(
+#         children=[
+#             dbc.Col(
+#                 children=[
+#                     dbc.Spinner(
+#                         color='secondary',
+#                         children=[
+#                             dcc.Store(id='data-store', storage_type='session'),
+#                             html.Div(dcc.Graph(
+#                                 id='US-choropleth',
+#                                 figure=US_choropleth(),
+#                                 style={'height': '100%'},  # seems to control graph height within the row?
+#                                 config={'modeBarButtonsToRemove': ['select2d',
+#                                                                    'lasso2d',
+#                                                                    'zoom2d',
+#                                                                    'autoScale2d',
+#                                                                    'toggleSpikelines',
+#                                                                    'toggleHover',
+#                                                                    'sendDataToCloud',
+#                                                                    'toImage',
+#                                                                    'hoverClosestGeo'],
+#                                         'scrollZoom': False,
+#                                         'displayModeBar': True,
+#                                         'displaylogo': False}
+#                             ))
+#                         ]
+#                     )
+#                 ], width={'size': 8, 'offset': 2}, className='h-100'  # , style={'background-color': 'black'}
+#             ),
+#             dbc.Col(
+#                 children=[
+#                     modal,
+#                     html.Div(
+#                         alert
+#                         # dbc.Toast(
+#                         #     [
+#                         #         html.P(
+#                         #             'Hover over a county to see vaccination coverage and the source of the data (state or county).'),
+#                         #         html.P('Click on a state to see vaccination coverage by demography (where available).',
+#                         #                className='mb-0')
+#                         #     ],
+#                         #     id='instruction-toast',
+#                         #     header='Tips',
+#                         #     dismissable=True
+#                         # )
+#                     )
+#                 ], width=2  # , style={'background-color': 'orange'}
+#             )
+#         ], justify='left', no_gutters=True#, className='h-50'
+#     )
+#
+#     # row for barplots
+#     row_3 = dbc.Row(
+#         children=[
+#             dbc.Col([
+#                 dbc.Fade(
+#                     dcc.Graph(
+#                         id='age-bar',
+#                         config={'displayModeBar': False},
+#                         className='h-100'
+#                     ),
+#                     id='age-fade',
+#                     is_in=False
+#                 )], width=12, lg=5, className='h-100'  # , style={'background-color': 'green'}
+#             ),
+#             dbc.Col(
+#                 dbc.Fade(
+#                     dcc.Graph(
+#                         id='gender-bar',
+#                         config={'displayModeBar': False},
+#                         className='h-100'
+#                     ),
+#                     id='gender-fade',
+#                     is_in=False
+#                 ), width=12, lg=5, className='h-100'  # , style={'background-color': 'cyan'}
+#             )
+#         ], justify='around', align='center'
+#     )
+#
+#     row_4 = dbc.Row(
+#         children=[
+#             dbc.Col(
+#                 dbc.Fade(
+#                     dcc.Graph(
+#                         id='race-bar',
+#                         config={'displayModeBar': False},
+#                         className='h-100'
+#                     ),
+#                     id='race-fade',
+#                     is_in=False
+#                 ), width=12, lg=5, className='h-100'  # , style={'background-color': 'blue'}
+#             ),
+#             dbc.Col(
+#                 dbc.Fade(
+#                     dcc.Graph(
+#                         id='ethnicity-bar',
+#                         config={'displayModeBar': False},
+#                         className='h-100'
+#                     ),
+#                     id='ethnicity-fade',
+#                     is_in=False
+#                 ), width=12, lg=5, className='h-100'  # , style={'background-color': 'red'}
+#             )
+#         ], justify='around', align='center'
+#     )
+#     return dbc.Container([row_2, row_3, row_4], fluid=True)
 
 # ----------------------------------------------------------------------------------------------------------------------
 # initializes Dash app
@@ -353,7 +353,149 @@ app = dash.Dash(__name__, compress=False)
 server = app.server
 # get_new_data()  # read data upon app initialization
 
-app.layout = make_layout  # provide layout function
+# app.layout = make_layout  # provide layout function
+modal = html.Div(
+    [
+        dbc.Modal(
+            [
+                dbc.ModalHeader('Warning'),
+                dbc.ModalBody('No demographic data available for this state. Please make a different selection.'),
+                dbc.ModalFooter(
+                    dbc.Button('Close', id='close', className='ml-auto')
+                )
+            ],
+            id='warning-modal',
+            backdrop=False
+        )
+    ]
+)
+
+alert = html.Div(
+    [
+        dbc.Alert(
+            [
+                html.H5('Tips', className='mb-0'),
+                html.Hr(className='mb-0'),
+                html.P('Hover over a county to see vaccination coverage and the source of the data (state or county).'),
+                html.P('Click on a state to see vaccination coverage by demography (where available).',
+                       className='mb-0')
+            ],
+            id='alert-fade',
+            dismissable=True,
+            is_open=True,
+            color='secondary'
+        )
+    ]
+)
+
+# row for map
+row_2 = dbc.Row(
+    children=[
+        dbc.Col(
+            children=[
+                dbc.Spinner(
+                    color='secondary',
+                    children=[
+                        dcc.Store(id='data-store', storage_type='session'),
+                        html.Div(dcc.Graph(
+                            id='US-choropleth',
+                            figure=US_choropleth(),
+                            style={'height': '100%'},  # seems to control graph height within the row?
+                            config={'modeBarButtonsToRemove': ['select2d',
+                                                               'lasso2d',
+                                                               'zoom2d',
+                                                               'autoScale2d',
+                                                               'toggleSpikelines',
+                                                               'toggleHover',
+                                                               'sendDataToCloud',
+                                                               'toImage',
+                                                               'hoverClosestGeo'],
+                                    'scrollZoom': False,
+                                    'displayModeBar': True,
+                                    'displaylogo': False}
+                        ))
+                    ]
+                )
+            ], width={'size': 8, 'offset': 2}, className='h-100'  # , style={'background-color': 'black'}
+        ),
+        dbc.Col(
+            children=[
+                modal,
+                html.Div(
+                    alert
+                    # dbc.Toast(
+                    #     [
+                    #         html.P(
+                    #             'Hover over a county to see vaccination coverage and the source of the data (state or county).'),
+                    #         html.P('Click on a state to see vaccination coverage by demography (where available).',
+                    #                className='mb-0')
+                    #     ],
+                    #     id='instruction-toast',
+                    #     header='Tips',
+                    #     dismissable=True
+                    # )
+                )
+            ], width=2  # , style={'background-color': 'orange'}
+        )
+    ], justify='left', no_gutters=True  # , className='h-50'
+)
+
+# row for barplots
+row_3 = dbc.Row(
+    children=[
+        dbc.Col([
+            dbc.Fade(
+                dcc.Graph(
+                    id='age-bar',
+                    config={'displayModeBar': False},
+                    className='h-100'
+                ),
+                id='age-fade',
+                is_in=False
+            )], width=12, lg=5, className='h-100'  # , style={'background-color': 'green'}
+        ),
+        dbc.Col(
+            dbc.Fade(
+                dcc.Graph(
+                    id='gender-bar',
+                    config={'displayModeBar': False},
+                    className='h-100'
+                ),
+                id='gender-fade',
+                is_in=False
+            ), width=12, lg=5, className='h-100'  # , style={'background-color': 'cyan'}
+        )
+    ], justify='around', align='center'
+)
+
+row_4 = dbc.Row(
+    children=[
+        dbc.Col(
+            dbc.Fade(
+                dcc.Graph(
+                    id='race-bar',
+                    config={'displayModeBar': False},
+                    className='h-100'
+                ),
+                id='race-fade',
+                is_in=False
+            ), width=12, lg=5, className='h-100'  # , style={'background-color': 'blue'}
+        ),
+        dbc.Col(
+            dbc.Fade(
+                dcc.Graph(
+                    id='ethnicity-bar',
+                    config={'displayModeBar': False},
+                    className='h-100'
+                ),
+                id='ethnicity-fade',
+                is_in=False
+            ), width=12, lg=5, className='h-100'  # , style={'background-color': 'red'}
+        )
+    ], justify='around', align='center'
+)
+
+app.layout = dbc.Container([row_2, row_3, row_4], fluid=True)  # explicitly give layout
 
 # define multi thread executor
 # executor = ThreadPoolExecutor(max_workers=1)
