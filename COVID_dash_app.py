@@ -231,7 +231,6 @@ row_2 = dbc.Row(
                 dbc.Spinner(
                     color='secondary',
                     children=[
-                        dcc.Store(id='data-store', storage_type='session'),
                         html.Div(dcc.Graph(
                             id='US-choropleth',
                             # figure=US_choropleth(),
@@ -248,7 +247,9 @@ row_2 = dbc.Row(
                                     'scrollZoom': False,
                                     'displayModeBar': True,
                                     'displaylogo': False}
-                        ))
+                        ),
+                          id='map-div'
+                        )
                     ]
                 )
             ], width={'size': 8, 'offset': 2}, className='h-100'  # , style={'background-color': 'black'}
@@ -375,6 +376,16 @@ def update_collapse(US_choro_clickData, n, is_in, is_open):
     else:
         return is_in, is_in, is_in, is_in, is_open
 
+# callback to hide blank map when loading
+@app.callback(
+    Output('map-div', 'style'),
+    [Input('US-choropleth', 'figure')])
+def empty_map(fig):
+    if fig is None:
+        return dict(display='none')
+    else:
+        return dict()
+
 # callback for updating choropleth depending on coverage selection
 @app.callback(
     Output('US-choropleth', 'figure'),
@@ -395,7 +406,6 @@ def update_choropleth(button_value):
      Output('ethnicity-bar', 'figure')],
     [Input('US-choropleth', 'clickData')])
 def update_bar_plots(US_choro_clickData):
-
     last_triggered_val = dash.callback_context.triggered[0]['value']  # assigns variable to clickData info
 
     age_class_list = ['CASES_Child', 'CASES_Adult', 'CASES_Elderly', 'CASES_UnknownAge']
