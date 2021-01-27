@@ -228,9 +228,8 @@ row_2 = dbc.Row(
     children=[
         dbc.Col(
             children=[
-                dcc.Loading(
-                    #color='secondary',
-                    type='circle',
+                dbc.Spinner(
+                    color='secondary',
                     children=[
                         html.Div(dcc.Graph(
                             id='US-choropleth',
