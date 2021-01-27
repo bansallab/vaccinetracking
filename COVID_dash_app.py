@@ -228,8 +228,9 @@ row_2 = dbc.Row(
     children=[
         dbc.Col(
             children=[
-                dbc.Spinner(
-                    color='secondary',
+                dcc.Loading(
+                    #color='secondary',
+                    type='circle',
                     children=[
                         html.Div(dcc.Graph(
                             id='US-choropleth',
@@ -247,9 +248,7 @@ row_2 = dbc.Row(
                                     'scrollZoom': False,
                                     'displayModeBar': True,
                                     'displaylogo': False}
-                        ),
-                          id='map-div'
-                        )
+                        ))
                     ]
                 )
             ], width={'size': 8, 'offset': 2}, className='h-100'  # , style={'background-color': 'black'}
