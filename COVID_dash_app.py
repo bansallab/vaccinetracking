@@ -377,14 +377,14 @@ def update_collapse(US_choro_clickData, n, is_in, is_open):
         return is_in, is_in, is_in, is_in, is_open
 
 # callback to hide blank map when loading
-@app.callback(
-    Output('map-div', 'style'),
-    [Input('US-choropleth', 'figure')])
-def empty_map(fig):
-    if fig is None:
-        return dict(display='none')
-    else:
-        return dict()
+# @app.callback(
+#     Output('map-div', 'style'),
+#     [Input('US-choropleth', 'figure')])
+# def empty_map(fig):
+#     if fig is None:
+#         return dict(display='none')
+#     else:
+#         return dict()
 
 # callback for updating choropleth depending on coverage selection
 @app.callback(
