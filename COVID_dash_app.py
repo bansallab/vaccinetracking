@@ -14,6 +14,8 @@ import dash_html_components as html
 import dash_bootstrap_components as dbc
 from dash.dependencies import Input, Output, State
 
+# from timeit import default_timer as timer
+
 # import time
 # from concurrent.futures import ThreadPoolExecutor
 
@@ -67,20 +69,20 @@ state_demo['STATE'] = state_demo['STATE'].apply(pad_fips_state)
 #         print('data updated')
 #         time.sleep(period)
 
-# static choropleth function (no dropdown)
-def US_choropleth():
-    county_daily_total_choro = county_daily_total[county_daily_total['CASE_TYPE'] == 'Partial Coverage']
+# map function to precompute outputs
+def US_choropleth(coverage_sel):
+    county_daily_total_choro = county_daily_total[county_daily_total['CASE_TYPE'] == coverage_sel]
 
     val_max = county_daily_total_choro.CASES.max()
-    val_90 = np.percentile(list(county_daily_total_choro.CASES), 90)/val_max
-    val_92 = np.percentile(list(county_daily_total_choro.CASES), 92)/val_max
-    val_94 = np.percentile(list(county_daily_total_choro.CASES), 94)/val_max
-    val_96 = np.percentile(list(county_daily_total_choro.CASES), 96)/val_max
-    val_15= np.percentile(list(county_daily_total_choro.CASES), 15)/val_max
-    val_30= np.percentile(list(county_daily_total_choro.CASES), 30)/val_max
-    val_45= np.percentile(list(county_daily_total_choro.CASES), 45)/val_max
-    val_60= np.percentile(list(county_daily_total_choro.CASES), 60)/val_max
-    val_75= np.percentile(list(county_daily_total_choro.CASES), 75)/val_max
+    val_90 = np.percentile(list(county_daily_total_choro.CASES), 90) / val_max
+    val_92 = np.percentile(list(county_daily_total_choro.CASES), 92) / val_max
+    val_94 = np.percentile(list(county_daily_total_choro.CASES), 94) / val_max
+    val_96 = np.percentile(list(county_daily_total_choro.CASES), 96) / val_max
+    val_15 = np.percentile(list(county_daily_total_choro.CASES), 15) / val_max
+    val_30 = np.percentile(list(county_daily_total_choro.CASES), 30) / val_max
+    val_45 = np.percentile(list(county_daily_total_choro.CASES), 45) / val_max
+    val_60 = np.percentile(list(county_daily_total_choro.CASES), 60) / val_max
+    val_75 = np.percentile(list(county_daily_total_choro.CASES), 75) / val_max
 
     custom_colorscale = [[0.0, '#ffffff'],
                          [val_15, '#e8edf2'],
@@ -94,15 +96,24 @@ def US_choropleth():
                          [val_96, '#33608d'],
                          [1.0, '#1c4e80']]
 
+    # dash.callback_context.record_timing('read data', timer() - start_1, '1st task')
+
+    # start_2 = timer()
+
     fig = px.choropleth(county_daily_total_choro,
                         geojson=counties,
                         locations='COUNTY',
                         color='CASES',
                         color_continuous_scale=custom_colorscale,
-                        #range_color=[0, 7],  # restrict colorbar range so that more color variation shows
+                        # range_color=[0, 7],  # restrict colorbar range so that more color variation shows
                         scope='usa',
-                        custom_data=['COUNTY_NAME', 'STATE_NAME', 'CASES', 'GEOFLAG', 'DATE'],  # data available for hover
+                        custom_data=['COUNTY_NAME', 'STATE_NAME', 'GEOFLAG', 'DATE'],
+                        # data available for hover
                         )
+
+    # dash.callback_context.record_timing('1st fig block', timer()-start_2, '2nd task')
+
+    # start_3 = timer()
     fig.update_layout(margin=dict(b=0, t=0, l=0, r=0),  # sets the margins of the plot w/in its div
                       # controls appearance of hover label
                       hoverlabel=dict(
@@ -120,240 +131,43 @@ def US_choropleth():
                       geo=dict(
                           showlakes=False,
                           showland=True, landcolor='white'
-                      ),
-                      # map annotation for when dashboard data were updated/latest date in the sheet
-                      # annotations=[
-                      #     dict(
-                      #         x=1,
-                      #         y=0,
-                      #         xanchor='right',
-                      #         yanchor='bottom',
-                      #         xref='paper',
-                      #         yref='paper',
-                      #         align='left',
-                      #         showarrow=False,
-                      #         bgcolor='rgba(0,0,0,0)',
-                      #         text='Latest date: {:%d %b %Y}'.format(county_daily_total_choro['DATE'].max())
-                      #     )
-                      # ]
                       )
+                      )
+
+    # dash.callback_context.record_timing('updt_layout', timer()-start_3, '3rd task')
+
+    # start_4 = timer()
+
     fig.update_coloraxes(colorbar_title_font=dict(size=14))
+
+    # dash.callback_context.record_timing('updt-colorax', timer() - start_4, '4th task')
+
+    # start_5 = timer()
     fig.update_traces(marker_line_width=0.3,  # controls county border line width
                       marker_opacity=0.85,  # changes fill color opacity to let state borders through
                       marker_line_color='#262626',  # controls county border color; needs to be darker than "states"
                       # denotes custom template for what hover text should say
-                      hovertemplate='<br>'.join([
-                          '<b>%{customdata[0]}, %{customdata[1]}</b>',
-                          'Coverage: %{customdata[2]:.1f}%',
-                          'Scale of data: %{customdata[3]}',
-                          'Date: %{customdata[4]|%d %b %Y}'
-                      ]))
+                      hovertemplate='<b>%{customdata[0]}, %{customdata[1]}</b><br>Coverage: %{z:.1f}%<br>Scale of data: %{customdata[2]}<br>Date: %{customdata[3]|%d %b %Y}'
+                      )
+    # dash.callback_context.record_timing('updt_trace', timer() - start_5, '5th task')
+
+    # start_6 = timer()
     # 5a5a5a is a slightly lighter shade of gray than above
     fig.update_geos(showsubunits=True, subunitcolor='#5a5a5a')  # hacky: effectively controls state borders
+
+    # dash.callback_context.record_timing('updt_geos', timer() - start_6, '6th task')
     return fig
 
-# define app layout as a function
-# def make_layout():
-#     # row_1 option with dropdown
-#     # row_1 = dbc.Row(
-#     #     children=[
-#     #         dbc.Col(
-#     #             children=[
-#     #                 # dropdown menu
-#     #                 html.Div(
-#     #                     dcc.Dropdown(
-#     #                         id='coverage-buttons',
-#     #                         options=[
-#     #                             {
-#     #                                 'label': 'Partial vaccination coverage: proportion of population vaccinated with 1 dose',
-#     #                                 'value': 'Partial Coverage'},
-#     #                             {
-#     #                                 'label': 'Complete vaccination coverage: proportion of population vaccinated with 2 doses',
-#     #                                 'value': 'Complete Coverage'}
-#     #                         ],
-#     #                         value='Partial Coverage',
-#     #                         clearable=False,
-#     #                         searchable=False
-#     #                     ), style={'margin-bottom': 0}  # dropdown styling
-#     #                 ),
-#     #             ], width={'size': 4, 'offset': 2}, className='h-100'
-#     #             # column width, height should be 100% of the row height
-#     #         )
-#     #     ], justify='left', no_gutters=True  # justify elements in row, height of row (h-70 doesn't exist)
-#     # )
-#
-#     # row_1 option with radio items
-#     # row_1 = dbc.Row(
-#     #     children=[
-#     #         dbc.Col(
-#     #             children=[
-#     #                 html.Div(
-#     #                     dcc.RadioItems(
-#     #                         id='coverage-buttons',
-#     #                         options=[
-#     #                             {'label': 'Partial vaccination coverage', 'value': 'Partial Coverage'},
-#     #                             {'label': 'Complete vaccination coverage', 'value': 'Complete Coverage'}
-#     #                         ],
-#     #                         value='Partial Coverage',
-#     #                         labelStyle={'display': 'block'}
-#     #                     )
-#     #                 )
-#     #             ], width={'size': 6, 'offset': 3}, className='h-100'
-#     #         ),
-#     #     ], justify='left', no_gutters=True
-#     # )
-#
-#     # warning modal
-#     modal = html.Div(
-#         [
-#             dbc.Modal(
-#                 [
-#                     dbc.ModalHeader('Warning'),
-#                     dbc.ModalBody('No demographic data available for this state. Please make a different selection.'),
-#                     dbc.ModalFooter(
-#                         dbc.Button('Close', id='close', className='ml-auto')
-#                     )
-#                 ],
-#                 id='warning-modal',
-#                 backdrop=False
-#             )
-#         ]
-#     )
-#
-#     alert = html.Div(
-#         [
-#             dbc.Alert(
-#                 [
-#                     html.H5('Tips', className='mb-0'),
-#                     html.Hr(className='mb-0'),
-#                     html.P('Hover over a county to see vaccination coverage and the source of the data (state or county).'),
-#                     html.P('Click on a state to see vaccination coverage by demography (where available).',
-#                            className='mb-0')
-#                 ],
-#                 id='alert-fade',
-#                 dismissable=True,
-#                 is_open=True,
-#                 color='secondary'
-#             )
-#         ]
-#     )
-#
-#     # row for map
-#     row_2 = dbc.Row(
-#         children=[
-#             dbc.Col(
-#                 children=[
-#                     dbc.Spinner(
-#                         color='secondary',
-#                         children=[
-#                             dcc.Store(id='data-store', storage_type='session'),
-#                             html.Div(dcc.Graph(
-#                                 id='US-choropleth',
-#                                 figure=US_choropleth(),
-#                                 style={'height': '100%'},  # seems to control graph height within the row?
-#                                 config={'modeBarButtonsToRemove': ['select2d',
-#                                                                    'lasso2d',
-#                                                                    'zoom2d',
-#                                                                    'autoScale2d',
-#                                                                    'toggleSpikelines',
-#                                                                    'toggleHover',
-#                                                                    'sendDataToCloud',
-#                                                                    'toImage',
-#                                                                    'hoverClosestGeo'],
-#                                         'scrollZoom': False,
-#                                         'displayModeBar': True,
-#                                         'displaylogo': False}
-#                             ))
-#                         ]
-#                     )
-#                 ], width={'size': 8, 'offset': 2}, className='h-100'  # , style={'background-color': 'black'}
-#             ),
-#             dbc.Col(
-#                 children=[
-#                     modal,
-#                     html.Div(
-#                         alert
-#                         # dbc.Toast(
-#                         #     [
-#                         #         html.P(
-#                         #             'Hover over a county to see vaccination coverage and the source of the data (state or county).'),
-#                         #         html.P('Click on a state to see vaccination coverage by demography (where available).',
-#                         #                className='mb-0')
-#                         #     ],
-#                         #     id='instruction-toast',
-#                         #     header='Tips',
-#                         #     dismissable=True
-#                         # )
-#                     )
-#                 ], width=2  # , style={'background-color': 'orange'}
-#             )
-#         ], justify='left', no_gutters=True#, className='h-50'
-#     )
-#
-#     # row for barplots
-#     row_3 = dbc.Row(
-#         children=[
-#             dbc.Col([
-#                 dbc.Fade(
-#                     dcc.Graph(
-#                         id='age-bar',
-#                         config={'displayModeBar': False},
-#                         className='h-100'
-#                     ),
-#                     id='age-fade',
-#                     is_in=False
-#                 )], width=12, lg=5, className='h-100'  # , style={'background-color': 'green'}
-#             ),
-#             dbc.Col(
-#                 dbc.Fade(
-#                     dcc.Graph(
-#                         id='gender-bar',
-#                         config={'displayModeBar': False},
-#                         className='h-100'
-#                     ),
-#                     id='gender-fade',
-#                     is_in=False
-#                 ), width=12, lg=5, className='h-100'  # , style={'background-color': 'cyan'}
-#             )
-#         ], justify='around', align='center'
-#     )
-#
-#     row_4 = dbc.Row(
-#         children=[
-#             dbc.Col(
-#                 dbc.Fade(
-#                     dcc.Graph(
-#                         id='race-bar',
-#                         config={'displayModeBar': False},
-#                         className='h-100'
-#                     ),
-#                     id='race-fade',
-#                     is_in=False
-#                 ), width=12, lg=5, className='h-100'  # , style={'background-color': 'blue'}
-#             ),
-#             dbc.Col(
-#                 dbc.Fade(
-#                     dcc.Graph(
-#                         id='ethnicity-bar',
-#                         config={'displayModeBar': False},
-#                         className='h-100'
-#                     ),
-#                     id='ethnicity-fade',
-#                     is_in=False
-#                 ), width=12, lg=5, className='h-100'  # , style={'background-color': 'red'}
-#             )
-#         ], justify='around', align='center'
-#     )
-#     return dbc.Container([row_2, row_3, row_4], fluid=True)
+# define the pre-computed maps
+partial_map = US_choropleth('Partial Coverage')
+complete_map = US_choropleth('Complete Coverage')
 
 # ----------------------------------------------------------------------------------------------------------------------
 # initializes Dash app
-app = dash.Dash(__name__, compress=False)
-# app = dash.Dash(external_stylesheets=[dbc.themes.BOOTSTRAP])  # uses standard bootswatch theme
+app = dash.Dash(__name__)
 server = app.server
 # get_new_data()  # read data upon app initialization
 
-# app.layout = make_layout  # provide layout function
 modal = html.Div(
     [
         dbc.Modal(
@@ -388,6 +202,27 @@ alert = html.Div(
     ]
 )
 
+# radio buttons row
+row_1 = dbc.Row(
+        children=[
+            dbc.Col(
+                children=[
+                    html.Div(
+                        dcc.RadioItems(
+                            id='coverage-buttons',
+                            options=[
+                                {'label': 'Partial vaccination coverage', 'value': 'Partial Coverage'},
+                                {'label': 'Complete vaccination coverage', 'value': 'Complete Coverage'}
+                            ],
+                            value='Partial Coverage',
+                            labelStyle={'display': 'block'}
+                        )
+                    )
+                ], width={'size': 6, 'offset': 3}, className='h-100'
+            ),
+        ], justify='left', no_gutters=True
+    )
+
 # row for map
 row_2 = dbc.Row(
     children=[
@@ -399,8 +234,8 @@ row_2 = dbc.Row(
                         dcc.Store(id='data-store', storage_type='session'),
                         html.Div(dcc.Graph(
                             id='US-choropleth',
-                            figure=US_choropleth(),
-                            style={'marginBottom': 0, 'height': 500},  # plot sizing, etc.
+                            # figure=US_choropleth(),
+                            style={'marginBottom': 0, 'height': 500},  # plot container sizing, etc.
                             config={'modeBarButtonsToRemove': ['select2d',
                                                                'lasso2d',
                                                                'zoom2d',
@@ -495,170 +330,11 @@ row_4 = dbc.Row(
     ], justify='around', align='center', no_gutters=True
 )
 
-app.layout = dbc.Container([row_2, row_3, row_4], fluid=True)  # explicitly give layout
+app.layout = dbc.Container([row_1, row_2, row_3, row_4], fluid=True)  # explicitly give layout
 
 # define multi thread executor
 # executor = ThreadPoolExecutor(max_workers=1)
 # executor.submit(get_new_data_every)
-
-# regular, non-function layout
-# row for title, dropdown, and alert
-# row_1 = dbc.Row(
-#     children=[
-#         dbc.Col(
-#             children=[
-#                 # map title
-#                 html.Div(children='US Vaccination Coverage', style={'font-weight': 'bold', 'font-size': 20}),
-#                 # dropdown menu
-#                 html.Div(
-#                     dcc.Dropdown(
-#                         id='coverage-dropdown',
-#                         options=[
-#                             {'label': 'Partial vaccination coverage: proportion of population vaccinated with 1 dose',
-#                              'value': 'Partial Coverage'},
-#                             {'label': 'Complete vaccination coverage: proportion of population vaccinated with 2 doses',
-#                              'value': 'Complete Coverage'}
-#                         ],
-#                         value='Partial Coverage',
-#                         clearable=False,
-#                         searchable=False
-#                     ), style={'margin-bottom': 0}  # dropdown styling
-#                 ),
-#             ], width={'size': 4, 'offset': 2}, className='h-100'  # column width, height should be 100% of the row height
-#         )
-#     ], justify='left', no_gutters=True  # justify elements in row, height of row (h-70 doesn't exist)
-# )
-
-# warning modal
-# modal = html.Div(
-#     [
-#         dbc.Modal(
-#             [
-#                 dbc.ModalHeader('Warning'),
-#                 dbc.ModalBody('No demographic data available for this state. Please make a different selection.'),
-#                 dbc.ModalFooter(
-#                     dbc.Button('Close', id='close', className='ml-auto')
-#                 )
-#             ],
-#             id='warning-modal',
-#             backdrop=False
-#         )
-#     ]
-# )
-#
-# # row for map
-# row_2 = dbc.Row(
-#     children=[
-#         dbc.Col(
-#             dbc.Spinner(
-#                 size='lg',
-#                 type='border',
-#                 fullscreen=True,
-#                 children=[dcc.Graph(
-#                     id='US-choropleth',
-#                     figure=US_choropleth(),
-#                     style={'height': '100%'},  # seems to control graph height within the row?
-#                     config={'modeBarButtonsToRemove': ['select2d',
-#                                                        'lasso2d',
-#                                                        'zoom2d',
-#                                                        'autoScale2d',
-#                                                        'toggleSpikelines',
-#                                                        'toggleHover',
-#                                                        'sendDataToCloud',
-#                                                        'toImage',
-#                                                        'hoverClosestGeo'],
-#                             'scrollZoom': False,
-#                             'displayModeBar': True,
-#                             'displaylogo': False}
-#                     )]), width={'size': 8, 'offset': 2}, className='h-100'#, style={'background-color': 'black'}
-#         ),
-#         dbc.Col(
-#             children=[
-#                 modal,
-#                 html.Div(
-#                     dbc.Toast(
-#                         [
-#                             html.P('Hover over a county to see vaccination coverage and the source of the data (state or county).'),
-#                             html.P('Click on a state to see vaccination coverage by demography (where available).', className='mb-0')
-#                         ],
-#                         id='instruction-toast',
-#                         header='Tips',
-#                         dismissable=True
-#                     )
-#                     # dbc.Alert(
-#                     #     [
-#                     #         html.P('Hover over a county to see vaccination coverage and the source of the data (state or county).'),
-#                     #         html.P('Click on a state to see vaccination coverage by demography (where available).', className='mb-0')
-#                     #     ],
-#                     #     id='instruction-alert',
-#                     #     color='secondary',
-#                     #     dismissable=True,
-#                     #     is_open=True
-#                     # )
-#                 )
-#             ], width=2#, style={'background-color': 'orange'}
-#         )
-#     ], justify='left', no_gutters=True, className='h-50'  # justify elements in a row, height of row restricted to 75%
-# )
-#
-# # row for barplots
-# row_3 = dbc.Row(
-#     children=[
-#         dbc.Col([
-#             dbc.Fade(
-#                 dcc.Graph(
-#                     id='age-bar',
-#                     config={'displayModeBar': False},
-#                     className='h-100'
-#                 ),
-#                 id='age-fade',
-#                 is_in=False
-#             )], width=12, lg=5, className='h-100'#, style={'background-color': 'green'}
-#         ),
-#         dbc.Col(
-#             dbc.Fade(
-#                 dcc.Graph(
-#                     id='gender-bar',
-#                     config={'displayModeBar': False},
-#                     className='h-100'
-#                 ),
-#                 id='gender-fade',
-#                 is_in=False
-#             ), width=12, lg=5, className='h-100'#, style={'background-color': 'cyan'}
-#         )
-#     ], justify='around', align='center'
-# )
-#
-# row_4 = dbc.Row(
-#     children=[
-#         dbc.Col(
-#             dbc.Fade(
-#                 dcc.Graph(
-#                     id='race-bar',
-#                     config={'displayModeBar': False},
-#                     className='h-100'
-#                 ),
-#                 id='race-fade',
-#                 is_in=False
-#             ), width=12, lg=5, className='h-100'#, style={'background-color': 'blue'}
-#         ),
-#         dbc.Col(
-#             dbc.Fade(
-#                 dcc.Graph(
-#                     id='ethnicity-bar',
-#                     config={'displayModeBar': False},
-#                     className='h-100'
-#                 ),
-#                 id='ethnicity-fade',
-#                 is_in=False
-#             ), width=12, lg=5, className='h-100'#, style={'background-color': 'red'}
-#         )
-#     ], justify='around', align='center'
-# )
-#
-# # sets full app container; full screen width and length
-# app.layout = dbc.Container([row_2, row_3, row_4], style={'height': '100vh'}, fluid=True)
-
 #-----------------------------------------------------------------------------------------------------------------------
 # CALLBACK STRUCTURE
 
@@ -700,79 +376,16 @@ def update_collapse(US_choro_clickData, n, is_in, is_open):
         return is_in, is_in, is_in, is_in, is_open
 
 # callback for updating choropleth depending on coverage selection
-# @app.callback(
-#     Output('US-choropleth', 'figure'),
-#     [Input('coverage-buttons', 'value')])
-# # function for plotting base US choropleth
-# def update_choropleth(button_value):
-#     county_daily_total_choro = county_daily_total[county_daily_total['CASE_TYPE'] == button_value]
-#
-#     val_max = county_daily_total_choro.CASES.max()
-#     val_90 = np.percentile(list(county_daily_total_choro.CASES), 90) / val_max
-#     val_92 = np.percentile(list(county_daily_total_choro.CASES), 92) / val_max
-#     val_94 = np.percentile(list(county_daily_total_choro.CASES), 94) / val_max
-#     val_96 = np.percentile(list(county_daily_total_choro.CASES), 96) / val_max
-#     val_15 = np.percentile(list(county_daily_total_choro.CASES), 15) / val_max
-#     val_30 = np.percentile(list(county_daily_total_choro.CASES), 30) / val_max
-#     val_45 = np.percentile(list(county_daily_total_choro.CASES), 45) / val_max
-#     val_60 = np.percentile(list(county_daily_total_choro.CASES), 60) / val_max
-#     val_75 = np.percentile(list(county_daily_total_choro.CASES), 75) / val_max
-#
-#     custom_colorscale = [[0.0, '#ffffff'],
-#                          [val_15, '#e8edf2'],
-#                          [val_30, '#d2dce6'],
-#                          [val_45, '#bbcad9'],
-#                          [val_60, '#a4b8cc'],
-#                          [val_75, '#8ea7c0'],
-#                          [val_90, '#7795b3'],
-#                          [val_92, '#6083a6'],
-#                          [val_94, '#497199'],
-#                          [val_96, '#33608d'],
-#                          [1.0, '#1c4e80']]
-#
-#     fig = px.choropleth(county_daily_total_choro,
-#                         geojson=counties,
-#                         locations='COUNTY',
-#                         color='CASES',
-#                         color_continuous_scale=custom_colorscale,
-#                         # range_color=[0, 7],  # restrict colorbar range so that more color variation shows
-#                         scope='usa',
-#                         custom_data=['COUNTY_NAME', 'STATE_NAME', 'CASES', 'GEOFLAG', 'DATE'],
-#                         # data available for hover
-#                         )
-#     fig.update_layout(margin=dict(b=0, t=0, l=0, r=0),  # sets the margins of the plot w/in its div
-#                       # controls appearance of hover label
-#                       hoverlabel=dict(
-#                           bgcolor='white',
-#                           font_size=16
-#                       ),
-#                       # controls appearance of color bar & title
-#                       coloraxis_colorbar=dict(
-#                           lenmode='pixels', len=400,
-#                           thicknessmode='pixels', thickness=40,
-#                           ticks='outside',
-#                           title='Vaccination <br>coverage (%)'
-#                       ),
-#                       # modifications to the map appearance (special geo settings)
-#                       geo=dict(
-#                           showlakes=False,
-#                           showland=True, landcolor='white'
-#                       )
-#                       )
-#     fig.update_coloraxes(colorbar_title_font=dict(size=14))
-#     fig.update_traces(marker_line_width=0.3,  # controls county border line width
-#                       marker_opacity=0.85,  # changes fill color opacity to let state borders through
-#                       marker_line_color='#262626',  # controls county border color; needs to be darker than "states"
-#                       # denotes custom template for what hover text should say
-#                       hovertemplate='<br>'.join([
-#                           '<b>%{customdata[0]}, %{customdata[1]}</b>',
-#                           'Coverage: %{customdata[2]:.1f}%',
-#                           'Scale of data: %{customdata[3]}',
-#                           'Date: %{customdata[4]|%d %b %Y}'
-#                       ]))
-#     # 5a5a5a is a slightly lighter shade of gray than above
-#     fig.update_geos(showsubunits=True, subunitcolor='#5a5a5a')  # hacky: effectively controls state borders
-#     return fig
+@app.callback(
+    Output('US-choropleth', 'figure'),
+    [Input('coverage-buttons', 'value')])
+# function for plotting base US choropleth
+def update_choropleth(button_value):
+    # uses precomputed map data rather than computing on the fly
+    if button_value == 'Partial Coverage':
+        return partial_map
+    else:
+        return complete_map
 
 # callback for updating bar plots depending on state clicked
 @app.callback(
@@ -782,6 +395,7 @@ def update_collapse(US_choro_clickData, n, is_in, is_open):
      Output('ethnicity-bar', 'figure')],
     [Input('US-choropleth', 'clickData')])
 def update_bar_plots(US_choro_clickData):
+
     last_triggered_val = dash.callback_context.triggered[0]['value']  # assigns variable to clickData info
 
     age_class_list = ['CASES_Child', 'CASES_Adult', 'CASES_Elderly', 'CASES_UnknownAge']
@@ -1197,4 +811,4 @@ def update_bar_plots(US_choro_clickData):
 #-----------------------------------------------------------------------------------------------------------------------
 
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run_server()
