@@ -211,8 +211,8 @@ row_1 = dbc.Row(
                         dcc.RadioItems(
                             id='coverage-buttons',
                             options=[
-                                {'label': 'Partial vaccination coverage', 'value': 'Partial Coverage'},
-                                {'label': 'Complete vaccination coverage', 'value': 'Complete Coverage'}
+                                {'label': 'Partial vaccination (1+ dose) coverage', 'value': 'Partial Coverage'},
+                                {'label': 'Complete vaccination (2 dose) coverage', 'value': 'Complete Coverage'}
                             ],
                             value='Partial Coverage',
                             labelStyle={'display': 'block'}
