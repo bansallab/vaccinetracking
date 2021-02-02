@@ -1,157 +1,157 @@
 STATE_NAME,STATE,COUNTY_NAME,COUNTY,GEOFLAG,DATE,CASE_TYPE,CASES,POPN
-Michigan,26,Alcona County,26001,County,2021-02-01,Complete,1,10405
-Michigan,26,Alcona County,26001,County,2021-02-01,Partial,2,10405
-Michigan,26,Alger County,26003,County,2021-02-01,Complete,4,9108
-Michigan,26,Alger County,26003,County,2021-02-01,Partial,4,9108
-Michigan,26,Allegan County,26005,County,2021-02-01,Complete,116,118081
-Michigan,26,Allegan County,26005,County,2021-02-01,Partial,27,118081
-Michigan,26,Alpena County,26007,County,2021-02-01,Partial,11,28405
-Michigan,26,Antrim County,26009,County,2021-02-01,Complete,4,23324
-Michigan,26,Antrim County,26009,County,2021-02-01,Partial,26,23324
-Michigan,26,Arenac County,26011,County,2021-02-01,Complete,2,14883
-Michigan,26,Arenac County,26011,County,2021-02-01,Partial,6,14883
-Michigan,26,Baraga County,26013,County,2021-02-01,Complete,42,8209
-Michigan,26,Baraga County,26013,County,2021-02-01,Partial,2,8209
-Michigan,26,Barry County,26015,County,2021-02-01,Complete,69,61550
-Michigan,26,Barry County,26015,County,2021-02-01,Partial,16,61550
-Michigan,26,Bay County,26017,County,2021-02-01,Complete,33,103126
-Michigan,26,Bay County,26017,County,2021-02-01,Partial,12,103126
-Michigan,26,Benzie County,26019,County,2021-02-01,Complete,7,17766
-Michigan,26,Benzie County,26019,County,2021-02-01,Partial,3,17766
-Michigan,26,Berrien County,26021,County,2021-02-01,Complete,103,153401
-Michigan,26,Berrien County,26021,County,2021-02-01,Partial,16,153401
-Michigan,26,Branch County,26023,County,2021-02-01,Complete,36,43517
-Michigan,26,Calhoun County,26025,County,2021-02-01,Complete,135,134159
-Michigan,26,Calhoun County,26025,County,2021-02-01,Partial,38,134159
-Michigan,26,Cass County,26027,County,2021-02-01,Complete,32,51787
-Michigan,26,Cass County,26027,County,2021-02-01,Partial,2,51787
-Michigan,26,Charlevoix County,26029,County,2021-02-01,Complete,3,26143
-Michigan,26,Charlevoix County,26029,County,2021-02-01,Partial,4,26143
-Michigan,26,Cheboygan County,26031,County,2021-02-01,Complete,1,25276
-Michigan,26,Cheboygan County,26031,County,2021-02-01,Partial,1,25276
-Michigan,26,Chippewa County,26033,County,2021-02-01,Complete,79,37349
-Michigan,26,Chippewa County,26033,County,2021-02-01,Partial,213,37349
-Michigan,26,Clare County,26035,County,2021-02-01,Complete,37,30950
-Michigan,26,Clare County,26035,County,2021-02-01,Partial,7,30950
-Michigan,26,Clinton County,26037,County,2021-02-01,Complete,49,79595
-Michigan,26,Clinton County,26037,County,2021-02-01,Partial,55,79595
-Michigan,26,Crawford County,26039,County,2021-02-01,Complete,159,14029
-Michigan,26,Crawford County,26039,County,2021-02-01,Partial,5,14029
-Michigan,26,Delta County,26041,County,2021-02-01,Complete,201,35784
-Michigan,26,Delta County,26041,County,2021-02-01,Partial,2,35784
-Michigan,26,Dickinson County,26043,County,2021-02-01,Complete,62,25239
-Michigan,26,Dickinson County,26043,County,2021-02-01,Partial,11,25239
-Michigan,26,Eaton County,26045,County,2021-02-01,Complete,44,110268
-Michigan,26,Eaton County,26045,County,2021-02-01,Partial,311,110268
-Michigan,26,Emmet County,26047,County,2021-02-01,Complete,2,33415
-Michigan,26,Emmet County,26047,County,2021-02-01,Partial,4,33415
-Michigan,26,Genesee County,26049,County,2021-02-01,Complete,150,405813
-Michigan,26,Genesee County,26049,County,2021-02-01,Partial,156,405813
-Michigan,26,Gladwin County,26051,County,2021-02-01,Complete,8,25449
-Michigan,26,Gladwin County,26051,County,2021-02-01,Partial,44,25449
-Michigan,26,Grand Traverse County,26055,County,2021-02-01,Complete,93,93088
-Michigan,26,Grand Traverse County,26055,County,2021-02-01,Partial,12,93088
-Michigan,26,Gratiot County,26057,County,2021-02-01,Complete,60,40711
-Michigan,26,Gratiot County,26057,County,2021-02-01,Partial,12,40711
-Michigan,26,Hillsdale County,26059,County,2021-02-01,Complete,14,45605
-Michigan,26,Hillsdale County,26059,County,2021-02-01,Partial,4,45605
-Michigan,26,Houghton County,26061,County,2021-02-01,Complete,39,35684
-Michigan,26,Houghton County,26061,County,2021-02-01,Partial,51,35684
-Michigan,26,Huron County,26063,County,2021-02-01,Complete,29,30981
-Michigan,26,Huron County,26063,County,2021-02-01,Partial,19,30981
-Michigan,26,Ingham County,26065,County,2021-02-01,Complete,115,292406
-Michigan,26,Ingham County,26065,County,2021-02-01,Partial,194,292406
-Michigan,26,Ionia County,26067,County,2021-02-01,Complete,64,64697
-Michigan,26,Ionia County,26067,County,2021-02-01,Partial,7,64697
-Michigan,26,Iosco County,26069,County,2021-02-01,Complete,2,25127
-Michigan,26,Iron County,26071,County,2021-02-01,Complete,4,11066
-Michigan,26,Iron County,26071,County,2021-02-01,Partial,1,11066
-Michigan,26,Isabella County,26073,County,2021-02-01,Complete,80,69872
-Michigan,26,Isabella County,26073,County,2021-02-01,Partial,62,69872
-Michigan,26,Jackson County,26075,County,2021-02-01,Complete,249,158510
-Michigan,26,Jackson County,26075,County,2021-02-01,Partial,47,158510
-Michigan,26,Kalamazoo County,26077,County,2021-02-01,Complete,318,265066
-Michigan,26,Kalamazoo County,26077,County,2021-02-01,Partial,17,265066
-Michigan,26,Kalkaska County,26079,County,2021-02-01,Complete,13,18038
-Michigan,26,Kalkaska County,26079,County,2021-02-01,Partial,69,18038
-Michigan,26,Kent County,26081,County,2021-02-01,Complete,1281,656955
-Michigan,26,Kent County,26081,County,2021-02-01,Partial,620,656955
-Michigan,26,Keweenaw County,26083,County,2021-02-01,Complete,14,2116
-Michigan,26,Lake County,26085,County,2021-02-01,Complete,1,11853
-Michigan,26,Lapeer County,26087,County,2021-02-01,Complete,87,87607
-Michigan,26,Lapeer County,26087,County,2021-02-01,Partial,55,87607
-Michigan,26,Leelanau County,26089,County,2021-02-01,Complete,4,21761
-Michigan,26,Leelanau County,26089,County,2021-02-01,Partial,1,21761
-Michigan,26,Lenawee County,26091,County,2021-02-01,Complete,168,98451
-Michigan,26,Lenawee County,26091,County,2021-02-01,Partial,91,98451
-Michigan,26,Livingston County,26093,County,2021-02-01,Complete,196,191995
-Michigan,26,Livingston County,26093,County,2021-02-01,Partial,146,191995
-Michigan,26,Luce County,26095,County,2021-02-01,Complete,1,6229
-Michigan,26,Luce County,26095,County,2021-02-01,Partial,1,6229
-Michigan,26,Mackinac County,26097,County,2021-02-01,Complete,13,10799
-Michigan,26,Mackinac County,26097,County,2021-02-01,Partial,3,10799
-Michigan,26,Macomb County,26099,County,2021-02-01,Complete,1040,873972
-Michigan,26,Macomb County,26099,County,2021-02-01,Partial,1076,873972
-Michigan,26,Manistee County,26101,County,2021-02-01,Complete,214,24558
-Michigan,26,Marquette County,26103,County,2021-02-01,Complete,25,66699
-Michigan,26,Marquette County,26103,County,2021-02-01,Partial,1,66699
-Michigan,26,Mason County,26105,County,2021-02-01,Complete,212,29144
-Michigan,26,Mason County,26105,County,2021-02-01,Partial,7,29144
-Michigan,26,Mecosta County,26107,County,2021-02-01,Complete,213,43453
-Michigan,26,Mecosta County,26107,County,2021-02-01,Partial,10,43453
-Michigan,26,Menominee County,26109,County,2021-02-01,Complete,11,22780
-Michigan,26,Midland County,26111,County,2021-02-01,Complete,25,83156
-Michigan,26,Midland County,26111,County,2021-02-01,Partial,7,83156
-Michigan,26,Missaukee County,26113,County,2021-02-01,Complete,9,15118
-Michigan,26,Missaukee County,26113,County,2021-02-01,Partial,2,15118
-Michigan,26,Monroe County,26115,County,2021-02-01,Complete,237,150500
-Michigan,26,Monroe County,26115,County,2021-02-01,Partial,106,150500
-Michigan,26,Montcalm County,26117,County,2021-02-01,Complete,64,63888
-Michigan,26,Montcalm County,26117,County,2021-02-01,Partial,9,63888
-Michigan,26,Montmorency County,26119,County,2021-02-01,Complete,1,9328
-Michigan,26,Montmorency County,26119,County,2021-02-01,Partial,2,9328
-Michigan,26,Muskegon County,26121,County,2021-02-01,Complete,315,173566
-Michigan,26,Muskegon County,26121,County,2021-02-01,Partial,171,173566
-Michigan,26,Newaygo County,26123,County,2021-02-01,Complete,219,48980
-Michigan,26,Newaygo County,26123,County,2021-02-01,Partial,4,48980
-Michigan,26,Oakland County,26125,County,2021-02-01,Complete,1767,1257584
-Michigan,26,Oakland County,26125,County,2021-02-01,Partial,1398,1257584
-Michigan,26,Oceana County,26127,County,2021-02-01,Complete,193,26467
-Michigan,26,Oceana County,26127,County,2021-02-01,Partial,3,26467
-Michigan,26,Ogemaw County,26129,County,2021-02-01,Complete,22,20997
-Michigan,26,Ogemaw County,26129,County,2021-02-01,Partial,5,20997
-Michigan,26,Ontonagon County,26131,County,2021-02-01,Complete,1,5720
-Michigan,26,Osceola County,26133,County,2021-02-01,Complete,29,23460
-Michigan,26,Osceola County,26133,County,2021-02-01,Partial,70,23460
-Michigan,26,Oscoda County,26135,County,2021-02-01,Complete,2,8241
-Michigan,26,Otsego County,26137,County,2021-02-01,Complete,4,24668
-Michigan,26,Otsego County,26137,County,2021-02-01,Partial,3,24668
-Michigan,26,Ottawa County,26139,County,2021-02-01,Complete,347,291830
-Michigan,26,Ottawa County,26139,County,2021-02-01,Partial,81,291830
-Michigan,26,Presque Isle County,26141,County,2021-02-01,Partial,2,12592
-Michigan,26,Roscommon County,26143,County,2021-02-01,Complete,30,24019
-Michigan,26,Roscommon County,26143,County,2021-02-01,Partial,7,24019
-Michigan,26,Saginaw County,26145,County,2021-02-01,Complete,224,190539
-Michigan,26,Saginaw County,26145,County,2021-02-01,Partial,27,190539
-Michigan,26,Sanilac County,26151,County,2021-02-01,Complete,17,41170
-Michigan,26,Sanilac County,26151,County,2021-02-01,Partial,618,41170
-Michigan,26,Schoolcraft County,26153,County,2021-02-01,Complete,86,8094
-Michigan,26,Schoolcraft County,26153,County,2021-02-01,Partial,1,8094
-Michigan,26,Shiawassee County,26155,County,2021-02-01,Complete,24,68122
-Michigan,26,Shiawassee County,26155,County,2021-02-01,Partial,22,68122
-Michigan,26,St. Clair County,26147,County,2021-02-01,Complete,70,159128
-Michigan,26,St. Clair County,26147,County,2021-02-01,Partial,139,159128
-Michigan,26,St. Joseph County,26149,County,2021-02-01,Complete,36,60964
-Michigan,26,Tuscola County,26157,County,2021-02-01,Complete,17,52245
-Michigan,26,Tuscola County,26157,County,2021-02-01,Partial,16,52245
-Michigan,26,Van Buren County,26159,County,2021-02-01,Complete,53,75677
-Michigan,26,Van Buren County,26159,County,2021-02-01,Partial,5,75677
-Michigan,26,Washtenaw County,26161,County,2021-02-01,Complete,847,367601
-Michigan,26,Washtenaw County,26161,County,2021-02-01,Partial,474,367601
-Michigan,26,Wayne County,26163,County,2021-02-01,Complete,1141,1749343
-Michigan,26,Wayne County,26163,County,2021-02-01,Partial,1172,1749343
-Michigan,26,Wexford County,26165,County,2021-02-01,Complete,206,33631
-Michigan,26,Wexford County,26165,County,2021-02-01,Partial,10,33631
+Michigan,26,Alcona County,26001,County,2021-02-01,Complete,110,10405
+Michigan,26,Alcona County,26001,County,2021-02-01,Partial,969,10405
+Michigan,26,Alger County,26003,County,2021-02-01,Complete,149,9108
+Michigan,26,Alger County,26003,County,2021-02-01,Partial,1369,9108
+Michigan,26,Allegan County,26005,County,2021-02-01,Complete,1784,118081
+Michigan,26,Allegan County,26005,County,2021-02-01,Partial,6901,118081
+Michigan,26,Alpena County,26007,County,2021-02-01,Partial,3824,28405
+Michigan,26,Antrim County,26009,County,2021-02-01,Complete,259,23324
+Michigan,26,Antrim County,26009,County,2021-02-01,Partial,1909,23324
+Michigan,26,Arenac County,26011,County,2021-02-01,Complete,146,14883
+Michigan,26,Arenac County,26011,County,2021-02-01,Partial,1197,14883
+Michigan,26,Baraga County,26013,County,2021-02-01,Complete,198,8209
+Michigan,26,Baraga County,26013,County,2021-02-01,Partial,1238,8209
+Michigan,26,Barry County,26015,County,2021-02-01,Complete,946,61550
+Michigan,26,Barry County,26015,County,2021-02-01,Partial,3522,61550
+Michigan,26,Bay County,26017,County,2021-02-01,Complete,2380,103126
+Michigan,26,Bay County,26017,County,2021-02-01,Partial,8758,103126
+Michigan,26,Benzie County,26019,County,2021-02-01,Complete,367,17766
+Michigan,26,Benzie County,26019,County,2021-02-01,Partial,1867,17766
+Michigan,26,Berrien County,26021,County,2021-02-01,Complete,2150,153401
+Michigan,26,Berrien County,26021,County,2021-02-01,Partial,12210,153401
+Michigan,26,Branch County,26023,County,2021-02-01,Complete,484,43517
+Michigan,26,Calhoun County,26025,County,2021-02-01,Complete,2278,134159
+Michigan,26,Calhoun County,26025,County,2021-02-01,Partial,10129,134159
+Michigan,26,Cass County,26027,County,2021-02-01,Complete,243,51787
+Michigan,26,Cass County,26027,County,2021-02-01,Partial,1576,51787
+Michigan,26,Charlevoix County,26029,County,2021-02-01,Complete,746,26143
+Michigan,26,Charlevoix County,26029,County,2021-02-01,Partial,3242,26143
+Michigan,26,Cheboygan County,26031,County,2021-02-01,Complete,239,25276
+Michigan,26,Cheboygan County,26031,County,2021-02-01,Partial,2345,25276
+Michigan,26,Chippewa County,26033,County,2021-02-01,Complete,1225,37349
+Michigan,26,Chippewa County,26033,County,2021-02-01,Partial,4914,37349
+Michigan,26,Clare County,26035,County,2021-02-01,Complete,321,30950
+Michigan,26,Clare County,26035,County,2021-02-01,Partial,2468,30950
+Michigan,26,Clinton County,26037,County,2021-02-01,Complete,1414,79595
+Michigan,26,Clinton County,26037,County,2021-02-01,Partial,6222,79595
+Michigan,26,Crawford County,26039,County,2021-02-01,Complete,402,14029
+Michigan,26,Crawford County,26039,County,2021-02-01,Partial,1246,14029
+Michigan,26,Delta County,26041,County,2021-02-01,Complete,827,35784
+Michigan,26,Delta County,26041,County,2021-02-01,Partial,4014,35784
+Michigan,26,Dickinson County,26043,County,2021-02-01,Complete,700,25239
+Michigan,26,Dickinson County,26043,County,2021-02-01,Partial,3243,25239
+Michigan,26,Eaton County,26045,County,2021-02-01,Complete,1961,110268
+Michigan,26,Eaton County,26045,County,2021-02-01,Partial,9896,110268
+Michigan,26,Emmet County,26047,County,2021-02-01,Complete,999,33415
+Michigan,26,Emmet County,26047,County,2021-02-01,Partial,4301,33415
+Michigan,26,Genesee County,26049,County,2021-02-01,Complete,5452,405813
+Michigan,26,Genesee County,26049,County,2021-02-01,Partial,23432,405813
+Michigan,26,Gladwin County,26051,County,2021-02-01,Complete,362,25449
+Michigan,26,Gladwin County,26051,County,2021-02-01,Partial,2461,25449
+Michigan,26,Grand Traverse County,26055,County,2021-02-01,Complete,3919,93088
+Michigan,26,Grand Traverse County,26055,County,2021-02-01,Partial,15346,93088
+Michigan,26,Gratiot County,26057,County,2021-02-01,Complete,1026,40711
+Michigan,26,Gratiot County,26057,County,2021-02-01,Partial,3524,40711
+Michigan,26,Hillsdale County,26059,County,2021-02-01,Complete,1259,45605
+Michigan,26,Hillsdale County,26059,County,2021-02-01,Partial,3048,45605
+Michigan,26,Houghton County,26061,County,2021-02-01,Complete,408,35684
+Michigan,26,Houghton County,26061,County,2021-02-01,Partial,4130,35684
+Michigan,26,Huron County,26063,County,2021-02-01,Complete,490,30981
+Michigan,26,Huron County,26063,County,2021-02-01,Partial,3256,30981
+Michigan,26,Ingham County,26065,County,2021-02-01,Complete,6103,292406
+Michigan,26,Ingham County,26065,County,2021-02-01,Partial,24696,292406
+Michigan,26,Ionia County,26067,County,2021-02-01,Complete,852,64697
+Michigan,26,Ionia County,26067,County,2021-02-01,Partial,3932,64697
+Michigan,26,Iosco County,26069,County,2021-02-01,Complete,179,25127
+Michigan,26,Iron County,26071,County,2021-02-01,Complete,192,11066
+Michigan,26,Iron County,26071,County,2021-02-01,Partial,1717,11066
+Michigan,26,Isabella County,26073,County,2021-02-01,Complete,885,69872
+Michigan,26,Isabella County,26073,County,2021-02-01,Partial,4837,69872
+Michigan,26,Jackson County,26075,County,2021-02-01,Complete,3139,158510
+Michigan,26,Jackson County,26075,County,2021-02-01,Partial,14913,158510
+Michigan,26,Kalamazoo County,26077,County,2021-02-01,Complete,7466,265066
+Michigan,26,Kalamazoo County,26077,County,2021-02-01,Partial,24402,265066
+Michigan,26,Kalkaska County,26079,County,2021-02-01,Complete,347,18038
+Michigan,26,Kalkaska County,26079,County,2021-02-01,Partial,2083,18038
+Michigan,26,Kent County,26081,County,2021-02-01,Complete,19493,656955
+Michigan,26,Kent County,26081,County,2021-02-01,Partial,65370,656955
+Michigan,26,Keweenaw County,26083,County,2021-02-01,Complete,41,2116
+Michigan,26,Lake County,26085,County,2021-02-01,Complete,51,11853
+Michigan,26,Lapeer County,26087,County,2021-02-01,Complete,903,87607
+Michigan,26,Lapeer County,26087,County,2021-02-01,Partial,4113,87607
+Michigan,26,Leelanau County,26089,County,2021-02-01,Complete,434,21761
+Michigan,26,Leelanau County,26089,County,2021-02-01,Partial,2442,21761
+Michigan,26,Lenawee County,26091,County,2021-02-01,Complete,1496,98451
+Michigan,26,Lenawee County,26091,County,2021-02-01,Partial,8257,98451
+Michigan,26,Livingston County,26093,County,2021-02-01,Complete,3593,191995
+Michigan,26,Livingston County,26093,County,2021-02-01,Partial,12435,191995
+Michigan,26,Luce County,26095,County,2021-02-01,Complete,125,6229
+Michigan,26,Luce County,26095,County,2021-02-01,Partial,1023,6229
+Michigan,26,Mackinac County,26097,County,2021-02-01,Complete,245,10799
+Michigan,26,Mackinac County,26097,County,2021-02-01,Partial,1489,10799
+Michigan,26,Macomb County,26099,County,2021-02-01,Complete,17104,873972
+Michigan,26,Macomb County,26099,County,2021-02-01,Partial,57891,873972
+Michigan,26,Manistee County,26101,County,2021-02-01,Complete,687,24558
+Michigan,26,Marquette County,26103,County,2021-02-01,Complete,2229,66699
+Michigan,26,Marquette County,26103,County,2021-02-01,Partial,9277,66699
+Michigan,26,Mason County,26105,County,2021-02-01,Complete,798,29144
+Michigan,26,Mason County,26105,County,2021-02-01,Partial,3575,29144
+Michigan,26,Mecosta County,26107,County,2021-02-01,Complete,643,43453
+Michigan,26,Mecosta County,26107,County,2021-02-01,Partial,3289,43453
+Michigan,26,Menominee County,26109,County,2021-02-01,Complete,138,22780
+Michigan,26,Midland County,26111,County,2021-02-01,Complete,2365,83156
+Michigan,26,Midland County,26111,County,2021-02-01,Partial,8590,83156
+Michigan,26,Missaukee County,26113,County,2021-02-01,Complete,143,15118
+Michigan,26,Missaukee County,26113,County,2021-02-01,Partial,1040,15118
+Michigan,26,Monroe County,26115,County,2021-02-01,Complete,2508,150500
+Michigan,26,Monroe County,26115,County,2021-02-01,Partial,10290,150500
+Michigan,26,Montcalm County,26117,County,2021-02-01,Complete,961,63888
+Michigan,26,Montcalm County,26117,County,2021-02-01,Partial,3925,63888
+Michigan,26,Montmorency County,26119,County,2021-02-01,Complete,69,9328
+Michigan,26,Montmorency County,26119,County,2021-02-01,Partial,1061,9328
+Michigan,26,Muskegon County,26121,County,2021-02-01,Complete,3760,173566
+Michigan,26,Muskegon County,26121,County,2021-02-01,Partial,15566,173566
+Michigan,26,Newaygo County,26123,County,2021-02-01,Complete,698,48980
+Michigan,26,Newaygo County,26123,County,2021-02-01,Partial,3050,48980
+Michigan,26,Oakland County,26125,County,2021-02-01,Complete,33013,1257584
+Michigan,26,Oakland County,26125,County,2021-02-01,Partial,109717,1257584
+Michigan,26,Oceana County,26127,County,2021-02-01,Complete,414,26467
+Michigan,26,Oceana County,26127,County,2021-02-01,Partial,2284,26467
+Michigan,26,Ogemaw County,26129,County,2021-02-01,Complete,298,20997
+Michigan,26,Ogemaw County,26129,County,2021-02-01,Partial,1368,20997
+Michigan,26,Ontonagon County,26131,County,2021-02-01,Complete,98,5720
+Michigan,26,Osceola County,26133,County,2021-02-01,Complete,290,23460
+Michigan,26,Osceola County,26133,County,2021-02-01,Partial,1999,23460
+Michigan,26,Oscoda County,26135,County,2021-02-01,Complete,36,8241
+Michigan,26,Otsego County,26137,County,2021-02-01,Complete,445,24668
+Michigan,26,Otsego County,26137,County,2021-02-01,Partial,2377,24668
+Michigan,26,Ottawa County,26139,County,2021-02-01,Complete,7445,291830
+Michigan,26,Ottawa County,26139,County,2021-02-01,Partial,26932,291830
+Michigan,26,Presque Isle County,26141,County,2021-02-01,Partial,1556,12592
+Michigan,26,Roscommon County,26143,County,2021-02-01,Complete,285,24019
+Michigan,26,Roscommon County,26143,County,2021-02-01,Partial,2113,24019
+Michigan,26,Saginaw County,26145,County,2021-02-01,Complete,4094,190539
+Michigan,26,Saginaw County,26145,County,2021-02-01,Partial,16216,190539
+Michigan,26,Sanilac County,26151,County,2021-02-01,Complete,447,41170
+Michigan,26,Sanilac County,26151,County,2021-02-01,Partial,3758,41170
+Michigan,26,Schoolcraft County,26153,County,2021-02-01,Complete,427,8094
+Michigan,26,Schoolcraft County,26153,County,2021-02-01,Partial,1620,8094
+Michigan,26,Shiawassee County,26155,County,2021-02-01,Complete,1013,68122
+Michigan,26,Shiawassee County,26155,County,2021-02-01,Partial,4732,68122
+Michigan,26,St. Clair County,26147,County,2021-02-01,Complete,2275,159128
+Michigan,26,St. Clair County,26147,County,2021-02-01,Partial,10169,159128
+Michigan,26,St. Joseph County,26149,County,2021-02-01,Complete,378,60964
+Michigan,26,Tuscola County,26157,County,2021-02-01,Complete,699,52245
+Michigan,26,Tuscola County,26157,County,2021-02-01,Partial,4430,52245
+Michigan,26,Van Buren County,26159,County,2021-02-01,Complete,1312,75677
+Michigan,26,Van Buren County,26159,County,2021-02-01,Partial,5172,75677
+Michigan,26,Washtenaw County,26161,County,2021-02-01,Complete,17834,367601
+Michigan,26,Washtenaw County,26161,County,2021-02-01,Partial,41862,367601
+Michigan,26,Wayne County,26163,County,2021-02-01,Complete,26593,1749343
+Michigan,26,Wayne County,26163,County,2021-02-01,Partial,100680,1749343
+Michigan,26,Wexford County,26165,County,2021-02-01,Complete,782,33631
+Michigan,26,Wexford County,26165,County,2021-02-01,Partial,3417,33631
 North Carolina,37,Alamance County,37001,County,2021-02-01,Partial,11584,169509
 North Carolina,37,Alamance County,37001,County,2021-02-01,Complete,3791,169509
 North Carolina,37,Alexander County,37003,County,2021-02-01,Partial,2829,37497
@@ -1972,159 +1972,159 @@ Tennessee,47,Weakley County,47183,County,2021-02-02,Complete,886.0,33328
 Tennessee,47,White County,47185,County,2021-02-02,Complete,717.0,27345
 Tennessee,47,Williamson County,47187,County,2021-02-02,Complete,8039.0,238412
 Tennessee,47,Wilson County,47189,County,2021-02-02,Complete,3539.0,144657
-Michigan,26,Alcona County,26001,County,2021-02-01,Complete Coverage,0.009610764055742432,10405
-Michigan,26,Alcona County,26001,County,2021-02-01,Partial Coverage,0.019221528111484865,10405
-Michigan,26,Alger County,26003,County,2021-02-01,Complete Coverage,0.04391743522178305,9108
-Michigan,26,Alger County,26003,County,2021-02-01,Partial Coverage,0.04391743522178305,9108
-Michigan,26,Allegan County,26005,County,2021-02-01,Complete Coverage,0.09823765042640221,118081
-Michigan,26,Allegan County,26005,County,2021-02-01,Partial Coverage,0.022865660013041893,118081
-Michigan,26,Alpena County,26007,County,2021-02-01,Partial Coverage,0.03872557648301356,28405
-Michigan,26,Antrim County,26009,County,2021-02-01,Complete Coverage,0.017149717029669012,23324
-Michigan,26,Antrim County,26009,County,2021-02-01,Partial Coverage,0.11147316069284857,23324
-Michigan,26,Arenac County,26011,County,2021-02-01,Complete Coverage,0.013438150910434724,14883
-Michigan,26,Arenac County,26011,County,2021-02-01,Partial Coverage,0.04031445273130417,14883
-Michigan,26,Baraga County,26013,County,2021-02-01,Complete Coverage,0.5116335729077841,8209
-Michigan,26,Baraga County,26013,County,2021-02-01,Partial Coverage,0.024363503471799244,8209
-Michigan,26,Barry County,26015,County,2021-02-01,Complete Coverage,0.11210398050365557,61550
-Michigan,26,Barry County,26015,County,2021-02-01,Partial Coverage,0.025995125913891144,61550
-Michigan,26,Bay County,26017,County,2021-02-01,Complete Coverage,0.03199968969997867,103126
-Michigan,26,Bay County,26017,County,2021-02-01,Partial Coverage,0.011636250799992243,103126
-Michigan,26,Benzie County,26019,County,2021-02-01,Complete Coverage,0.039401103230890466,17766
-Michigan,26,Benzie County,26019,County,2021-02-01,Partial Coverage,0.016886187098953058,17766
-Michigan,26,Berrien County,26021,County,2021-02-01,Complete Coverage,0.06714428197990886,153401
-Michigan,26,Berrien County,26021,County,2021-02-01,Partial Coverage,0.010430179725034386,153401
-Michigan,26,Branch County,26023,County,2021-02-01,Complete Coverage,0.08272629087483052,43517
-Michigan,26,Calhoun County,26025,County,2021-02-01,Complete Coverage,0.10062686811917203,134159
-Michigan,26,Calhoun County,26025,County,2021-02-01,Partial Coverage,0.0283245999150262,134159
-Michigan,26,Cass County,26027,County,2021-02-01,Complete Coverage,0.06179156931276189,51787
-Michigan,26,Cass County,26027,County,2021-02-01,Partial Coverage,0.003861973082047618,51787
-Michigan,26,Charlevoix County,26029,County,2021-02-01,Complete Coverage,0.011475347129250659,26143
-Michigan,26,Charlevoix County,26029,County,2021-02-01,Partial Coverage,0.01530046283900088,26143
-Michigan,26,Cheboygan County,26031,County,2021-02-01,Complete Coverage,0.003956322202880202,25276
-Michigan,26,Cheboygan County,26031,County,2021-02-01,Partial Coverage,0.003956322202880202,25276
-Michigan,26,Chippewa County,26033,County,2021-02-01,Complete Coverage,0.21151838067953627,37349
-Michigan,26,Chippewa County,26033,County,2021-02-01,Partial Coverage,0.570296393477737,37349
-Michigan,26,Clare County,26035,County,2021-02-01,Complete Coverage,0.11954765751211632,30950
-Michigan,26,Clare County,26035,County,2021-02-01,Partial Coverage,0.022617124394184167,30950
-Michigan,26,Clinton County,26037,County,2021-02-01,Complete Coverage,0.06156165588290722,79595
-Michigan,26,Clinton County,26037,County,2021-02-01,Partial Coverage,0.069099817827753,79595
-Michigan,26,Crawford County,26039,County,2021-02-01,Complete Coverage,1.1333665977617793,14029
-Michigan,26,Crawford County,26039,County,2021-02-01,Partial Coverage,0.035640459049112554,14029
-Michigan,26,Delta County,26041,County,2021-02-01,Complete Coverage,0.5617035546613012,35784
-Michigan,26,Delta County,26041,County,2021-02-01,Partial Coverage,0.00558909009613235,35784
-Michigan,26,Dickinson County,26043,County,2021-02-01,Complete Coverage,0.24565157098141766,25239
-Michigan,26,Dickinson County,26043,County,2021-02-01,Partial Coverage,0.04358334323863861,25239
-Michigan,26,Eaton County,26045,County,2021-02-01,Complete Coverage,0.03990278231218486,110268
-Michigan,26,Eaton County,26045,County,2021-02-01,Partial Coverage,0.28204012043385207,110268
-Michigan,26,Emmet County,26047,County,2021-02-01,Complete Coverage,0.005985335926978902,33415
-Michigan,26,Emmet County,26047,County,2021-02-01,Partial Coverage,0.011970671853957804,33415
-Michigan,26,Genesee County,26049,County,2021-02-01,Complete Coverage,0.03696283756311405,405813
-Michigan,26,Genesee County,26049,County,2021-02-01,Partial Coverage,0.038441351065638604,405813
-Michigan,26,Gladwin County,26051,County,2021-02-01,Complete Coverage,0.0314354198593265,25449
-Michigan,26,Gladwin County,26051,County,2021-02-01,Partial Coverage,0.17289480922629574,25449
-Michigan,26,Grand Traverse County,26055,County,2021-02-01,Complete Coverage,0.09990546579580611,93088
-Michigan,26,Grand Traverse County,26055,County,2021-02-01,Partial Coverage,0.012891027844620144,93088
-Michigan,26,Gratiot County,26057,County,2021-02-01,Complete Coverage,0.14738031490260617,40711
-Michigan,26,Gratiot County,26057,County,2021-02-01,Partial Coverage,0.029476062980521234,40711
-Michigan,26,Hillsdale County,26059,County,2021-02-01,Complete Coverage,0.03069838833461243,45605
-Michigan,26,Hillsdale County,26059,County,2021-02-01,Partial Coverage,0.008770968095603552,45605
-Michigan,26,Houghton County,26061,County,2021-02-01,Complete Coverage,0.1092926801928035,35684
-Michigan,26,Houghton County,26061,County,2021-02-01,Partial Coverage,0.14292119717520457,35684
-Michigan,26,Huron County,26063,County,2021-02-01,Complete Coverage,0.09360575836803202,30981
-Michigan,26,Huron County,26063,County,2021-02-01,Partial Coverage,0.06132791065491753,30981
-Michigan,26,Ingham County,26065,County,2021-02-01,Complete Coverage,0.039328878340389735,292406
-Michigan,26,Ingham County,26065,County,2021-02-01,Partial Coverage,0.06634610780900528,292406
-Michigan,26,Ionia County,26067,County,2021-02-01,Complete Coverage,0.09892267029383124,64697
-Michigan,26,Ionia County,26067,County,2021-02-01,Partial Coverage,0.010819667063387793,64697
-Michigan,26,Iosco County,26069,County,2021-02-01,Complete Coverage,0.007959565407728738,25127
-Michigan,26,Iron County,26071,County,2021-02-01,Complete Coverage,0.036146755828664376,11066
-Michigan,26,Iron County,26071,County,2021-02-01,Partial Coverage,0.009036688957166094,11066
-Michigan,26,Isabella County,26073,County,2021-02-01,Complete Coverage,0.1144950767117014,69872
-Michigan,26,Isabella County,26073,County,2021-02-01,Partial Coverage,0.08873368445156858,69872
-Michigan,26,Jackson County,26075,County,2021-02-01,Complete Coverage,0.15708788089079553,158510
-Michigan,26,Jackson County,26075,County,2021-02-01,Partial Coverage,0.02965112611191723,158510
-Michigan,26,Kalamazoo County,26077,County,2021-02-01,Complete Coverage,0.11997012064919681,265066
-Michigan,26,Kalamazoo County,26077,County,2021-02-01,Partial Coverage,0.006413497015837565,265066
-Michigan,26,Kalkaska County,26079,County,2021-02-01,Complete Coverage,0.07207007428761504,18038
-Michigan,26,Kalkaska County,26079,County,2021-02-01,Partial Coverage,0.3825257789111875,18038
-Michigan,26,Kent County,26081,County,2021-02-01,Complete Coverage,0.194990524465146,656955
-Michigan,26,Kent County,26081,County,2021-02-01,Partial Coverage,0.09437480497142117,656955
-Michigan,26,Keweenaw County,26083,County,2021-02-01,Complete Coverage,0.6616257088846881,2116
-Michigan,26,Lake County,26085,County,2021-02-01,Complete Coverage,0.00843668269636379,11853
-Michigan,26,Lapeer County,26087,County,2021-02-01,Complete Coverage,0.09930713299165592,87607
-Michigan,26,Lapeer County,26087,County,2021-02-01,Partial Coverage,0.06278037143150661,87607
-Michigan,26,Leelanau County,26089,County,2021-02-01,Complete Coverage,0.018381508202748035,21761
-Michigan,26,Leelanau County,26089,County,2021-02-01,Partial Coverage,0.004595377050687009,21761
-Michigan,26,Lenawee County,26091,County,2021-02-01,Complete Coverage,0.17064326416186731,98451
-Michigan,26,Lenawee County,26091,County,2021-02-01,Partial Coverage,0.09243176808767814,98451
-Michigan,26,Livingston County,26093,County,2021-02-01,Complete Coverage,0.10208599182270371,191995
-Michigan,26,Livingston County,26093,County,2021-02-01,Partial Coverage,0.07604364696997318,191995
-Michigan,26,Luce County,26095,County,2021-02-01,Complete Coverage,0.016053941242575052,6229
-Michigan,26,Luce County,26095,County,2021-02-01,Partial Coverage,0.016053941242575052,6229
-Michigan,26,Mackinac County,26097,County,2021-02-01,Complete Coverage,0.12038151680711177,10799
-Michigan,26,Mackinac County,26097,County,2021-02-01,Partial Coverage,0.02778035003241041,10799
-Michigan,26,Macomb County,26099,County,2021-02-01,Complete Coverage,0.11899694727062195,873972
-Michigan,26,Macomb County,26099,County,2021-02-01,Partial Coverage,0.12311607236845117,873972
-Michigan,26,Manistee County,26101,County,2021-02-01,Complete Coverage,0.8714064663246193,24558
-Michigan,26,Marquette County,26103,County,2021-02-01,Complete Coverage,0.03748182131666142,66699
-Michigan,26,Marquette County,26103,County,2021-02-01,Partial Coverage,0.0014992728526664568,66699
-Michigan,26,Mason County,26105,County,2021-02-01,Complete Coverage,0.7274224540214109,29144
-Michigan,26,Mason County,26105,County,2021-02-01,Partial Coverage,0.02401866593466923,29144
-Michigan,26,Mecosta County,26107,County,2021-02-01,Complete Coverage,0.4901847973672704,43453
-Michigan,26,Mecosta County,26107,County,2021-02-01,Partial Coverage,0.02301337076841645,43453
-Michigan,26,Menominee County,26109,County,2021-02-01,Complete Coverage,0.048287971905179985,22780
-Michigan,26,Midland County,26111,County,2021-02-01,Complete Coverage,0.030063976141228535,83156
-Michigan,26,Midland County,26111,County,2021-02-01,Partial Coverage,0.00841791331954399,83156
-Michigan,26,Missaukee County,26113,County,2021-02-01,Complete Coverage,0.059531684085196455,15118
-Michigan,26,Missaukee County,26113,County,2021-02-01,Partial Coverage,0.013229263130043656,15118
-Michigan,26,Monroe County,26115,County,2021-02-01,Complete Coverage,0.1574750830564784,150500
-Michigan,26,Monroe County,26115,County,2021-02-01,Partial Coverage,0.07043189368770764,150500
-Michigan,26,Montcalm County,26117,County,2021-02-01,Complete Coverage,0.10017530678687704,63888
-Michigan,26,Montcalm County,26117,County,2021-02-01,Partial Coverage,0.014087152516904584,63888
-Michigan,26,Montmorency County,26119,County,2021-02-01,Complete Coverage,0.01072041166380789,9328
-Michigan,26,Montmorency County,26119,County,2021-02-01,Partial Coverage,0.02144082332761578,9328
-Michigan,26,Muskegon County,26121,County,2021-02-01,Complete Coverage,0.18148715762303677,173566
-Michigan,26,Muskegon County,26121,County,2021-02-01,Partial Coverage,0.09852159985250568,173566
-Michigan,26,Newaygo County,26123,County,2021-02-01,Complete Coverage,0.4471212739893834,48980
-Michigan,26,Newaygo County,26123,County,2021-02-01,Partial Coverage,0.008166598611678236,48980
-Michigan,26,Oakland County,26125,County,2021-02-01,Complete Coverage,0.14050751281822924,1257584
-Michigan,26,Oakland County,26125,County,2021-02-01,Partial Coverage,0.11116553645720684,1257584
-Michigan,26,Oceana County,26127,County,2021-02-01,Complete Coverage,0.7292099595722976,26467
-Michigan,26,Oceana County,26127,County,2021-02-01,Partial Coverage,0.011334869837911361,26467
-Michigan,26,Ogemaw County,26129,County,2021-02-01,Complete Coverage,0.10477687288660285,20997
-Michigan,26,Ogemaw County,26129,County,2021-02-01,Partial Coverage,0.0238129256560461,20997
-Michigan,26,Ontonagon County,26131,County,2021-02-01,Complete Coverage,0.017482517482517484,5720
-Michigan,26,Osceola County,26133,County,2021-02-01,Complete Coverage,0.12361466325660699,23460
-Michigan,26,Osceola County,26133,County,2021-02-01,Partial Coverage,0.29838022165387895,23460
-Michigan,26,Oscoda County,26135,County,2021-02-01,Complete Coverage,0.024268899405411964,8241
-Michigan,26,Otsego County,26137,County,2021-02-01,Complete Coverage,0.016215339711366954,24668
-Michigan,26,Otsego County,26137,County,2021-02-01,Partial Coverage,0.012161504783525215,24668
-Michigan,26,Ottawa County,26139,County,2021-02-01,Complete Coverage,0.11890484185998698,291830
-Michigan,26,Ottawa County,26139,County,2021-02-01,Partial Coverage,0.027755885275674193,291830
-Michigan,26,Presque Isle County,26141,County,2021-02-01,Partial Coverage,0.01588310038119441,12592
-Michigan,26,Roscommon County,26143,County,2021-02-01,Complete Coverage,0.12490111994670886,24019
-Michigan,26,Roscommon County,26143,County,2021-02-01,Partial Coverage,0.029143594654232066,24019
-Michigan,26,Saginaw County,26145,County,2021-02-01,Complete Coverage,0.11756123418302815,190539
-Michigan,26,Saginaw County,26145,County,2021-02-01,Partial Coverage,0.014170327334561429,190539
-Michigan,26,Sanilac County,26151,County,2021-02-01,Complete Coverage,0.04129220306048093,41170
-Michigan,26,Sanilac County,26151,County,2021-02-01,Partial Coverage,1.501093028904542,41170
-Michigan,26,Schoolcraft County,26153,County,2021-02-01,Complete Coverage,1.0625154435384234,8094
-Michigan,26,Schoolcraft County,26153,County,2021-02-01,Partial Coverage,0.012354830738818878,8094
-Michigan,26,Shiawassee County,26155,County,2021-02-01,Complete Coverage,0.03523090925104959,68122
-Michigan,26,Shiawassee County,26155,County,2021-02-01,Partial Coverage,0.032295000146795455,68122
-Michigan,26,St. Clair County,26147,County,2021-02-01,Complete Coverage,0.04398974410537429,159128
-Michigan,26,St. Clair County,26147,County,2021-02-01,Partial Coverage,0.08735106329495752,159128
-Michigan,26,St. Joseph County,26149,County,2021-02-01,Complete Coverage,0.059051243356735124,60964
-Michigan,26,Tuscola County,26157,County,2021-02-01,Complete Coverage,0.03253899894726768,52245
-Michigan,26,Tuscola County,26157,County,2021-02-01,Partial Coverage,0.0306249401856637,52245
-Michigan,26,Van Buren County,26159,County,2021-02-01,Complete Coverage,0.07003448868216235,75677
-Michigan,26,Van Buren County,26159,County,2021-02-01,Partial Coverage,0.006607027234166259,75677
-Michigan,26,Washtenaw County,26161,County,2021-02-01,Complete Coverage,0.230412866123868,367601
-Michigan,26,Washtenaw County,26161,County,2021-02-01,Partial Coverage,0.1289441541236286,367601
-Michigan,26,Wayne County,26163,County,2021-02-01,Complete Coverage,0.06522448713602765,1749343
-Michigan,26,Wayne County,26163,County,2021-02-01,Partial Coverage,0.0669965810021248,1749343
-Michigan,26,Wexford County,26165,County,2021-02-01,Complete Coverage,0.612530106152062,33631
-Michigan,26,Wexford County,26165,County,2021-02-01,Partial Coverage,0.029734471172430197,33631
+Michigan,26,Alcona County,26001,County,2021-02-01,Complete Coverage,1.0571840461316675,10405
+Michigan,26,Alcona County,26001,County,2021-02-01,Partial Coverage,9.312830370014415,10405
+Michigan,26,Alger County,26003,County,2021-02-01,Complete Coverage,1.6359244620114186,9108
+Michigan,26,Alger County,26003,County,2021-02-01,Partial Coverage,15.030742204655247,9108
+Michigan,26,Allegan County,26005,County,2021-02-01,Complete Coverage,1.5108273134543238,118081
+Michigan,26,Allegan County,26005,County,2021-02-01,Partial Coverage,5.844293324074153,118081
+Michigan,26,Alpena County,26007,County,2021-02-01,Partial Coverage,13.462418588276712,28405
+Michigan,26,Antrim County,26009,County,2021-02-01,Complete Coverage,1.1104441776710685,23324
+Michigan,26,Antrim County,26009,County,2021-02-01,Partial Coverage,8.184702452409535,23324
+Michigan,26,Arenac County,26011,County,2021-02-01,Complete Coverage,0.9809850164617349,14883
+Michigan,26,Arenac County,26011,County,2021-02-01,Partial Coverage,8.042733319895182,14883
+Michigan,26,Baraga County,26013,County,2021-02-01,Complete Coverage,2.4119868437081253,8209
+Michigan,26,Baraga County,26013,County,2021-02-01,Partial Coverage,15.081008649043733,8209
+Michigan,26,Barry County,26015,County,2021-02-01,Complete Coverage,1.536961819658814,61550
+Michigan,26,Barry County,26015,County,2021-02-01,Partial Coverage,5.722177091795288,61550
+Michigan,26,Bay County,26017,County,2021-02-01,Complete Coverage,2.307856408665128,103126
+Michigan,26,Bay County,26017,County,2021-02-01,Partial Coverage,8.492523708861006,103126
+Michigan,26,Benzie County,26019,County,2021-02-01,Complete Coverage,2.065743555105257,17766
+Michigan,26,Benzie County,26019,County,2021-02-01,Partial Coverage,10.508837104581785,17766
+Michigan,26,Berrien County,26021,County,2021-02-01,Complete Coverage,1.4015554005514959,153401
+Michigan,26,Berrien County,26021,County,2021-02-01,Partial Coverage,7.959530902666867,153401
+Michigan,26,Branch County,26023,County,2021-02-01,Complete Coverage,1.1122090217616103,43517
+Michigan,26,Calhoun County,26025,County,2021-02-01,Complete Coverage,1.6979852264849917,134159
+Michigan,26,Calhoun County,26025,County,2021-02-01,Partial Coverage,7.5499966457710626,134159
+Michigan,26,Cass County,26027,County,2021-02-01,Complete Coverage,0.4692297294687856,51787
+Michigan,26,Cass County,26027,County,2021-02-01,Partial Coverage,3.043234788653523,51787
+Michigan,26,Charlevoix County,26029,County,2021-02-01,Complete Coverage,2.853536319473664,26143
+Michigan,26,Charlevoix County,26029,County,2021-02-01,Partial Coverage,12.401025131010213,26143
+Michigan,26,Cheboygan County,26031,County,2021-02-01,Complete Coverage,0.9455610064883684,25276
+Michigan,26,Cheboygan County,26031,County,2021-02-01,Partial Coverage,9.277575565754075,25276
+Michigan,26,Chippewa County,26033,County,2021-02-01,Complete Coverage,3.2798736244611635,37349
+Michigan,26,Chippewa County,26033,County,2021-02-01,Partial Coverage,13.156978767838496,37349
+Michigan,26,Clare County,26035,County,2021-02-01,Complete Coverage,1.037156704361874,30950
+Michigan,26,Clare County,26035,County,2021-02-01,Partial Coverage,7.974151857835218,30950
+Michigan,26,Clinton County,26037,County,2021-02-01,Complete Coverage,1.7764934983353227,79595
+Michigan,26,Clinton County,26037,County,2021-02-01,Partial Coverage,7.817073936805076,79595
+Michigan,26,Crawford County,26039,County,2021-02-01,Complete Coverage,2.8654929075486493,14029
+Michigan,26,Crawford County,26039,County,2021-02-01,Partial Coverage,8.881602395038849,14029
+Michigan,26,Delta County,26041,County,2021-02-01,Complete Coverage,2.3110887547507266,35784
+Michigan,26,Delta County,26041,County,2021-02-01,Partial Coverage,11.217303822937625,35784
+Michigan,26,Dickinson County,26043,County,2021-02-01,Complete Coverage,2.773485478822457,25239
+Michigan,26,Dickinson County,26043,County,2021-02-01,Partial Coverage,12.849162011173185,25239
+Michigan,26,Eaton County,26045,County,2021-02-01,Complete Coverage,1.7783944571407844,110268
+Michigan,26,Eaton County,26045,County,2021-02-01,Partial Coverage,8.97449849457685,110268
+Michigan,26,Emmet County,26047,County,2021-02-01,Complete Coverage,2.9896752955259616,33415
+Michigan,26,Emmet County,26047,County,2021-02-01,Partial Coverage,12.871464910968129,33415
+Michigan,26,Genesee County,26049,County,2021-02-01,Complete Coverage,1.3434759359606518,405813
+Michigan,26,Genesee County,26049,County,2021-02-01,Partial Coverage,5.774088065192589,405813
+Michigan,26,Gladwin County,26051,County,2021-02-01,Complete Coverage,1.422452748634524,25449
+Michigan,26,Gladwin County,26051,County,2021-02-01,Partial Coverage,9.670321034225314,25449
+Michigan,26,Grand Traverse County,26055,County,2021-02-01,Complete Coverage,4.209994843588862,93088
+Michigan,26,Grand Traverse County,26055,County,2021-02-01,Partial Coverage,16.485476108628394,93088
+Michigan,26,Gratiot County,26057,County,2021-02-01,Complete Coverage,2.5202033848345655,40711
+Michigan,26,Gratiot County,26057,County,2021-02-01,Partial Coverage,8.656137161946402,40711
+Michigan,26,Hillsdale County,26059,County,2021-02-01,Complete Coverage,2.760662208091218,45605
+Michigan,26,Hillsdale County,26059,County,2021-02-01,Partial Coverage,6.683477688849907,45605
+Michigan,26,Houghton County,26061,County,2021-02-01,Complete Coverage,1.1433695774016366,35684
+Michigan,26,Houghton County,26061,County,2021-02-01,Partial Coverage,11.57381459477637,35684
+Michigan,26,Huron County,26063,County,2021-02-01,Complete Coverage,1.58161453794261,30981
+Michigan,26,Huron County,26063,County,2021-02-01,Partial Coverage,10.509667215390078,30981
+Michigan,26,Ingham County,26065,County,2021-02-01,Complete Coverage,2.0871664740121614,292406
+Michigan,26,Ingham County,26065,County,2021-02-01,Partial Coverage,8.445791126037085,292406
+Michigan,26,Ionia County,26067,County,2021-02-01,Complete Coverage,1.3169080482866284,64697
+Michigan,26,Ionia County,26067,County,2021-02-01,Partial Coverage,6.077561556177257,64697
+Michigan,26,Iosco County,26069,County,2021-02-01,Complete Coverage,0.712381103991722,25127
+Michigan,26,Iron County,26071,County,2021-02-01,Complete Coverage,1.73504427977589,11066
+Michigan,26,Iron County,26071,County,2021-02-01,Partial Coverage,15.515994939454185,11066
+Michigan,26,Isabella County,26073,County,2021-02-01,Complete Coverage,1.2666017861231966,69872
+Michigan,26,Isabella County,26073,County,2021-02-01,Partial Coverage,6.922658575681246,69872
+Michigan,26,Jackson County,26075,County,2021-02-01,Complete Coverage,1.9803166992618761,158510
+Michigan,26,Jackson County,26075,County,2021-02-01,Partial Coverage,9.408239227808972,158510
+Michigan,26,Kalamazoo County,26077,County,2021-02-01,Complete Coverage,2.816656983543721,265066
+Michigan,26,Kalamazoo County,26077,County,2021-02-01,Partial Coverage,9.20600906943931,265066
+Michigan,26,Kalkaska County,26079,County,2021-02-01,Complete Coverage,1.9237165982924935,18038
+Michigan,26,Kalkaska County,26079,County,2021-02-01,Partial Coverage,11.54784344162324,18038
+Michigan,26,Kent County,26081,County,2021-02-01,Complete Coverage,2.9671743117869567,656955
+Michigan,26,Kent County,26081,County,2021-02-01,Partial Coverage,9.950453227390003,656955
+Michigan,26,Keweenaw County,26083,County,2021-02-01,Complete Coverage,1.9376181474480152,2116
+Michigan,26,Lake County,26085,County,2021-02-01,Complete Coverage,0.43027081751455326,11853
+Michigan,26,Lapeer County,26087,County,2021-02-01,Complete Coverage,1.0307395527754633,87607
+Michigan,26,Lapeer County,26087,County,2021-02-01,Partial Coverage,4.69483032177794,87607
+Michigan,26,Leelanau County,26089,County,2021-02-01,Complete Coverage,1.9943936399981619,21761
+Michigan,26,Leelanau County,26089,County,2021-02-01,Partial Coverage,11.221910757777676,21761
+Michigan,26,Lenawee County,26091,County,2021-02-01,Complete Coverage,1.5195376380128185,98451
+Michigan,26,Lenawee County,26091,County,2021-02-01,Partial Coverage,8.38691328681273,98451
+Michigan,26,Livingston County,26093,County,2021-02-01,Complete Coverage,1.8714029011172166,191995
+Michigan,26,Livingston County,26093,County,2021-02-01,Partial Coverage,6.476731164874085,191995
+Michigan,26,Luce County,26095,County,2021-02-01,Complete Coverage,2.0067426553218817,6229
+Michigan,26,Luce County,26095,County,2021-02-01,Partial Coverage,16.42318189115428,6229
+Michigan,26,Mackinac County,26097,County,2021-02-01,Complete Coverage,2.2687285859801833,10799
+Michigan,26,Mackinac County,26097,County,2021-02-01,Partial Coverage,13.788313732753032,10799
+Michigan,26,Macomb County,26099,County,2021-02-01,Complete Coverage,1.9570421020353055,873972
+Michigan,26,Macomb County,26099,County,2021-02-01,Partial Coverage,6.623896417734207,873972
+Michigan,26,Manistee County,26101,County,2021-02-01,Complete Coverage,2.7974590764720255,24558
+Michigan,26,Marquette County,26103,County,2021-02-01,Complete Coverage,3.341879188593532,66699
+Michigan,26,Marquette County,26103,County,2021-02-01,Partial Coverage,13.90875425418672,66699
+Michigan,26,Mason County,26105,County,2021-02-01,Complete Coverage,2.7381279165522923,29144
+Michigan,26,Mason County,26105,County,2021-02-01,Partial Coverage,12.266675816634642,29144
+Michigan,26,Mecosta County,26107,County,2021-02-01,Complete Coverage,1.4797597404091778,43453
+Michigan,26,Mecosta County,26107,County,2021-02-01,Partial Coverage,7.56909764573217,43453
+Michigan,26,Menominee County,26109,County,2021-02-01,Complete Coverage,0.6057945566286216,22780
+Michigan,26,Midland County,26111,County,2021-02-01,Complete Coverage,2.8440521429602192,83156
+Michigan,26,Midland County,26111,County,2021-02-01,Partial Coverage,10.329982202126125,83156
+Michigan,26,Missaukee County,26113,County,2021-02-01,Complete Coverage,0.9458923137981214,15118
+Michigan,26,Missaukee County,26113,County,2021-02-01,Partial Coverage,6.8792168276227015,15118
+Michigan,26,Monroe County,26115,County,2021-02-01,Complete Coverage,1.6664451827242526,150500
+Michigan,26,Monroe County,26115,County,2021-02-01,Partial Coverage,6.837209302325581,150500
+Michigan,26,Montcalm County,26117,County,2021-02-01,Complete Coverage,1.5041948409717005,63888
+Michigan,26,Montcalm County,26117,County,2021-02-01,Partial Coverage,6.143563736538943,63888
+Michigan,26,Montmorency County,26119,County,2021-02-01,Complete Coverage,0.7397084048027445,9328
+Michigan,26,Montmorency County,26119,County,2021-02-01,Partial Coverage,11.374356775300171,9328
+Michigan,26,Muskegon County,26121,County,2021-02-01,Complete Coverage,2.166322897341645,173566
+Michigan,26,Muskegon County,26121,County,2021-02-01,Partial Coverage,8.968346335111715,173566
+Michigan,26,Newaygo County,26123,County,2021-02-01,Complete Coverage,1.4250714577378523,48980
+Michigan,26,Newaygo County,26123,County,2021-02-01,Partial Coverage,6.227031441404655,48980
+Michigan,26,Oakland County,26125,County,2021-02-01,Complete Coverage,2.625112914922582,1257584
+Michigan,26,Oakland County,26125,County,2021-02-01,Partial Coverage,8.724427155561775,1257584
+Michigan,26,Oceana County,26127,County,2021-02-01,Complete Coverage,1.5642120376317679,26467
+Michigan,26,Oceana County,26127,County,2021-02-01,Partial Coverage,8.629614236596517,26467
+Michigan,26,Ogemaw County,26129,County,2021-02-01,Complete Coverage,1.4192503691003477,20997
+Michigan,26,Ogemaw County,26129,County,2021-02-01,Partial Coverage,6.515216459494213,20997
+Michigan,26,Ontonagon County,26131,County,2021-02-01,Complete Coverage,1.7132867132867133,5720
+Michigan,26,Osceola County,26133,County,2021-02-01,Complete Coverage,1.23614663256607,23460
+Michigan,26,Osceola County,26133,County,2021-02-01,Partial Coverage,8.52088661551577,23460
+Michigan,26,Oscoda County,26135,County,2021-02-01,Complete Coverage,0.43684018929741536,8241
+Michigan,26,Otsego County,26137,County,2021-02-01,Complete Coverage,1.8039565428895736,24668
+Michigan,26,Otsego County,26137,County,2021-02-01,Partial Coverage,9.635965623479812,24668
+Michigan,26,Ottawa County,26139,County,2021-02-01,Complete Coverage,2.5511427886098073,291830
+Michigan,26,Ottawa County,26139,County,2021-02-01,Partial Coverage,9.228660521536511,291830
+Michigan,26,Presque Isle County,26141,County,2021-02-01,Partial Coverage,12.35705209656925,12592
+Michigan,26,Roscommon County,26143,County,2021-02-01,Complete Coverage,1.186560639493734,24019
+Michigan,26,Roscommon County,26143,County,2021-02-01,Partial Coverage,8.797202214913193,24019
+Michigan,26,Saginaw County,26145,County,2021-02-01,Complete Coverage,2.1486414854701663,190539
+Michigan,26,Saginaw County,26145,County,2021-02-01,Partial Coverage,8.51059363174993,190539
+Michigan,26,Sanilac County,26151,County,2021-02-01,Complete Coverage,1.085742045178528,41170
+Michigan,26,Sanilac County,26151,County,2021-02-01,Partial Coverage,9.12800582948749,41170
+Michigan,26,Schoolcraft County,26153,County,2021-02-01,Complete Coverage,5.275512725475661,8094
+Michigan,26,Schoolcraft County,26153,County,2021-02-01,Partial Coverage,20.014825796886583,8094
+Michigan,26,Shiawassee County,26155,County,2021-02-01,Complete Coverage,1.487037961304718,68122
+Michigan,26,Shiawassee County,26155,County,2021-02-01,Partial Coverage,6.946360940665277,68122
+Michigan,26,St. Clair County,26147,County,2021-02-01,Complete Coverage,1.4296666834246645,159128
+Michigan,26,St. Clair County,26147,County,2021-02-01,Partial Coverage,6.390452968679302,159128
+Michigan,26,St. Joseph County,26149,County,2021-02-01,Complete Coverage,0.6200380552457188,60964
+Michigan,26,Tuscola County,26157,County,2021-02-01,Complete Coverage,1.3379270743611829,52245
+Michigan,26,Tuscola County,26157,County,2021-02-01,Partial Coverage,8.479280313905637,52245
+Michigan,26,Van Buren County,26159,County,2021-02-01,Complete Coverage,1.7336839462452265,75677
+Michigan,26,Van Buren County,26159,County,2021-02-01,Partial Coverage,6.834308971021579,75677
+Michigan,26,Washtenaw County,26161,County,2021-02-01,Complete Coverage,4.851455790381419,367601
+Michigan,26,Washtenaw County,26161,County,2021-02-01,Partial Coverage,11.387890674943757,367601
+Michigan,26,Wayne County,26163,County,2021-02-01,Complete Coverage,1.5201707155200552,1749343
+Michigan,26,Wayne County,26163,County,2021-02-01,Partial Coverage,5.755303562537478,1749343
+Michigan,26,Wexford County,26165,County,2021-02-01,Complete Coverage,2.3252356456840415,33631
+Michigan,26,Wexford County,26165,County,2021-02-01,Partial Coverage,10.160268799619399,33631
 North Carolina,37,Alamance County,37001,County,2021-02-01,Partial Coverage,6.833855429505218,169509
 North Carolina,37,Alamance County,37001,County,2021-02-01,Complete Coverage,2.2364594210336914,169509
 North Carolina,37,Alexander County,37003,County,2021-02-01,Partial Coverage,7.544603568285463,37497
