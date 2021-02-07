@@ -689,8 +689,8 @@ a {
   transition: color 0.6s;
 }
 .cid-smvGRwp5lN {
-  padding-top: 4rem;
-  padding-bottom: 2rem;
+  padding-top: 3rem;
+  padding-bottom: 0rem;
   background-color: #ffffff;
 }
 @media (max-width: 991px) {
@@ -705,9 +705,13 @@ a {
   width: 100%;
 }
 .cid-smtKoksNlD {
-  padding-top: 3rem;
-  padding-bottom: 0rem;
+  padding-top: 0rem;
+  padding-bottom: 1rem;
   background-color: #ffffff;
+}
+.cid-smtKoksNlD .mbr-text {
+  color: #ea6a47;
+  text-align: center;
 }
 #custom-html-3 {
   /* Type valid CSS here */
