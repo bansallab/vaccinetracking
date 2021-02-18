@@ -45,8 +45,8 @@ North Carolina,37,2021-02-18,Complete Coverage,CASES_Female,4.688864178832998
 Delaware,10,2021-02-17 00:00:00,Partial Coverage,CASES_Female,20.141519093546147
 Texas,48,2021-02-18,Partial Coverage,CASES_Female,12.039316450514312
 Texas,48,2021-02-18,Complete Coverage,CASES_Female,5.120954111506478
-Tennessee,47,2021-02-17 00:00:00,Complete Coverage,CASES_Female,6.101571805023542
-Tennessee,47,2021-02-17 00:00:00,Partial Coverage,CASES_Female,12.535463198486674
+Tennessee,47,2021-02-18 00:00:00,Complete Coverage,CASES_Female,6.175865436446488
+Tennessee,47,2021-02-18 00:00:00,Partial Coverage,CASES_Female,12.704039394498325
 Missouri,29,2021-02-18,Partial Coverage,CASES_Female,0.0
 North Dakota,38,2021-02-18,Partial Coverage,CASES_Female,0.0
 Vermont,50,2021-02-18,Partial Coverage,CASES_Female,16.4
@@ -99,8 +99,8 @@ North Carolina,37,2021-02-18,Complete,CASES_Female,252627.56200000003
 Delaware,10,2021-02-17 00:00:00,Partial,CASES_Female,101306.0
 Texas,48,2021-02-18,Partial,CASES_Female,1756919.0
 Texas,48,2021-02-18,Complete,CASES_Female,747310.0
-Tennessee,47,2021-02-17 00:00:00,Complete,CASES_Female,213368.0
-Tennessee,47,2021-02-17 00:00:00,Partial,CASES_Female,438357.0
+Tennessee,47,2021-02-18 00:00:00,Complete,CASES_Female,215966.0
+Tennessee,47,2021-02-18 00:00:00,Partial,CASES_Female,444252.0
 Alabama,1,2021-02-18,Complete Coverage,CASES_Female,0.0
 Arizona,4,2021-02-18,Complete Coverage,CASES_Female,0.0
 District of Columbia,11,2021-02-18,Complete Coverage,CASES_Female,0.0
@@ -163,8 +163,8 @@ North Carolina,37,2021-02-18,Complete Coverage,CASES_Male,2.9999646920237852
 Delaware,10,2021-02-17 00:00:00,Partial Coverage,CASES_Male,12.345765548765593
 Texas,48,2021-02-18,Partial Coverage,CASES_Male,8.457857421475499
 Texas,48,2021-02-18,Complete Coverage,CASES_Male,3.379303411262692
-Tennessee,47,2021-02-17 00:00:00,Complete Coverage,CASES_Male,3.7593041795621502
-Tennessee,47,2021-02-17 00:00:00,Partial Coverage,CASES_Male,8.197971394008652
+Tennessee,47,2021-02-18 00:00:00,Complete Coverage,CASES_Male,3.8119714702336776
+Tennessee,47,2021-02-18 00:00:00,Partial Coverage,CASES_Male,8.33160526600883
 Missouri,29,2021-02-18,Partial Coverage,CASES_Male,0.0
 North Dakota,38,2021-02-18,Partial Coverage,CASES_Male,0.0
 Vermont,50,2021-02-18,Partial Coverage,CASES_Male,9.3
@@ -217,8 +217,8 @@ North Carolina,37,2021-02-18,Complete,CASES_Male,153006.1192
 Delaware,10,2021-02-17 00:00:00,Partial,CASES_Male,58123.0
 Texas,48,2021-02-18,Partial,CASES_Male,1218160.0
 Texas,48,2021-02-18,Complete,CASES_Male,486711.0
-Tennessee,47,2021-02-17 00:00:00,Complete,CASES_Male,125269.0
-Tennessee,47,2021-02-17 00:00:00,Partial,CASES_Male,273176.0
+Tennessee,47,2021-02-18 00:00:00,Complete,CASES_Male,127024.0
+Tennessee,47,2021-02-18 00:00:00,Partial,CASES_Male,277629.0
 Alabama,1,2021-02-18,Complete Coverage,CASES_Male,0.0
 Arizona,4,2021-02-18,Complete Coverage,CASES_Male,0.0
 District of Columbia,11,2021-02-18,Complete Coverage,CASES_Male,0.0
@@ -281,8 +281,8 @@ North Carolina,37,2021-02-18,Complete Coverage,CASES_UnknownGender,0.68999999999
 Delaware,10,2021-02-17 00:00:00,Partial Coverage,CASES_UnknownGender,0.06519027411256605
 Texas,48,2021-02-18,Partial Coverage,CASES_UnknownGender,1.873911159163216
 Texas,48,2021-02-18,Complete Coverage,CASES_UnknownGender,1.9429896390307937
-Tennessee,47,2021-02-17 00:00:00,Complete Coverage,CASES_UnknownGender,544.0
-Tennessee,47,2021-02-17 00:00:00,Partial Coverage,CASES_UnknownGender,1272.0
+Tennessee,47,2021-02-18 00:00:00,Complete Coverage,CASES_UnknownGender,547.0
+Tennessee,47,2021-02-18 00:00:00,Partial Coverage,CASES_UnknownGender,1279.0
 Missouri,29,2021-02-18,Partial Coverage,CASES_UnknownGender,100.0
 North Dakota,38,2021-02-18,Partial Coverage,CASES_UnknownGender,100.0
 Vermont,50,2021-02-18,Partial Coverage,CASES_UnknownGender,0.0
@@ -335,8 +335,8 @@ North Carolina,37,2021-02-18,Complete,CASES_UnknownGender,0.6899999999999948
 Delaware,10,2021-02-17 00:00:00,Partial,CASES_UnknownGender,0.06519027411256605
 Texas,48,2021-02-18,Partial,CASES_UnknownGender,1.873911159163216
 Texas,48,2021-02-18,Complete,CASES_UnknownGender,1.9429896390307937
-Tennessee,47,2021-02-17 00:00:00,Complete,CASES_UnknownGender,544.0
-Tennessee,47,2021-02-17 00:00:00,Partial,CASES_UnknownGender,1272.0
+Tennessee,47,2021-02-18 00:00:00,Complete,CASES_UnknownGender,547.0
+Tennessee,47,2021-02-18 00:00:00,Partial,CASES_UnknownGender,1279.0
 Alabama,1,2021-02-18,Complete Coverage,CASES_UnknownGender,0.0
 Arizona,4,2021-02-18,Complete Coverage,CASES_UnknownGender,0.0
 District of Columbia,11,2021-02-18,Complete Coverage,CASES_UnknownGender,0.0
@@ -399,8 +399,8 @@ North Carolina,37,2021-02-18,Complete Coverage,CASES_White,4.551795539339417
 Delaware,10,2021-02-17 00:00:00,Partial Coverage,CASES_White,13.873233690613063
 Texas,48,2021-02-18,Partial Coverage,CASES_White,4.492480749693175
 Texas,48,2021-02-18,Complete Coverage,CASES_White,1.8249347872699138
-Tennessee,47,2021-02-17 00:00:00,Complete Coverage,CASES_White,4.45961782868498
-Tennessee,47,2021-02-17 00:00:00,Partial Coverage,CASES_White,9.485386331441122
+Tennessee,47,2021-02-18 00:00:00,Complete Coverage,CASES_White,4.527468504903906
+Tennessee,47,2021-02-18 00:00:00,Partial Coverage,CASES_White,9.639763895334776
 Missouri,29,2021-02-18,Partial Coverage,CASES_White,0.0
 North Dakota,38,2021-02-18,Partial Coverage,CASES_White,18.08
 Vermont,50,2021-02-18,Partial Coverage,CASES_White,11.9
@@ -453,8 +453,8 @@ North Carolina,37,2021-02-18,Complete,CASES_White,336809.5192
 Delaware,10,2021-02-17 00:00:00,Partial,CASES_White,93516.0
 Texas,48,2021-02-18,Partial,CASES_White,1024561.0
 Texas,48,2021-02-18,Complete,CASES_White,416197.0
-Tennessee,47,2021-02-17 00:00:00,Complete,CASES_White,238786.0
-Tennessee,47,2021-02-17 00:00:00,Partial,CASES_White,507886.0
+Tennessee,47,2021-02-18 00:00:00,Complete,CASES_White,242419.0
+Tennessee,47,2021-02-18 00:00:00,Partial,CASES_White,516152.0
 Alabama,1,2021-02-18,Complete Coverage,CASES_White,0.0
 Arizona,4,2021-02-18,Complete Coverage,CASES_White,0.0
 District of Columbia,11,2021-02-18,Complete Coverage,CASES_White,0.0
@@ -517,8 +517,8 @@ North Carolina,37,2021-02-18,Complete Coverage,CASES_Black,1.8367136867786882
 Delaware,10,2021-02-17 00:00:00,Partial Coverage,CASES_Black,5.523534210619657
 Texas,48,2021-02-18,Partial Coverage,CASES_Black,3.8928964081021156
 Texas,48,2021-02-18,Complete Coverage,CASES_Black,1.529462954984474
-Tennessee,47,2021-02-17 00:00:00,Complete Coverage,CASES_Black,1.7209678984525887
-Tennessee,47,2021-02-17 00:00:00,Partial Coverage,CASES_Black,4.29469084838393
+Tennessee,47,2021-02-18 00:00:00,Complete Coverage,CASES_Black,1.7451851113948857
+Tennessee,47,2021-02-18 00:00:00,Partial Coverage,CASES_Black,4.374470248466888
 Missouri,29,2021-02-18,Partial Coverage,CASES_Black,0.0
 North Dakota,38,2021-02-18,Partial Coverage,CASES_Black,6.23
 Vermont,50,2021-02-18,Partial Coverage,CASES_Black,7.2
@@ -571,8 +571,8 @@ North Carolina,37,2021-02-18,Complete,CASES_Black,42805.7696
 Delaware,10,2021-02-17 00:00:00,Partial,CASES_Black,12458.0
 Texas,48,2021-02-18,Partial,CASES_Black,145564.0
 Texas,48,2021-02-18,Complete,CASES_Black,57190.0
-Tennessee,47,2021-02-17 00:00:00,Complete,CASES_Black,20040.0
-Tennessee,47,2021-02-17 00:00:00,Partial,CASES_Black,50010.0
+Tennessee,47,2021-02-18 00:00:00,Complete,CASES_Black,20322.0
+Tennessee,47,2021-02-18 00:00:00,Partial,CASES_Black,50939.0
 Alabama,1,2021-02-18,Complete Coverage,CASES_Black,0.0
 Arizona,4,2021-02-18,Complete Coverage,CASES_Black,0.0
 District of Columbia,11,2021-02-18,Complete Coverage,CASES_Black,0.0
@@ -635,8 +635,8 @@ North Carolina,37,2021-02-18,Complete Coverage,CASES_Asian,3.8609398173491396
 Delaware,10,2021-02-17 00:00:00,Partial Coverage,CASES_Asian,9.502546220806261
 Texas,48,2021-02-18,Partial Coverage,CASES_Asian,10.531887425768138
 Texas,48,2021-02-18,Complete Coverage,CASES_Asian,4.983548167126789
-Tennessee,47,2021-02-17 00:00:00,Complete Coverage,CASES_Asian,2.7879710015215253
-Tennessee,47,2021-02-17 00:00:00,Partial Coverage,CASES_Asian,5.929472836301799
+Tennessee,47,2021-02-18 00:00:00,Complete Coverage,CASES_Asian,2.8230257465914854
+Tennessee,47,2021-02-18 00:00:00,Partial Coverage,CASES_Asian,6.033145380232107
 Missouri,29,2021-02-18,Partial Coverage,CASES_Asian,0.0
 North Dakota,38,2021-02-18,Partial Coverage,CASES_Asian,8.13
 Vermont,50,2021-02-18,Partial Coverage,CASES_Asian,8.1
@@ -689,8 +689,8 @@ North Carolina,37,2021-02-18,Complete,CASES_Asian,12907.083200000001
 Delaware,10,2021-02-17 00:00:00,Partial,CASES_Asian,3788.0
 Texas,48,2021-02-18,Partial,CASES_Asian,159081.0
 Texas,48,2021-02-18,Complete,CASES_Asian,75275.0
-Tennessee,47,2021-02-17 00:00:00,Complete,CASES_Asian,3738.0
-Tennessee,47,2021-02-17 00:00:00,Partial,CASES_Asian,7950.0
+Tennessee,47,2021-02-18 00:00:00,Complete,CASES_Asian,3785.0
+Tennessee,47,2021-02-18 00:00:00,Partial,CASES_Asian,8089.0
 Alabama,1,2021-02-18,Complete Coverage,CASES_Asian,0.0
 Arizona,4,2021-02-18,Complete Coverage,CASES_Asian,0.0
 District of Columbia,11,2021-02-18,Complete Coverage,CASES_Asian,0.0
@@ -753,8 +753,8 @@ North Carolina,37,2021-02-18,Complete Coverage,CASES_OtherRace,0.0
 Delaware,10,2021-02-17 00:00:00,Partial Coverage,CASES_OtherRace,0.0
 Texas,48,2021-02-18,Partial Coverage,CASES_OtherRace,0.0
 Texas,48,2021-02-18,Complete Coverage,CASES_OtherRace,0.0
-Tennessee,47,2021-02-17 00:00:00,Complete Coverage,CASES_OtherRace,0.0
-Tennessee,47,2021-02-17 00:00:00,Partial Coverage,CASES_OtherRace,0.0
+Tennessee,47,2021-02-18 00:00:00,Complete Coverage,CASES_OtherRace,0.0
+Tennessee,47,2021-02-18 00:00:00,Partial Coverage,CASES_OtherRace,0.0
 Missouri,29,2021-02-18,Partial Coverage,CASES_OtherRace,0.0
 North Dakota,38,2021-02-18,Partial Coverage,CASES_OtherRace,0.0
 Vermont,50,2021-02-18,Partial Coverage,CASES_OtherRace,0.0
@@ -807,8 +807,8 @@ North Carolina,37,2021-02-18,Complete,CASES_OtherRace,0.0
 Delaware,10,2021-02-17 00:00:00,Partial,CASES_OtherRace,0.0
 Texas,48,2021-02-18,Partial,CASES_OtherRace,0.0
 Texas,48,2021-02-18,Complete,CASES_OtherRace,0.0
-Tennessee,47,2021-02-17 00:00:00,Complete,CASES_OtherRace,0.0
-Tennessee,47,2021-02-17 00:00:00,Partial,CASES_OtherRace,0.0
+Tennessee,47,2021-02-18 00:00:00,Complete,CASES_OtherRace,0.0
+Tennessee,47,2021-02-18 00:00:00,Partial,CASES_OtherRace,0.0
 Alabama,1,2021-02-18,Complete Coverage,CASES_OtherRace,0.0
 Arizona,4,2021-02-18,Complete Coverage,CASES_OtherRace,0.0
 District of Columbia,11,2021-02-18,Complete Coverage,CASES_OtherRace,0.0
@@ -871,8 +871,8 @@ North Carolina,37,2021-02-18,Complete Coverage,CASES_UnknownRace,7.0600000000000
 Delaware,10,2021-02-17 00:00:00,Partial Coverage,CASES_UnknownRace,21.990434580933098
 Texas,48,2021-02-18,Partial Coverage,CASES_UnknownRace,33.7400318084999
 Texas,48,2021-02-18,Complete Coverage,CASES_UnknownRace,35.19964274164007
-Tennessee,47,2021-02-17 00:00:00,Complete Coverage,CASES_UnknownRace,76617.0
-Tennessee,47,2021-02-17 00:00:00,Partial Coverage,CASES_UnknownRace,146959.0
+Tennessee,47,2021-02-18 00:00:00,Complete Coverage,CASES_UnknownRace,77011.0
+Tennessee,47,2021-02-18 00:00:00,Partial Coverage,CASES_UnknownRace,147980.0
 Missouri,29,2021-02-18,Partial Coverage,CASES_UnknownRace,100.0
 North Dakota,38,2021-02-18,Partial Coverage,CASES_UnknownRace,0.0
 Vermont,50,2021-02-18,Partial Coverage,CASES_UnknownRace,0.0
@@ -925,8 +925,8 @@ North Carolina,37,2021-02-18,Complete,CASES_UnknownRace,7.060000000000005
 Delaware,10,2021-02-17 00:00:00,Partial,CASES_UnknownRace,21.990434580933098
 Texas,48,2021-02-18,Partial,CASES_UnknownRace,33.7400318084999
 Texas,48,2021-02-18,Complete,CASES_UnknownRace,35.19964274164007
-Tennessee,47,2021-02-17 00:00:00,Complete,CASES_UnknownRace,76617.0
-Tennessee,47,2021-02-17 00:00:00,Partial,CASES_UnknownRace,146959.0
+Tennessee,47,2021-02-18 00:00:00,Complete,CASES_UnknownRace,77011.0
+Tennessee,47,2021-02-18 00:00:00,Partial,CASES_UnknownRace,147980.0
 Alabama,1,2021-02-18,Complete Coverage,CASES_UnknownRace,0.0
 Arizona,4,2021-02-18,Complete Coverage,CASES_UnknownRace,0.0
 District of Columbia,11,2021-02-18,Complete Coverage,CASES_UnknownRace,0.0
@@ -989,8 +989,8 @@ North Carolina,37,2021-02-18,Complete Coverage,CASES_Native,1.9485683919394676
 Delaware,10,2021-02-17 00:00:00,Partial Coverage,CASES_Native,0.0
 Texas,48,2021-02-18,Partial Coverage,CASES_Native,0.0
 Texas,48,2021-02-18,Complete Coverage,CASES_Native,0.0
-Tennessee,47,2021-02-17 00:00:00,Complete Coverage,CASES_Native,0.0
-Tennessee,47,2021-02-17 00:00:00,Partial Coverage,CASES_Native,0.0
+Tennessee,47,2021-02-18 00:00:00,Complete Coverage,CASES_Native,0.0
+Tennessee,47,2021-02-18 00:00:00,Partial Coverage,CASES_Native,0.0
 Missouri,29,2021-02-18,Partial Coverage,CASES_Native,0.0
 North Dakota,38,2021-02-18,Partial Coverage,CASES_Native,15.88
 Vermont,50,2021-02-18,Partial Coverage,CASES_Native,2.3
@@ -1043,8 +1043,8 @@ North Carolina,37,2021-02-18,Complete,CASES_Native,3226.7708000000002
 Delaware,10,2021-02-17 00:00:00,Partial,CASES_Native,0.0
 Texas,48,2021-02-18,Partial,CASES_Native,0.0
 Texas,48,2021-02-18,Complete,CASES_Native,0.0
-Tennessee,47,2021-02-17 00:00:00,Complete,CASES_Native,0.0
-Tennessee,47,2021-02-17 00:00:00,Partial,CASES_Native,0.0
+Tennessee,47,2021-02-18 00:00:00,Complete,CASES_Native,0.0
+Tennessee,47,2021-02-18 00:00:00,Partial,CASES_Native,0.0
 Alabama,1,2021-02-18,Complete Coverage,CASES_Native,0.0
 Arizona,4,2021-02-18,Complete Coverage,CASES_Native,0.0
 District of Columbia,11,2021-02-18,Complete Coverage,CASES_Native,0.0
@@ -1107,8 +1107,8 @@ North Carolina,37,2021-02-18,Complete Coverage,CASES_Pacific,98.30223305407465
 Delaware,10,2021-02-17 00:00:00,Partial Coverage,CASES_Pacific,0.0
 Texas,48,2021-02-18,Partial Coverage,CASES_Pacific,0.0
 Texas,48,2021-02-18,Complete Coverage,CASES_Pacific,0.0
-Tennessee,47,2021-02-17 00:00:00,Complete Coverage,CASES_Pacific,0.0
-Tennessee,47,2021-02-17 00:00:00,Partial Coverage,CASES_Pacific,0.0
+Tennessee,47,2021-02-18 00:00:00,Complete Coverage,CASES_Pacific,0.0
+Tennessee,47,2021-02-18 00:00:00,Partial Coverage,CASES_Pacific,0.0
 Missouri,29,2021-02-18,Partial Coverage,CASES_Pacific,0.0
 North Dakota,38,2021-02-18,Partial Coverage,CASES_Pacific,10.8
 Vermont,50,2021-02-18,Partial Coverage,CASES_Pacific,2.0
@@ -1161,8 +1161,8 @@ North Carolina,37,2021-02-18,Complete,CASES_Pacific,12907.083200000001
 Delaware,10,2021-02-17 00:00:00,Partial,CASES_Pacific,0.0
 Texas,48,2021-02-18,Partial,CASES_Pacific,0.0
 Texas,48,2021-02-18,Complete,CASES_Pacific,0.0
-Tennessee,47,2021-02-17 00:00:00,Complete,CASES_Pacific,0.0
-Tennessee,47,2021-02-17 00:00:00,Partial,CASES_Pacific,0.0
+Tennessee,47,2021-02-18 00:00:00,Complete,CASES_Pacific,0.0
+Tennessee,47,2021-02-18 00:00:00,Partial,CASES_Pacific,0.0
 Alabama,1,2021-02-18,Complete Coverage,CASES_Pacific,0.0
 Arizona,4,2021-02-18,Complete Coverage,CASES_Pacific,0.0
 District of Columbia,11,2021-02-18,Complete Coverage,CASES_Pacific,0.0
@@ -1225,8 +1225,8 @@ North Carolina,37,2021-02-18,Complete Coverage,CASES_Hispanic,1.0392167513135704
 Delaware,10,2021-02-17 00:00:00,Partial Coverage,CASES_Hispanic,3.6759430780267905
 Texas,48,2021-02-18,Partial Coverage,CASES_Hispanic,3.561131597912053
 Texas,48,2021-02-18,Complete Coverage,CASES_Hispanic,1.2951801636325744
-Tennessee,47,2021-02-17 00:00:00,Complete Coverage,CASES_Hispanic,1.7083054407203193
-Tennessee,47,2021-02-17 00:00:00,Partial Coverage,CASES_Hispanic,3.3376598821611623
+Tennessee,47,2021-02-18 00:00:00,Complete Coverage,CASES_Hispanic,1.7198031590619907
+Tennessee,47,2021-02-18 00:00:00,Partial Coverage,CASES_Hispanic,3.41380032806823
 Missouri,29,2021-02-18,Partial Coverage,CASES_Hispanic,0.0
 North Dakota,38,2021-02-18,Partial Coverage,CASES_Hispanic,6.17
 Vermont,50,2021-02-18,Partial Coverage,CASES_Hispanic,8.8
@@ -1279,8 +1279,8 @@ North Carolina,37,2021-02-18,Complete,CASES_Hispanic,10660.5972
 Delaware,10,2021-02-17 00:00:00,Partial,CASES_Hispanic,3433.0
 Texas,48,2021-02-18,Partial,CASES_Hispanic,410441.0
 Texas,48,2021-02-18,Complete,CASES_Hispanic,149277.0
-Tennessee,47,2021-02-17 00:00:00,Complete,CASES_Hispanic,6686.0
-Tennessee,47,2021-02-17 00:00:00,Partial,CASES_Hispanic,13063.0
+Tennessee,47,2021-02-18 00:00:00,Complete,CASES_Hispanic,6731.0
+Tennessee,47,2021-02-18 00:00:00,Partial,CASES_Hispanic,13361.0
 Alabama,1,2021-02-18,Complete Coverage,CASES_Hispanic,0.0
 Arizona,4,2021-02-18,Complete Coverage,CASES_Hispanic,0.0
 District of Columbia,11,2021-02-18,Complete Coverage,CASES_Hispanic,0.0
@@ -1343,8 +1343,8 @@ North Carolina,37,2021-02-18,Complete Coverage,CASES_NotHispanic,4.2022547904547
 Delaware,10,2021-02-17 00:00:00,Partial Coverage,CASES_NotHispanic,12.46766995353106
 Texas,48,2021-02-18,Partial Coverage,CASES_NotHispanic,9.149761168996324
 Texas,48,2021-02-18,Complete Coverage,CASES_NotHispanic,3.8134312839336557
-Tennessee,47,2021-02-17 00:00:00,Complete Coverage,CASES_NotHispanic,4.14224317902784
-Tennessee,47,2021-02-17 00:00:00,Partial Coverage,CASES_NotHispanic,9.015264860995819
+Tennessee,47,2021-02-18 00:00:00,Complete Coverage,CASES_NotHispanic,4.203444286488287
+Tennessee,47,2021-02-18 00:00:00,Partial Coverage,CASES_NotHispanic,9.153246951749917
 Missouri,29,2021-02-18,Partial Coverage,CASES_NotHispanic,0.0
 North Dakota,38,2021-02-18,Partial Coverage,CASES_NotHispanic,17.13
 Vermont,50,2021-02-18,Partial Coverage,CASES_NotHispanic,11.3
@@ -1397,8 +1397,8 @@ North Carolina,37,2021-02-18,Complete,CASES_NotHispanic,397628.02199999994
 Delaware,10,2021-02-17 00:00:00,Partial,CASES_NotHispanic,109762.0
 Texas,48,2021-02-18,Partial,CASES_NotHispanic,1598491.0
 Texas,48,2021-02-18,Complete,CASES_NotHispanic,666218.0
-Tennessee,47,2021-02-17 00:00:00,Complete,CASES_NotHispanic,266669.0
-Tennessee,47,2021-02-17 00:00:00,Partial,CASES_NotHispanic,580384.0
+Tennessee,47,2021-02-18 00:00:00,Complete,CASES_NotHispanic,270609.0
+Tennessee,47,2021-02-18 00:00:00,Partial,CASES_NotHispanic,589267.0
 Alabama,1,2021-02-18,Complete Coverage,CASES_NotHispanic,0.0
 Arizona,4,2021-02-18,Complete Coverage,CASES_NotHispanic,0.0
 District of Columbia,11,2021-02-18,Complete Coverage,CASES_NotHispanic,0.0
@@ -1461,8 +1461,8 @@ North Carolina,37,2021-02-18,Complete Coverage,CASES_UnknownEthnicity,0.04000000
 Delaware,10,2021-02-17 00:00:00,Partial Coverage,CASES_UnknownEthnicity,29.046028094500823
 Texas,48,2021-02-18,Partial Coverage,CASES_UnknownEthnicity,0.0
 Texas,48,2021-02-18,Complete Coverage,CASES_UnknownEthnicity,0.0
-Tennessee,47,2021-02-17 00:00:00,Complete Coverage,CASES_UnknownEthnicity,0.0
-Tennessee,47,2021-02-17 00:00:00,Partial Coverage,CASES_UnknownEthnicity,0.0
+Tennessee,47,2021-02-18 00:00:00,Complete Coverage,CASES_UnknownEthnicity,0.0
+Tennessee,47,2021-02-18 00:00:00,Partial Coverage,CASES_UnknownEthnicity,0.0
 Missouri,29,2021-02-18,Partial Coverage,CASES_UnknownEthnicity,100.0
 North Dakota,38,2021-02-18,Partial Coverage,CASES_UnknownEthnicity,0.0
 Vermont,50,2021-02-18,Partial Coverage,CASES_UnknownEthnicity,0.0
@@ -1515,8 +1515,8 @@ North Carolina,37,2021-02-18,Complete,CASES_UnknownEthnicity,0.04000000000001044
 Delaware,10,2021-02-17 00:00:00,Partial,CASES_UnknownEthnicity,29.046028094500823
 Texas,48,2021-02-18,Partial,CASES_UnknownEthnicity,0.0
 Texas,48,2021-02-18,Complete,CASES_UnknownEthnicity,0.0
-Tennessee,47,2021-02-17 00:00:00,Complete,CASES_UnknownEthnicity,0.0
-Tennessee,47,2021-02-17 00:00:00,Partial,CASES_UnknownEthnicity,0.0
+Tennessee,47,2021-02-18 00:00:00,Complete,CASES_UnknownEthnicity,0.0
+Tennessee,47,2021-02-18 00:00:00,Partial,CASES_UnknownEthnicity,0.0
 Alabama,1,2021-02-18,Complete Coverage,CASES_UnknownEthnicity,0.0
 Arizona,4,2021-02-18,Complete Coverage,CASES_UnknownEthnicity,0.0
 District of Columbia,11,2021-02-18,Complete Coverage,CASES_UnknownEthnicity,0.0
@@ -1579,8 +1579,8 @@ North Carolina,37,2021-02-18,Complete Coverage,CASES_Child,0.3928147952015695
 Delaware,10,2021-02-17 00:00:00,Partial Coverage,CASES_Child,0.0
 Texas,48,2021-02-18,Partial Coverage,CASES_Child,0.0
 Texas,48,2021-02-18,Complete Coverage,CASES_Child,0.0
-Tennessee,47,2021-02-17 00:00:00,Complete Coverage,CASES_Child,0.0
-Tennessee,47,2021-02-17 00:00:00,Partial Coverage,CASES_Child,0.0
+Tennessee,47,2021-02-18 00:00:00,Complete Coverage,CASES_Child,0.0
+Tennessee,47,2021-02-18 00:00:00,Partial Coverage,CASES_Child,0.0
 Missouri,29,2021-02-18,Partial Coverage,CASES_Child,0.0
 North Dakota,38,2021-02-18,Partial Coverage,CASES_Child,0.0
 Vermont,50,2021-02-18,Partial Coverage,CASES_Child,0.0
@@ -1633,8 +1633,8 @@ North Carolina,37,2021-02-18,Complete,CASES_Child,9598.622
 Delaware,10,2021-02-17 00:00:00,Partial,CASES_Child,0.0
 Texas,48,2021-02-18,Partial,CASES_Child,0.0
 Texas,48,2021-02-18,Complete,CASES_Child,0.0
-Tennessee,47,2021-02-17 00:00:00,Complete,CASES_Child,0.0
-Tennessee,47,2021-02-17 00:00:00,Partial,CASES_Child,0.0
+Tennessee,47,2021-02-18 00:00:00,Complete,CASES_Child,0.0
+Tennessee,47,2021-02-18 00:00:00,Partial,CASES_Child,0.0
 Alabama,1,2021-02-18,Complete Coverage,CASES_Child,0.0
 Arizona,4,2021-02-18,Complete Coverage,CASES_Child,0.0
 District of Columbia,11,2021-02-18,Complete Coverage,CASES_Child,0.0
@@ -1697,8 +1697,8 @@ North Carolina,37,2021-02-18,Complete Coverage,CASES_Adult,3.309886277843541
 Delaware,10,2021-02-17 00:00:00,Partial Coverage,CASES_Adult,15.683585824766482
 Texas,48,2021-02-18,Partial Coverage,CASES_Adult,10.423502170970838
 Texas,48,2021-02-18,Complete Coverage,CASES_Adult,4.873711948903775
-Tennessee,47,2021-02-17 00:00:00,Complete Coverage,CASES_Adult,0.0
-Tennessee,47,2021-02-17 00:00:00,Partial Coverage,CASES_Adult,0.0
+Tennessee,47,2021-02-18 00:00:00,Complete Coverage,CASES_Adult,0.0
+Tennessee,47,2021-02-18 00:00:00,Partial Coverage,CASES_Adult,0.0
 Missouri,29,2021-02-18,Partial Coverage,CASES_Adult,0.0
 North Dakota,38,2021-02-18,Partial Coverage,CASES_Adult,0.0
 Vermont,50,2021-02-18,Partial Coverage,CASES_Adult,0.0
@@ -1751,8 +1751,8 @@ North Carolina,37,2021-02-18,Complete,CASES_Adult,186499.18319999997
 Delaware,10,2021-02-17 00:00:00,Partial,CASES_Adult,78462.0
 Texas,48,2021-02-18,Partial,CASES_Adult,1657700.0
 Texas,48,2021-02-18,Complete,CASES_Adult,775090.0
-Tennessee,47,2021-02-17 00:00:00,Complete,CASES_Adult,0.0
-Tennessee,47,2021-02-17 00:00:00,Partial,CASES_Adult,0.0
+Tennessee,47,2021-02-18 00:00:00,Complete,CASES_Adult,0.0
+Tennessee,47,2021-02-18 00:00:00,Partial,CASES_Adult,0.0
 Alabama,1,2021-02-18,Complete Coverage,CASES_Adult,0.0
 Arizona,4,2021-02-18,Complete Coverage,CASES_Adult,0.0
 District of Columbia,11,2021-02-18,Complete Coverage,CASES_Adult,0.0
@@ -1815,8 +1815,8 @@ North Carolina,37,2021-02-18,Complete Coverage,CASES_Elderly,8.784533609967115
 Delaware,10,2021-02-17 00:00:00,Partial Coverage,CASES_Elderly,31.451377851010996
 Texas,48,2021-02-18,Partial Coverage,CASES_Elderly,25.94684268516722
 Texas,48,2021-02-18,Complete Coverage,CASES_Elderly,9.137087229694385
-Tennessee,47,2021-02-17 00:00:00,Complete Coverage,CASES_Elderly,0.0
-Tennessee,47,2021-02-17 00:00:00,Partial Coverage,CASES_Elderly,0.0
+Tennessee,47,2021-02-18 00:00:00,Complete Coverage,CASES_Elderly,0.0
+Tennessee,47,2021-02-18 00:00:00,Partial Coverage,CASES_Elderly,0.0
 Missouri,29,2021-02-18,Partial Coverage,CASES_Elderly,0.0
 North Dakota,38,2021-02-18,Partial Coverage,CASES_Elderly,0.0
 Vermont,50,2021-02-18,Partial Coverage,CASES_Elderly,0.0
@@ -1869,8 +1869,8 @@ North Carolina,37,2021-02-18,Complete,CASES_Elderly,211700.6716
 Delaware,10,2021-02-17 00:00:00,Partial,CASES_Elderly,80931.0
 Texas,48,2021-02-18,Partial,CASES_Elderly,1371972.0
 Texas,48,2021-02-18,Complete,CASES_Elderly,483135.0
-Tennessee,47,2021-02-17 00:00:00,Complete,CASES_Elderly,0.0
-Tennessee,47,2021-02-17 00:00:00,Partial,CASES_Elderly,0.0
+Tennessee,47,2021-02-18 00:00:00,Complete,CASES_Elderly,0.0
+Tennessee,47,2021-02-18 00:00:00,Partial,CASES_Elderly,0.0
 Alabama,1,2021-02-18,Complete Coverage,CASES_Elderly,0.0
 Arizona,4,2021-02-18,Complete Coverage,CASES_Elderly,0.0
 District of Columbia,11,2021-02-18,Complete Coverage,CASES_Elderly,0.0
@@ -1933,8 +1933,8 @@ North Carolina,37,2021-02-18,Complete Coverage,CASES_UnknownAge,2.51000000000000
 Delaware,10,2021-02-17 00:00:00,Partial Coverage,CASES_UnknownAge,0.0877561382284543
 Texas,48,2021-02-18,Partial Coverage,CASES_UnknownAge,0.07328752258489248
 Texas,48,2021-02-18,Complete Coverage,CASES_UnknownAge,0.019706421989188486
-Tennessee,47,2021-02-17 00:00:00,Complete Coverage,CASES_UnknownAge,100.0
-Tennessee,47,2021-02-17 00:00:00,Partial Coverage,CASES_UnknownAge,100.0
+Tennessee,47,2021-02-18 00:00:00,Complete Coverage,CASES_UnknownAge,100.0
+Tennessee,47,2021-02-18 00:00:00,Partial Coverage,CASES_UnknownAge,100.0
 Missouri,29,2021-02-18,Partial Coverage,CASES_UnknownAge,100.0
 North Dakota,38,2021-02-18,Partial Coverage,CASES_UnknownAge,100.0
 Vermont,50,2021-02-18,Partial Coverage,CASES_UnknownAge,100.0
@@ -1987,8 +1987,8 @@ North Carolina,37,2021-02-18,Complete,CASES_UnknownAge,2.510000000000007
 Delaware,10,2021-02-17 00:00:00,Partial,CASES_UnknownAge,0.0877561382284543
 Texas,48,2021-02-18,Partial,CASES_UnknownAge,0.07328752258489248
 Texas,48,2021-02-18,Complete,CASES_UnknownAge,0.019706421989188486
-Tennessee,47,2021-02-17 00:00:00,Complete,CASES_UnknownAge,100.0
-Tennessee,47,2021-02-17 00:00:00,Partial,CASES_UnknownAge,100.0
+Tennessee,47,2021-02-18 00:00:00,Complete,CASES_UnknownAge,100.0
+Tennessee,47,2021-02-18 00:00:00,Partial,CASES_UnknownAge,100.0
 Alabama,1,2021-02-18,Complete Coverage,CASES_UnknownAge,0.0
 Arizona,4,2021-02-18,Complete Coverage,CASES_UnknownAge,0.0
 District of Columbia,11,2021-02-18,Complete Coverage,CASES_UnknownAge,0.0
@@ -2051,8 +2051,8 @@ North Carolina,37,2021-02-18,Complete Coverage,CASES_BlackDisparity,2.4782281376
 Delaware,10,2021-02-17 00:00:00,Partial Coverage,CASES_BlackDisparity,2.5116588694137363
 Texas,48,2021-02-18,Partial Coverage,CASES_BlackDisparity,1.15402011220827
 Texas,48,2021-02-18,Complete Coverage,CASES_BlackDisparity,1.1931866550428736
-Tennessee,47,2021-02-17 00:00:00,Complete Coverage,CASES_BlackDisparity,2.5913428325390924
-Tennessee,47,2021-02-17 00:00:00,Partial Coverage,CASES_BlackDisparity,2.208630764426367
+Tennessee,47,2021-02-18 00:00:00,Complete Coverage,CASES_BlackDisparity,2.594262623112345
+Tennessee,47,2021-02-18 00:00:00,Partial Coverage,CASES_BlackDisparity,2.203641434917338
 Missouri,29,2021-02-18,Partial Coverage,CASES_BlackDisparity,0.0
 North Dakota,38,2021-02-18,Partial Coverage,CASES_BlackDisparity,2.902086677367576
 Vermont,50,2021-02-18,Partial Coverage,CASES_BlackDisparity,1.6527777777777777
@@ -2105,8 +2105,8 @@ North Carolina,37,2021-02-18,Complete,CASES_BlackDisparity,7.8683206106870225
 Delaware,10,2021-02-17 00:00:00,Partial,CASES_BlackDisparity,7.506501846203243
 Texas,48,2021-02-18,Partial,CASES_BlackDisparity,7.038560358330356
 Texas,48,2021-02-18,Complete,CASES_BlackDisparity,7.277443609022557
-Tennessee,47,2021-02-17 00:00:00,Complete,CASES_BlackDisparity,11.915469061876248
-Tennessee,47,2021-02-17 00:00:00,Partial,CASES_BlackDisparity,10.155688862227555
+Tennessee,47,2021-02-18 00:00:00,Complete,CASES_BlackDisparity,11.928894793819506
+Tennessee,47,2021-02-18 00:00:00,Partial,CASES_BlackDisparity,10.132747011130961
 Alabama,1,2021-02-18,Complete Coverage,CASES_BlackDisparity,0.0
 Arizona,4,2021-02-18,Complete Coverage,CASES_BlackDisparity,0.0
 District of Columbia,11,2021-02-18,Complete Coverage,CASES_BlackDisparity,0.0
@@ -2169,8 +2169,8 @@ North Carolina,37,2021-02-18,Complete Coverage,CASES_HispanicDisparity,4.0436749
 Delaware,10,2021-02-17 00:00:00,Partial Coverage,CASES_HispanicDisparity,3.3916928768721792
 Texas,48,2021-02-18,Partial Coverage,CASES_HispanicDisparity,2.56934092925995
 Texas,48,2021-02-18,Complete Coverage,CASES_HispanicDisparity,2.9443249603500536
-Tennessee,47,2021-02-17 00:00:00,Complete Coverage,CASES_HispanicDisparity,2.4247673046579035
-Tennessee,47,2021-02-17 00:00:00,Partial Coverage,CASES_HispanicDisparity,2.7010735603048808
+Tennessee,47,2021-02-18 00:00:00,Complete Coverage,CASES_HispanicDisparity,2.444142670828047
+Tennessee,47,2021-02-18 00:00:00,Partial Coverage,CASES_HispanicDisparity,2.681248483249597
 Missouri,29,2021-02-18,Partial Coverage,CASES_HispanicDisparity,0.0
 North Dakota,38,2021-02-18,Partial Coverage,CASES_HispanicDisparity,2.7763371150729332
 Vermont,50,2021-02-18,Partial Coverage,CASES_HispanicDisparity,1.2840909090909092
@@ -2223,8 +2223,8 @@ North Carolina,37,2021-02-18,Complete,CASES_HispanicDisparity,37.29885057471264
 Delaware,10,2021-02-17 00:00:00,Partial,CASES_HispanicDisparity,31.97261870084474
 Texas,48,2021-02-18,Partial,CASES_HispanicDisparity,3.894569499635758
 Texas,48,2021-02-18,Complete,CASES_HispanicDisparity,4.462964823783972
-Tennessee,47,2021-02-17 00:00:00,Complete,CASES_HispanicDisparity,39.884684415195935
-Tennessee,47,2021-02-17 00:00:00,Partial,CASES_HispanicDisparity,44.42961034984307
+Tennessee,47,2021-02-18 00:00:00,Complete,CASES_HispanicDisparity,40.203387312435005
+Tennessee,47,2021-02-18 00:00:00,Partial,CASES_HispanicDisparity,44.103510216301174
 Alabama,1,2021-02-18,Complete Coverage,CASES_HispanicDisparity,0.0
 Arizona,4,2021-02-18,Complete Coverage,CASES_HispanicDisparity,0.0
 District of Columbia,11,2021-02-18,Complete Coverage,CASES_HispanicDisparity,0.0
