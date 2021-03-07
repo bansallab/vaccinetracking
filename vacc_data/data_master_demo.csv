@@ -47,8 +47,8 @@ West Virginia,54,2021-03-07,Partial Coverage,CASES_Female,0.0
 Indiana,18,2021-03-07,Complete Coverage,CASES_Female,12.199345283612248
 North Carolina,37,2021-03-07,Complete Coverage,CASES_Female,10.413638807532545
 Delaware,10,2021-03-05 00:00:00,Partial Coverage,CASES_Female,31.247129556177196
-Texas,48,2021-03-07,Partial Coverage,CASES_Female,16.469776736103903
-Texas,48,2021-03-07,Complete Coverage,CASES_Female,9.239700273668952
+Texas,48,2021-03-07,Partial Coverage,CASES_Female,16.732180150740287
+Texas,48,2021-03-07,Complete Coverage,CASES_Female,9.376942474288844
 Tennessee,47,2021-03-06 00:00:00,Complete Coverage,CASES_Female,10.15383471525779
 Tennessee,47,2021-03-06 00:00:00,Partial Coverage,CASES_Female,17.91548884952108
 Missouri,29,2021-03-07,Partial Coverage,CASES_Female,18.9
@@ -105,8 +105,8 @@ West Virginia,54,2021-03-07,Partial,CASES_Female,0.0
 Indiana,18,2021-03-07,Complete,CASES_Female,416224.46
 North Carolina,37,2021-03-07,Complete,CASES_Female,561068.1144
 Delaware,10,2021-03-05 00:00:00,Partial,CASES_Female,157164.0
-Texas,48,2021-03-07,Partial,CASES_Female,2403464.0
-Texas,48,2021-03-07,Complete,CASES_Female,1348366.0
+Texas,48,2021-03-07,Partial,CASES_Female,2441757.0
+Texas,48,2021-03-07,Complete,CASES_Female,1368394.0
 Tennessee,47,2021-03-06 00:00:00,Complete,CASES_Female,355073.0
 Tennessee,47,2021-03-06 00:00:00,Partial,CASES_Female,626493.0
 Alabama,1,2021-03-07,Complete Coverage,CASES_Female,0.0
@@ -172,8 +172,8 @@ West Virginia,54,2021-03-07,Partial Coverage,CASES_Male,0.0
 Indiana,18,2021-03-07,Complete Coverage,CASES_Male,7.860221482007975
 North Carolina,37,2021-03-07,Complete Coverage,CASES_Male,7.274937705185458
 Delaware,10,2021-03-05 00:00:00,Partial Coverage,CASES_Male,20.44019346082036
-Texas,48,2021-03-07,Partial Coverage,CASES_Male,11.956388460998499
-Texas,48,2021-03-07,Complete Coverage,CASES_Male,6.487845127948908
+Texas,48,2021-03-07,Partial Coverage,CASES_Male,12.148970380696623
+Texas,48,2021-03-07,Complete Coverage,CASES_Male,6.593651663417045
 Tennessee,47,2021-03-06 00:00:00,Complete Coverage,CASES_Male,6.505475747687966
 Tennessee,47,2021-03-06 00:00:00,Partial Coverage,CASES_Male,11.979752952894435
 Missouri,29,2021-03-07,Partial Coverage,CASES_Male,12.9
@@ -230,8 +230,8 @@ West Virginia,54,2021-03-07,Partial,CASES_Male,0.0
 Indiana,18,2021-03-07,Complete,CASES_Male,260987.65
 North Carolina,37,2021-03-07,Complete,CASES_Male,371041.02880000003
 Delaware,10,2021-03-05 00:00:00,Partial,CASES_Male,96231.0
-Texas,48,2021-03-07,Partial,CASES_Male,1722043.0
-Texas,48,2021-03-07,Complete,CASES_Male,934425.0
+Texas,48,2021-03-07,Partial,CASES_Male,1749780.0
+Texas,48,2021-03-07,Complete,CASES_Male,949664.0
 Tennessee,47,2021-03-06 00:00:00,Complete,CASES_Male,216778.0
 Tennessee,47,2021-03-06 00:00:00,Partial,CASES_Male,399194.0
 Alabama,1,2021-03-07,Complete Coverage,CASES_Male,0.0
@@ -297,8 +297,8 @@ West Virginia,54,2021-03-07,Partial Coverage,CASES_UnknownGender,100.0
 Indiana,18,2021-03-07,Complete Coverage,CASES_UnknownGender,0.09999999999999347
 North Carolina,37,2021-03-07,Complete Coverage,CASES_UnknownGender,0.7200000000000071
 Delaware,10,2021-03-05 00:00:00,Partial Coverage,CASES_UnknownGender,0.05521920050486126
-Texas,48,2021-03-07,Partial Coverage,CASES_UnknownGender,1.817778103557258
-Texas,48,2021-03-07,Complete Coverage,CASES_UnknownGender,1.5834741670690489
+Texas,48,2021-03-07,Partial Coverage,CASES_UnknownGender,1.7991115492737322
+Texas,48,2021-03-07,Complete Coverage,CASES_UnknownGender,1.5603441649634089
 Tennessee,47,2021-03-06 00:00:00,Complete Coverage,CASES_UnknownGender,851.0
 Tennessee,47,2021-03-06 00:00:00,Partial Coverage,CASES_UnknownGender,1777.0
 Missouri,29,2021-03-07,Partial Coverage,CASES_UnknownGender,0.0
@@ -355,8 +355,8 @@ West Virginia,54,2021-03-07,Partial,CASES_UnknownGender,100.0
 Indiana,18,2021-03-07,Complete,CASES_UnknownGender,0.09999999999999347
 North Carolina,37,2021-03-07,Complete,CASES_UnknownGender,0.7200000000000071
 Delaware,10,2021-03-05 00:00:00,Partial,CASES_UnknownGender,0.05521920050486126
-Texas,48,2021-03-07,Partial,CASES_UnknownGender,1.817778103557258
-Texas,48,2021-03-07,Complete,CASES_UnknownGender,1.5834741670690489
+Texas,48,2021-03-07,Partial,CASES_UnknownGender,1.7991115492737322
+Texas,48,2021-03-07,Complete,CASES_UnknownGender,1.5603441649634089
 Tennessee,47,2021-03-06 00:00:00,Complete,CASES_UnknownGender,851.0
 Tennessee,47,2021-03-06 00:00:00,Partial,CASES_UnknownGender,1777.0
 Alabama,1,2021-03-07,Complete Coverage,CASES_UnknownGender,100.0
@@ -422,8 +422,8 @@ West Virginia,54,2021-03-07,Partial Coverage,CASES_White,0.0
 Indiana,18,2021-03-07,Complete Coverage,CASES_White,10.400596750170589
 North Carolina,37,2021-03-07,Complete Coverage,CASES_White,10.14048818249157
 Delaware,10,2021-03-05 00:00:00,Partial Coverage,CASES_White,23.527352297592998
-Texas,48,2021-03-07,Partial Coverage,CASES_White,7.110233082070478
-Texas,48,2021-03-07,Complete Coverage,CASES_White,3.798627825062823
+Texas,48,2021-03-07,Partial Coverage,CASES_White,7.248757242022211
+Texas,48,2021-03-07,Complete Coverage,CASES_White,3.873226189625333
 Tennessee,47,2021-03-06 00:00:00,Complete Coverage,CASES_White,7.755931798211006
 Tennessee,47,2021-03-06 00:00:00,Partial Coverage,CASES_White,13.595385481673501
 Missouri,29,2021-03-07,Partial Coverage,CASES_White,13.5
@@ -480,8 +480,8 @@ West Virginia,54,2021-03-07,Partial,CASES_White,0.0
 Indiana,18,2021-03-07,Complete,CASES_White,593831.6399999999
 North Carolina,37,2021-03-07,Complete,CASES_White,750344.1048
 Delaware,10,2021-03-05 00:00:00,Partial,CASES_White,158592.0
-Texas,48,2021-03-07,Partial,CASES_White,1621569.0
-Texas,48,2021-03-07,Complete,CASES_White,866320.0
+Texas,48,2021-03-07,Partial,CASES_White,1653161.0
+Texas,48,2021-03-07,Complete,CASES_White,883333.0
 Tennessee,47,2021-03-06 00:00:00,Complete,CASES_White,415284.0
 Tennessee,47,2021-03-06 00:00:00,Partial,CASES_White,727952.0
 Alabama,1,2021-03-07,Complete Coverage,CASES_White,0.0
@@ -547,8 +547,8 @@ West Virginia,54,2021-03-07,Partial Coverage,CASES_Black,0.0
 Indiana,18,2021-03-07,Complete Coverage,CASES_Black,4.150784950925633
 North Carolina,37,2021-03-07,Complete Coverage,CASES_Black,5.224973935482543
 Delaware,10,2021-03-05 00:00:00,Partial Coverage,CASES_Black,9.982531124747277
-Texas,48,2021-03-07,Partial Coverage,CASES_Black,6.213165790414634
-Texas,48,2021-03-07,Complete Coverage,CASES_Black,3.119981407892179
+Texas,48,2021-03-07,Partial Coverage,CASES_Black,6.353569366453601
+Texas,48,2021-03-07,Complete Coverage,CASES_Black,3.1796997289007525
 Tennessee,47,2021-03-06 00:00:00,Complete Coverage,CASES_Black,3.4485482983114077
 Tennessee,47,2021-03-06 00:00:00,Partial Coverage,CASES_Black,7.624299998024838
 Missouri,29,2021-03-07,Partial Coverage,CASES_Black,5.2
@@ -605,8 +605,8 @@ West Virginia,54,2021-03-07,Partial,CASES_Black,0.0
 Indiana,18,2021-03-07,Complete,CASES_Black,27793.489999999998
 North Carolina,37,2021-03-07,Complete,CASES_Black,121771.30930000001
 Delaware,10,2021-03-05 00:00:00,Partial,CASES_Black,22515.0
-Texas,48,2021-03-07,Partial,CASES_Black,232324.0
-Texas,48,2021-03-07,Complete,CASES_Black,116663.0
+Texas,48,2021-03-07,Partial,CASES_Black,237574.0
+Texas,48,2021-03-07,Complete,CASES_Black,118896.0
 Tennessee,47,2021-03-06 00:00:00,Complete,CASES_Black,40157.0
 Tennessee,47,2021-03-06 00:00:00,Partial,CASES_Black,88782.0
 Alabama,1,2021-03-07,Complete Coverage,CASES_Black,0.0
@@ -672,8 +672,8 @@ West Virginia,54,2021-03-07,Partial Coverage,CASES_Asian,0.0
 Indiana,18,2021-03-07,Complete Coverage,CASES_Asian,6.982557939914164
 North Carolina,37,2021-03-07,Complete Coverage,CASES_Asian,7.077346566995414
 Delaware,10,2021-03-05 00:00:00,Partial Coverage,CASES_Asian,15.131826505782305
-Texas,48,2021-03-07,Partial Coverage,CASES_Asian,15.879428257429806
-Texas,48,2021-03-07,Complete Coverage,CASES_Asian,8.969327427886684
+Texas,48,2021-03-07,Partial Coverage,CASES_Asian,16.169536634292637
+Texas,48,2021-03-07,Complete Coverage,CASES_Asian,9.078035313511688
 Tennessee,47,2021-03-06 00:00:00,Complete Coverage,CASES_Asian,4.877084638563203
 Tennessee,47,2021-03-06 00:00:00,Partial Coverage,CASES_Asian,9.122438020227333
 Missouri,29,2021-03-07,Partial Coverage,CASES_Asian,3.1
@@ -730,8 +730,8 @@ West Virginia,54,2021-03-07,Partial,CASES_Asian,0.0
 Indiana,18,2021-03-07,Complete,CASES_Asian,12202.020000000002
 North Carolina,37,2021-03-07,Complete,CASES_Asian,23659.4988
 Delaware,10,2021-03-05 00:00:00,Partial,CASES_Asian,6032.0
-Texas,48,2021-03-07,Partial,CASES_Asian,239854.0
-Texas,48,2021-03-07,Complete,CASES_Asian,135479.0
+Texas,48,2021-03-07,Partial,CASES_Asian,244236.0
+Texas,48,2021-03-07,Complete,CASES_Asian,137121.0
 Tennessee,47,2021-03-06 00:00:00,Complete,CASES_Asian,6539.0
 Tennessee,47,2021-03-06 00:00:00,Partial,CASES_Asian,12231.0
 Alabama,1,2021-03-07,Complete Coverage,CASES_Asian,0.0
@@ -922,8 +922,8 @@ West Virginia,54,2021-03-07,Partial Coverage,CASES_UnknownRace,100.0
 Indiana,18,2021-03-07,Complete Coverage,CASES_UnknownRace,8.300000000000015
 North Carolina,37,2021-03-07,Complete Coverage,CASES_UnknownRace,7.110000000000002
 Delaware,10,2021-03-05 00:00:00,Partial Coverage,CASES_UnknownRace,15.850671504920426
-Texas,48,2021-03-07,Partial Coverage,CASES_UnknownRace,23.13281553435027
-Texas,48,2021-03-07,Complete Coverage,CASES_UnknownRace,27.550182796440644
+Texas,48,2021-03-07,Partial Coverage,CASES_UnknownRace,22.77842218816778
+Texas,48,2021-03-07,Complete Coverage,CASES_UnknownRace,27.243448597142603
 Tennessee,47,2021-03-06 00:00:00,Complete Coverage,CASES_UnknownRace,110722.0
 Tennessee,47,2021-03-06 00:00:00,Partial Coverage,CASES_UnknownRace,198499.0
 Missouri,29,2021-03-07,Partial Coverage,CASES_UnknownRace,0.0
@@ -980,8 +980,8 @@ West Virginia,54,2021-03-07,Partial,CASES_UnknownRace,100.0
 Indiana,18,2021-03-07,Complete,CASES_UnknownRace,8.300000000000015
 North Carolina,37,2021-03-07,Complete,CASES_UnknownRace,7.110000000000002
 Delaware,10,2021-03-05 00:00:00,Partial,CASES_UnknownRace,15.850671504920426
-Texas,48,2021-03-07,Partial,CASES_UnknownRace,23.13281553435027
-Texas,48,2021-03-07,Complete,CASES_UnknownRace,27.550182796440644
+Texas,48,2021-03-07,Partial,CASES_UnknownRace,22.77842218816778
+Texas,48,2021-03-07,Complete,CASES_UnknownRace,27.243448597142603
 Tennessee,47,2021-03-06 00:00:00,Complete,CASES_UnknownRace,110722.0
 Tennessee,47,2021-03-06 00:00:00,Partial,CASES_UnknownRace,198499.0
 Alabama,1,2021-03-07,Complete Coverage,CASES_UnknownRace,100.0
@@ -1297,8 +1297,8 @@ West Virginia,54,2021-03-07,Partial Coverage,CASES_Hispanic,0.0
 Indiana,18,2021-03-07,Complete Coverage,CASES_Hispanic,2.770556224238944
 North Carolina,37,2021-03-07,Complete Coverage,CASES_Hispanic,2.105025881481337
 Delaware,10,2021-03-05 00:00:00,Partial Coverage,CASES_Hispanic,6.728699767643563
-Texas,48,2021-03-07,Partial Coverage,CASES_Hispanic,6.797724157521644
-Texas,48,2021-03-07,Complete Coverage,CASES_Hispanic,3.180048757641482
+Texas,48,2021-03-07,Partial Coverage,CASES_Hispanic,6.972925782984593
+Texas,48,2021-03-07,Complete Coverage,CASES_Hispanic,3.26256088848646
 Tennessee,47,2021-03-06 00:00:00,Complete Coverage,CASES_Hispanic,2.5903081899525273
 Tennessee,47,2021-03-06 00:00:00,Partial Coverage,CASES_Hispanic,5.320633038821407
 Missouri,29,2021-03-07,Partial Coverage,CASES_Hispanic,2.3
@@ -1355,8 +1355,8 @@ West Virginia,54,2021-03-07,Partial,CASES_Hispanic,0.0
 Indiana,18,2021-03-07,Complete,CASES_Hispanic,13557.800000000001
 North Carolina,37,2021-03-07,Complete,CASES_Hispanic,21593.987
 Delaware,10,2021-03-05 00:00:00,Partial,CASES_Hispanic,6284.0
-Texas,48,2021-03-07,Partial,CASES_Hispanic,783477.0
-Texas,48,2021-03-07,Complete,CASES_Hispanic,366519.0
+Texas,48,2021-03-07,Partial,CASES_Hispanic,803670.0
+Texas,48,2021-03-07,Complete,CASES_Hispanic,376029.0
 Tennessee,47,2021-03-06 00:00:00,Complete,CASES_Hispanic,10138.0
 Tennessee,47,2021-03-06 00:00:00,Partial,CASES_Hispanic,20824.0
 Alabama,1,2021-03-07,Complete Coverage,CASES_Hispanic,0.0
@@ -1422,8 +1422,8 @@ West Virginia,54,2021-03-07,Partial Coverage,CASES_NotHispanic,0.0
 Indiana,18,2021-03-07,Complete Coverage,CASES_NotHispanic,0.0
 North Carolina,37,2021-03-07,Complete Coverage,CASES_NotHispanic,0.0
 Delaware,10,2021-03-05 00:00:00,Partial Coverage,CASES_NotHispanic,21.25678547615613
-Texas,48,2021-03-07,Partial Coverage,CASES_NotHispanic,14.003168691464596
-Texas,48,2021-03-07,Complete Coverage,CASES_NotHispanic,7.521157475059248
+Texas,48,2021-03-07,Partial Coverage,CASES_NotHispanic,14.266501273618436
+Texas,48,2021-03-07,Complete Coverage,CASES_NotHispanic,7.654377831912818
 Tennessee,47,2021-03-06 00:00:00,Complete Coverage,CASES_NotHispanic,7.290682892519671
 Tennessee,47,2021-03-06 00:00:00,Partial Coverage,CASES_NotHispanic,13.191525914475024
 Missouri,29,2021-03-07,Partial Coverage,CASES_NotHispanic,14.1
@@ -1480,8 +1480,8 @@ West Virginia,54,2021-03-07,Partial,CASES_NotHispanic,0.0
 Indiana,18,2021-03-07,Complete,CASES_NotHispanic,0.0
 North Carolina,37,2021-03-07,Complete,CASES_NotHispanic,0.0
 Delaware,10,2021-03-05 00:00:00,Partial,CASES_NotHispanic,187139.0
-Texas,48,2021-03-07,Partial,CASES_NotHispanic,2446396.0
-Texas,48,2021-03-07,Complete,CASES_NotHispanic,1313969.0
+Texas,48,2021-03-07,Partial,CASES_NotHispanic,2492401.0
+Texas,48,2021-03-07,Complete,CASES_NotHispanic,1337243.0
 Tennessee,47,2021-03-06 00:00:00,Complete,CASES_NotHispanic,469359.0
 Tennessee,47,2021-03-06 00:00:00,Partial,CASES_NotHispanic,849243.0
 Alabama,1,2021-03-07,Complete Coverage,CASES_NotHispanic,0.0
@@ -1797,8 +1797,8 @@ West Virginia,54,2021-03-07,Partial Coverage,CASES_Adult,0.0
 Indiana,18,2021-03-07,Complete Coverage,CASES_Adult,5.973708744686714
 North Carolina,37,2021-03-07,Complete Coverage,CASES_Adult,5.267028080026834
 Delaware,10,2021-03-05 00:00:00,Partial Coverage,CASES_Adult,20.621610654811995
-Texas,48,2021-03-07,Partial Coverage,CASES_Adult,14.905828182051179
-Texas,48,2021-03-07,Complete Coverage,CASES_Adult,8.018632898300774
+Texas,48,2021-03-07,Partial Coverage,CASES_Adult,0.0
+Texas,48,2021-03-07,Complete Coverage,CASES_Adult,0.0
 Tennessee,47,2021-03-06 00:00:00,Complete Coverage,CASES_Adult,0.0
 Tennessee,47,2021-03-06 00:00:00,Partial Coverage,CASES_Adult,0.0
 Missouri,29,2021-03-07,Partial Coverage,CASES_Adult,0.0
@@ -1855,8 +1855,8 @@ West Virginia,54,2021-03-07,Partial,CASES_Adult,0.0
 Indiana,18,2021-03-07,Complete,CASES_Adult,212857.46
 North Carolina,37,2021-03-07,Complete,CASES_Adult,296776.4909
 Delaware,10,2021-03-05 00:00:00,Partial,CASES_Adult,103166.0
-Texas,48,2021-03-07,Partial,CASES_Adult,2370546.0
-Texas,48,2021-03-07,Complete,CASES_Adult,1275242.0
+Texas,48,2021-03-07,Partial,CASES_Adult,0.0
+Texas,48,2021-03-07,Complete,CASES_Adult,0.0
 Tennessee,47,2021-03-06 00:00:00,Complete,CASES_Adult,0.0
 Tennessee,47,2021-03-06 00:00:00,Partial,CASES_Adult,0.0
 Alabama,1,2021-03-07,Complete Coverage,CASES_Adult,0.0
@@ -1922,8 +1922,8 @@ West Virginia,54,2021-03-07,Partial Coverage,CASES_Elderly,0.0
 Indiana,18,2021-03-07,Complete Coverage,CASES_Elderly,30.618398594327708
 North Carolina,37,2021-03-07,Complete Coverage,CASES_Elderly,26.61250511530442
 Delaware,10,2021-03-05 00:00:00,Partial Coverage,CASES_Elderly,58.362123573280066
-Texas,48,2021-03-07,Partial Coverage,CASES_Elderly,34.58612617458194
-Texas,48,2021-03-07,Complete Coverage,CASES_Elderly,19.741600483846625
+Texas,48,2021-03-07,Partial Coverage,CASES_Elderly,0.0
+Texas,48,2021-03-07,Complete Coverage,CASES_Elderly,0.0
 Tennessee,47,2021-03-06 00:00:00,Complete Coverage,CASES_Elderly,0.0
 Tennessee,47,2021-03-06 00:00:00,Partial Coverage,CASES_Elderly,0.0
 Missouri,29,2021-03-07,Partial Coverage,CASES_Elderly,0.0
@@ -1980,8 +1980,8 @@ West Virginia,54,2021-03-07,Partial,CASES_Elderly,0.0
 Indiana,18,2021-03-07,Complete,CASES_Elderly,462998.86999999994
 North Carolina,37,2021-03-07,Complete,CASES_Elderly,641341.4139
 Delaware,10,2021-03-05 00:00:00,Partial,CASES_Elderly,150178.0
-Texas,48,2021-03-07,Partial,CASES_Elderly,1828785.0
-Texas,48,2021-03-07,Complete,CASES_Elderly,1043862.0
+Texas,48,2021-03-07,Partial,CASES_Elderly,0.0
+Texas,48,2021-03-07,Complete,CASES_Elderly,0.0
 Tennessee,47,2021-03-06 00:00:00,Complete,CASES_Elderly,0.0
 Tennessee,47,2021-03-06 00:00:00,Partial,CASES_Elderly,0.0
 Alabama,1,2021-03-07,Complete Coverage,CASES_Elderly,0.0
@@ -2047,8 +2047,8 @@ West Virginia,54,2021-03-07,Partial Coverage,CASES_UnknownAge,100.0
 Indiana,18,2021-03-07,Complete Coverage,CASES_UnknownAge,0.30000000000001475
 North Carolina,37,2021-03-07,Complete Coverage,CASES_UnknownAge,0.07999999999999803
 Delaware,10,2021-03-05 00:00:00,Partial Coverage,CASES_UnknownAge,0.07533476640306072
-Texas,48,2021-03-07,Partial Coverage,CASES_UnknownAge,0.060853597240097784
-Texas,48,2021-03-07,Complete Coverage,CASES_UnknownAge,0.017934745119679935
+Texas,48,2021-03-07,Partial Coverage,CASES_UnknownAge,0.060164059518373586
+Texas,48,2021-03-07,Complete Coverage,CASES_UnknownAge,0.01796330135752448
 Tennessee,47,2021-03-06 00:00:00,Complete Coverage,CASES_UnknownAge,100.0
 Tennessee,47,2021-03-06 00:00:00,Partial Coverage,CASES_UnknownAge,100.0
 Missouri,29,2021-03-07,Partial Coverage,CASES_UnknownAge,100.0
@@ -2105,8 +2105,8 @@ West Virginia,54,2021-03-07,Partial,CASES_UnknownAge,100.0
 Indiana,18,2021-03-07,Complete,CASES_UnknownAge,0.30000000000001475
 North Carolina,37,2021-03-07,Complete,CASES_UnknownAge,0.07999999999999803
 Delaware,10,2021-03-05 00:00:00,Partial,CASES_UnknownAge,0.07533476640306072
-Texas,48,2021-03-07,Partial,CASES_UnknownAge,0.060853597240097784
-Texas,48,2021-03-07,Complete,CASES_UnknownAge,0.017934745119679935
+Texas,48,2021-03-07,Partial,CASES_UnknownAge,0.060164059518373586
+Texas,48,2021-03-07,Complete,CASES_UnknownAge,0.01796330135752448
 Tennessee,47,2021-03-06 00:00:00,Complete,CASES_UnknownAge,100.0
 Tennessee,47,2021-03-06 00:00:00,Partial,CASES_UnknownAge,100.0
 Alabama,1,2021-03-07,Complete Coverage,CASES_UnknownAge,100.0
@@ -2172,8 +2172,8 @@ West Virginia,54,2021-03-07,Partial Coverage,CASES_BlackDisparity,0.0
 Indiana,18,2021-03-07,Complete Coverage,CASES_BlackDisparity,2.5056939526224395
 North Carolina,37,2021-03-07,Complete Coverage,CASES_BlackDisparity,1.9407729699143585
 Delaware,10,2021-03-05 00:00:00,Partial Coverage,CASES_BlackDisparity,2.3568523857909462
-Texas,48,2021-03-07,Partial Coverage,CASES_BlackDisparity,1.1443816762526755
-Texas,48,2021-03-07,Complete Coverage,CASES_BlackDisparity,1.217516173479101
+Texas,48,2021-03-07,Partial Coverage,CASES_BlackDisparity,1.140895270663942
+Texas,48,2021-03-07,Complete Coverage,CASES_BlackDisparity,1.2181106770620564
 Tennessee,47,2021-03-06 00:00:00,Complete Coverage,CASES_BlackDisparity,2.249042532479166
 Tennessee,47,2021-03-06 00:00:00,Partial Coverage,CASES_BlackDisparity,1.7831650755079866
 Missouri,29,2021-03-07,Partial Coverage,CASES_BlackDisparity,2.5961538461538463
@@ -2230,8 +2230,8 @@ West Virginia,54,2021-03-07,Partial,CASES_BlackDisparity,0.0
 Indiana,18,2021-03-07,Complete,CASES_BlackDisparity,21.365853658536583
 North Carolina,37,2021-03-07,Complete,CASES_BlackDisparity,6.161912104857363
 Delaware,10,2021-03-05 00:00:00,Partial,CASES_BlackDisparity,7.04383744170553
-Texas,48,2021-03-07,Partial,CASES_BlackDisparity,6.979773936399167
-Texas,48,2021-03-07,Complete,CASES_BlackDisparity,7.425833383334905
+Texas,48,2021-03-07,Partial,CASES_BlackDisparity,6.9585097695875815
+Texas,48,2021-03-07,Complete,CASES_BlackDisparity,7.429459359440183
 Tennessee,47,2021-03-06 00:00:00,Complete,CASES_BlackDisparity,10.341509574918446
 Tennessee,47,2021-03-06 00:00:00,Partial,CASES_BlackDisparity,8.199319681917506
 Alabama,1,2021-03-07,Complete Coverage,CASES_BlackDisparity,0.0
@@ -2297,8 +2297,8 @@ West Virginia,54,2021-03-07,Partial Coverage,CASES_HispanicDisparity,0.0
 Indiana,18,2021-03-07,Complete Coverage,CASES_HispanicDisparity,0.0
 North Carolina,37,2021-03-07,Complete Coverage,CASES_HispanicDisparity,0.0
 Delaware,10,2021-03-05 00:00:00,Partial Coverage,CASES_HispanicDisparity,3.1591222985418477
-Texas,48,2021-03-07,Partial Coverage,CASES_HispanicDisparity,2.059978952804398
-Texas,48,2021-03-07,Complete Coverage,CASES_HispanicDisparity,2.3651075968525075
+Texas,48,2021-03-07,Partial Coverage,CASES_HispanicDisparity,2.0459849592020185
+Texas,48,2021-03-07,Complete Coverage,CASES_HispanicDisparity,2.3461256643286044
 Tennessee,47,2021-03-06 00:00:00,Complete Coverage,CASES_HispanicDisparity,2.8146005640561587
 Tennessee,47,2021-03-06 00:00:00,Partial Coverage,CASES_HispanicDisparity,2.479315114991867
 Missouri,29,2021-03-07,Partial Coverage,CASES_HispanicDisparity,6.130434782608696
@@ -2355,8 +2355,8 @@ West Virginia,54,2021-03-07,Partial,CASES_HispanicDisparity,0.0
 Indiana,18,2021-03-07,Complete,CASES_HispanicDisparity,0.0
 North Carolina,37,2021-03-07,Complete,CASES_HispanicDisparity,0.0
 Delaware,10,2021-03-05 00:00:00,Partial,CASES_HispanicDisparity,29.78023551877785
-Texas,48,2021-03-07,Partial,CASES_HispanicDisparity,3.122486046176212
-Texas,48,2021-03-07,Complete,CASES_HispanicDisparity,3.5849955936800004
+Texas,48,2021-03-07,Partial,CASES_HispanicDisparity,3.1012741548147873
+Texas,48,2021-03-07,Complete,CASES_HispanicDisparity,3.5562230572642
 Tennessee,47,2021-03-06 00:00:00,Complete,CASES_HispanicDisparity,46.29700138094299
 Tennessee,47,2021-03-06 00:00:00,Partial,CASES_HispanicDisparity,40.78193430656934
 Alabama,1,2021-03-07,Complete Coverage,CASES_HispanicDisparity,0.0
