@@ -1551,7 +1551,6 @@ Montana,30,Roosevelt County,30085,County,2021-04-01,Partial,2205,11004
 Indiana,18,LaGrange County,18087,County,2021-04-01,Partial,5650,39614
 Wisconsin,55,Marquette County,55077,County,2021-04-01,Partial,4436,15574
 New York,36,Saratoga County,36091,County,2021-04-01,Partial,82815,229863
-Wyoming,56,Park County,56029,County,2021-04-01,Partial,NaN,29194
 Illinois,17,Madison County,17119,County,2021-04-01,Partial,75636,262966
 Illinois,17,Saline County,17165,County,2021-04-01,Partial,5633,23491
 Mississippi,28,Lee County,28081,County,2021-04-01,Partial,19578,85436
@@ -1579,11 +1578,9 @@ Washington,53,Skagit County,53057,County,2021-04-01,Partial,40148,129205
 Indiana,18,St. Joseph County,18141,County,2021-04-01,Partial,77631,271826
 California,6,Los Angeles County,6037,County,2021-04-01,Partial,3018686,10039107
 Wisconsin,55,Waupaca County,55135,County,2021-04-01,Partial,13417,50990
-Wyoming,56,Niobrara County,56027,County,2021-04-01,Partial,NaN,2356
 Mississippi,28,Newton County,28101,County,2021-04-01,Partial,5333,21018
 Illinois,17,Coles County,17029,County,2021-04-01,Partial,12034,50621
 Florida,12,Martin County,12085,County,2021-04-01,Partial,53691,161000
-Wyoming,56,Goshen County,56015,County,2021-04-01,Partial,NaN,13211
 Pennsylvania,42,Berks County,42011,County,2021-04-01,Partial,97984,421164
 Illinois,17,Kane County,17089,County,2021-04-01,Partial,139838,532403
 New Jersey,34,Monmouth County,34025,County,2021-04-01,Partial,212577,618795
@@ -1763,7 +1760,6 @@ Mississippi,28,Jackson County,28059,County,2021-04-01,Partial,31869,143617
 Illinois,17,Clark County,17023,County,2021-04-01,Partial,3782,15441
 Illinois,17,Wabash County,17185,County,2021-04-01,Partial,2967,11520
 Florida,12,Bradford County,12007,County,2021-04-01,Partial,4088,28201
-Connecticut,9,Litchfield County,9005,County,2021-04-01,Partial,NaN,180333
 New York,36,Cayuga County,36011,County,2021-04-01,Partial,23768,76576
 Illinois,17,Christian County,17021,County,2021-04-01,Partial,7509,32304
 Oregon,41,Linn County,41043,County,2021-04-01,Partial,29167,129749
@@ -1855,7 +1851,6 @@ Missouri,29,Iron County,29093,County,2021-04-01,Partial,1951,10125
 Montana,30,Lincoln County,30053,County,2021-04-01,Partial,5139,19980
 Iowa,19,Benton County,19011,County,2021-04-01,Partial,5255,25645
 Iowa,19,Butler County,19023,County,2021-04-01,Partial,3096,14439
-Wyoming,56,Weston County,56045,County,2021-04-01,Partial,NaN,6927
 Pennsylvania,42,Lehigh County,42077,County,2021-04-01,Partial,122277,369318
 Illinois,17,Piatt County,17147,County,2021-04-01,Partial,4892,16344
 Pennsylvania,42,Juniata County,42067,County,2021-04-01,Partial,5429,24763
@@ -1867,7 +1862,6 @@ Mississippi,28,Smith County,28129,County,2021-04-01,Partial,2679,15916
 Minnesota,27,Lincoln County,27081,County,2021-04-01,Partial,1944,5639
 Iowa,19,Cedar County,19031,County,2021-04-01,Partial,4557,18627
 New Mexico,35,Mora County,35033,County,2021-04-01,Partial,1908,4521
-Connecticut,9,New Haven County,9009,County,2021-04-01,Partial,NaN,854757
 Minnesota,27,Grant County,27051,County,2021-04-01,Partial,2073,5972
 Wisconsin,55,Waukesha County,55133,County,2021-04-01,Partial,139668,404198
 Washington,53,Douglas County,53017,County,2021-04-01,Partial,12762,43429
@@ -1958,10 +1952,8 @@ Iowa,19,Buena Vista County,19021,County,2021-04-01,Partial,7002,19620
 California,6,Amador County,6005,County,2021-04-01,Partial,13695,39752
 Iowa,19,Hardin County,19083,County,2021-04-01,Partial,4505,16846
 Iowa,19,Mills County,19129,County,2021-04-01,Partial,3847,15109
-Wyoming,56,Laramie County,56021,County,2021-04-01,Partial,NaN,99500
 Wisconsin,55,Wood County,55141,County,2021-04-01,Partial,22149,72999
 Mississippi,28,Leflore County,28083,County,2021-04-01,Partial,8953,28183
-Wyoming,56,Platte County,56031,County,2021-04-01,Partial,NaN,8393
 Indiana,18,Steuben County,18151,County,2021-04-01,Partial,10051,34594
 Minnesota,27,Itasca County,27061,County,2021-04-01,Partial,15171,45130
 Missouri,29,Newton County,29145,County,2021-04-01,Partial,6524,58236
@@ -1987,12 +1979,10 @@ Florida,12,Escambia County,12033,County,2021-04-01,Partial,73033,318316
 Missouri,29,Scotland County,29199,County,2021-04-01,Partial,829,4902
 Pennsylvania,42,Beaver County,42007,County,2021-04-01,Partial,30594,163929
 Indiana,18,Cass County,18017,County,2021-04-01,Partial,8203,37689
-Wyoming,56,Sweetwater County,56037,County,2021-04-01,Partial,NaN,42343
 Louisiana,22,Acadia Parish,22001,County,2021-04-01,Partial,23449,62045
 New York,36,Greene County,36039,County,2021-04-01,Partial,14276,47188
 New York,36,Cattaraugus County,36009,County,2021-04-01,Partial,19601,76117
 Minnesota,27,Goodhue County,27049,County,2021-04-01,Partial,16118,46340
-Connecticut,9,Tolland County,9013,County,2021-04-01,Partial,NaN,150721
 Oregon,41,Lake County,41037,County,2021-04-01,Partial,1788,7869
 Oregon,41,Columbia County,41009,County,2021-04-01,Partial,10752,52354
 Iowa,19,Johnson County,19103,County,2021-04-01,Partial,58330,151140
@@ -2019,7 +2009,6 @@ Louisiana,22,Rapides Parish,22079,County,2021-04-01,Partial,50712,129648
 Indiana,18,Lake County,18089,County,2021-04-01,Partial,110763,485493
 Washington,53,Adams County,53001,County,2021-04-01,Partial,3791,19983
 Virginia,51,Highland County,51091,County,2021-04-01,Partial,911,2190
-Connecticut,9,Windham County,9015,County,2021-04-01,Partial,NaN,116782
 Florida,12,Alachua County,12001,County,2021-04-01,Partial,78647,269043
 Louisiana,22,Tensas Parish,22107,County,2021-04-01,Partial,2442,4334
 Virginia,51,Henry County,51089,County,2021-04-01,Partial,14508,50557
@@ -2029,7 +2018,6 @@ Illinois,17,Cook County,17031,County,2021-04-01,Partial,1500580,5150233
 Missouri,29,Putnam County,29171,County,2021-04-01,Partial,776,4696
 Missouri,29,Johnson County,29101,County,2021-04-01,Partial,8121,54062
 Wisconsin,55,La Crosse County,55063,County,2021-04-01,Partial,41580,118016
-Wyoming,56,Sheridan County,56033,County,2021-04-01,Partial,NaN,30485
 Pennsylvania,42,Erie County,42049,County,2021-04-01,Partial,72517,269728
 Illinois,17,Woodford County,17203,County,2021-04-01,Partial,11411,38459
 California,6,Colusa County,6011,County,2021-04-01,Partial,5044,21547
@@ -2041,7 +2029,6 @@ Illinois,17,Schuyler County,17169,County,2021-04-01,Partial,2027,6768
 New Jersey,34,Cumberland County,34011,County,2021-04-01,Partial,41923,149527
 Wisconsin,55,Richland County,55103,County,2021-04-01,Partial,5420,17252
 Mississippi,28,Marion County,28091,County,2021-04-01,Partial,4733,24573
-Connecticut,9,New London County,9011,County,2021-04-01,Partial,NaN,265206
 Missouri,29,Oregon County,29149,County,2021-04-01,Partial,1493,10529
 Missouri,29,Worth County,29227,County,2021-04-01,Partial,515,2013
 Indiana,18,Fountain County,18045,County,2021-04-01,Partial,4390,16346
@@ -2090,9 +2077,7 @@ New Jersey,34,Passaic County,34031,County,2021-04-01,Partial,127720,501826
 Minnesota,27,Mower County,27099,County,2021-04-01,Partial,14034,40062
 Virginia,51,Gloucester County,51073,County,2021-04-01,Partial,11183,37348
 Virginia,51,Russell County,51167,County,2021-04-01,Partial,8883,26586
-Wyoming,56,Fremont County,56013,County,2021-04-01,Partial,NaN,39261
 Illinois,17,Logan County,17107,County,2021-04-01,Partial,6937,28618
-Wyoming,56,Sublette County,56035,County,2021-04-01,Partial,NaN,9831
 New York,36,Rockland County,36087,County,2021-04-01,Partial,95888,325789
 Iowa,19,Clayton County,19043,County,2021-04-01,Partial,4968,17549
 Virginia,51,Buckingham County,51029,County,2021-04-01,Partial,4318,17148
@@ -2126,12 +2111,10 @@ Virginia,51,Colonial Heights City,51570,County,2021-04-01,Partial,4822,17370
 Virginia,51,Bedford County,51019,County,2021-04-01,Partial,23045,78997
 Indiana,18,Wells County,18179,County,2021-04-01,Partial,6713,28296
 Montana,30,Wibaux County,30109,County,2021-04-01,Partial,202,969
-Wyoming,56,Washakie County,56043,County,2021-04-01,Partial,NaN,7805
 Indiana,18,Montgomery County,18107,County,2021-04-01,Partial,9058,38338
 Washington,53,Whitman County,53075,County,2021-04-01,Partial,8966,50104
 Montana,30,Silver Bow County,30093,County,2021-04-01,Partial,11374,34915
 New Jersey,34,Warren County,34041,County,2021-04-01,Partial,27845,105267
-Wyoming,56,Natrona County,56025,County,2021-04-01,Partial,NaN,79858
 Virginia,51,Stafford County,51179,County,2021-04-01,Partial,37120,152882
 California,6,San Francisco County,6075,County,2021-04-01,Partial,350584,881549
 Pennsylvania,42,Venango County,42121,County,2021-04-01,Partial,9771,50668
@@ -2232,7 +2215,6 @@ Wisconsin,55,Menominee County,55078,County,2021-04-01,Partial,1819,4556
 Pennsylvania,42,Dauphin County,42043,County,2021-04-01,Partial,60954,278299
 Minnesota,27,Red Lake County,27125,County,2021-04-01,Partial,1486,4055
 Illinois,17,Henry County,17073,County,2021-04-01,Partial,15151,48913
-Wyoming,56,Converse County,56009,County,2021-04-01,Partial,NaN,13822
 Wisconsin,55,Jefferson County,55055,County,2021-04-01,Partial,23593,84769
 Pennsylvania,42,Tioga County,42117,County,2021-04-01,Partial,7025,40591
 California,6,Alameda County,6001,County,2021-04-01,Partial,572764,1671329
@@ -2310,7 +2292,6 @@ Louisiana,22,St. James Parish,22093,County,2021-04-01,Partial,8980,21096
 Illinois,17,Moultrie County,17139,County,2021-04-01,Partial,3056,14501
 Florida,12,Dixie County,12029,County,2021-04-01,Partial,2424,16826
 Mississippi,28,Humphreys County,28053,County,2021-04-01,Partial,2031,8064
-Wyoming,56,Carbon County,56007,County,2021-04-01,Partial,NaN,14800
 California,6,Alpine County,6003,County,2021-04-01,Partial,697,1129
 New York,36,St. Lawrence County,36089,County,2021-04-01,Partial,38588,107740
 California,6,Siskiyou County,6093,County,2021-04-01,Partial,11731,43539
@@ -2332,7 +2313,6 @@ Pennsylvania,42,Wayne County,42127,County,2021-04-01,Partial,14668,51361
 Virginia,51,Prince Edward County,51147,County,2021-04-01,Partial,4815,22802
 Minnesota,27,Mahnomen County,27087,County,2021-04-01,Partial,2165,5527
 Pennsylvania,42,Bradford County,42015,County,2021-04-01,Partial,11516,60323
-Wyoming,56,Crook County,56011,County,2021-04-01,Partial,NaN,7584
 New York,36,Montgomery County,36057,County,2021-04-01,Partial,15636,49221
 Louisiana,22,Red River Parish,22081,County,2021-04-01,Partial,2799,8442
 Minnesota,27,Norman County,27107,County,2021-04-01,Partial,2458,6375
@@ -2349,7 +2329,6 @@ Illinois,17,Stephenson County,17177,County,2021-04-01,Partial,10828,44498
 Minnesota,27,Carver County,27019,County,2021-04-01,Partial,27659,105089
 Virginia,51,Winchester City,51840,County,2021-04-01,Partial,7578,28078
 Iowa,19,Marion County,19125,County,2021-04-01,Partial,11360,33253
-Wyoming,56,Hot Springs County,56017,County,2021-04-01,Partial,NaN,4413
 Washington,53,Wahkiakum County,53069,County,2021-04-01,Partial,1272,4488
 California,6,Tehama County,6103,County,2021-04-01,Partial,11054,65084
 Missouri,29,Shannon County,29203,County,2021-04-01,Partial,1129,8166
@@ -2385,7 +2364,6 @@ Oregon,41,Wheeler County,41069,County,2021-04-01,Partial,529,1332
 Indiana,18,Switzerland County,18155,County,2021-04-01,Partial,1912,10751
 Wisconsin,55,Sauk County,55111,County,2021-04-01,Partial,20502,64442
 Missouri,29,Cass County,29037,County,2021-04-01,Partial,22921,105780
-Connecticut,9,Hartford County,9003,County,2021-04-01,Partial,NaN,891720
 Pennsylvania,42,Lebanon County,42075,County,2021-04-01,Partial,31876,141793
 Indiana,18,Union County,18161,County,2021-04-01,Partial,1927,7054
 Missouri,29,Lewis County,29111,County,2021-04-01,Partial,1727,9776
@@ -2415,7 +2393,6 @@ Mississippi,28,Montgomery County,28097,County,2021-04-01,Partial,2877,9775
 Indiana,18,Pike County,18125,County,2021-04-01,Partial,4316,12389
 Pennsylvania,42,Lackawanna County,42069,County,2021-04-01,Partial,76938,209674
 Mississippi,28,Lowndes County,28087,County,2021-04-01,Partial,14132,58595
-Wyoming,56,Uinta County,56041,County,2021-04-01,Partial,NaN,20226
 Pennsylvania,42,Mifflin County,42087,County,2021-04-01,Partial,11555,46138
 Louisiana,22,St. Mary Parish,22101,County,2021-04-01,Partial,17995,49348
 Iowa,19,Pottawattamie County,19155,County,2021-04-01,Partial,33286,93206
@@ -2477,7 +2454,6 @@ Mississippi,28,Washington County,28151,County,2021-04-01,Partial,11143,43909
 Missouri,29,Knox County,29103,County,2021-04-01,Partial,1030,3959
 Illinois,17,Kankakee County,17091,County,2021-04-01,Partial,23466,109862
 Montana,30,Pondera County,30073,County,2021-04-01,Partial,1669,5911
-Wyoming,56,Big Horn County,56003,County,2021-04-01,Partial,NaN,11790
 Delaware,10,Sussex County,10005,County,2021-04-01,Partial,NaN,234225
 Illinois,17,Ford County,17053,County,2021-04-01,Partial,4089,12961
 Louisiana,22,Jefferson Parish,22051,County,2021-04-01,Partial,229935,432493
@@ -2511,7 +2487,6 @@ Louisiana,22,St. Landry Parish,22097,County,2021-04-01,Partial,28710,82124
 Mississippi,28,Jones County,28067,County,2021-04-01,Partial,14816,68098
 Mississippi,28,Monroe County,28095,County,2021-04-01,Partial,8841,35252
 Pennsylvania,42,Perry County,42099,County,2021-04-01,Partial,11323,46272
-Wyoming,56,Johnson County,56019,County,2021-04-01,Partial,NaN,8445
 Florida,12,Miami-Dade County,12086,County,2021-04-01,Partial,738909,2716940
 Florida,12,Putnam County,12107,County,2021-04-01,Partial,14106,74521
 Wisconsin,55,Marinette County,55075,County,2021-04-01,Partial,10597,40350
@@ -2589,7 +2564,6 @@ Mississippi,28,Neshoba County,28099,County,2021-04-01,Partial,4798,29118
 Indiana,18,Allen County,18003,County,2021-04-01,Partial,91657,379299
 Missouri,29,Monroe County,29137,County,2021-04-01,Partial,2110,8644
 Wisconsin,55,Crawford County,55023,County,2021-04-01,Partial,5096,16131
-Connecticut,9,Middlesex County,9007,County,2021-04-01,Partial,NaN,162436
 Indiana,18,Blackford County,18009,County,2021-04-01,Partial,2883,11758
 Virginia,51,Nelson County,51125,County,2021-04-01,Partial,5679,14930
 Virginia,51,Roanoke City,51770,County,2021-04-01,Partial,27493,99143
@@ -2601,7 +2575,6 @@ California,6,Marin County,6041,County,2021-04-01,Partial,122636,258826
 Minnesota,27,Anoka County,27003,County,2021-04-01,Partial,79317,356921
 Louisiana,22,Ouachita Parish,22073,County,2021-04-01,Partial,58556,153279
 Mississippi,28,Simpson County,28127,County,2021-04-01,Partial,6096,26658
-Wyoming,56,Albany County,56001,County,2021-04-01,Partial,NaN,38880
 New York,36,Franklin County,36033,County,2021-04-01,Partial,17926,50022
 Missouri,29,Barry County,29009,County,2021-04-01,Partial,7918,35789
 Virginia,51,Falls Church City,51610,County,2021-04-01,Partial,4538,14617
@@ -2670,7 +2643,6 @@ Indiana,18,Huntington County,18069,County,2021-04-01,Partial,9996,36520
 Virginia,51,Alleghany County,51005,County,2021-04-01,Partial,4604,14860
 Mississippi,28,Rankin County,28121,County,2021-04-01,Partial,41792,155271
 California,6,Sonoma County,6097,County,2021-04-01,Partial,192836,494336
-Wyoming,56,Campbell County,56005,County,2021-04-01,Partial,NaN,46341
 Illinois,17,Cass County,17017,County,2021-04-01,Partial,3881,12147
 Illinois,17,Union County,17181,County,2021-04-01,Partial,5326,16653
 Minnesota,27,Chippewa County,27023,County,2021-04-01,Partial,4104,11800
@@ -2710,7 +2682,6 @@ Iowa,19,Wapello County,19179,County,2021-04-01,Partial,8295,34969
 Virginia,51,Pulaski County,51155,County,2021-04-01,Partial,10495,34027
 Mississippi,28,Choctaw County,28019,County,2021-04-01,Partial,1756,8210
 Missouri,29,Montgomery County,29139,County,2021-04-01,Partial,2853,11551
-Wyoming,56,Teton County,56039,County,2021-04-01,Partial,NaN,23464
 Missouri,29,Mercer County,29129,County,2021-04-01,Partial,595,3617
 New York,36,Albany County,36001,County,2021-04-01,Partial,114663,305506
 Wisconsin,55,Brown County,55009,County,2021-04-01,Partial,78792,264542
@@ -2744,7 +2715,6 @@ Wisconsin,55,Green County,55045,County,2021-04-01,Partial,12909,36960
 Illinois,17,Clay County,17025,County,2021-04-01,Partial,2796,13184
 Wisconsin,55,Washburn County,55129,County,2021-04-01,Partial,5810,15720
 Missouri,29,Audrain County,29007,County,2021-04-01,Partial,5224,25388
-Connecticut,9,Fairfield County,9001,County,2021-04-01,Partial,NaN,943332
 Missouri,29,Randolph County,29175,County,2021-04-01,Partial,4446,24748
 Wisconsin,55,Trempealeau County,55121,County,2021-04-01,Partial,10178,29649
 Montana,30,Ravalli County,30081,County,2021-04-01,Partial,12031,43806
@@ -2778,7 +2748,6 @@ Minnesota,27,Pope County,27121,County,2021-04-01,Partial,3823,11249
 Oregon,41,Clackamas County,41005,County,2021-04-01,Partial,98367,418187
 Louisiana,22,Lincoln Parish,22061,County,2021-04-01,Partial,18599,46742
 New York,36,Otsego County,36077,County,2021-04-01,Partial,20392,59493
-Wyoming,56,Lincoln County,56023,County,2021-04-01,Partial,NaN,19830
 New Mexico,35,Grant County,35017,County,2021-04-01,Partial,10564,26998
 Indiana,18,Knox County,18083,County,2021-04-01,Partial,11216,36594
 California,6,Modoc County,6049,County,2021-04-01,Partial,2205,8841
@@ -2870,7 +2839,6 @@ Montana,30,Roosevelt County,30085,County,2021-04-01,Complete,1459,11004
 Indiana,18,LaGrange County,18087,County,2021-04-01,Complete,3738,39614
 Wisconsin,55,Marquette County,55077,County,2021-04-01,Complete,2996,15574
 New York,36,Saratoga County,36091,County,2021-04-01,Complete,51112,229863
-Wyoming,56,Park County,56029,County,2021-04-01,Complete,5999,29194
 Illinois,17,Madison County,17119,County,2021-04-01,Complete,55704,262966
 Illinois,17,Saline County,17165,County,2021-04-01,Complete,4650,23491
 Mississippi,28,Lee County,28081,County,2021-04-01,Complete,12386,85436
@@ -2898,11 +2866,9 @@ Washington,53,Skagit County,53057,County,2021-04-01,Complete,26064,129205
 Indiana,18,St. Joseph County,18141,County,2021-04-01,Complete,53337,271826
 California,6,Los Angeles County,6037,County,2021-04-01,Complete,1615645,10039107
 Wisconsin,55,Waupaca County,55135,County,2021-04-01,Complete,8013,50990
-Wyoming,56,Niobrara County,56027,County,2021-04-01,Complete,424,2356
 Mississippi,28,Newton County,28101,County,2021-04-01,Complete,3378,21018
 Illinois,17,Coles County,17029,County,2021-04-01,Complete,7641,50621
 Florida,12,Martin County,12085,County,2021-04-01,Complete,34309,161000
-Wyoming,56,Goshen County,56015,County,2021-04-01,Complete,2380,13211
 Pennsylvania,42,Berks County,42011,County,2021-04-01,Complete,49818,421164
 Illinois,17,Kane County,17089,County,2021-04-01,Complete,80182,532403
 New Jersey,34,Monmouth County,34025,County,2021-04-01,Complete,118170,618795
@@ -3082,7 +3048,6 @@ Mississippi,28,Jackson County,28059,County,2021-04-01,Complete,19433,143617
 Illinois,17,Clark County,17023,County,2021-04-01,Complete,2132,15441
 Illinois,17,Wabash County,17185,County,2021-04-01,Complete,2356,11520
 Florida,12,Bradford County,12007,County,2021-04-01,Complete,2863,28201
-Connecticut,9,Litchfield County,9005,County,2021-04-01,Complete,39645,180333
 New York,36,Cayuga County,36011,County,2021-04-01,Complete,14969,76576
 Illinois,17,Christian County,17021,County,2021-04-01,Complete,5620,32304
 Oregon,41,Linn County,41043,County,2021-04-01,Complete,18550,129749
@@ -3174,7 +3139,6 @@ Missouri,29,Iron County,29093,County,2021-04-01,Complete,1206,10125
 Montana,30,Lincoln County,30053,County,2021-04-01,Complete,3589,19980
 Iowa,19,Benton County,19011,County,2021-04-01,Complete,3120,25645
 Iowa,19,Butler County,19023,County,2021-04-01,Complete,2178,14439
-Wyoming,56,Weston County,56045,County,2021-04-01,Complete,1216,6927
 Pennsylvania,42,Lehigh County,42077,County,2021-04-01,Complete,65613,369318
 Illinois,17,Piatt County,17147,County,2021-04-01,Complete,4279,16344
 Pennsylvania,42,Juniata County,42067,County,2021-04-01,Complete,3464,24763
@@ -3186,7 +3150,6 @@ Mississippi,28,Smith County,28129,County,2021-04-01,Complete,1812,15916
 Minnesota,27,Lincoln County,27081,County,2021-04-01,Complete,1356,5639
 Iowa,19,Cedar County,19031,County,2021-04-01,Complete,2806,18627
 New Mexico,35,Mora County,35033,County,2021-04-01,Complete,1186,4521
-Connecticut,9,New Haven County,9009,County,2021-04-01,Complete,183847,854757
 Minnesota,27,Grant County,27051,County,2021-04-01,Complete,1503,5972
 Wisconsin,55,Waukesha County,55133,County,2021-04-01,Complete,77518,404198
 Washington,53,Douglas County,53017,County,2021-04-01,Complete,8197,43429
@@ -3277,10 +3240,8 @@ Iowa,19,Buena Vista County,19021,County,2021-04-01,Complete,5454,19620
 California,6,Amador County,6005,County,2021-04-01,Complete,6203,39752
 Iowa,19,Hardin County,19083,County,2021-04-01,Complete,2665,16846
 Iowa,19,Mills County,19129,County,2021-04-01,Complete,2177,15109
-Wyoming,56,Laramie County,56021,County,2021-04-01,Complete,20820,99500
 Wisconsin,55,Wood County,55141,County,2021-04-01,Complete,11970,72999
 Mississippi,28,Leflore County,28083,County,2021-04-01,Complete,5022,28183
-Wyoming,56,Platte County,56031,County,2021-04-01,Complete,1151,8393
 Indiana,18,Steuben County,18151,County,2021-04-01,Complete,7796,34594
 Minnesota,27,Itasca County,27061,County,2021-04-01,Complete,9868,45130
 Missouri,29,Newton County,29145,County,2021-04-01,Complete,4227,58236
@@ -3306,12 +3267,10 @@ Florida,12,Escambia County,12033,County,2021-04-01,Complete,43347,318316
 Missouri,29,Scotland County,29199,County,2021-04-01,Complete,732,4902
 Pennsylvania,42,Beaver County,42007,County,2021-04-01,Complete,17506,163929
 Indiana,18,Cass County,18017,County,2021-04-01,Complete,5448,37689
-Wyoming,56,Sweetwater County,56037,County,2021-04-01,Complete,7425,42343
 Louisiana,22,Acadia Parish,22001,County,2021-04-01,Complete,9079,62045
 New York,36,Greene County,36039,County,2021-04-01,Complete,6669,47188
 New York,36,Cattaraugus County,36009,County,2021-04-01,Complete,11708,76117
 Minnesota,27,Goodhue County,27049,County,2021-04-01,Complete,9762,46340
-Connecticut,9,Tolland County,9013,County,2021-04-01,Complete,29076,150721
 Oregon,41,Lake County,41037,County,2021-04-01,Complete,1216,7869
 Oregon,41,Columbia County,41009,County,2021-04-01,Complete,5537,52354
 Iowa,19,Johnson County,19103,County,2021-04-01,Complete,42646,151140
@@ -3338,7 +3297,6 @@ Louisiana,22,Rapides Parish,22079,County,2021-04-01,Complete,20120,129648
 Indiana,18,Lake County,18089,County,2021-04-01,Complete,63883,485493
 Washington,53,Adams County,53001,County,2021-04-01,Complete,2322,19983
 Virginia,51,Highland County,51091,County,2021-04-01,Complete,534,2190
-Connecticut,9,Windham County,9015,County,2021-04-01,Complete,21897,116782
 Florida,12,Alachua County,12001,County,2021-04-01,Complete,49991,269043
 Louisiana,22,Tensas Parish,22107,County,2021-04-01,Complete,970,4334
 Virginia,51,Henry County,51089,County,2021-04-01,Complete,6898,50557
@@ -3348,7 +3306,6 @@ Illinois,17,Cook County,17031,County,2021-04-01,Complete,828020,5150233
 Missouri,29,Putnam County,29171,County,2021-04-01,Complete,541,4696
 Missouri,29,Johnson County,29101,County,2021-04-01,Complete,4933,54062
 Wisconsin,55,La Crosse County,55063,County,2021-04-01,Complete,24307,118016
-Wyoming,56,Sheridan County,56033,County,2021-04-01,Complete,6915,30485
 Pennsylvania,42,Erie County,42049,County,2021-04-01,Complete,48618,269728
 Illinois,17,Woodford County,17203,County,2021-04-01,Complete,7732,38459
 California,6,Colusa County,6011,County,2021-04-01,Complete,2620,21547
@@ -3360,7 +3317,6 @@ Illinois,17,Schuyler County,17169,County,2021-04-01,Complete,1671,6768
 New Jersey,34,Cumberland County,34011,County,2021-04-01,Complete,20275,149527
 Wisconsin,55,Richland County,55103,County,2021-04-01,Complete,3998,17252
 Mississippi,28,Marion County,28091,County,2021-04-01,Complete,3288,24573
-Connecticut,9,New London County,9011,County,2021-04-01,Complete,62929,265206
 Missouri,29,Oregon County,29149,County,2021-04-01,Complete,927,10529
 Missouri,29,Worth County,29227,County,2021-04-01,Complete,432,2013
 Indiana,18,Fountain County,18045,County,2021-04-01,Complete,2580,16346
@@ -3409,9 +3365,7 @@ New Jersey,34,Passaic County,34031,County,2021-04-01,Complete,67000,501826
 Minnesota,27,Mower County,27099,County,2021-04-01,Complete,7521,40062
 Virginia,51,Gloucester County,51073,County,2021-04-01,Complete,6607,37348
 Virginia,51,Russell County,51167,County,2021-04-01,Complete,5386,26586
-Wyoming,56,Fremont County,56013,County,2021-04-01,Complete,10731,39261
 Illinois,17,Logan County,17107,County,2021-04-01,Complete,6198,28618
-Wyoming,56,Sublette County,56035,County,2021-04-01,Complete,1402,9831
 New York,36,Rockland County,36087,County,2021-04-01,Complete,54438,325789
 Iowa,19,Clayton County,19043,County,2021-04-01,Complete,2898,17549
 Virginia,51,Buckingham County,51029,County,2021-04-01,Complete,2394,17148
@@ -3445,12 +3399,10 @@ Virginia,51,Colonial Heights City,51570,County,2021-04-01,Complete,2042,17370
 Virginia,51,Bedford County,51019,County,2021-04-01,Complete,11471,78997
 Indiana,18,Wells County,18179,County,2021-04-01,Complete,4755,28296
 Montana,30,Wibaux County,30109,County,2021-04-01,Complete,159,969
-Wyoming,56,Washakie County,56043,County,2021-04-01,Complete,1608,7805
 Indiana,18,Montgomery County,18107,County,2021-04-01,Complete,5704,38338
 Washington,53,Whitman County,53075,County,2021-04-01,Complete,6390,50104
 Montana,30,Silver Bow County,30093,County,2021-04-01,Complete,7666,34915
 New Jersey,34,Warren County,34041,County,2021-04-01,Complete,16039,105267
-Wyoming,56,Natrona County,56025,County,2021-04-01,Complete,13339,79858
 Virginia,51,Stafford County,51179,County,2021-04-01,Complete,20346,152882
 California,6,San Francisco County,6075,County,2021-04-01,Complete,194752,881549
 Pennsylvania,42,Venango County,42121,County,2021-04-01,Complete,7419,50668
@@ -3551,7 +3503,6 @@ Wisconsin,55,Menominee County,55078,County,2021-04-01,Complete,1272,4556
 Pennsylvania,42,Dauphin County,42043,County,2021-04-01,Complete,30789,278299
 Minnesota,27,Red Lake County,27125,County,2021-04-01,Complete,903,4055
 Illinois,17,Henry County,17073,County,2021-04-01,Complete,9043,48913
-Wyoming,56,Converse County,56009,County,2021-04-01,Complete,1990,13822
 Wisconsin,55,Jefferson County,55055,County,2021-04-01,Complete,12981,84769
 Pennsylvania,42,Tioga County,42117,County,2021-04-01,Complete,4746,40591
 California,6,Alameda County,6001,County,2021-04-01,Complete,356626,1671329
@@ -3629,7 +3580,6 @@ Louisiana,22,St. James Parish,22093,County,2021-04-01,Complete,3187,21096
 Illinois,17,Moultrie County,17139,County,2021-04-01,Complete,2340,14501
 Florida,12,Dixie County,12029,County,2021-04-01,Complete,1537,16826
 Mississippi,28,Humphreys County,28053,County,2021-04-01,Complete,1023,8064
-Wyoming,56,Carbon County,56007,County,2021-04-01,Complete,2677,14800
 California,6,Alpine County,6003,County,2021-04-01,Complete,322,1129
 New York,36,St. Lawrence County,36089,County,2021-04-01,Complete,28530,107740
 California,6,Siskiyou County,6093,County,2021-04-01,Complete,6756,43539
@@ -3651,7 +3601,6 @@ Pennsylvania,42,Wayne County,42127,County,2021-04-01,Complete,7852,51361
 Virginia,51,Prince Edward County,51147,County,2021-04-01,Complete,2990,22802
 Minnesota,27,Mahnomen County,27087,County,2021-04-01,Complete,1881,5527
 Pennsylvania,42,Bradford County,42015,County,2021-04-01,Complete,8014,60323
-Wyoming,56,Crook County,56011,County,2021-04-01,Complete,1012,7584
 New York,36,Montgomery County,36057,County,2021-04-01,Complete,8898,49221
 Louisiana,22,Red River Parish,22081,County,2021-04-01,Complete,1144,8442
 Minnesota,27,Norman County,27107,County,2021-04-01,Complete,1838,6375
@@ -3668,7 +3617,6 @@ Illinois,17,Stephenson County,17177,County,2021-04-01,Complete,7564,44498
 Minnesota,27,Carver County,27019,County,2021-04-01,Complete,16909,105089
 Virginia,51,Winchester City,51840,County,2021-04-01,Complete,4888,28078
 Iowa,19,Marion County,19125,County,2021-04-01,Complete,7068,33253
-Wyoming,56,Hot Springs County,56017,County,2021-04-01,Complete,1077,4413
 Washington,53,Wahkiakum County,53069,County,2021-04-01,Complete,840,4488
 California,6,Tehama County,6103,County,2021-04-01,Complete,6130,65084
 Missouri,29,Shannon County,29203,County,2021-04-01,Complete,623,8166
@@ -3704,7 +3652,6 @@ Oregon,41,Wheeler County,41069,County,2021-04-01,Complete,445,1332
 Indiana,18,Switzerland County,18155,County,2021-04-01,Complete,1237,10751
 Wisconsin,55,Sauk County,55111,County,2021-04-01,Complete,12747,64442
 Missouri,29,Cass County,29037,County,2021-04-01,Complete,12890,105780
-Connecticut,9,Hartford County,9003,County,2021-04-01,Complete,183735,891720
 Pennsylvania,42,Lebanon County,42075,County,2021-04-01,Complete,18504,141793
 Indiana,18,Union County,18161,County,2021-04-01,Complete,1412,7054
 Missouri,29,Lewis County,29111,County,2021-04-01,Complete,1217,9776
@@ -3734,7 +3681,6 @@ Mississippi,28,Montgomery County,28097,County,2021-04-01,Complete,1732,9775
 Indiana,18,Pike County,18125,County,2021-04-01,Complete,3011,12389
 Pennsylvania,42,Lackawanna County,42069,County,2021-04-01,Complete,47266,209674
 Mississippi,28,Lowndes County,28087,County,2021-04-01,Complete,9481,58595
-Wyoming,56,Uinta County,56041,County,2021-04-01,Complete,3093,20226
 Pennsylvania,42,Mifflin County,42087,County,2021-04-01,Complete,7644,46138
 Louisiana,22,St. Mary Parish,22101,County,2021-04-01,Complete,7093,49348
 Iowa,19,Pottawattamie County,19155,County,2021-04-01,Complete,23236,93206
@@ -3796,7 +3742,6 @@ Mississippi,28,Washington County,28151,County,2021-04-01,Complete,6098,43909
 Missouri,29,Knox County,29103,County,2021-04-01,Complete,807,3959
 Illinois,17,Kankakee County,17091,County,2021-04-01,Complete,13056,109862
 Montana,30,Pondera County,30073,County,2021-04-01,Complete,1099,5911
-Wyoming,56,Big Horn County,56003,County,2021-04-01,Complete,2053,11790
 Delaware,10,Sussex County,10005,County,2021-04-01,Complete,50760,234225
 Illinois,17,Ford County,17053,County,2021-04-01,Complete,2598,12961
 Louisiana,22,Jefferson Parish,22051,County,2021-04-01,Complete,88770,432493
@@ -3830,7 +3775,6 @@ Louisiana,22,St. Landry Parish,22097,County,2021-04-01,Complete,11635,82124
 Mississippi,28,Jones County,28067,County,2021-04-01,Complete,10344,68098
 Mississippi,28,Monroe County,28095,County,2021-04-01,Complete,5583,35252
 Pennsylvania,42,Perry County,42099,County,2021-04-01,Complete,4348,46272
-Wyoming,56,Johnson County,56019,County,2021-04-01,Complete,1753,8445
 Florida,12,Miami-Dade County,12086,County,2021-04-01,Complete,403603,2716940
 Florida,12,Putnam County,12107,County,2021-04-01,Complete,7778,74521
 Wisconsin,55,Marinette County,55075,County,2021-04-01,Complete,6532,40350
@@ -3908,7 +3852,6 @@ Mississippi,28,Neshoba County,28099,County,2021-04-01,Complete,3355,29118
 Indiana,18,Allen County,18003,County,2021-04-01,Complete,55787,379299
 Missouri,29,Monroe County,29137,County,2021-04-01,Complete,1478,8644
 Wisconsin,55,Crawford County,55023,County,2021-04-01,Complete,3113,16131
-Connecticut,9,Middlesex County,9007,County,2021-04-01,Complete,42616,162436
 Indiana,18,Blackford County,18009,County,2021-04-01,Complete,2125,11758
 Virginia,51,Nelson County,51125,County,2021-04-01,Complete,3129,14930
 Virginia,51,Roanoke City,51770,County,2021-04-01,Complete,16252,99143
@@ -3920,7 +3863,6 @@ California,6,Marin County,6041,County,2021-04-01,Complete,75042,258826
 Minnesota,27,Anoka County,27003,County,2021-04-01,Complete,47996,356921
 Louisiana,22,Ouachita Parish,22073,County,2021-04-01,Complete,22729,153279
 Mississippi,28,Simpson County,28127,County,2021-04-01,Complete,3914,26658
-Wyoming,56,Albany County,56001,County,2021-04-01,Complete,6661,38880
 New York,36,Franklin County,36033,County,2021-04-01,Complete,12694,50022
 Missouri,29,Barry County,29009,County,2021-04-01,Complete,3938,35789
 Virginia,51,Falls Church City,51610,County,2021-04-01,Complete,2331,14617
@@ -3989,7 +3931,6 @@ Indiana,18,Huntington County,18069,County,2021-04-01,Complete,7102,36520
 Virginia,51,Alleghany County,51005,County,2021-04-01,Complete,2186,14860
 Mississippi,28,Rankin County,28121,County,2021-04-01,Complete,28672,155271
 California,6,Sonoma County,6097,County,2021-04-01,Complete,113736,494336
-Wyoming,56,Campbell County,56005,County,2021-04-01,Complete,4759,46341
 Illinois,17,Cass County,17017,County,2021-04-01,Complete,2949,12147
 Illinois,17,Union County,17181,County,2021-04-01,Complete,3900,16653
 Minnesota,27,Chippewa County,27023,County,2021-04-01,Complete,2725,11800
@@ -4029,7 +3970,6 @@ Iowa,19,Wapello County,19179,County,2021-04-01,Complete,5070,34969
 Virginia,51,Pulaski County,51155,County,2021-04-01,Complete,6727,34027
 Mississippi,28,Choctaw County,28019,County,2021-04-01,Complete,1006,8210
 Missouri,29,Montgomery County,29139,County,2021-04-01,Complete,1881,11551
-Wyoming,56,Teton County,56039,County,2021-04-01,Complete,6076,23464
 Missouri,29,Mercer County,29129,County,2021-04-01,Complete,458,3617
 New York,36,Albany County,36001,County,2021-04-01,Complete,70255,305506
 Wisconsin,55,Brown County,55009,County,2021-04-01,Complete,45442,264542
@@ -4063,7 +4003,6 @@ Wisconsin,55,Green County,55045,County,2021-04-01,Complete,7387,36960
 Illinois,17,Clay County,17025,County,2021-04-01,Complete,2469,13184
 Wisconsin,55,Washburn County,55129,County,2021-04-01,Complete,3428,15720
 Missouri,29,Audrain County,29007,County,2021-04-01,Complete,3385,25388
-Connecticut,9,Fairfield County,9001,County,2021-04-01,Complete,168687,943332
 Missouri,29,Randolph County,29175,County,2021-04-01,Complete,2247,24748
 Wisconsin,55,Trempealeau County,55121,County,2021-04-01,Complete,6533,29649
 Montana,30,Ravalli County,30081,County,2021-04-01,Complete,7020,43806
@@ -4097,7 +4036,6 @@ Minnesota,27,Pope County,27121,County,2021-04-01,Complete,2702,11249
 Oregon,41,Clackamas County,41005,County,2021-04-01,Complete,57797,418187
 Louisiana,22,Lincoln Parish,22061,County,2021-04-01,Complete,7443,46742
 New York,36,Otsego County,36077,County,2021-04-01,Complete,12345,59493
-Wyoming,56,Lincoln County,56023,County,2021-04-01,Complete,2566,19830
 New Mexico,35,Grant County,35017,County,2021-04-01,Complete,5312,26998
 Indiana,18,Knox County,18083,County,2021-04-01,Complete,9135,36594
 California,6,Modoc County,6049,County,2021-04-01,Complete,1700,8841
@@ -5655,7 +5593,6 @@ Montana,30,Roosevelt County,30085,County,2021-04-01,Partial Coverage,20.03816793
 Indiana,18,LaGrange County,18087,County,2021-04-01,Partial Coverage,14.26263442217398,39614
 Wisconsin,55,Marquette County,55077,County,2021-04-01,Partial Coverage,28.483369718762038,15574
 New York,36,Saratoga County,36091,County,2021-04-01,Partial Coverage,36.02798188486185,229863
-Wyoming,56,Park County,56029,County,2021-04-01,Partial Coverage,0,29194
 Illinois,17,Madison County,17119,County,2021-04-01,Partial Coverage,28.7626537270978,262966
 Illinois,17,Saline County,17165,County,2021-04-01,Partial Coverage,23.97939636456515,23491
 Mississippi,28,Lee County,28081,County,2021-04-01,Partial Coverage,22.915398660986,85436
@@ -5683,11 +5620,9 @@ Washington,53,Skagit County,53057,County,2021-04-01,Partial Coverage,31.07310088
 Indiana,18,St. Joseph County,18141,County,2021-04-01,Partial Coverage,28.559078233870196,271826
 California,6,Los Angeles County,6037,County,2021-04-01,Partial Coverage,30.06926811318975,10039107
 Wisconsin,55,Waupaca County,55135,County,2021-04-01,Partial Coverage,26.313002549519513,50990
-Wyoming,56,Niobrara County,56027,County,2021-04-01,Partial Coverage,0,2356
 Mississippi,28,Newton County,28101,County,2021-04-01,Partial Coverage,25.373489390046625,21018
 Illinois,17,Coles County,17029,County,2021-04-01,Partial Coverage,23.77274253768199,50621
 Florida,12,Martin County,12085,County,2021-04-01,Partial Coverage,33.34844720496894,161000
-Wyoming,56,Goshen County,56015,County,2021-04-01,Partial Coverage,0,13211
 Pennsylvania,42,Berks County,42011,County,2021-04-01,Partial Coverage,23.265046395228463,421164
 Illinois,17,Kane County,17089,County,2021-04-01,Partial Coverage,26.265441780004995,532403
 New Jersey,34,Monmouth County,34025,County,2021-04-01,Partial Coverage,34.35338036021623,618795
@@ -5867,7 +5802,6 @@ Mississippi,28,Jackson County,28059,County,2021-04-01,Partial Coverage,22.190269
 Illinois,17,Clark County,17023,County,2021-04-01,Partial Coverage,24.49323230360728,15441
 Illinois,17,Wabash County,17185,County,2021-04-01,Partial Coverage,25.755208333333332,11520
 Florida,12,Bradford County,12007,County,2021-04-01,Partial Coverage,14.495939860288642,28201
-Connecticut,9,Litchfield County,9005,County,2021-04-01,Partial Coverage,0,180333
 New York,36,Cayuga County,36011,County,2021-04-01,Partial Coverage,31.03844546594233,76576
 Illinois,17,Christian County,17021,County,2021-04-01,Partial Coverage,23.244799405646358,32304
 Oregon,41,Linn County,41043,County,2021-04-01,Partial Coverage,22.479556682517785,129749
@@ -5959,7 +5893,6 @@ Missouri,29,Iron County,29093,County,2021-04-01,Partial Coverage,19.269135802469
 Montana,30,Lincoln County,30053,County,2021-04-01,Partial Coverage,25.72072072072072,19980
 Iowa,19,Benton County,19011,County,2021-04-01,Partial Coverage,20.491323844804054,25645
 Iowa,19,Butler County,19023,County,2021-04-01,Partial Coverage,21.44192811136505,14439
-Wyoming,56,Weston County,56045,County,2021-04-01,Partial Coverage,0,6927
 Pennsylvania,42,Lehigh County,42077,County,2021-04-01,Partial Coverage,33.108865530518415,369318
 Illinois,17,Piatt County,17147,County,2021-04-01,Partial Coverage,29.93147332354381,16344
 Pennsylvania,42,Juniata County,42067,County,2021-04-01,Partial Coverage,21.923837984089165,24763
@@ -5971,7 +5904,6 @@ Mississippi,28,Smith County,28129,County,2021-04-01,Partial Coverage,16.83211862
 Minnesota,27,Lincoln County,27081,County,2021-04-01,Partial Coverage,34.47419755275758,5639
 Iowa,19,Cedar County,19031,County,2021-04-01,Partial Coverage,24.46448703494927,18627
 New Mexico,35,Mora County,35033,County,2021-04-01,Partial Coverage,42.203052422030524,4521
-Connecticut,9,New Haven County,9009,County,2021-04-01,Partial Coverage,0,854757
 Minnesota,27,Grant County,27051,County,2021-04-01,Partial Coverage,34.71198928332217,5972
 Wisconsin,55,Waukesha County,55133,County,2021-04-01,Partial Coverage,34.55435207497316,404198
 Washington,53,Douglas County,53017,County,2021-04-01,Partial Coverage,29.38589421814916,43429
@@ -6062,10 +5994,8 @@ Iowa,19,Buena Vista County,19021,County,2021-04-01,Partial Coverage,35.688073394
 California,6,Amador County,6005,County,2021-04-01,Partial Coverage,34.451096800161,39752
 Iowa,19,Hardin County,19083,County,2021-04-01,Partial Coverage,26.74225335391191,16846
 Iowa,19,Mills County,19129,County,2021-04-01,Partial Coverage,25.46164537692766,15109
-Wyoming,56,Laramie County,56021,County,2021-04-01,Partial Coverage,0,99500
 Wisconsin,55,Wood County,55141,County,2021-04-01,Partial Coverage,30.341511527555173,72999
 Mississippi,28,Leflore County,28083,County,2021-04-01,Partial Coverage,31.767377497072705,28183
-Wyoming,56,Platte County,56031,County,2021-04-01,Partial Coverage,0,8393
 Indiana,18,Steuben County,18151,County,2021-04-01,Partial Coverage,29.05417124356825,34594
 Minnesota,27,Itasca County,27061,County,2021-04-01,Partial Coverage,33.6162198094394,45130
 Missouri,29,Newton County,29145,County,2021-04-01,Partial Coverage,11.20269249261625,58236
@@ -6091,12 +6021,10 @@ Florida,12,Escambia County,12033,County,2021-04-01,Partial Coverage,22.943552947
 Missouri,29,Scotland County,29199,County,2021-04-01,Partial Coverage,16.911464708282335,4902
 Pennsylvania,42,Beaver County,42007,County,2021-04-01,Partial Coverage,18.662957743901323,163929
 Indiana,18,Cass County,18017,County,2021-04-01,Partial Coverage,21.7649712117594,37689
-Wyoming,56,Sweetwater County,56037,County,2021-04-01,Partial Coverage,0,42343
 Louisiana,22,Acadia Parish,22001,County,2021-04-01,Partial Coverage,37.79353694898864,62045
 New York,36,Greene County,36039,County,2021-04-01,Partial Coverage,30.253454268034247,47188
 New York,36,Cattaraugus County,36009,County,2021-04-01,Partial Coverage,25.751146261676105,76117
 Minnesota,27,Goodhue County,27049,County,2021-04-01,Partial Coverage,34.78204574881312,46340
-Connecticut,9,Tolland County,9013,County,2021-04-01,Partial Coverage,0,150721
 Oregon,41,Lake County,41037,County,2021-04-01,Partial Coverage,22.722073961113228,7869
 Oregon,41,Columbia County,41009,County,2021-04-01,Partial Coverage,20.537112732551478,52354
 Iowa,19,Johnson County,19103,County,2021-04-01,Partial Coverage,38.59335715230912,151140
@@ -6123,7 +6051,6 @@ Louisiana,22,Rapides Parish,22079,County,2021-04-01,Partial Coverage,39.11514253
 Indiana,18,Lake County,18089,County,2021-04-01,Partial Coverage,22.8145410953402,485493
 Washington,53,Adams County,53001,County,2021-04-01,Partial Coverage,18.97112545663814,19983
 Virginia,51,Highland County,51091,County,2021-04-01,Partial Coverage,41.598173515981735,2190
-Connecticut,9,Windham County,9015,County,2021-04-01,Partial Coverage,0,116782
 Florida,12,Alachua County,12001,County,2021-04-01,Partial Coverage,29.232130179934064,269043
 Louisiana,22,Tensas Parish,22107,County,2021-04-01,Partial Coverage,56.34517766497462,4334
 Virginia,51,Henry County,51089,County,2021-04-01,Partial Coverage,28.69632296220108,50557
@@ -6133,7 +6060,6 @@ Illinois,17,Cook County,17031,County,2021-04-01,Partial Coverage,29.136157529183
 Missouri,29,Putnam County,29171,County,2021-04-01,Partial Coverage,16.524701873935264,4696
 Missouri,29,Johnson County,29101,County,2021-04-01,Partial Coverage,15.021641818652657,54062
 Wisconsin,55,La Crosse County,55063,County,2021-04-01,Partial Coverage,35.23251084598699,118016
-Wyoming,56,Sheridan County,56033,County,2021-04-01,Partial Coverage,0,30485
 Pennsylvania,42,Erie County,42049,County,2021-04-01,Partial Coverage,26.885232530549295,269728
 Illinois,17,Woodford County,17203,County,2021-04-01,Partial Coverage,29.670558256844952,38459
 California,6,Colusa County,6011,County,2021-04-01,Partial Coverage,23.40929131665661,21547
@@ -6145,7 +6071,6 @@ Illinois,17,Schuyler County,17169,County,2021-04-01,Partial Coverage,29.94976359
 New Jersey,34,Cumberland County,34011,County,2021-04-01,Partial Coverage,28.037076915874724,149527
 Wisconsin,55,Richland County,55103,County,2021-04-01,Partial Coverage,31.416647345235337,17252
 Mississippi,28,Marion County,28091,County,2021-04-01,Partial Coverage,19.26097749562528,24573
-Connecticut,9,New London County,9011,County,2021-04-01,Partial Coverage,0,265206
 Missouri,29,Oregon County,29149,County,2021-04-01,Partial Coverage,14.179884129546965,10529
 Missouri,29,Worth County,29227,County,2021-04-01,Partial Coverage,25.583705911574764,2013
 Indiana,18,Fountain County,18045,County,2021-04-01,Partial Coverage,26.856723357396305,16346
@@ -6194,9 +6119,7 @@ New Jersey,34,Passaic County,34031,County,2021-04-01,Partial Coverage,25.4510527
 Minnesota,27,Mower County,27099,County,2021-04-01,Partial Coverage,35.030702411262546,40062
 Virginia,51,Gloucester County,51073,County,2021-04-01,Partial Coverage,29.942701081717896,37348
 Virginia,51,Russell County,51167,County,2021-04-01,Partial Coverage,33.41232227488152,26586
-Wyoming,56,Fremont County,56013,County,2021-04-01,Partial Coverage,0,39261
 Illinois,17,Logan County,17107,County,2021-04-01,Partial Coverage,24.23998881822629,28618
-Wyoming,56,Sublette County,56035,County,2021-04-01,Partial Coverage,0,9831
 New York,36,Rockland County,36087,County,2021-04-01,Partial Coverage,29.432546832459046,325789
 Iowa,19,Clayton County,19043,County,2021-04-01,Partial Coverage,28.309305373525557,17549
 Virginia,51,Buckingham County,51029,County,2021-04-01,Partial Coverage,25.180779099603452,17148
@@ -6230,12 +6153,10 @@ Virginia,51,Colonial Heights City,51570,County,2021-04-01,Partial Coverage,27.76
 Virginia,51,Bedford County,51019,County,2021-04-01,Partial Coverage,29.17199387318506,78997
 Indiana,18,Wells County,18179,County,2021-04-01,Partial Coverage,23.724201300537178,28296
 Montana,30,Wibaux County,30109,County,2021-04-01,Partial Coverage,20.84623323013416,969
-Wyoming,56,Washakie County,56043,County,2021-04-01,Partial Coverage,0,7805
 Indiana,18,Montgomery County,18107,County,2021-04-01,Partial Coverage,23.626688924826542,38338
 Washington,53,Whitman County,53075,County,2021-04-01,Partial Coverage,17.89477885997126,50104
 Montana,30,Silver Bow County,30093,County,2021-04-01,Partial Coverage,32.57625662322784,34915
 New Jersey,34,Warren County,34041,County,2021-04-01,Partial Coverage,26.45178450986539,105267
-Wyoming,56,Natrona County,56025,County,2021-04-01,Partial Coverage,0,79858
 Virginia,51,Stafford County,51179,County,2021-04-01,Partial Coverage,24.28016378644968,152882
 California,6,San Francisco County,6075,County,2021-04-01,Partial Coverage,39.769088275297236,881549
 Pennsylvania,42,Venango County,42121,County,2021-04-01,Partial Coverage,19.284360937870055,50668
@@ -6336,7 +6257,6 @@ Wisconsin,55,Menominee County,55078,County,2021-04-01,Partial Coverage,39.925373
 Pennsylvania,42,Dauphin County,42043,County,2021-04-01,Partial Coverage,21.902342444636883,278299
 Minnesota,27,Red Lake County,27125,County,2021-04-01,Partial Coverage,36.646115906288536,4055
 Illinois,17,Henry County,17073,County,2021-04-01,Partial Coverage,30.975405311471388,48913
-Wyoming,56,Converse County,56009,County,2021-04-01,Partial Coverage,0,13822
 Wisconsin,55,Jefferson County,55055,County,2021-04-01,Partial Coverage,27.832108435866886,84769
 Pennsylvania,42,Tioga County,42117,County,2021-04-01,Partial Coverage,17.306792146042227,40591
 California,6,Alameda County,6001,County,2021-04-01,Partial Coverage,34.269973177034565,1671329
@@ -6414,7 +6334,6 @@ Louisiana,22,St. James Parish,22093,County,2021-04-01,Partial Coverage,42.567311
 Illinois,17,Moultrie County,17139,County,2021-04-01,Partial Coverage,21.074408661471622,14501
 Florida,12,Dixie County,12029,County,2021-04-01,Partial Coverage,14.406276001426363,16826
 Mississippi,28,Humphreys County,28053,County,2021-04-01,Partial Coverage,25.186011904761905,8064
-Wyoming,56,Carbon County,56007,County,2021-04-01,Partial Coverage,0,14800
 California,6,Alpine County,6003,County,2021-04-01,Partial Coverage,61.736049601417186,1129
 New York,36,St. Lawrence County,36089,County,2021-04-01,Partial Coverage,35.81585297939484,107740
 California,6,Siskiyou County,6093,County,2021-04-01,Partial Coverage,26.94365970738878,43539
@@ -6436,7 +6355,6 @@ Pennsylvania,42,Wayne County,42127,County,2021-04-01,Partial Coverage,28.5586339
 Virginia,51,Prince Edward County,51147,County,2021-04-01,Partial Coverage,21.116568722041926,22802
 Minnesota,27,Mahnomen County,27087,County,2021-04-01,Partial Coverage,39.17134069115252,5527
 Pennsylvania,42,Bradford County,42015,County,2021-04-01,Partial Coverage,19.090562472025596,60323
-Wyoming,56,Crook County,56011,County,2021-04-01,Partial Coverage,0,7584
 New York,36,Montgomery County,36057,County,2021-04-01,Partial Coverage,31.766928749923814,49221
 Louisiana,22,Red River Parish,22081,County,2021-04-01,Partial Coverage,33.15565031982943,8442
 Minnesota,27,Norman County,27107,County,2021-04-01,Partial Coverage,38.55686274509804,6375
@@ -6453,7 +6371,6 @@ Illinois,17,Stephenson County,17177,County,2021-04-01,Partial Coverage,24.333677
 Minnesota,27,Carver County,27019,County,2021-04-01,Partial Coverage,26.319595771203456,105089
 Virginia,51,Winchester City,51840,County,2021-04-01,Partial Coverage,26.989101787876628,28078
 Iowa,19,Marion County,19125,County,2021-04-01,Partial Coverage,34.16233121823595,33253
-Wyoming,56,Hot Springs County,56017,County,2021-04-01,Partial Coverage,0,4413
 Washington,53,Wahkiakum County,53069,County,2021-04-01,Partial Coverage,28.342245989304814,4488
 California,6,Tehama County,6103,County,2021-04-01,Partial Coverage,16.984205027349272,65084
 Missouri,29,Shannon County,29203,County,2021-04-01,Partial Coverage,13.825618417830027,8166
@@ -6489,7 +6406,6 @@ Oregon,41,Wheeler County,41069,County,2021-04-01,Partial Coverage,39.71471471471
 Indiana,18,Switzerland County,18155,County,2021-04-01,Partial Coverage,17.78439214956748,10751
 Wisconsin,55,Sauk County,55111,County,2021-04-01,Partial Coverage,31.814655038639398,64442
 Missouri,29,Cass County,29037,County,2021-04-01,Partial Coverage,21.668557383248253,105780
-Connecticut,9,Hartford County,9003,County,2021-04-01,Partial Coverage,0,891720
 Pennsylvania,42,Lebanon County,42075,County,2021-04-01,Partial Coverage,22.480658424604883,141793
 Indiana,18,Union County,18161,County,2021-04-01,Partial Coverage,27.317833853132974,7054
 Missouri,29,Lewis County,29111,County,2021-04-01,Partial Coverage,17.665711947626843,9776
@@ -6519,7 +6435,6 @@ Mississippi,28,Montgomery County,28097,County,2021-04-01,Partial Coverage,29.432
 Indiana,18,Pike County,18125,County,2021-04-01,Partial Coverage,34.83735571878279,12389
 Pennsylvania,42,Lackawanna County,42069,County,2021-04-01,Partial Coverage,36.69410608849929,209674
 Mississippi,28,Lowndes County,28087,County,2021-04-01,Partial Coverage,24.11809881389197,58595
-Wyoming,56,Uinta County,56041,County,2021-04-01,Partial Coverage,0,20226
 Pennsylvania,42,Mifflin County,42087,County,2021-04-01,Partial Coverage,25.044431921626426,46138
 Louisiana,22,St. Mary Parish,22101,County,2021-04-01,Partial Coverage,36.46551025370836,49348
 Iowa,19,Pottawattamie County,19155,County,2021-04-01,Partial Coverage,35.71229320000858,93206
@@ -6581,7 +6496,6 @@ Mississippi,28,Washington County,28151,County,2021-04-01,Partial Coverage,25.377
 Missouri,29,Knox County,29103,County,2021-04-01,Partial Coverage,26.01667087648396,3959
 Illinois,17,Kankakee County,17091,County,2021-04-01,Partial Coverage,21.35952376617939,109862
 Montana,30,Pondera County,30073,County,2021-04-01,Partial Coverage,28.23549314836745,5911
-Wyoming,56,Big Horn County,56003,County,2021-04-01,Partial Coverage,0,11790
 Delaware,10,Sussex County,10005,County,2021-04-01,Partial Coverage,0,234225
 Illinois,17,Ford County,17053,County,2021-04-01,Partial Coverage,31.54849162873235,12961
 Louisiana,22,Jefferson Parish,22051,County,2021-04-01,Partial Coverage,53.165022324060736,432493
@@ -6615,7 +6529,6 @@ Louisiana,22,St. Landry Parish,22097,County,2021-04-01,Partial Coverage,34.95932
 Mississippi,28,Jones County,28067,County,2021-04-01,Partial Coverage,21.7568797908896,68098
 Mississippi,28,Monroe County,28095,County,2021-04-01,Partial Coverage,25.079428117553615,35252
 Pennsylvania,42,Perry County,42099,County,2021-04-01,Partial Coverage,24.47052213001383,46272
-Wyoming,56,Johnson County,56019,County,2021-04-01,Partial Coverage,0,8445
 Florida,12,Miami-Dade County,12086,County,2021-04-01,Partial Coverage,27.19636797279292,2716940
 Florida,12,Putnam County,12107,County,2021-04-01,Partial Coverage,18.928892526938714,74521
 Wisconsin,55,Marinette County,55075,County,2021-04-01,Partial Coverage,26.26270136307311,40350
@@ -6693,7 +6606,6 @@ Mississippi,28,Neshoba County,28099,County,2021-04-01,Partial Coverage,16.477780
 Indiana,18,Allen County,18003,County,2021-04-01,Partial Coverage,24.164840930242367,379299
 Missouri,29,Monroe County,29137,County,2021-04-01,Partial Coverage,24.409995372512725,8644
 Wisconsin,55,Crawford County,55023,County,2021-04-01,Partial Coverage,31.591345855805592,16131
-Connecticut,9,Middlesex County,9007,County,2021-04-01,Partial Coverage,0,162436
 Indiana,18,Blackford County,18009,County,2021-04-01,Partial Coverage,24.519476101377787,11758
 Virginia,51,Nelson County,51125,County,2021-04-01,Partial Coverage,38.03750837240455,14930
 Virginia,51,Roanoke City,51770,County,2021-04-01,Partial Coverage,27.730651684939936,99143
@@ -6705,7 +6617,6 @@ California,6,Marin County,6041,County,2021-04-01,Partial Coverage,47.38163862981
 Minnesota,27,Anoka County,27003,County,2021-04-01,Partial Coverage,22.22256465716503,356921
 Louisiana,22,Ouachita Parish,22073,County,2021-04-01,Partial Coverage,38.202232530222666,153279
 Mississippi,28,Simpson County,28127,County,2021-04-01,Partial Coverage,22.867431915372496,26658
-Wyoming,56,Albany County,56001,County,2021-04-01,Partial Coverage,0,38880
 New York,36,Franklin County,36033,County,2021-04-01,Partial Coverage,35.83623205789453,50022
 Missouri,29,Barry County,29009,County,2021-04-01,Partial Coverage,22.124116348598733,35789
 Virginia,51,Falls Church City,51610,County,2021-04-01,Partial Coverage,31.046042279537524,14617
@@ -6774,7 +6685,6 @@ Indiana,18,Huntington County,18069,County,2021-04-01,Partial Coverage,27.3713033
 Virginia,51,Alleghany County,51005,County,2021-04-01,Partial Coverage,30.98250336473755,14860
 Mississippi,28,Rankin County,28121,County,2021-04-01,Partial Coverage,26.915521893978916,155271
 California,6,Sonoma County,6097,County,2021-04-01,Partial Coverage,39.009095028482655,494336
-Wyoming,56,Campbell County,56005,County,2021-04-01,Partial Coverage,0,46341
 Illinois,17,Cass County,17017,County,2021-04-01,Partial Coverage,31.950275788260477,12147
 Illinois,17,Union County,17181,County,2021-04-01,Partial Coverage,31.982225424848377,16653
 Minnesota,27,Chippewa County,27023,County,2021-04-01,Partial Coverage,34.779661016949156,11800
@@ -6814,7 +6724,6 @@ Iowa,19,Wapello County,19179,County,2021-04-01,Partial Coverage,23.7210100374617
 Virginia,51,Pulaski County,51155,County,2021-04-01,Partial Coverage,30.843153965968202,34027
 Mississippi,28,Choctaw County,28019,County,2021-04-01,Partial Coverage,21.388550548112057,8210
 Missouri,29,Montgomery County,29139,County,2021-04-01,Partial Coverage,24.69916024586616,11551
-Wyoming,56,Teton County,56039,County,2021-04-01,Partial Coverage,0,23464
 Missouri,29,Mercer County,29129,County,2021-04-01,Partial Coverage,16.45009676527509,3617
 New York,36,Albany County,36001,County,2021-04-01,Partial Coverage,37.53215976118309,305506
 Wisconsin,55,Brown County,55009,County,2021-04-01,Partial Coverage,29.784306461733866,264542
@@ -6848,7 +6757,6 @@ Wisconsin,55,Green County,55045,County,2021-04-01,Partial Coverage,34.9269480519
 Illinois,17,Clay County,17025,County,2021-04-01,Partial Coverage,21.20752427184466,13184
 Wisconsin,55,Washburn County,55129,County,2021-04-01,Partial Coverage,36.959287531806616,15720
 Missouri,29,Audrain County,29007,County,2021-04-01,Partial Coverage,20.57665038600914,25388
-Connecticut,9,Fairfield County,9001,County,2021-04-01,Partial Coverage,0,943332
 Missouri,29,Randolph County,29175,County,2021-04-01,Partial Coverage,17.965088087926297,24748
 Wisconsin,55,Trempealeau County,55121,County,2021-04-01,Partial Coverage,34.32830786873082,29649
 Montana,30,Ravalli County,30081,County,2021-04-01,Partial Coverage,27.464274300324156,43806
@@ -6882,7 +6790,6 @@ Minnesota,27,Pope County,27121,County,2021-04-01,Partial Coverage,33.98524313272
 Oregon,41,Clackamas County,41005,County,2021-04-01,Partial Coverage,23.522252006877306,418187
 Louisiana,22,Lincoln Parish,22061,County,2021-04-01,Partial Coverage,39.79076633434598,46742
 New York,36,Otsego County,36077,County,2021-04-01,Partial Coverage,34.276301413611684,59493
-Wyoming,56,Lincoln County,56023,County,2021-04-01,Partial Coverage,0,19830
 New Mexico,35,Grant County,35017,County,2021-04-01,Partial Coverage,39.128824357359804,26998
 Indiana,18,Knox County,18083,County,2021-04-01,Partial Coverage,30.64983330600645,36594
 California,6,Modoc County,6049,County,2021-04-01,Partial Coverage,24.94061757719715,8841
@@ -6974,7 +6881,6 @@ Montana,30,Roosevelt County,30085,County,2021-04-01,Complete Coverage,13.2588149
 Indiana,18,LaGrange County,18087,County,2021-04-01,Complete Coverage,9.436057959307316,39614
 Wisconsin,55,Marquette County,55077,County,2021-04-01,Complete Coverage,19.237190188776164,15574
 New York,36,Saratoga County,36091,County,2021-04-01,Complete Coverage,22.23585353014622,229863
-Wyoming,56,Park County,56029,County,2021-04-01,Complete Coverage,20.548742892375145,29194
 Illinois,17,Madison County,17119,County,2021-04-01,Complete Coverage,21.182966619258764,262966
 Illinois,17,Saline County,17165,County,2021-04-01,Complete Coverage,19.79481503554553,23491
 Mississippi,28,Lee County,28081,County,2021-04-01,Complete Coverage,14.49740156374362,85436
@@ -7002,11 +6908,9 @@ Washington,53,Skagit County,53057,County,2021-04-01,Complete Coverage,20.1725939
 Indiana,18,St. Joseph County,18141,County,2021-04-01,Complete Coverage,19.621743321095114,271826
 California,6,Los Angeles County,6037,County,2021-04-01,Complete Coverage,16.093513098326376,10039107
 Wisconsin,55,Waupaca County,55135,County,2021-04-01,Complete Coverage,15.714846048244754,50990
-Wyoming,56,Niobrara County,56027,County,2021-04-01,Complete Coverage,17.99660441426146,2356
 Mississippi,28,Newton County,28101,County,2021-04-01,Complete Coverage,16.07193833856694,21018
 Illinois,17,Coles County,17029,County,2021-04-01,Complete Coverage,15.094525987238498,50621
 Florida,12,Martin County,12085,County,2021-04-01,Complete Coverage,21.309937888198757,161000
-Wyoming,56,Goshen County,56015,County,2021-04-01,Complete Coverage,18.015290288396034,13211
 Pennsylvania,42,Berks County,42011,County,2021-04-01,Complete Coverage,11.828646323047554,421164
 Illinois,17,Kane County,17089,County,2021-04-01,Complete Coverage,15.060395978234533,532403
 New Jersey,34,Monmouth County,34025,County,2021-04-01,Complete Coverage,19.096792960511962,618795
@@ -7186,7 +7090,6 @@ Mississippi,28,Jackson County,28059,County,2021-04-01,Complete Coverage,13.53112
 Illinois,17,Clark County,17023,County,2021-04-01,Complete Coverage,13.807395894048312,15441
 Illinois,17,Wabash County,17185,County,2021-04-01,Complete Coverage,20.45138888888889,11520
 Florida,12,Bradford County,12007,County,2021-04-01,Complete Coverage,10.152122265167902,28201
-Connecticut,9,Litchfield County,9005,County,2021-04-01,Complete Coverage,21.984328991365974,180333
 New York,36,Cayuga County,36011,County,2021-04-01,Complete Coverage,19.54790012536565,76576
 Illinois,17,Christian County,17021,County,2021-04-01,Complete Coverage,17.397226349678057,32304
 Oregon,41,Linn County,41043,County,2021-04-01,Complete Coverage,14.296834657685222,129749
@@ -7278,7 +7181,6 @@ Missouri,29,Iron County,29093,County,2021-04-01,Complete Coverage,11.91111111111
 Montana,30,Lincoln County,30053,County,2021-04-01,Complete Coverage,17.962962962962962,19980
 Iowa,19,Benton County,19011,County,2021-04-01,Complete Coverage,12.166114252290894,25645
 Iowa,19,Butler County,19023,County,2021-04-01,Complete Coverage,15.084147101599834,14439
-Wyoming,56,Weston County,56045,County,2021-04-01,Complete Coverage,17.55449689620326,6927
 Pennsylvania,42,Lehigh County,42077,County,2021-04-01,Complete Coverage,17.765990284795215,369318
 Illinois,17,Piatt County,17147,County,2021-04-01,Complete Coverage,26.180861478218308,16344
 Pennsylvania,42,Juniata County,42067,County,2021-04-01,Complete Coverage,13.988612042159673,24763
@@ -7290,7 +7192,6 @@ Mississippi,28,Smith County,28129,County,2021-04-01,Complete Coverage,11.3847700
 Minnesota,27,Lincoln County,27081,County,2021-04-01,Complete Coverage,24.0468168114914,5639
 Iowa,19,Cedar County,19031,County,2021-04-01,Complete Coverage,15.064154184785526,18627
 New Mexico,35,Mora County,35033,County,2021-04-01,Complete Coverage,26.233134262331344,4521
-Connecticut,9,New Haven County,9009,County,2021-04-01,Complete Coverage,21.508686094410457,854757
 Minnesota,27,Grant County,27051,County,2021-04-01,Complete Coverage,25.16744809109176,5972
 Wisconsin,55,Waukesha County,55133,County,2021-04-01,Complete Coverage,19.1782245335207,404198
 Washington,53,Douglas County,53017,County,2021-04-01,Complete Coverage,18.874484791268507,43429
@@ -7381,10 +7282,8 @@ Iowa,19,Buena Vista County,19021,County,2021-04-01,Complete Coverage,27.79816513
 California,6,Amador County,6005,County,2021-04-01,Complete Coverage,15.604246327228818,39752
 Iowa,19,Hardin County,19083,County,2021-04-01,Complete Coverage,15.819779176065534,16846
 Iowa,19,Mills County,19129,County,2021-04-01,Complete Coverage,14.40863061751274,15109
-Wyoming,56,Laramie County,56021,County,2021-04-01,Complete Coverage,20.92462311557789,99500
 Wisconsin,55,Wood County,55141,County,2021-04-01,Complete Coverage,16.397484897053385,72999
 Mississippi,28,Leflore County,28083,County,2021-04-01,Complete Coverage,17.819252741014086,28183
-Wyoming,56,Platte County,56031,County,2021-04-01,Complete Coverage,13.713809126653164,8393
 Indiana,18,Steuben County,18151,County,2021-04-01,Complete Coverage,22.535699832340867,34594
 Minnesota,27,Itasca County,27061,County,2021-04-01,Complete Coverage,21.865721249723023,45130
 Missouri,29,Newton County,29145,County,2021-04-01,Complete Coverage,7.258396867916752,58236
@@ -7410,12 +7309,10 @@ Florida,12,Escambia County,12033,County,2021-04-01,Complete Coverage,13.61760012
 Missouri,29,Scotland County,29199,County,2021-04-01,Complete Coverage,14.932680538555692,4902
 Pennsylvania,42,Beaver County,42007,County,2021-04-01,Complete Coverage,10.679013475346034,163929
 Indiana,18,Cass County,18017,County,2021-04-01,Complete Coverage,14.455146063838255,37689
-Wyoming,56,Sweetwater County,56037,County,2021-04-01,Complete Coverage,17.53536594006093,42343
 Louisiana,22,Acadia Parish,22001,County,2021-04-01,Complete Coverage,14.632927713756144,62045
 New York,36,Greene County,36039,County,2021-04-01,Complete Coverage,14.132830380605238,47188
 New York,36,Cattaraugus County,36009,County,2021-04-01,Complete Coverage,15.381583614698425,76117
 Minnesota,27,Goodhue County,27049,County,2021-04-01,Complete Coverage,21.066033664220974,46340
-Connecticut,9,Tolland County,9013,County,2021-04-01,Complete Coverage,19.29127327976858,150721
 Oregon,41,Lake County,41037,County,2021-04-01,Complete Coverage,15.453043588766043,7869
 Oregon,41,Columbia County,41009,County,2021-04-01,Complete Coverage,10.576078236619933,52354
 Iowa,19,Johnson County,19103,County,2021-04-01,Complete Coverage,28.216223369061797,151140
@@ -7442,7 +7339,6 @@ Louisiana,22,Rapides Parish,22079,County,2021-04-01,Complete Coverage,15.5189436
 Indiana,18,Lake County,18089,County,2021-04-01,Complete Coverage,13.158377154768452,485493
 Washington,53,Adams County,53001,County,2021-04-01,Complete Coverage,11.619876895361056,19983
 Virginia,51,Highland County,51091,County,2021-04-01,Complete Coverage,24.383561643835616,2190
-Connecticut,9,Windham County,9015,County,2021-04-01,Complete Coverage,18.75032111113014,116782
 Florida,12,Alachua County,12001,County,2021-04-01,Complete Coverage,18.58104466572258,269043
 Louisiana,22,Tensas Parish,22107,County,2021-04-01,Complete Coverage,22.38117212736502,4334
 Virginia,51,Henry County,51089,County,2021-04-01,Complete Coverage,13.644005775659156,50557
@@ -7452,7 +7348,6 @@ Illinois,17,Cook County,17031,County,2021-04-01,Complete Coverage,16.07733087027
 Missouri,29,Putnam County,29171,County,2021-04-01,Complete Coverage,11.520442930153322,4696
 Missouri,29,Johnson County,29101,County,2021-04-01,Complete Coverage,9.12470866782583,54062
 Wisconsin,55,La Crosse County,55063,County,2021-04-01,Complete Coverage,20.59635981561822,118016
-Wyoming,56,Sheridan County,56033,County,2021-04-01,Complete Coverage,22.68328686239134,30485
 Pennsylvania,42,Erie County,42049,County,2021-04-01,Complete Coverage,18.024825008897853,269728
 Illinois,17,Woodford County,17203,County,2021-04-01,Complete Coverage,20.10452689877532,38459
 California,6,Colusa County,6011,County,2021-04-01,Complete Coverage,12.159465354805773,21547
@@ -7464,7 +7359,6 @@ Illinois,17,Schuyler County,17169,County,2021-04-01,Complete Coverage,24.6897163
 New Jersey,34,Cumberland County,34011,County,2021-04-01,Complete Coverage,13.559424050505928,149527
 Wisconsin,55,Richland County,55103,County,2021-04-01,Complete Coverage,23.17412473916068,17252
 Mississippi,28,Marion County,28091,County,2021-04-01,Complete Coverage,13.380539616652424,24573
-Connecticut,9,New London County,9011,County,2021-04-01,Complete Coverage,23.728347020806467,265206
 Missouri,29,Oregon County,29149,County,2021-04-01,Complete Coverage,8.804254914996676,10529
 Missouri,29,Worth County,29227,County,2021-04-01,Complete Coverage,21.460506706408346,2013
 Indiana,18,Fountain County,18045,County,2021-04-01,Complete Coverage,15.783677964027897,16346
@@ -7513,9 +7407,7 @@ New Jersey,34,Passaic County,34031,County,2021-04-01,Complete Coverage,13.351241
 Minnesota,27,Mower County,27099,County,2021-04-01,Complete Coverage,18.77340122809645,40062
 Virginia,51,Gloucester County,51073,County,2021-04-01,Complete Coverage,17.69037163971297,37348
 Virginia,51,Russell County,51167,County,2021-04-01,Complete Coverage,20.258782818024525,26586
-Wyoming,56,Fremont County,56013,County,2021-04-01,Complete Coverage,27.332467333995567,39261
 Illinois,17,Logan County,17107,County,2021-04-01,Complete Coverage,21.65769795233769,28618
-Wyoming,56,Sublette County,56035,County,2021-04-01,Complete Coverage,14.261011087376666,9831
 New York,36,Rockland County,36087,County,2021-04-01,Complete Coverage,16.709588107640222,325789
 Iowa,19,Clayton County,19043,County,2021-04-01,Complete Coverage,16.513761467889907,17549
 Virginia,51,Buckingham County,51029,County,2021-04-01,Complete Coverage,13.960811756473058,17148
@@ -7549,12 +7441,10 @@ Virginia,51,Colonial Heights City,51570,County,2021-04-01,Complete Coverage,11.7
 Virginia,51,Bedford County,51019,County,2021-04-01,Complete Coverage,14.52080458751598,78997
 Indiana,18,Wells County,18179,County,2021-04-01,Complete Coverage,16.804495335029685,28296
 Montana,30,Wibaux County,30109,County,2021-04-01,Complete Coverage,16.408668730650156,969
-Wyoming,56,Washakie County,56043,County,2021-04-01,Complete Coverage,20.602178090967328,7805
 Indiana,18,Montgomery County,18107,County,2021-04-01,Complete Coverage,14.878188742240075,38338
 Washington,53,Whitman County,53075,County,2021-04-01,Complete Coverage,12.753472776624621,50104
 Montana,30,Silver Bow County,30093,County,2021-04-01,Complete Coverage,21.956179292567665,34915
 New Jersey,34,Warren County,34041,County,2021-04-01,Complete Coverage,15.236493867973818,105267
-Wyoming,56,Natrona County,56025,County,2021-04-01,Complete Coverage,16.703398532395003,79858
 Virginia,51,Stafford County,51179,County,2021-04-01,Complete Coverage,13.308303135751757,152882
 California,6,San Francisco County,6075,County,2021-04-01,Complete Coverage,22.092022111079476,881549
 Pennsylvania,42,Venango County,42121,County,2021-04-01,Complete Coverage,14.642377832162312,50668
@@ -7655,7 +7545,6 @@ Wisconsin,55,Menominee County,55078,County,2021-04-01,Complete Coverage,27.91922
 Pennsylvania,42,Dauphin County,42043,County,2021-04-01,Complete Coverage,11.06328085979468,278299
 Minnesota,27,Red Lake County,27125,County,2021-04-01,Complete Coverage,22.268803945745994,4055
 Illinois,17,Henry County,17073,County,2021-04-01,Complete Coverage,18.487927544824483,48913
-Wyoming,56,Converse County,56009,County,2021-04-01,Complete Coverage,14.397337577774563,13822
 Wisconsin,55,Jefferson County,55055,County,2021-04-01,Complete Coverage,15.313381070910356,84769
 Pennsylvania,42,Tioga County,42117,County,2021-04-01,Complete Coverage,11.692247049838635,40591
 California,6,Alameda County,6001,County,2021-04-01,Complete Coverage,21.337869444017304,1671329
@@ -7733,7 +7622,6 @@ Louisiana,22,St. James Parish,22093,County,2021-04-01,Complete Coverage,15.10712
 Illinois,17,Moultrie County,17139,County,2021-04-01,Complete Coverage,16.136818150472383,14501
 Florida,12,Dixie County,12029,County,2021-04-01,Complete Coverage,9.134672530607393,16826
 Mississippi,28,Humphreys County,28053,County,2021-04-01,Complete Coverage,12.686011904761905,8064
-Wyoming,56,Carbon County,56007,County,2021-04-01,Complete Coverage,18.08783783783784,14800
 California,6,Alpine County,6003,County,2021-04-01,Complete Coverage,28.520814880425156,1129
 New York,36,St. Lawrence County,36089,County,2021-04-01,Complete Coverage,26.48041581585298,107740
 California,6,Siskiyou County,6093,County,2021-04-01,Complete Coverage,15.51712257975608,43539
@@ -7755,7 +7643,6 @@ Pennsylvania,42,Wayne County,42127,County,2021-04-01,Complete Coverage,15.287864
 Virginia,51,Prince Edward County,51147,County,2021-04-01,Complete Coverage,13.112884834663626,22802
 Minnesota,27,Mahnomen County,27087,County,2021-04-01,Complete Coverage,34.032929256377784,5527
 Pennsylvania,42,Bradford County,42015,County,2021-04-01,Complete Coverage,13.285148285065398,60323
-Wyoming,56,Crook County,56011,County,2021-04-01,Complete Coverage,13.343881856540085,7584
 New York,36,Montgomery County,36057,County,2021-04-01,Complete Coverage,18.07764978362894,49221
 Louisiana,22,Red River Parish,22081,County,2021-04-01,Complete Coverage,13.551291163231461,8442
 Minnesota,27,Norman County,27107,County,2021-04-01,Complete Coverage,28.83137254901961,6375
@@ -7772,7 +7659,6 @@ Illinois,17,Stephenson County,17177,County,2021-04-01,Complete Coverage,16.99851
 Minnesota,27,Carver County,27019,County,2021-04-01,Complete Coverage,16.09017118823093,105089
 Virginia,51,Winchester City,51840,County,2021-04-01,Complete Coverage,17.4086473395541,28078
 Iowa,19,Marion County,19125,County,2021-04-01,Complete Coverage,21.25522509247286,33253
-Wyoming,56,Hot Springs County,56017,County,2021-04-01,Complete Coverage,24.405166553365056,4413
 Washington,53,Wahkiakum County,53069,County,2021-04-01,Complete Coverage,18.71657754010695,4488
 California,6,Tehama County,6103,County,2021-04-01,Complete Coverage,9.418597504763076,65084
 Missouri,29,Shannon County,29203,County,2021-04-01,Complete Coverage,7.629194219936322,8166
@@ -7808,7 +7694,6 @@ Oregon,41,Wheeler County,41069,County,2021-04-01,Complete Coverage,33.4084084084
 Indiana,18,Switzerland County,18155,County,2021-04-01,Complete Coverage,11.505906427309087,10751
 Wisconsin,55,Sauk County,55111,County,2021-04-01,Complete Coverage,19.780577883988702,64442
 Missouri,29,Cass County,29037,County,2021-04-01,Complete Coverage,12.18566836831159,105780
-Connecticut,9,Hartford County,9003,County,2021-04-01,Complete Coverage,20.60456197012515,891720
 Pennsylvania,42,Lebanon County,42075,County,2021-04-01,Complete Coverage,13.050009520921343,141793
 Indiana,18,Union County,18161,County,2021-04-01,Complete Coverage,20.01701162461015,7054
 Missouri,29,Lewis County,29111,County,2021-04-01,Complete Coverage,12.44885433715221,9776
@@ -7838,7 +7723,6 @@ Mississippi,28,Montgomery County,28097,County,2021-04-01,Complete Coverage,17.71
 Indiana,18,Pike County,18125,County,2021-04-01,Complete Coverage,24.303817902978448,12389
 Pennsylvania,42,Lackawanna County,42069,County,2021-04-01,Complete Coverage,22.542613771855358,209674
 Mississippi,28,Lowndes County,28087,County,2021-04-01,Complete Coverage,16.180561481355063,58595
-Wyoming,56,Uinta County,56041,County,2021-04-01,Complete Coverage,15.292198160783151,20226
 Pennsylvania,42,Mifflin County,42087,County,2021-04-01,Complete Coverage,16.56768823962894,46138
 Louisiana,22,St. Mary Parish,22101,County,2021-04-01,Complete Coverage,14.37342952095323,49348
 Iowa,19,Pottawattamie County,19155,County,2021-04-01,Complete Coverage,24.929725554148874,93206
@@ -7900,7 +7784,6 @@ Mississippi,28,Washington County,28151,County,2021-04-01,Complete Coverage,13.88
 Missouri,29,Knox County,29103,County,2021-04-01,Complete Coverage,20.383935337206367,3959
 Illinois,17,Kankakee County,17091,County,2021-04-01,Complete Coverage,11.883999927181373,109862
 Montana,30,Pondera County,30073,County,2021-04-01,Complete Coverage,18.59245474538995,5911
-Wyoming,56,Big Horn County,56003,County,2021-04-01,Complete Coverage,17.41306191687871,11790
 Delaware,10,Sussex County,10005,County,2021-04-01,Complete Coverage,21.671469740634006,234225
 Illinois,17,Ford County,17053,County,2021-04-01,Complete Coverage,20.04474963351593,12961
 Louisiana,22,Jefferson Parish,22051,County,2021-04-01,Complete Coverage,20.525187690899042,432493
@@ -7934,7 +7817,6 @@ Louisiana,22,St. Landry Parish,22097,County,2021-04-01,Complete Coverage,14.1676
 Mississippi,28,Jones County,28067,County,2021-04-01,Complete Coverage,15.189873417721518,68098
 Mississippi,28,Monroe County,28095,County,2021-04-01,Complete Coverage,15.837399296493816,35252
 Pennsylvania,42,Perry County,42099,County,2021-04-01,Complete Coverage,9.396611341632088,46272
-Wyoming,56,Johnson County,56019,County,2021-04-01,Complete Coverage,20.757844878626408,8445
 Florida,12,Miami-Dade County,12086,County,2021-04-01,Complete Coverage,14.855057527954243,2716940
 Florida,12,Putnam County,12107,County,2021-04-01,Complete Coverage,10.437326391218583,74521
 Wisconsin,55,Marinette County,55075,County,2021-04-01,Complete Coverage,16.18835192069393,40350
@@ -8012,7 +7894,6 @@ Mississippi,28,Neshoba County,28099,County,2021-04-01,Complete Coverage,11.52208
 Indiana,18,Allen County,18003,County,2021-04-01,Complete Coverage,14.707921718749589,379299
 Missouri,29,Monroe County,29137,County,2021-04-01,Complete Coverage,17.098565478944934,8644
 Wisconsin,55,Crawford County,55023,County,2021-04-01,Complete Coverage,19.29824561403509,16131
-Connecticut,9,Middlesex County,9007,County,2021-04-01,Complete Coverage,26.235563545026963,162436
 Indiana,18,Blackford County,18009,County,2021-04-01,Complete Coverage,18.072801496853206,11758
 Virginia,51,Nelson County,51125,County,2021-04-01,Complete Coverage,20.957803081044876,14930
 Virginia,51,Roanoke City,51770,County,2021-04-01,Complete Coverage,16.392483584317603,99143
@@ -8024,7 +7905,6 @@ California,6,Marin County,6041,County,2021-04-01,Complete Coverage,28.9932232465
 Minnesota,27,Anoka County,27003,County,2021-04-01,Complete Coverage,13.447233421401375,356921
 Louisiana,22,Ouachita Parish,22073,County,2021-04-01,Complete Coverage,14.82851532173357,153279
 Mississippi,28,Simpson County,28127,County,2021-04-01,Complete Coverage,14.682271738314952,26658
-Wyoming,56,Albany County,56001,County,2021-04-01,Complete Coverage,17.132201646090536,38880
 New York,36,Franklin County,36033,County,2021-04-01,Complete Coverage,25.3768341929551,50022
 Missouri,29,Barry County,29009,County,2021-04-01,Complete Coverage,11.003380927100507,35789
 Virginia,51,Falls Church City,51610,County,2021-04-01,Complete Coverage,15.947184784839571,14617
@@ -8093,7 +7973,6 @@ Indiana,18,Huntington County,18069,County,2021-04-01,Complete Coverage,19.446878
 Virginia,51,Alleghany County,51005,County,2021-04-01,Complete Coverage,14.710632570659488,14860
 Mississippi,28,Rankin County,28121,County,2021-04-01,Complete Coverage,18.46577918606823,155271
 California,6,Sonoma County,6097,County,2021-04-01,Complete Coverage,23.00783272915588,494336
-Wyoming,56,Campbell County,56005,County,2021-04-01,Complete Coverage,10.269523747869057,46341
 Illinois,17,Cass County,17017,County,2021-04-01,Complete Coverage,24.277599407261054,12147
 Illinois,17,Union County,17181,County,2021-04-01,Complete Coverage,23.4192037470726,16653
 Minnesota,27,Chippewa County,27023,County,2021-04-01,Complete Coverage,23.093220338983052,11800
@@ -8133,7 +8012,6 @@ Iowa,19,Wapello County,19179,County,2021-04-01,Complete Coverage,14.498555863765
 Virginia,51,Pulaski County,51155,County,2021-04-01,Complete Coverage,19.769594733593912,34027
 Mississippi,28,Choctaw County,28019,County,2021-04-01,Complete Coverage,12.25334957369062,8210
 Missouri,29,Montgomery County,29139,County,2021-04-01,Complete Coverage,16.28430438923037,11551
-Wyoming,56,Teton County,56039,County,2021-04-01,Complete Coverage,25.894988066825775,23464
 Missouri,29,Mercer County,29129,County,2021-04-01,Complete Coverage,12.662427426043683,3617
 New York,36,Albany County,36001,County,2021-04-01,Complete Coverage,22.99627503224159,305506
 Wisconsin,55,Brown County,55009,County,2021-04-01,Complete Coverage,17.17761262861852,264542
@@ -8167,7 +8045,6 @@ Wisconsin,55,Green County,55045,County,2021-04-01,Complete Coverage,19.986471861
 Illinois,17,Clay County,17025,County,2021-04-01,Complete Coverage,18.727245145631066,13184
 Wisconsin,55,Washburn County,55129,County,2021-04-01,Complete Coverage,21.806615776081426,15720
 Missouri,29,Audrain County,29007,County,2021-04-01,Complete Coverage,13.333070742082874,25388
-Connecticut,9,Fairfield County,9001,County,2021-04-01,Complete Coverage,17.88203940924298,943332
 Missouri,29,Randolph County,29175,County,2021-04-01,Complete Coverage,9.079521577501213,24748
 Wisconsin,55,Trempealeau County,55121,County,2021-04-01,Complete Coverage,22.03446996526021,29649
 Montana,30,Ravalli County,30081,County,2021-04-01,Complete Coverage,16.025202027119573,43806
@@ -8201,7 +8078,6 @@ Minnesota,27,Pope County,27121,County,2021-04-01,Complete Coverage,24.0199128811
 Oregon,41,Clackamas County,41005,County,2021-04-01,Complete Coverage,13.820850480765781,418187
 Louisiana,22,Lincoln Parish,22061,County,2021-04-01,Complete Coverage,15.923580505754996,46742
 New York,36,Otsego County,36077,County,2021-04-01,Complete Coverage,20.75034037617871,59493
-Wyoming,56,Lincoln County,56023,County,2021-04-01,Complete Coverage,12.939989914271306,19830
 New Mexico,35,Grant County,35017,County,2021-04-01,Complete Coverage,19.675531520853397,26998
 Indiana,18,Knox County,18083,County,2021-04-01,Complete Coverage,24.963108706345302,36594
 California,6,Modoc County,6049,County,2021-04-01,Complete Coverage,19.22859405044678,8841
