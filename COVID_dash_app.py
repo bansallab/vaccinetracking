@@ -259,7 +259,7 @@ row_1 = dbc.Row(
     children=[
         dbc.Col(
             children=[
-                html.H3('Complete Vaccination Coverage', className='mb-0')
+                html.H3('Complete Vaccination Coverage', className='mt-3')
             ], width={'size': 6, 'offset': 3}, className='h-100'
         )
     ], justify='center', no_gutters=True
