@@ -72,16 +72,17 @@ state_demo['STATE'] = state_demo['STATE'].apply(pad_fips_state)
 def US_choropleth(coverage_sel):
     county_daily_total_choro = county_daily_total[county_daily_total['CASE_TYPE'] == coverage_sel]
 
-    val_max = county_daily_total_choro.CASES.max()
-    val_90 = np.percentile(list(county_daily_total_choro.CASES), 90) / val_max
-    val_92 = np.percentile(list(county_daily_total_choro.CASES), 92) / val_max
-    val_94 = np.percentile(list(county_daily_total_choro.CASES), 94) / val_max
-    val_96 = np.percentile(list(county_daily_total_choro.CASES), 96) / val_max
-    val_15 = np.percentile(list(county_daily_total_choro.CASES), 15) / val_max
-    val_30 = np.percentile(list(county_daily_total_choro.CASES), 30) / val_max
-    val_45 = np.percentile(list(county_daily_total_choro.CASES), 45) / val_max
-    val_60 = np.percentile(list(county_daily_total_choro.CASES), 60) / val_max
-    val_75 = np.percentile(list(county_daily_total_choro.CASES), 75) / val_max
+    # control for NA values
+    val_max = county_daily_total_choro.CASES.max(skipna=True)
+    val_90 = np.nanpercentile(list(county_daily_total_choro.CASES), 90) / val_max
+    val_92 = np.nanpercentile(list(county_daily_total_choro.CASES), 92) / val_max
+    val_94 = np.nanpercentile(list(county_daily_total_choro.CASES), 94) / val_max
+    val_96 = np.nanpercentile(list(county_daily_total_choro.CASES), 96) / val_max
+    val_15 = np.nanpercentile(list(county_daily_total_choro.CASES), 15) / val_max
+    val_30 = np.nanpercentile(list(county_daily_total_choro.CASES), 30) / val_max
+    val_45 = np.nanpercentile(list(county_daily_total_choro.CASES), 45) / val_max
+    val_60 = np.nanpercentile(list(county_daily_total_choro.CASES), 60) / val_max
+    val_75 = np.nanpercentile(list(county_daily_total_choro.CASES), 75) / val_max
 
     custom_colorscale = [[0.0, '#ffffff'],
                          [val_15, '#e8edf2'],
