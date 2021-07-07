@@ -267,7 +267,8 @@ row_1 = dbc.Row(
                         ],
                         value='Complete Coverage',
                         labelStyle={'display': 'block'}
-                    )
+                    ),
+                    className='mt-3'
                 )
             ], width={'size': 6, 'offset': 3}, className='h-100'
         )
