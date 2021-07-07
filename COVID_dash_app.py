@@ -159,7 +159,7 @@ def US_choropleth(coverage_sel):
     return fig
 
 # define the pre-computed maps
-# partial_map = US_choropleth('Partial Coverage')
+partial_map = US_choropleth('Partial Coverage')
 complete_map = US_choropleth('Complete Coverage')
 
 # ----------------------------------------------------------------------------------------------------------------------
@@ -191,8 +191,6 @@ alert = html.Div(
                 html.H5('Tips', className='mb-0'),
                 html.Hr(className='mb-0'),
                 html.P('Hover over a county to see vaccination coverage and the source of the data (state or county).')
-                # html.P('Click on a state to see vaccination coverage by demography (where available).',
-                #        className='mb-0')
             ],
             id='alert-fade',
             dismissable=True,
@@ -260,10 +258,20 @@ row_1 = dbc.Row(
     children=[
         dbc.Col(
             children=[
-                html.H3('Complete Vaccination Coverage', className='mt-5')
+                html.Div(
+                    dcc.RadioItems(
+                        id='coverage-buttons',
+                        options=[
+                            {'label': 'Complete vaccination (2 dose) coverage', 'value': 'Complete Coverage'},
+                            {'label': 'Partial vaccination (1+ dose) coverage', 'value': 'Partial Coverage'}
+                        ],
+                        value='Complete Coverage',
+                        labelStyle={'display': 'block'}
+                    )
+                )
             ], width={'size': 6, 'offset': 3}, className='h-100'
         )
-    ], justify='center', no_gutters=True
+    ], justify='left', no_gutters=True
 )
 
 # row for map
@@ -383,16 +391,16 @@ app.layout = dbc.Container([row_1, row_2], fluid=True)  # explicitly give layout
 #         return is_in, is_in, is_in, is_in, is_open
 
 # callback for updating choropleth depending on coverage selection
-# @app.callback(
-#     Output('US-choropleth', 'figure'),
-#     [Input('coverage-buttons', 'value')])
-# # function for plotting base US choropleth
-# def update_choropleth(button_value):
-#     # uses precomputed map data rather than computing on the fly
-#     if button_value == 'Partial Coverage':
-#         return partial_map
-#     else:
-#         return complete_map
+@app.callback(
+    Output('US-choropleth', 'figure'),
+    [Input('coverage-buttons', 'value')])
+# function for plotting base US choropleth
+def update_choropleth(button_value):
+    # uses precomputed map data rather than computing on the fly
+    if button_value == 'Partial Coverage':
+        return partial_map
+    else:
+        return complete_map
 
 # callback for updating bar plots depending on state clicked
 # @app.callback(
