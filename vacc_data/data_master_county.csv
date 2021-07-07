@@ -4528,10 +4528,14 @@ NY,36.0,Chemung,36015.0,County,2021-07-06,Partial,37367.0,83456.0,27
 NM,35.0,Curry,35009.0,County,2021-07-06,Partial,17324.0,48954.0,27
 NY,36.0,Nassau,36059.0,County,2021-07-06,Partial,899050.0,1356924.0,27
 GA,13.0,Appling County,13001.0,County,2021-07-05,Partial,4898.0,18386.0,27
+GA,13.0,Atkinson County,13003.0,County,2021-07-02,Partial,2118.0,8165.0,26
+GA,13.0,Bacon County,13005.0,County,2021-07-02,Partial,2605.0,11164.0,26
+GA,13.0,Baker County,13007.0,County,2021-07-01,Partial,1096.0,3038.0,26
 GA,13.0,Baldwin County,13009.0,County,2021-07-05,Partial,15931.0,44890.0,27
 GA,13.0,Barrow County,13013.0,County,2021-07-05,Partial,26524.0,83240.0,27
 GA,13.0,Bartow County,13015.0,County,2021-07-05,Partial,31893.0,107738.0,27
 GA,13.0,Ben Hill County,13017.0,County,2021-07-05,Partial,5031.0,16700.0,27
+GA,13.0,Berrien County,13019.0,County,2021-07-02,Partial,4807.0,19397.0,26
 GA,13.0,Bibb County,13021.0,County,2021-07-05,Partial,56166.0,153159.0,27
 GA,13.0,Bleckley County,13023.0,County,2021-07-05,Partial,3517.0,12873.0,27
 GA,13.0,Brantley County,13025.0,County,2021-07-05,Partial,3546.0,19109.0,27
@@ -4539,15 +4543,20 @@ GA,13.0,Brooks County,13027.0,County,2021-07-05,Partial,5399.0,15457.0,27
 GA,13.0,Bulloch County,13031.0,County,2021-07-05,Partial,21060.0,79608.0,27
 GA,13.0,Burke County,13033.0,County,2021-07-05,Partial,7984.0,22383.0,27
 GA,13.0,Butts County,13035.0,County,2021-07-05,Partial,6548.0,24936.0,27
+GA,13.0,Calhoun County,13037.0,County,2021-07-03,Partial,2320.0,6189.0,26
 GA,13.0,Camden County,13039.0,County,2021-07-05,Partial,15715.0,54666.0,27
 GA,13.0,Candler County,13043.0,County,2021-07-05,Partial,3614.0,10803.0,27
 GA,13.0,Carroll County,13045.0,County,2021-07-05,Partial,35186.0,119992.0,27
 GA,13.0,Catoosa County,13047.0,County,2021-07-05,Partial,21342.0,67580.0,27
+GA,13.0,Charlton County,13049.0,County,2021-07-02,Partial,2062.0,13392.0,26
 GA,13.0,Chatham County,13051.0,County,2021-07-05,Partial,127781.0,289430.0,27
+GA,13.0,Chattahoochee County,13053.0,County,2021-07-03,Partial,1654.0,10907.0,26
 GA,13.0,Chattooga County,13055.0,County,2021-07-05,Partial,7444.0,24789.0,27
 GA,13.0,Cherokee County,13057.0,County,2021-07-05,Partial,107752.0,258773.0,27
 GA,13.0,Clarke County,13059.0,County,2021-07-05,Partial,51939.0,128331.0,27
+GA,13.0,Clay County,13061.0,County,2021-07-01,Partial,1433.0,2834.0,26
 GA,13.0,Clayton County,13063.0,County,2021-07-05,Partial,98071.0,292256.0,27
+GA,13.0,Clinch County,13065.0,County,2021-07-02,Partial,1951.0,6618.0,26
 GA,13.0,Cobb County,13067.0,County,2021-07-05,Partial,380481.0,760141.0,27
 GA,13.0,Coffee County,13069.0,County,2021-07-05,Partial,11593.0,43273.0,27
 GA,13.0,Colquitt County,13071.0,County,2021-07-05,Partial,14181.0,45600.0,27
@@ -4560,6 +4569,8 @@ GA,13.0,DeKalb County,13089.0,County,2021-07-05,Partial,362246.0,759297.0,27
 GA,13.0,Dodge County,13091.0,County,2021-07-05,Partial,5645.0,20605.0,27
 GA,13.0,Dougherty County,13095.0,County,2021-07-05,Partial,32600.0,87956.0,27
 GA,13.0,Douglas County,13097.0,County,2021-07-05,Partial,53913.0,146343.0,27
+GA,13.0,Early County,13099.0,County,2021-07-03,Partial,3750.0,10190.0,26
+GA,13.0,Echols County,13101.0,County,2021-07-03,Partial,924.0,4006.0,26
 GA,13.0,Effingham County,13103.0,County,2021-07-05,Partial,18920.0,64296.0,27
 GA,13.0,Elbert County,13105.0,County,2021-07-05,Partial,6599.0,19194.0,27
 GA,13.0,Emanuel County,13107.0,County,2021-07-05,Partial,6362.0,22646.0,27
@@ -4580,19 +4591,25 @@ GA,13.0,Hart County,13147.0,County,2021-07-05,Partial,8245.0,26205.0,27
 GA,13.0,Heard County,13149.0,County,2021-07-05,Partial,2620.0,11923.0,27
 GA,13.0,Henry County,13151.0,County,2021-07-05,Partial,83950.0,234561.0,27
 GA,13.0,Houston County,13153.0,County,2021-07-05,Partial,55250.0,157863.0,27
+GA,13.0,Irwin County,13155.0,County,2021-07-02,Partial,2719.0,9416.0,26
 GA,13.0,Jackson County,13157.0,County,2021-07-05,Partial,24480.0,72977.0,27
 GA,13.0,Jeff Davis County,13161.0,County,2021-07-05,Partial,3441.0,15115.0,27
 GA,13.0,Jefferson County,13163.0,County,2021-07-05,Partial,6292.0,15362.0,27
+GA,13.0,Jenkins County,13165.0,County,2021-07-03,Partial,2350.0,8676.0,26
+GA,13.0,Johnson County,13167.0,County,2021-07-01,Partial,2506.0,9643.0,26
 GA,13.0,Lamar County,13171.0,County,2021-07-05,Partial,5284.0,19077.0,27
+GA,13.0,Lanier County,13173.0,County,2021-07-03,Partial,2221.0,10423.0,26
 GA,13.0,Laurens County,13175.0,County,2021-07-05,Partial,15680.0,47546.0,27
 GA,13.0,Liberty County,13179.0,County,2021-07-05,Partial,13861.0,61435.0,27
 GA,13.0,Long County,13183.0,County,2021-07-05,Partial,2923.0,19559.0,27
 GA,13.0,Lowndes County,13185.0,County,2021-07-05,Partial,33414.0,117406.0,27
 GA,13.0,Lumpkin County,13187.0,County,2021-07-05,Partial,9895.0,33610.0,27
+GA,13.0,McIntosh County,13191.0,County,2021-07-03,Partial,4686.0,14378.0,26
 GA,13.0,Macon County,13193.0,County,2021-07-05,Partial,4330.0,12947.0,27
 GA,13.0,Meriwether County,13199.0,County,2021-07-05,Partial,6982.0,21167.0,27
+GA,13.0,Miller County,13201.0,County,2021-07-03,Partial,2306.0,5718.0,26
 GA,13.0,Mitchell County,13205.0,County,2021-07-05,Partial,7498.0,21863.0,27
-GA,13.0,Monroe County,13207.0,County,2021-07-05,Partial,10061.0,27578.0,27
+GA,13.0,Monroe County,13207.0,County,2021-07-04,Partial,10060.0,27578.0,26
 GA,13.0,Montgomery County,13209.0,County,2021-07-05,Partial,2361.0,9172.0,27
 GA,13.0,Morgan County,13211.0,County,2021-07-05,Partial,7305.0,19276.0,27
 GA,13.0,Murray County,13213.0,County,2021-07-05,Partial,11477.0,40096.0,27
@@ -4600,48 +4617,60 @@ GA,13.0,Muscogee County,13215.0,County,2021-07-05,Partial,66491.0,195769.0,27
 GA,13.0,Newton County,13217.0,County,2021-07-05,Partial,37449.0,111744.0,27
 GA,13.0,Oconee County,13219.0,County,2021-07-05,Partial,20306.0,40280.0,27
 GA,13.0,Paulding County,13223.0,County,2021-07-05,Partial,50514.0,168667.0,27
-GA,13.0,Peach County,13225.0,County,2021-07-05,Partial,10025.0,27546.0,27
-GA,13.0,Pierce County,13229.0,County,2021-07-05,Partial,5019.0,19465.0,27
+GA,13.0,Peach County,13225.0,County,2021-07-03,Partial,10022.0,27546.0,26
+GA,13.0,Pierce County,13229.0,County,2021-07-03,Partial,5018.0,19465.0,26
 GA,13.0,Pike County,13231.0,County,2021-07-05,Partial,4831.0,18962.0,27
 GA,13.0,Polk County,13233.0,County,2021-07-05,Partial,12571.0,42613.0,27
-GA,13.0,Pulaski County,13235.0,County,2021-07-05,Partial,3252.0,11137.0,27
+GA,13.0,Pulaski County,13235.0,County,2021-07-03,Partial,3251.0,11137.0,26
 GA,13.0,Putnam County,13237.0,County,2021-07-05,Partial,7832.0,22119.0,27
-GA,13.0,Rabun County,13241.0,County,2021-07-05,Partial,6930.0,17137.0,27
+GA,13.0,Quitman County,13239.0,County,2021-07-01,Partial,731.0,2299.0,26
+GA,13.0,Rabun County,13241.0,County,2021-07-03,Partial,6927.0,17137.0,26
+GA,13.0,Randolph County,13243.0,County,2021-07-03,Partial,2431.0,6778.0,26
 GA,13.0,Richmond County,13245.0,County,2021-07-05,Partial,66811.0,202518.0,27
 GA,13.0,Rockdale County,13247.0,County,2021-07-05,Partial,37984.0,90896.0,27
 GA,13.0,Schley County,13249.0,County,2021-07-05,Partial,1328.0,5257.0,27
-GA,13.0,Screven County,13251.0,County,2021-07-05,Partial,5039.0,13966.0,27
-GA,13.0,Seminole County,13253.0,County,2021-07-05,Partial,2786.0,8090.0,27
+GA,13.0,Screven County,13251.0,County,2021-07-03,Partial,5038.0,13966.0,26
+GA,13.0,Seminole County,13253.0,County,2021-07-02,Partial,2785.0,8090.0,26
 GA,13.0,Spalding County,13255.0,County,2021-07-05,Partial,21462.0,66703.0,27
 GA,13.0,Stephens County,13257.0,County,2021-07-05,Partial,8518.0,25925.0,27
+GA,13.0,Stewart County,13259.0,County,2021-07-02,Partial,1715.0,6621.0,26
 GA,13.0,Sumter County,13261.0,County,2021-07-05,Partial,11931.0,29524.0,27
 GA,13.0,Talbot County,13263.0,County,2021-07-05,Partial,2439.0,6195.0,27
+GA,13.0,Taliaferro County,13265.0,County,2021-07-03,Partial,570.0,1537.0,26
 GA,13.0,Tattnall County,13267.0,County,2021-07-05,Partial,6486.0,25286.0,27
 GA,13.0,Telfair County,13271.0,County,2021-07-05,Partial,3409.0,15860.0,27
 GA,13.0,Terrell County,13273.0,County,2021-07-05,Partial,3716.0,8531.0,27
 GA,13.0,Thomas County,13275.0,County,2021-07-05,Partial,16946.0,44451.0,27
-GA,13.0,Tift County,13277.0,County,2021-07-05,Partial,12955.0,40644.0,27
+GA,13.0,Tift County,13277.0,County,2021-07-04,Partial,12953.0,40644.0,26
 GA,13.0,Toombs County,13279.0,County,2021-07-05,Partial,8000.0,26830.0,27
+GA,13.0,Towns County,13281.0,County,2021-07-03,Partial,5369.0,12037.0,26
 GA,13.0,Treutlen County,13283.0,County,2021-07-05,Partial,1597.0,6901.0,27
 GA,13.0,Troup County,13285.0,County,2021-07-05,Partial,19562.0,69922.0,27
-GA,13.0,Turner County,13287.0,County,2021-07-05,Partial,3149.0,7985.0,27
-GA,13.0,Twiggs County,13289.0,County,2021-07-05,Partial,3442.0,8120.0,27
+GA,13.0,Turner County,13287.0,County,2021-07-03,Partial,3148.0,7985.0,26
+GA,13.0,Twiggs County,13289.0,County,2021-07-03,Partial,3441.0,8120.0,26
+GA,13.0,Union County,13291.0,County,2021-07-03,Partial,9914.0,24511.0,26
 GA,13.0,Upson County,13293.0,County,2021-07-05,Partial,9254.0,26320.0,27
 GA,13.0,Walker County,13295.0,County,2021-07-05,Partial,18829.0,69761.0,27
 GA,13.0,Walton County,13297.0,County,2021-07-05,Partial,31660.0,94593.0,27
 GA,13.0,Ware County,13299.0,County,2021-07-05,Partial,10711.0,35734.0,27
 GA,13.0,Washington County,13303.0,County,2021-07-05,Partial,7053.0,20374.0,27
 GA,13.0,Wayne County,13305.0,County,2021-07-05,Partial,8293.0,29927.0,27
+GA,13.0,Webster County,13307.0,County,2021-07-01,Partial,928.0,2607.0,26
+GA,13.0,White County,13311.0,County,2021-07-03,Partial,9346.0,30798.0,26
 GA,13.0,Whitfield County,13313.0,County,2021-07-05,Partial,37284.0,104628.0,27
 GA,13.0,Wilkes County,13317.0,County,2021-07-05,Partial,3719.0,9777.0,27
 GA,13.0,Wilkinson County,13319.0,County,2021-07-05,Partial,3692.0,8954.0,27
 GA,13.0,Worth County,13321.0,County,2021-07-05,Partial,6603.0,20247.0,27
 GA,13.0,Appling County,13001.0,County,2021-07-05,Complete,4523.0,18386.0,27
+GA,13.0,Atkinson County,13003.0,County,2021-07-03,Complete,1868.0,8165.0,26
+GA,13.0,Bacon County,13005.0,County,2021-07-03,Complete,2383.0,11164.0,26
+GA,13.0,Baker County,13007.0,County,2021-07-01,Complete,994.0,3038.0,26
 GA,13.0,Baldwin County,13009.0,County,2021-07-05,Complete,14571.0,44890.0,27
 GA,13.0,Banks County,13011.0,County,2021-07-05,Complete,4234.0,19234.0,27
 GA,13.0,Barrow County,13013.0,County,2021-07-05,Complete,24019.0,83240.0,27
 GA,13.0,Bartow County,13015.0,County,2021-07-05,Complete,29032.0,107738.0,27
 GA,13.0,Ben Hill County,13017.0,County,2021-07-05,Complete,4633.0,16700.0,27
+GA,13.0,Berrien County,13019.0,County,2021-07-04,Complete,4411.0,19397.0,26
 GA,13.0,Bibb County,13021.0,County,2021-07-05,Complete,50644.0,153159.0,27
 GA,13.0,Bleckley County,13023.0,County,2021-07-05,Complete,3218.0,12873.0,27
 GA,13.0,Brantley County,13025.0,County,2021-07-05,Complete,3239.0,19109.0,27
@@ -4650,15 +4679,20 @@ GA,13.0,Bryan County,13029.0,County,2021-07-05,Complete,13872.0,39627.0,27
 GA,13.0,Bulloch County,13031.0,County,2021-07-05,Complete,19245.0,79608.0,27
 GA,13.0,Burke County,13033.0,County,2021-07-05,Complete,7262.0,22383.0,27
 GA,13.0,Butts County,13035.0,County,2021-07-05,Complete,5983.0,24936.0,27
+GA,13.0,Calhoun County,13037.0,County,2021-07-02,Complete,2135.0,6189.0,26
 GA,13.0,Camden County,13039.0,County,2021-07-05,Complete,14520.0,54666.0,27
 GA,13.0,Candler County,13043.0,County,2021-07-05,Complete,3317.0,10803.0,27
 GA,13.0,Carroll County,13045.0,County,2021-07-05,Complete,31889.0,119992.0,27
 GA,13.0,Catoosa County,13047.0,County,2021-07-05,Complete,19140.0,67580.0,27
+GA,13.0,Charlton County,13049.0,County,2021-07-02,Complete,1897.0,13392.0,26
 GA,13.0,Chatham County,13051.0,County,2021-07-05,Complete,116269.0,289430.0,27
+GA,13.0,Chattahoochee County,13053.0,County,2021-07-03,Complete,1444.0,10907.0,26
 GA,13.0,Chattooga County,13055.0,County,2021-07-05,Complete,6819.0,24789.0,27
 GA,13.0,Cherokee County,13057.0,County,2021-07-05,Complete,99049.0,258773.0,27
 GA,13.0,Clarke County,13059.0,County,2021-07-05,Complete,48203.0,128331.0,27
+GA,13.0,Clay County,13061.0,County,2021-07-01,Complete,1250.0,2834.0,26
 GA,13.0,Clayton County,13063.0,County,2021-07-05,Complete,85939.0,292256.0,27
+GA,13.0,Clinch County,13065.0,County,2021-07-03,Complete,1803.0,6618.0,26
 GA,13.0,Cobb County,13067.0,County,2021-07-05,Complete,342946.0,760141.0,27
 GA,13.0,Coffee County,13069.0,County,2021-07-05,Complete,10378.0,43273.0,27
 GA,13.0,Colquitt County,13071.0,County,2021-07-05,Complete,12779.0,45600.0,27
@@ -4675,6 +4709,8 @@ GA,13.0,Dodge County,13091.0,County,2021-07-05,Complete,5127.0,20605.0,27
 GA,13.0,Dooly County,13093.0,County,2021-07-05,Complete,3521.0,13390.0,27
 GA,13.0,Dougherty County,13095.0,County,2021-07-05,Complete,29367.0,87956.0,27
 GA,13.0,Douglas County,13097.0,County,2021-07-05,Complete,47638.0,146343.0,27
+GA,13.0,Early County,13099.0,County,2021-07-02,Complete,3491.0,10190.0,26
+GA,13.0,Echols County,13101.0,County,2021-07-02,Complete,826.0,4006.0,26
 GA,13.0,Effingham County,13103.0,County,2021-07-05,Complete,17346.0,64296.0,27
 GA,13.0,Elbert County,13105.0,County,2021-07-05,Complete,6108.0,19194.0,27
 GA,13.0,Emanuel County,13107.0,County,2021-07-05,Complete,5864.0,22646.0,27
@@ -4701,12 +4737,16 @@ GA,13.0,Hart County,13147.0,County,2021-07-05,Complete,7575.0,26205.0,27
 GA,13.0,Heard County,13149.0,County,2021-07-05,Complete,2376.0,11923.0,27
 GA,13.0,Henry County,13151.0,County,2021-07-05,Complete,75818.0,234561.0,27
 GA,13.0,Houston County,13153.0,County,2021-07-05,Complete,50139.0,157863.0,27
+GA,13.0,Irwin County,13155.0,County,2021-07-03,Complete,2476.0,9416.0,26
 GA,13.0,Jackson County,13157.0,County,2021-07-05,Complete,22531.0,72977.0,27
 GA,13.0,Jasper County,13159.0,County,2021-07-05,Complete,3633.0,14219.0,27
 GA,13.0,Jeff Davis County,13161.0,County,2021-07-05,Complete,3171.0,15115.0,27
 GA,13.0,Jefferson County,13163.0,County,2021-07-05,Complete,5770.0,15362.0,27
+GA,13.0,Jenkins County,13165.0,County,2021-07-03,Complete,2164.0,8676.0,26
+GA,13.0,Johnson County,13167.0,County,2021-07-03,Complete,2306.0,9643.0,26
 GA,13.0,Jones County,13169.0,County,2021-07-05,Complete,8930.0,28735.0,27
 GA,13.0,Lamar County,13171.0,County,2021-07-05,Complete,4876.0,19077.0,27
+GA,13.0,Lanier County,13173.0,County,2021-07-03,Complete,2005.0,10423.0,26
 GA,13.0,Laurens County,13175.0,County,2021-07-05,Complete,14329.0,47546.0,27
 GA,13.0,Lee County,13177.0,County,2021-07-05,Complete,10925.0,29992.0,27
 GA,13.0,Liberty County,13179.0,County,2021-07-05,Complete,12525.0,61435.0,27
@@ -4715,11 +4755,14 @@ GA,13.0,Long County,13183.0,County,2021-07-05,Complete,2622.0,19559.0,27
 GA,13.0,Lowndes County,13185.0,County,2021-07-05,Complete,30121.0,117406.0,27
 GA,13.0,Lumpkin County,13187.0,County,2021-07-05,Complete,9139.0,33610.0,27
 GA,13.0,McDuffie County,13189.0,County,2021-07-05,Complete,6755.0,21312.0,27
+GA,13.0,McIntosh County,13191.0,County,2021-07-04,Complete,4412.0,14378.0,26
 GA,13.0,Macon County,13193.0,County,2021-07-05,Complete,3947.0,12947.0,27
 GA,13.0,Madison County,13195.0,County,2021-07-05,Complete,9943.0,29880.0,27
 GA,13.0,Marion County,13197.0,County,2021-07-05,Complete,2364.0,8359.0,27
 GA,13.0,Meriwether County,13199.0,County,2021-07-05,Complete,6355.0,21167.0,27
+GA,13.0,Miller County,13201.0,County,2021-07-03,Complete,2175.0,5718.0,26
 GA,13.0,Mitchell County,13205.0,County,2021-07-05,Complete,6879.0,21863.0,27
+GA,13.0,Monroe County,13207.0,County,2021-07-04,Complete,9245.0,27578.0,26
 GA,13.0,Montgomery County,13209.0,County,2021-07-05,Complete,2183.0,9172.0,27
 GA,13.0,Morgan County,13211.0,County,2021-07-05,Complete,6812.0,19276.0,27
 GA,13.0,Murray County,13213.0,County,2021-07-05,Complete,10397.0,40096.0,27
@@ -4728,25 +4771,40 @@ GA,13.0,Newton County,13217.0,County,2021-07-05,Complete,33606.0,111744.0,27
 GA,13.0,Oconee County,13219.0,County,2021-07-05,Complete,19017.0,40280.0,27
 GA,13.0,Oglethorpe County,13221.0,County,2021-07-05,Complete,5065.0,15259.0,27
 GA,13.0,Paulding County,13223.0,County,2021-07-05,Complete,45741.0,168667.0,27
+GA,13.0,Peach County,13225.0,County,2021-07-03,Complete,9050.0,27546.0,26
 GA,13.0,Pickens County,13227.0,County,2021-07-05,Complete,11253.0,32591.0,27
+GA,13.0,Pierce County,13229.0,County,2021-07-03,Complete,4588.0,19465.0,26
 GA,13.0,Pike County,13231.0,County,2021-07-05,Complete,4463.0,18962.0,27
 GA,13.0,Polk County,13233.0,County,2021-07-05,Complete,11442.0,42613.0,27
+GA,13.0,Pulaski County,13235.0,County,2021-07-02,Complete,2973.0,11137.0,26
 GA,13.0,Putnam County,13237.0,County,2021-07-05,Complete,7290.0,22119.0,27
+GA,13.0,Quitman County,13239.0,County,2021-06-29,Complete,657.0,2299.0,26
+GA,13.0,Rabun County,13241.0,County,2021-07-03,Complete,6439.0,17137.0,26
+GA,13.0,Randolph County,13243.0,County,2021-07-03,Complete,2153.0,6778.0,26
 GA,13.0,Richmond County,13245.0,County,2021-07-05,Complete,60763.0,202518.0,27
 GA,13.0,Rockdale County,13247.0,County,2021-07-05,Complete,34148.0,90896.0,27
 GA,13.0,Schley County,13249.0,County,2021-07-05,Complete,1241.0,5257.0,27
+GA,13.0,Screven County,13251.0,County,2021-07-03,Complete,4651.0,13966.0,26
+GA,13.0,Seminole County,13253.0,County,2021-07-04,Complete,2594.0,8090.0,26
 GA,13.0,Spalding County,13255.0,County,2021-07-05,Complete,19555.0,66703.0,27
 GA,13.0,Stephens County,13257.0,County,2021-07-05,Complete,7888.0,25925.0,27
+GA,13.0,Stewart County,13259.0,County,2021-07-02,Complete,1590.0,6621.0,26
 GA,13.0,Sumter County,13261.0,County,2021-07-05,Complete,10930.0,29524.0,27
 GA,13.0,Talbot County,13263.0,County,2021-07-05,Complete,2235.0,6195.0,27
+GA,13.0,Taliaferro County,13265.0,County,2021-07-01,Complete,518.0,1537.0,26
 GA,13.0,Tattnall County,13267.0,County,2021-07-05,Complete,5912.0,25286.0,27
 GA,13.0,Taylor County,13269.0,County,2021-07-05,Complete,2648.0,8020.0,27
 GA,13.0,Telfair County,13271.0,County,2021-07-05,Complete,3105.0,15860.0,27
 GA,13.0,Terrell County,13273.0,County,2021-07-05,Complete,3408.0,8531.0,27
 GA,13.0,Thomas County,13275.0,County,2021-07-05,Complete,15340.0,44451.0,27
+GA,13.0,Tift County,13277.0,County,2021-07-04,Complete,11678.0,40644.0,26
 GA,13.0,Toombs County,13279.0,County,2021-07-05,Complete,7341.0,26830.0,27
+GA,13.0,Towns County,13281.0,County,2021-07-03,Complete,5052.0,12037.0,26
 GA,13.0,Treutlen County,13283.0,County,2021-07-05,Complete,1439.0,6901.0,27
 GA,13.0,Troup County,13285.0,County,2021-07-05,Complete,17653.0,69922.0,27
+GA,13.0,Turner County,13287.0,County,2021-07-03,Complete,2790.0,7985.0,26
+GA,13.0,Twiggs County,13289.0,County,2021-07-03,Complete,3063.0,8120.0,26
+GA,13.0,Union County,13291.0,County,2021-07-03,Complete,9372.0,24511.0,26
 GA,13.0,Upson County,13293.0,County,2021-07-05,Complete,8665.0,26320.0,27
 GA,13.0,Walker County,13295.0,County,2021-07-05,Complete,16939.0,69761.0,27
 GA,13.0,Walton County,13297.0,County,2021-07-05,Complete,28987.0,94593.0,27
@@ -4754,153 +4812,280 @@ GA,13.0,Ware County,13299.0,County,2021-07-05,Complete,9724.0,35734.0,27
 GA,13.0,Warren County,13301.0,County,2021-07-05,Complete,1788.0,5254.0,27
 GA,13.0,Washington County,13303.0,County,2021-07-05,Complete,6449.0,20374.0,27
 GA,13.0,Wayne County,13305.0,County,2021-07-05,Complete,7596.0,29927.0,27
+GA,13.0,Webster County,13307.0,County,2021-07-02,Complete,867.0,2607.0,26
 GA,13.0,Wheeler County,13309.0,County,2021-07-05,Complete,1374.0,7855.0,27
+GA,13.0,White County,13311.0,County,2021-07-03,Complete,8635.0,30798.0,26
 GA,13.0,Whitfield County,13313.0,County,2021-07-05,Complete,33595.0,104628.0,27
 GA,13.0,Wilcox County,13315.0,County,2021-07-05,Complete,2242.0,8635.0,27
 GA,13.0,Wilkes County,13317.0,County,2021-07-05,Complete,3416.0,9777.0,27
 GA,13.0,Wilkinson County,13319.0,County,2021-07-05,Complete,3371.0,8954.0,27
 GA,13.0,Worth County,13321.0,County,2021-07-05,Complete,6068.0,20247.0,27
-VA,51.0,Franklin City,51620.0,County,2021-07-05,Partial,3803.0,7967.0,27
-VA,51.0,Accomack,51001.0,County,2021-07-06,Partial,15615.0,32316.0,27
-VA,51.0,Albemarle,51003.0,County,2021-07-06,Partial,73240.0,109330.0,27
-VA,51.0,Alleghany,51005.0,County,2021-07-06,Partial,7146.0,14860.0,27
-VA,51.0,Amelia,51007.0,County,2021-07-06,Partial,5427.0,13145.0,27
-VA,51.0,Amherst,51009.0,County,2021-07-06,Partial,13483.0,31605.0,27
-VA,51.0,Appomattox,51011.0,County,2021-07-06,Partial,6269.0,15911.0,27
-VA,51.0,Arlington,51013.0,County,2021-07-06,Partial,143699.0,236842.0,27
-VA,51.0,Augusta,51015.0,County,2021-07-06,Partial,36425.0,75558.0,27
-VA,51.0,Bath,51017.0,County,2021-07-06,Partial,1987.0,4147.0,27
-VA,51.0,Bedford,51019.0,County,2021-07-06,Partial,34560.0,78997.0,27
-VA,51.0,Bland,51021.0,County,2021-07-06,Partial,2528.0,6280.0,27
-VA,51.0,Botetourt,51023.0,County,2021-07-06,Partial,17209.0,33419.0,27
-VA,51.0,Brunswick,51025.0,County,2021-07-06,Partial,6478.0,16231.0,27
-VA,51.0,Buchanan,51027.0,County,2021-07-06,Partial,8721.0,21004.0,27
-VA,51.0,Buckingham,51029.0,County,2021-07-06,Partial,7632.0,17148.0,27
-VA,51.0,Campbell,51031.0,County,2021-07-06,Partial,22742.0,54885.0,27
-VA,51.0,Caroline,51033.0,County,2021-07-06,Partial,13142.0,30725.0,27
-VA,51.0,Carroll,51035.0,County,2021-07-06,Partial,10206.0,29791.0,27
-VA,51.0,Charles City,51036.0,County,2021-07-06,Partial,3661.0,6963.0,27
-VA,51.0,Charlotte,51037.0,County,2021-07-06,Partial,5070.0,11880.0,27
-VA,51.0,Chesterfield,51041.0,County,2021-07-06,Partial,191537.0,352802.0,27
-VA,51.0,Clarke,51043.0,County,2021-07-06,Partial,7959.0,14619.0,27
-VA,51.0,Craig,51045.0,County,2021-07-06,Partial,1940.0,5131.0,27
-VA,51.0,Culpeper,51047.0,County,2021-07-06,Partial,25314.0,52605.0,27
-VA,51.0,Cumberland,51049.0,County,2021-07-06,Partial,4143.0,9932.0,27
-VA,51.0,Dickenson,51051.0,County,2021-07-06,Partial,5931.0,14318.0,27
-VA,51.0,Dinwiddie,51053.0,County,2021-07-06,Partial,11042.0,28544.0,27
-VA,51.0,Essex,51057.0,County,2021-07-06,Partial,5457.0,10953.0,27
+VA,51.0,Craig,51045.0,County,2021-06-29,Complete,1523.0,5131.0,26
+VA,51.0,Dickenson,51051.0,County,2021-06-29,Complete,4754.0,14318.0,26
+VA,51.0,King and Queen,51097.0,County,2021-06-29,Complete,2706.0,7025.0,26
+VA,51.0,Patrick,51141.0,County,2021-06-29,Complete,5173.0,17608.0,26
+VA,51.0,Rappahannock,51157.0,County,2021-06-29,Complete,3179.0,7370.0,26
+VA,51.0,Covington,51580.0,County,2021-06-29,Complete,1818.0,5538.0,26
+VA,51.0,Emporia,51595.0,County,2021-06-29,Complete,1774.0,5346.0,26
+VA,51.0,Fairfax City,51600.0,County,2021-06-29,Complete,13728.0,24019.0,26
+VA,51.0,Lexington,51678.0,County,2021-06-29,Complete,3036.0,7446.0,26
+VA,51.0,Martinsville,51690.0,County,2021-06-29,Complete,5095.0,12554.0,26
+VA,51.0,Norton,51720.0,County,2021-06-29,Complete,1340.0,3981.0,26
+VA,51.0,Williamsburg,51830.0,County,2021-06-29,Complete,6162.0,14954.0,26
+VA,51.0,Accomack,51001.0,County,2021-06-30,Complete,12802.0,32316.0,26
+VA,51.0,Albemarle,51003.0,County,2021-06-30,Complete,60552.0,109330.0,26
+VA,51.0,Alleghany,51005.0,County,2021-06-30,Complete,5522.0,14860.0,26
+VA,51.0,Amelia,51007.0,County,2021-06-30,Complete,4255.0,13145.0,26
+VA,51.0,Amherst,51009.0,County,2021-06-30,Complete,11576.0,31605.0,26
+VA,51.0,Arlington,51013.0,County,2021-06-30,Complete,114831.0,236842.0,26
+VA,51.0,Augusta,51015.0,County,2021-06-30,Complete,29584.0,75558.0,26
+VA,51.0,Bath,51017.0,County,2021-06-30,Complete,1674.0,4147.0,26
+VA,51.0,Bland,51021.0,County,2021-06-30,Complete,2007.0,6280.0,26
+VA,51.0,Botetourt,51023.0,County,2021-06-30,Complete,13317.0,33419.0,26
+VA,51.0,Brunswick,51025.0,County,2021-06-30,Complete,5322.0,16231.0,26
+VA,51.0,Buchanan,51027.0,County,2021-06-30,Complete,7443.0,21004.0,26
+VA,51.0,Buckingham,51029.0,County,2021-06-30,Complete,5740.0,17148.0,26
+VA,51.0,Campbell,51031.0,County,2021-06-30,Complete,19247.0,54885.0,26
+VA,51.0,Caroline,51033.0,County,2021-06-30,Complete,11005.0,30725.0,26
+VA,51.0,Carroll,51035.0,County,2021-06-30,Complete,7963.0,29791.0,26
+VA,51.0,Charles City,51036.0,County,2021-06-30,Complete,2651.0,6963.0,26
+VA,51.0,Charlotte,51037.0,County,2021-06-30,Complete,3910.0,11880.0,26
+VA,51.0,Culpeper,51047.0,County,2021-06-30,Complete,20820.0,52605.0,26
+VA,51.0,Cumberland,51049.0,County,2021-06-30,Complete,3247.0,9932.0,26
+VA,51.0,Dinwiddie,51053.0,County,2021-06-30,Complete,8702.0,28544.0,26
+VA,51.0,Essex,51057.0,County,2021-06-30,Complete,4641.0,10953.0,26
+VA,51.0,Floyd,51063.0,County,2021-06-30,Complete,4956.0,15749.0,26
+VA,51.0,Fluvanna,51065.0,County,2021-06-30,Complete,12744.0,27270.0,26
+VA,51.0,Franklin County,51067.0,County,2021-06-30,Complete,19781.0,56042.0,26
+VA,51.0,Giles,51071.0,County,2021-06-30,Complete,6034.0,16720.0,26
+VA,51.0,Gloucester,51073.0,County,2021-06-30,Complete,15793.0,37348.0,26
+VA,51.0,Goochland,51075.0,County,2021-06-30,Complete,12583.0,23753.0,26
+VA,51.0,Grayson,51077.0,County,2021-06-30,Complete,4843.0,15550.0,26
+VA,51.0,Greene,51079.0,County,2021-06-30,Complete,8606.0,19819.0,26
+VA,51.0,Greensville,51081.0,County,2021-06-30,Complete,3677.0,11336.0,26
+VA,51.0,Halifax,51083.0,County,2021-06-30,Complete,11456.0,33911.0,26
+VA,51.0,Hanover,51085.0,County,2021-06-30,Complete,52033.0,107766.0,26
+VA,51.0,Henry,51089.0,County,2021-06-30,Complete,17215.0,50557.0,26
+VA,51.0,Highland,51091.0,County,2021-06-30,Complete,1031.0,2190.0,26
+VA,51.0,Isle of Wight,51093.0,County,2021-06-30,Complete,16279.0,37109.0,26
+VA,51.0,King George,51099.0,County,2021-06-30,Complete,9205.0,26836.0,26
+VA,51.0,King William,51101.0,County,2021-06-30,Complete,6710.0,17148.0,26
+VA,51.0,Lancaster,51103.0,County,2021-06-30,Complete,5558.0,10603.0,26
+VA,51.0,Lunenburg,51111.0,County,2021-06-30,Complete,3870.0,12196.0,26
+VA,51.0,Madison,51113.0,County,2021-06-30,Complete,5454.0,13261.0,26
+VA,51.0,Mathews,51115.0,County,2021-06-30,Complete,4245.0,8834.0,26
+VA,51.0,Middlesex,51119.0,County,2021-06-30,Complete,5093.0,10582.0,26
+VA,51.0,Montgomery,51121.0,County,2021-06-30,Complete,36000.0,98535.0,26
+VA,51.0,Nelson,51125.0,County,2021-06-30,Complete,7066.0,14930.0,26
+VA,51.0,New Kent,51127.0,County,2021-06-30,Complete,9148.0,23091.0,26
+VA,51.0,Northampton,51131.0,County,2021-06-30,Complete,6025.0,11710.0,26
+VA,51.0,Northumberland,51133.0,County,2021-06-30,Complete,5978.0,12095.0,26
+VA,51.0,Orange,51137.0,County,2021-06-30,Complete,14689.0,37051.0,26
+VA,51.0,Page,51139.0,County,2021-06-30,Complete,7556.0,23902.0,26
+VA,51.0,Pittsylvania,51143.0,County,2021-06-30,Complete,19662.0,60354.0,26
+VA,51.0,Powhatan,51145.0,County,2021-06-30,Complete,12162.0,29652.0,26
+VA,51.0,Prince George,51149.0,County,2021-06-30,Complete,10473.0,38353.0,26
+VA,51.0,Pulaski,51155.0,County,2021-06-30,Complete,11606.0,34027.0,26
+VA,51.0,Richmond County,51159.0,County,2021-06-30,Complete,3407.0,9023.0,26
+VA,51.0,Roanoke County,51161.0,County,2021-06-30,Complete,42755.0,94186.0,26
+VA,51.0,Rockingham,51165.0,County,2021-06-30,Complete,30338.0,81948.0,26
+VA,51.0,Russell,51167.0,County,2021-06-30,Complete,9631.0,26586.0,26
+VA,51.0,Scott,51169.0,County,2021-06-30,Complete,6394.0,21566.0,26
+VA,51.0,Shenandoah,51171.0,County,2021-06-30,Complete,15975.0,43616.0,26
+VA,51.0,Smyth,51173.0,County,2021-06-30,Complete,10739.0,30104.0,26
+VA,51.0,Southampton,51175.0,County,2021-06-30,Complete,5966.0,17631.0,26
+VA,51.0,Spotsylvania,51177.0,County,2021-06-30,Complete,52885.0,136215.0,26
+VA,51.0,Surry,51181.0,County,2021-06-30,Complete,2743.0,6422.0,26
+VA,51.0,Sussex,51183.0,County,2021-06-30,Complete,3692.0,11159.0,26
+VA,51.0,Tazewell,51185.0,County,2021-06-30,Complete,12302.0,40595.0,26
+VA,51.0,Warren,51187.0,County,2021-06-30,Complete,12752.0,40164.0,26
+VA,51.0,Washington,51191.0,County,2021-06-30,Complete,20968.0,53740.0,26
+VA,51.0,Westmoreland,51193.0,County,2021-06-30,Complete,7302.0,18015.0,26
+VA,51.0,Wise,51195.0,County,2021-06-30,Complete,11677.0,37383.0,26
+VA,51.0,Wythe,51197.0,County,2021-06-30,Complete,7873.0,28684.0,26
+VA,51.0,York,51199.0,County,2021-06-30,Complete,30584.0,68280.0,26
+VA,51.0,Bristol,51520.0,County,2021-06-30,Complete,5641.0,16762.0,26
+VA,51.0,Buena Vista City,51530.0,County,2021-06-30,Complete,2318.0,6478.0,26
+VA,51.0,Charlottesville,51540.0,County,2021-06-30,Complete,22774.0,47266.0,26
+VA,51.0,Chesapeake,51550.0,County,2021-06-30,Complete,93816.0,244835.0,26
+VA,51.0,Colonial Heights,51570.0,County,2021-06-30,Complete,6538.0,17370.0,26
+VA,51.0,Danville,51590.0,County,2021-06-30,Complete,13648.0,40044.0,26
+VA,51.0,Falls Church,51610.0,County,2021-06-30,Complete,8102.0,14617.0,26
+VA,51.0,Franklin City,51620.0,County,2021-06-30,Complete,3058.0,7967.0,26
+VA,51.0,Fredericksburg,51630.0,County,2021-06-30,Complete,10810.0,29036.0,26
+VA,51.0,Galax,51640.0,County,2021-06-30,Complete,2188.0,6347.0,26
+VA,51.0,Hampton,51650.0,County,2021-06-30,Complete,49978.0,134510.0,26
+VA,51.0,Harrisonburg,51660.0,County,2021-06-30,Complete,19675.0,53016.0,26
+VA,51.0,Hopewell,51670.0,County,2021-06-30,Complete,6275.0,22529.0,26
+VA,51.0,Lynchburg,51680.0,County,2021-06-30,Complete,26780.0,82168.0,26
+VA,51.0,Manassas City,51683.0,County,2021-06-30,Complete,18924.0,41085.0,26
+VA,51.0,Newport News,51700.0,County,2021-06-30,Complete,64084.0,179225.0,26
+VA,51.0,Norfolk,51710.0,County,2021-06-30,Complete,74314.0,242742.0,26
+VA,51.0,Petersburg,51730.0,County,2021-06-30,Complete,10183.0,31346.0,26
+VA,51.0,Poquoson,51735.0,County,2021-06-30,Complete,6013.0,12271.0,26
+VA,51.0,Portsmouth,51740.0,County,2021-06-30,Complete,29925.0,94398.0,26
+VA,51.0,Radford,51750.0,County,2021-06-30,Complete,6008.0,18249.0,26
+VA,51.0,Salem,51775.0,County,2021-06-30,Complete,10521.0,25301.0,26
+VA,51.0,Staunton,51790.0,County,2021-06-30,Complete,11566.0,24932.0,26
+VA,51.0,Suffolk,51800.0,County,2021-06-30,Complete,34330.0,92108.0,26
+VA,51.0,Waynesboro,51820.0,County,2021-06-30,Complete,9398.0,22630.0,26
+VA,51.0,Winchester,51840.0,County,2021-06-30,Complete,11149.0,28078.0,26
+VA,51.0,Appomattox,51011.0,County,2021-07-01,Complete,5446.0,15911.0,26
+VA,51.0,Bedford,51019.0,County,2021-07-01,Complete,28804.0,78997.0,26
+VA,51.0,Chesterfield,51041.0,County,2021-07-01,Complete,161839.0,352802.0,26
+VA,51.0,Clarke,51043.0,County,2021-07-01,Complete,6512.0,14619.0,26
+VA,51.0,Fauquier,51061.0,County,2021-07-01,Complete,32204.0,71222.0,26
+VA,51.0,Frederick,51069.0,County,2021-07-01,Complete,33039.0,89313.0,26
+VA,51.0,Prince Edward,51147.0,County,2021-07-01,Complete,7261.0,22802.0,26
+VA,51.0,Rockbridge,51163.0,County,2021-07-01,Complete,9353.0,22573.0,26
+VA,51.0,Bath,51017.0,County,2021-07-02,Partial,1984.0,4147.0,26
+VA,51.0,Henrico,51087.0,County,2021-07-02,Complete,158280.0,330818.0,26
+VA,51.0,Lancaster,51103.0,County,2021-07-02,Partial,6519.0,10603.0,26
+VA,51.0,Louisa,51109.0,County,2021-07-02,Complete,14114.0,37591.0,26
+VA,51.0,Mecklenburg,51117.0,County,2021-07-02,Complete,11247.0,30587.0,26
+VA,51.0,Nottoway,51135.0,County,2021-07-02,Complete,5397.0,15232.0,26
+VA,51.0,Stafford,51179.0,County,2021-07-02,Complete,57961.0,152882.0,26
+VA,51.0,Richmond City,51760.0,County,2021-07-02,Complete,87778.0,230436.0,26
+VA,51.0,Bland,51021.0,County,2021-07-03,Partial,2516.0,6280.0,26
+VA,51.0,Buchanan,51027.0,County,2021-07-03,Partial,8698.0,21004.0,26
+VA,51.0,Charles City,51036.0,County,2021-07-03,Partial,3647.0,6963.0,26
+VA,51.0,Charlotte,51037.0,County,2021-07-03,Partial,5062.0,11880.0,26
+VA,51.0,Craig,51045.0,County,2021-07-03,Partial,1937.0,5131.0,26
+VA,51.0,Dickenson,51051.0,County,2021-07-03,Partial,5921.0,14318.0,26
+VA,51.0,Greensville,51081.0,County,2021-07-03,Partial,4339.0,11336.0,26
+VA,51.0,Highland,51091.0,County,2021-07-03,Partial,1129.0,2190.0,26
+VA,51.0,Mathews,51115.0,County,2021-07-03,Partial,4702.0,8834.0,26
+VA,51.0,Northumberland,51133.0,County,2021-07-03,Partial,6851.0,12095.0,26
+VA,51.0,Nottoway,51135.0,County,2021-07-03,Partial,6529.0,15232.0,26
+VA,51.0,Patrick,51141.0,County,2021-07-03,Partial,6040.0,17608.0,26
+VA,51.0,Richmond County,51159.0,County,2021-07-03,Partial,3923.0,9023.0,26
+VA,51.0,Surry,51181.0,County,2021-07-03,Partial,3201.0,6422.0,26
+VA,51.0,Bristol,51520.0,County,2021-07-03,Partial,6869.0,16762.0,26
+VA,51.0,Franklin City,51620.0,County,2021-07-03,Partial,3781.0,7967.0,26
+VA,51.0,Lexington,51678.0,County,2021-07-03,Partial,3606.0,7446.0,26
+VA,51.0,Norton,51720.0,County,2021-07-03,Partial,1753.0,3981.0,26
+VA,51.0,Williamsburg,51830.0,County,2021-07-03,Partial,7124.0,14954.0,26
+VA,51.0,Accomack,51001.0,County,2021-07-04,Partial,15550.0,32316.0,26
+VA,51.0,Albemarle,51003.0,County,2021-07-04,Partial,73157.0,109330.0,26
+VA,51.0,Alleghany,51005.0,County,2021-07-04,Partial,7133.0,14860.0,26
+VA,51.0,Amelia,51007.0,County,2021-07-04,Partial,5400.0,13145.0,26
+VA,51.0,Amherst,51009.0,County,2021-07-04,Partial,13428.0,31605.0,26
+VA,51.0,Appomattox,51011.0,County,2021-07-04,Partial,6253.0,15911.0,26
+VA,51.0,Arlington,51013.0,County,2021-07-04,Partial,143410.0,236842.0,26
+VA,51.0,Augusta,51015.0,County,2021-07-04,Partial,36340.0,75558.0,26
+VA,51.0,Bedford,51019.0,County,2021-07-04,Partial,34434.0,78997.0,26
+VA,51.0,Botetourt,51023.0,County,2021-07-04,Partial,17184.0,33419.0,26
+VA,51.0,Brunswick,51025.0,County,2021-07-04,Partial,6451.0,16231.0,26
+VA,51.0,Buckingham,51029.0,County,2021-07-04,Partial,7608.0,17148.0,26
+VA,51.0,Campbell,51031.0,County,2021-07-04,Partial,22671.0,54885.0,26
+VA,51.0,Caroline,51033.0,County,2021-07-04,Partial,13081.0,30725.0,26
+VA,51.0,Carroll,51035.0,County,2021-07-04,Partial,10178.0,29791.0,26
+VA,51.0,Chesterfield,51041.0,County,2021-07-04,Partial,190867.0,352802.0,26
+VA,51.0,Clarke,51043.0,County,2021-07-04,Partial,7943.0,14619.0,26
+VA,51.0,Culpeper,51047.0,County,2021-07-04,Partial,25240.0,52605.0,26
+VA,51.0,Cumberland,51049.0,County,2021-07-04,Partial,4118.0,9932.0,26
+VA,51.0,Dinwiddie,51053.0,County,2021-07-04,Partial,11021.0,28544.0,26
+VA,51.0,Essex,51057.0,County,2021-07-04,Partial,5441.0,10953.0,26
+VA,51.0,Fauquier,51061.0,County,2021-07-04,Partial,39037.0,71222.0,26
+VA,51.0,Floyd,51063.0,County,2021-07-04,Partial,6740.0,15749.0,26
+VA,51.0,Fluvanna,51065.0,County,2021-07-04,Partial,15480.0,27270.0,26
+VA,51.0,Franklin County,51067.0,County,2021-07-04,Partial,22852.0,56042.0,26
+VA,51.0,Frederick,51069.0,County,2021-07-04,Partial,41556.0,89313.0,26
+VA,51.0,Giles,51071.0,County,2021-07-04,Partial,7621.0,16720.0,26
+VA,51.0,Gloucester,51073.0,County,2021-07-04,Partial,18134.0,37348.0,26
+VA,51.0,Goochland,51075.0,County,2021-07-04,Partial,14972.0,23753.0,26
+VA,51.0,Grayson,51077.0,County,2021-07-04,Partial,6094.0,15550.0,26
+VA,51.0,Greene,51079.0,County,2021-07-04,Partial,10628.0,19819.0,26
+VA,51.0,Halifax,51083.0,County,2021-07-04,Partial,13470.0,33911.0,26
+VA,51.0,Hanover,51085.0,County,2021-07-04,Partial,62496.0,107766.0,26
+VA,51.0,Henrico,51087.0,County,2021-07-04,Partial,191101.0,330818.0,26
+VA,51.0,Henry,51089.0,County,2021-07-04,Partial,20590.0,50557.0,26
+VA,51.0,Isle of Wight,51093.0,County,2021-07-04,Partial,19234.0,37109.0,26
+VA,51.0,King and Queen,51097.0,County,2021-07-04,Partial,3308.0,7025.0,26
+VA,51.0,King George,51099.0,County,2021-07-04,Partial,10957.0,26836.0,26
+VA,51.0,King William,51101.0,County,2021-07-04,Partial,7895.0,17148.0,26
+VA,51.0,Louisa,51109.0,County,2021-07-04,Partial,17903.0,37591.0,26
+VA,51.0,Lunenburg,51111.0,County,2021-07-04,Partial,5202.0,12196.0,26
+VA,51.0,Madison,51113.0,County,2021-07-04,Partial,6466.0,13261.0,26
+VA,51.0,Mecklenburg,51117.0,County,2021-07-04,Partial,13209.0,30587.0,26
+VA,51.0,Middlesex,51119.0,County,2021-07-04,Partial,5909.0,10582.0,26
+VA,51.0,Montgomery,51121.0,County,2021-07-04,Partial,46599.0,98535.0,26
+VA,51.0,Nelson,51125.0,County,2021-07-04,Partial,8650.0,14930.0,26
+VA,51.0,New Kent,51127.0,County,2021-07-04,Partial,11283.0,23091.0,26
+VA,51.0,Northampton,51131.0,County,2021-07-04,Partial,7299.0,11710.0,26
+VA,51.0,Orange,51137.0,County,2021-07-04,Partial,17665.0,37051.0,26
+VA,51.0,Page,51139.0,County,2021-07-04,Partial,9151.0,23902.0,26
+VA,51.0,Pittsylvania,51143.0,County,2021-07-04,Partial,24425.0,60354.0,26
+VA,51.0,Powhatan,51145.0,County,2021-07-04,Partial,14085.0,29652.0,26
+VA,51.0,Prince Edward,51147.0,County,2021-07-04,Partial,8613.0,22802.0,26
+VA,51.0,Prince George,51149.0,County,2021-07-04,Partial,13388.0,38353.0,26
+VA,51.0,Pulaski,51155.0,County,2021-07-04,Partial,15065.0,34027.0,26
+VA,51.0,Rappahannock,51157.0,County,2021-07-04,Partial,3989.0,7370.0,26
+VA,51.0,Roanoke County,51161.0,County,2021-07-04,Partial,53858.0,94186.0,26
+VA,51.0,Rockbridge,51163.0,County,2021-07-04,Partial,11300.0,22573.0,26
+VA,51.0,Rockingham,51165.0,County,2021-07-04,Partial,37521.0,81948.0,26
+VA,51.0,Russell,51167.0,County,2021-07-04,Partial,11503.0,26586.0,26
+VA,51.0,Scott,51169.0,County,2021-07-04,Partial,7815.0,21566.0,26
+VA,51.0,Shenandoah,51171.0,County,2021-07-04,Partial,19890.0,43616.0,26
+VA,51.0,Smyth,51173.0,County,2021-07-04,Partial,13241.0,30104.0,26
+VA,51.0,Southampton,51175.0,County,2021-07-04,Partial,7455.0,17631.0,26
+VA,51.0,Spotsylvania,51177.0,County,2021-07-04,Partial,63684.0,136215.0,26
+VA,51.0,Stafford,51179.0,County,2021-07-04,Partial,69974.0,152882.0,26
+VA,51.0,Sussex,51183.0,County,2021-07-04,Partial,4379.0,11159.0,26
+VA,51.0,Tazewell,51185.0,County,2021-07-04,Partial,15060.0,40595.0,26
+VA,51.0,Warren,51187.0,County,2021-07-04,Partial,16794.0,40164.0,26
+VA,51.0,Washington,51191.0,County,2021-07-04,Partial,24175.0,53740.0,26
+VA,51.0,Westmoreland,51193.0,County,2021-07-04,Partial,8651.0,18015.0,26
+VA,51.0,Wise,51195.0,County,2021-07-04,Partial,14837.0,37383.0,26
+VA,51.0,Wythe,51197.0,County,2021-07-04,Partial,10657.0,28684.0,26
+VA,51.0,York,51199.0,County,2021-07-04,Partial,35814.0,68280.0,26
+VA,51.0,Buena Vista City,51530.0,County,2021-07-04,Partial,2965.0,6478.0,26
+VA,51.0,Charlottesville,51540.0,County,2021-07-04,Partial,27681.0,47266.0,26
+VA,51.0,Chesapeake,51550.0,County,2021-07-04,Partial,113029.0,244835.0,26
+VA,51.0,Colonial Heights,51570.0,County,2021-07-04,Partial,8040.0,17370.0,26
+VA,51.0,Covington,51580.0,County,2021-07-04,Partial,2423.0,5538.0,26
+VA,51.0,Danville,51590.0,County,2021-07-04,Partial,17144.0,40044.0,26
+VA,51.0,Emporia,51595.0,County,2021-07-04,Partial,2075.0,5346.0,26
+VA,51.0,Fairfax City,51600.0,County,2021-07-04,Partial,15825.0,24019.0,26
+VA,51.0,Falls Church,51610.0,County,2021-07-04,Partial,9428.0,14617.0,26
+VA,51.0,Fredericksburg,51630.0,County,2021-07-04,Partial,12961.0,29036.0,26
+VA,51.0,Galax,51640.0,County,2021-07-04,Partial,3028.0,6347.0,26
+VA,51.0,Hampton,51650.0,County,2021-07-04,Partial,59678.0,134510.0,26
+VA,51.0,Harrisonburg,51660.0,County,2021-07-04,Partial,24351.0,53016.0,26
+VA,51.0,Hopewell,51670.0,County,2021-07-04,Partial,8499.0,22529.0,26
+VA,51.0,Lynchburg,51680.0,County,2021-07-04,Partial,31837.0,82168.0,26
+VA,51.0,Manassas City,51683.0,County,2021-07-04,Partial,23371.0,41085.0,26
+VA,51.0,Martinsville,51690.0,County,2021-07-04,Partial,6055.0,12554.0,26
+VA,51.0,Newport News,51700.0,County,2021-07-04,Partial,77631.0,179225.0,26
+VA,51.0,Norfolk,51710.0,County,2021-07-04,Partial,91618.0,242742.0,26
+VA,51.0,Petersburg,51730.0,County,2021-07-04,Partial,13144.0,31346.0,26
+VA,51.0,Poquoson,51735.0,County,2021-07-04,Partial,6891.0,12271.0,26
+VA,51.0,Portsmouth,51740.0,County,2021-07-04,Partial,36757.0,94398.0,26
+VA,51.0,Radford,51750.0,County,2021-07-04,Partial,7804.0,18249.0,26
+VA,51.0,Richmond City,51760.0,County,2021-07-04,Partial,106672.0,230436.0,26
+VA,51.0,Salem,51775.0,County,2021-07-04,Partial,13442.0,25301.0,26
+VA,51.0,Staunton,51790.0,County,2021-07-04,Partial,14088.0,24932.0,26
+VA,51.0,Suffolk,51800.0,County,2021-07-04,Partial,41139.0,92108.0,26
+VA,51.0,Waynesboro,51820.0,County,2021-07-04,Partial,11620.0,22630.0,26
+VA,51.0,Winchester,51840.0,County,2021-07-04,Partial,14799.0,28078.0,26
 VA,51.0,Fairfax,51059.0,County,2021-07-06,Complete,604867.0,1147532.0,27
 VA,51.0,Fairfax,51059.0,County,2021-07-06,Partial,718554.0,1147532.0,27
-VA,51.0,Fauquier,51061.0,County,2021-07-06,Partial,39126.0,71222.0,27
-VA,51.0,Floyd,51063.0,County,2021-07-06,Partial,6756.0,15749.0,27
-VA,51.0,Fluvanna,51065.0,County,2021-07-06,Partial,15516.0,27270.0,27
-VA,51.0,Franklin County,51067.0,County,2021-07-06,Partial,22911.0,56042.0,27
-VA,51.0,Frederick,51069.0,County,2021-07-06,Partial,41716.0,89313.0,27
-VA,51.0,Giles,51071.0,County,2021-07-06,Partial,7646.0,16720.0,27
-VA,51.0,Gloucester,51073.0,County,2021-07-06,Partial,18198.0,37348.0,27
-VA,51.0,Goochland,51075.0,County,2021-07-06,Partial,14989.0,23753.0,27
-VA,51.0,Grayson,51077.0,County,2021-07-06,Partial,6113.0,15550.0,27
-VA,51.0,Greene,51079.0,County,2021-07-06,Partial,10655.0,19819.0,27
-VA,51.0,Greensville,51081.0,County,2021-07-06,Partial,4362.0,11336.0,27
-VA,51.0,Halifax,51083.0,County,2021-07-06,Partial,13538.0,33911.0,27
-VA,51.0,Hanover,51085.0,County,2021-07-06,Partial,62656.0,107766.0,27
-VA,51.0,Henrico,51087.0,County,2021-07-06,Partial,191686.0,330818.0,27
-VA,51.0,Henry,51089.0,County,2021-07-06,Partial,20662.0,50557.0,27
-VA,51.0,Isle of Wight,51093.0,County,2021-07-06,Partial,19299.0,37109.0,27
 VA,51.0,James City,51095.0,County,2021-07-06,Complete,39830.0,76523.0,27
 VA,51.0,James City,51095.0,County,2021-07-06,Partial,46590.0,76523.0,27
-VA,51.0,King and Queen,51097.0,County,2021-07-06,Partial,3321.0,7025.0,27
-VA,51.0,King George,51099.0,County,2021-07-06,Partial,10983.0,26836.0,27
-VA,51.0,King William,51101.0,County,2021-07-06,Partial,7920.0,17148.0,27
-VA,51.0,Lancaster,51103.0,County,2021-07-06,Partial,6535.0,10603.0,27
 VA,51.0,Lee,51105.0,County,2021-07-06,Complete,6420.0,23423.0,27
 VA,51.0,Lee,51105.0,County,2021-07-06,Partial,7691.0,23423.0,27
 VA,51.0,Loudoun,51107.0,County,2021-07-06,Complete,213710.0,413538.0,27
 VA,51.0,Loudoun,51107.0,County,2021-07-06,Partial,255653.0,413538.0,27
-VA,51.0,Louisa,51109.0,County,2021-07-06,Partial,17940.0,37591.0,27
-VA,51.0,Lunenburg,51111.0,County,2021-07-06,Partial,5215.0,12196.0,27
-VA,51.0,Madison,51113.0,County,2021-07-06,Partial,6482.0,13261.0,27
-VA,51.0,Mathews,51115.0,County,2021-07-06,Partial,4717.0,8834.0,27
-VA,51.0,Mecklenburg,51117.0,County,2021-07-06,Partial,13270.0,30587.0,27
-VA,51.0,Middlesex,51119.0,County,2021-07-06,Partial,5936.0,10582.0,27
-VA,51.0,Montgomery,51121.0,County,2021-07-06,Partial,46674.0,98535.0,27
-VA,51.0,Nelson,51125.0,County,2021-07-06,Partial,8655.0,14930.0,27
-VA,51.0,New Kent,51127.0,County,2021-07-06,Partial,11317.0,23091.0,27
-VA,51.0,Northampton,51131.0,County,2021-07-06,Partial,7319.0,11710.0,27
-VA,51.0,Northumberland,51133.0,County,2021-07-06,Partial,6862.0,12095.0,27
-VA,51.0,Nottoway,51135.0,County,2021-07-06,Partial,6568.0,15232.0,27
-VA,51.0,Orange,51137.0,County,2021-07-06,Partial,17717.0,37051.0,27
-VA,51.0,Page,51139.0,County,2021-07-06,Partial,9177.0,23902.0,27
-VA,51.0,Patrick,51141.0,County,2021-07-06,Partial,6065.0,17608.0,27
-VA,51.0,Pittsylvania,51143.0,County,2021-07-06,Partial,24494.0,60354.0,27
-VA,51.0,Powhatan,51145.0,County,2021-07-06,Partial,14123.0,29652.0,27
-VA,51.0,Prince Edward,51147.0,County,2021-07-06,Partial,8647.0,22802.0,27
-VA,51.0,Prince George,51149.0,County,2021-07-06,Partial,13431.0,38353.0,27
 VA,51.0,Prince William,51153.0,County,2021-07-06,Complete,217117.0,470335.0,27
 VA,51.0,Prince William,51153.0,County,2021-07-06,Partial,261488.0,470335.0,27
-VA,51.0,Pulaski,51155.0,County,2021-07-06,Partial,15109.0,34027.0,27
-VA,51.0,Rappahannock,51157.0,County,2021-07-06,Partial,3997.0,7370.0,27
-VA,51.0,Richmond County,51159.0,County,2021-07-06,Partial,3932.0,9023.0,27
-VA,51.0,Roanoke County,51161.0,County,2021-07-06,Partial,53978.0,94186.0,27
-VA,51.0,Rockbridge,51163.0,County,2021-07-06,Partial,11320.0,22573.0,27
-VA,51.0,Rockingham,51165.0,County,2021-07-06,Partial,37629.0,81948.0,27
-VA,51.0,Russell,51167.0,County,2021-07-06,Partial,11537.0,26586.0,27
-VA,51.0,Scott,51169.0,County,2021-07-06,Partial,7833.0,21566.0,27
-VA,51.0,Shenandoah,51171.0,County,2021-07-06,Partial,19948.0,43616.0,27
-VA,51.0,Smyth,51173.0,County,2021-07-06,Partial,13275.0,30104.0,27
-VA,51.0,Southampton,51175.0,County,2021-07-06,Partial,7476.0,17631.0,27
-VA,51.0,Spotsylvania,51177.0,County,2021-07-06,Partial,63904.0,136215.0,27
-VA,51.0,Stafford,51179.0,County,2021-07-06,Partial,70220.0,152882.0,27
-VA,51.0,Surry,51181.0,County,2021-07-06,Partial,3207.0,6422.0,27
-VA,51.0,Sussex,51183.0,County,2021-07-06,Partial,4391.0,11159.0,27
-VA,51.0,Tazewell,51185.0,County,2021-07-06,Partial,15104.0,40595.0,27
-VA,51.0,Warren,51187.0,County,2021-07-06,Partial,16862.0,40164.0,27
-VA,51.0,Washington,51191.0,County,2021-07-06,Partial,24223.0,53740.0,27
-VA,51.0,Westmoreland,51193.0,County,2021-07-06,Partial,8682.0,18015.0,27
-VA,51.0,Wise,51195.0,County,2021-07-06,Partial,14880.0,37383.0,27
-VA,51.0,Wythe,51197.0,County,2021-07-06,Partial,10696.0,28684.0,27
-VA,51.0,York,51199.0,County,2021-07-06,Partial,35911.0,68280.0,27
 VA,51.0,Alexandria,51510.0,County,2021-07-06,Complete,69274.0,159428.0,27
 VA,51.0,Alexandria,51510.0,County,2021-07-06,Partial,92588.0,159428.0,27
-VA,51.0,Bristol,51520.0,County,2021-07-06,Partial,6878.0,16762.0,27
-VA,51.0,Buena Vista City,51530.0,County,2021-07-06,Partial,2972.0,6478.0,27
-VA,51.0,Charlottesville,51540.0,County,2021-07-06,Partial,27708.0,47266.0,27
-VA,51.0,Chesapeake,51550.0,County,2021-07-06,Partial,113328.0,244835.0,27
-VA,51.0,Colonial Heights,51570.0,County,2021-07-06,Partial,8067.0,17370.0,27
-VA,51.0,Covington,51580.0,County,2021-07-06,Partial,2431.0,5538.0,27
-VA,51.0,Danville,51590.0,County,2021-07-06,Partial,17224.0,40044.0,27
-VA,51.0,Emporia,51595.0,County,2021-07-06,Partial,2085.0,5346.0,27
-VA,51.0,Fairfax City,51600.0,County,2021-07-06,Partial,15874.0,24019.0,27
-VA,51.0,Falls Church,51610.0,County,2021-07-06,Partial,9442.0,14617.0,27
-VA,51.0,Fredericksburg,51630.0,County,2021-07-06,Partial,13015.0,29036.0,27
-VA,51.0,Galax,51640.0,County,2021-07-06,Partial,3039.0,6347.0,27
-VA,51.0,Hampton,51650.0,County,2021-07-06,Partial,59863.0,134510.0,27
-VA,51.0,Harrisonburg,51660.0,County,2021-07-06,Partial,24437.0,53016.0,27
-VA,51.0,Hopewell,51670.0,County,2021-07-06,Partial,8534.0,22529.0,27
-VA,51.0,Lexington,51678.0,County,2021-07-06,Partial,3613.0,7446.0,27
-VA,51.0,Lynchburg,51680.0,County,2021-07-06,Partial,31946.0,82168.0,27
-VA,51.0,Manassas City,51683.0,County,2021-07-06,Partial,23481.0,41085.0,27
 VA,51.0,Manassas Park,51685.0,County,2021-07-06,Complete,7308.0,17478.0,27
 VA,51.0,Manassas Park,51685.0,County,2021-07-06,Partial,8778.0,17478.0,27
-VA,51.0,Martinsville,51690.0,County,2021-07-06,Partial,6072.0,12554.0,27
-VA,51.0,Newport News,51700.0,County,2021-07-06,Partial,77917.0,179225.0,27
-VA,51.0,Norfolk,51710.0,County,2021-07-06,Partial,91875.0,242742.0,27
-VA,51.0,Norton,51720.0,County,2021-07-06,Partial,1756.0,3981.0,27
-VA,51.0,Petersburg,51730.0,County,2021-07-06,Partial,13196.0,31346.0,27
-VA,51.0,Poquoson,51735.0,County,2021-07-06,Partial,6896.0,12271.0,27
-VA,51.0,Portsmouth,51740.0,County,2021-07-06,Partial,36898.0,94398.0,27
-VA,51.0,Radford,51750.0,County,2021-07-06,Partial,7824.0,18249.0,27
-VA,51.0,Richmond City,51760.0,County,2021-07-06,Partial,107009.0,230436.0,27
 VA,51.0,Roanoke City,51770.0,County,2021-07-06,Complete,35960.0,99143.0,27
 VA,51.0,Roanoke City,51770.0,County,2021-07-06,Partial,46854.0,99143.0,27
-VA,51.0,Salem,51775.0,County,2021-07-06,Partial,13473.0,25301.0,27
-VA,51.0,Staunton,51790.0,County,2021-07-06,Partial,14121.0,24932.0,27
-VA,51.0,Suffolk,51800.0,County,2021-07-06,Partial,41264.0,92108.0,27
 VA,51.0,Virginia Beach,51810.0,County,2021-07-06,Complete,182386.0,449974.0,27
 VA,51.0,Virginia Beach,51810.0,County,2021-07-06,Partial,219358.0,449974.0,27
-VA,51.0,Waynesboro,51820.0,County,2021-07-06,Partial,11648.0,22630.0,27
-VA,51.0,Williamsburg,51830.0,County,2021-07-06,Partial,7135.0,14954.0,27
-VA,51.0,Winchester,51840.0,County,2021-07-06,Partial,14834.0,28078.0,27
 TX,48.0,Anderson,48001.0,County,2021-07-06,Partial,18757.0,57735.0,27
 TX,48.0,Andrews,48003.0,County,2021-07-06,Partial,6386.0,18705.0,27
 TX,48.0,Angelina,48005.0,County,2021-07-06,Partial,29594.0,86715.0,27
@@ -5537,106 +5722,206 @@ CO,8.0,Weld County,8123.0,County,2021-07-06,Complete,159974.0,324492.0,27
 CO,8.0,Weld County,8123.0,County,2021-07-06,Partial,176848.0,324492.0,27
 CO,8.0,Yuma County,8125.0,County,2021-07-06,Complete,3867.0,10019.0,27
 CO,8.0,Yuma County,8125.0,County,2021-07-06,Partial,4288.0,10019.0,27
-NC,37.0,Alamance County,37001.0,County,2021-07-05,Partial,153045.0,169509.0,27
-NC,37.0,Alexander County,37003.0,County,2021-07-05,Partial,26070.0,37497.0,27
-NC,37.0,Alleghany County,37005.0,County,2021-07-05,Partial,10406.0,11137.0,27
-NC,37.0,Anson County,37007.0,County,2021-07-05,Partial,16592.0,24446.0,27
-NC,37.0,Ashe County,37009.0,County,2021-07-05,Partial,23197.0,27203.0,27
-NC,37.0,Avery County,37011.0,County,2021-07-05,Partial,15312.0,17557.0,27
-NC,37.0,Beaufort County,37013.0,County,2021-07-05,Partial,40308.0,46994.0,27
-NC,37.0,Bertie County,37015.0,County,2021-07-05,Partial,15852.0,18947.0,27
-NC,37.0,Bladen County,37017.0,County,2021-07-05,Partial,23065.0,32722.0,27
-NC,37.0,Brunswick County,37019.0,County,2021-07-05,Partial,146574.0,142820.0,27
-NC,37.0,Buncombe County,37021.0,County,2021-07-05,Partial,270965.0,261191.0,27
-NC,37.0,Burke County,37023.0,County,2021-07-05,Partial,65632.0,90485.0,27
-NC,37.0,Cabarrus County,37025.0,County,2021-07-05,Partial,174009.0,216453.0,27
-NC,37.0,Caldwell County,37027.0,County,2021-07-05,Partial,59696.0,82178.0,27
-NC,37.0,Camden County,37029.0,County,2021-07-05,Partial,6669.0,10867.0,27
-NC,37.0,Carteret County,37031.0,County,2021-07-05,Partial,63526.0,69473.0,27
-NC,37.0,Caswell County,37033.0,County,2021-07-05,Partial,17360.0,22604.0,27
-NC,37.0,Catawba County,37035.0,County,2021-07-05,Partial,129481.0,159551.0,27
-NC,37.0,Chatham County,37037.0,County,2021-07-05,Partial,71828.0,74470.0,27
-NC,37.0,Cherokee County,37039.0,County,2021-07-05,Partial,19789.0,28612.0,27
-NC,37.0,Chowan County,37041.0,County,2021-07-05,Partial,12192.0,13943.0,27
-NC,37.0,Clay County,37043.0,County,2021-07-05,Partial,7919.0,11231.0,27
-NC,37.0,Cleveland County,37045.0,County,2021-07-05,Partial,70695.0,97947.0,27
-NC,37.0,Columbus County,37047.0,County,2021-07-05,Partial,35646.0,55508.0,27
-NC,37.0,Craven County,37049.0,County,2021-07-05,Partial,82470.0,102139.0,27
-NC,37.0,Cumberland County,37051.0,County,2021-07-05,Partial,184055.0,335509.0,27
-NC,37.0,Currituck County,37053.0,County,2021-07-05,Partial,19074.0,27763.0,27
-NC,37.0,Dare County,37055.0,County,2021-07-05,Partial,45173.0,37009.0,27
-NC,37.0,Davidson County,37057.0,County,2021-07-05,Partial,117042.0,167609.0,27
-NC,37.0,Davie County,37059.0,County,2021-07-05,Partial,37397.0,42846.0,27
-NC,37.0,Duplin County,37061.0,County,2021-07-05,Partial,35302.0,58741.0,27
-NC,37.0,Durham County,37063.0,County,2021-07-05,Partial,354644.0,321488.0,27
-NC,37.0,Edgecombe County,37065.0,County,2021-07-05,Partial,36458.0,51472.0,27
-NC,37.0,Forsyth County,37067.0,County,2021-07-05,Partial,358348.0,382295.0,27
-NC,37.0,Franklin County,37069.0,County,2021-07-05,Partial,55817.0,69685.0,27
-NC,37.0,Gaston County,37071.0,County,2021-07-05,Partial,163404.0,224529.0,27
-NC,37.0,Gates County,37073.0,County,2021-07-05,Partial,7337.0,11562.0,27
-NC,37.0,Graham County,37075.0,County,2021-07-05,Partial,5428.0,8441.0,27
-NC,37.0,Granville County,37077.0,County,2021-07-05,Partial,52700.0,60443.0,27
-NC,37.0,Greene County,37079.0,County,2021-07-05,Partial,16708.0,21069.0,27
-NC,37.0,Guilford County,37081.0,County,2021-07-05,Partial,510688.0,537174.0,27
-NC,37.0,Halifax County,37083.0,County,2021-07-05,Partial,39912.0,50010.0,27
-NC,37.0,Harnett County,37085.0,County,2021-07-05,Partial,78909.0,135976.0,27
-NC,37.0,Haywood County,37087.0,County,2021-07-05,Partial,55977.0,62317.0,27
-NC,37.0,Henderson County,37089.0,County,2021-07-05,Partial,106432.0,117417.0,27
-NC,37.0,Hertford County,37091.0,County,2021-07-05,Partial,16695.0,23677.0,27
-NC,37.0,Hoke County,37093.0,County,2021-07-05,Partial,24106.0,55234.0,27
-NC,37.0,Hyde County,37095.0,County,2021-07-05,Partial,5549.0,4937.0,27
-NC,37.0,Iredell County,37097.0,County,2021-07-05,Partial,139584.0,181806.0,27
-NC,37.0,Jackson County,37099.0,County,2021-07-05,Partial,33591.0,43938.0,27
-NC,37.0,Johnston County,37101.0,County,2021-07-05,Partial,161304.0,209339.0,27
-NC,37.0,Jones County,37103.0,County,2021-07-05,Partial,7296.0,9419.0,27
-NC,37.0,Lee County,37105.0,County,2021-07-05,Partial,50098.0,61779.0,27
-NC,37.0,Lenoir County,37107.0,County,2021-07-05,Partial,45092.0,55949.0,27
-NC,37.0,Lincoln County,37109.0,County,2021-07-05,Partial,65927.0,86111.0,27
-NC,37.0,Macon County,37113.0,County,2021-07-05,Partial,33391.0,35858.0,27
-NC,37.0,Madison County,37115.0,County,2021-07-05,Partial,19806.0,21755.0,27
-NC,37.0,Martin County,37117.0,County,2021-07-05,Partial,17698.0,22440.0,27
-NC,37.0,McDowell County,37111.0,County,2021-07-05,Partial,35238.0,45756.0,27
-NC,37.0,Mecklenburg County,37119.0,County,2021-07-05,Partial,1053782.0,1110356.0,27
-NC,37.0,Mitchell County,37121.0,County,2021-07-05,Partial,11030.0,14964.0,27
-NC,37.0,Montgomery County,37123.0,County,2021-07-05,Partial,18563.0,27173.0,27
-NC,37.0,Moore County,37125.0,County,2021-07-05,Partial,93657.0,100880.0,27
-NC,37.0,Nash County,37127.0,County,2021-07-05,Partial,81991.0,94298.0,27
-NC,37.0,New Hanover County,37129.0,County,2021-07-05,Partial,233846.0,234473.0,27
-NC,37.0,Northampton County,37131.0,County,2021-07-05,Partial,14887.0,19483.0,27
-NC,37.0,Onslow County,37133.0,County,2021-07-05,Partial,88074.0,197938.0,27
-NC,37.0,Orange County,37135.0,County,2021-07-05,Partial,189500.0,148476.0,27
-NC,37.0,Pamlico County,37137.0,County,2021-07-05,Partial,12048.0,12726.0,27
-NC,37.0,Pasquotank County,37139.0,County,2021-07-05,Partial,31132.0,39824.0,27
-NC,37.0,Pender County,37141.0,County,2021-07-05,Partial,48179.0,63060.0,27
-NC,37.0,Perquimans County,37143.0,County,2021-07-05,Partial,9683.0,13463.0,27
-NC,37.0,Person County,37145.0,County,2021-07-05,Partial,33542.0,39490.0,27
-NC,37.0,Pitt County,37147.0,County,2021-07-05,Partial,146919.0,180742.0,27
-NC,37.0,Polk County,37149.0,County,2021-07-05,Partial,16297.0,20724.0,27
-NC,37.0,Randolph County,37151.0,County,2021-07-05,Partial,92254.0,143667.0,27
-NC,37.0,Richmond County,37153.0,County,2021-07-05,Partial,31392.0,44829.0,27
-NC,37.0,Robeson County,37155.0,County,2021-07-05,Partial,69270.0,130625.0,27
-NC,37.0,Rockingham County,37157.0,County,2021-07-05,Partial,70203.0,91010.0,27
-NC,37.0,Rowan County,37159.0,County,2021-07-05,Partial,88429.0,142088.0,27
-NC,37.0,Rutherford County,37161.0,County,2021-07-05,Partial,41640.0,67029.0,27
-NC,37.0,Sampson County,37163.0,County,2021-07-05,Partial,46223.0,63531.0,27
-NC,37.0,Scotland County,37165.0,County,2021-07-05,Partial,26065.0,34823.0,27
-NC,37.0,Stanly County,37167.0,County,2021-07-05,Partial,40705.0,62806.0,27
-NC,37.0,Stokes County,37169.0,County,2021-07-05,Partial,32457.0,45591.0,27
-NC,37.0,Surry County,37171.0,County,2021-07-05,Partial,57344.0,71783.0,27
-NC,37.0,Swain County,37173.0,County,2021-07-05,Partial,8830.0,14271.0,27
-NC,37.0,Transylvania County,37175.0,County,2021-07-05,Partial,31120.0,34385.0,27
-NC,37.0,Tyrrell County,37177.0,County,2021-07-05,Partial,2928.0,4016.0,27
-NC,37.0,Union County,37179.0,County,2021-07-05,Partial,194987.0,239859.0,27
-NC,37.0,Vance County,37181.0,County,2021-07-05,Partial,37634.0,44535.0,27
-NC,37.0,Wake County,37183.0,County,2021-07-05,Partial,1273344.0,1111761.0,27
-NC,37.0,Warren County,37185.0,County,2021-07-05,Partial,17275.0,19731.0,27
-NC,37.0,Washington County,37187.0,County,2021-07-05,Partial,8819.0,11580.0,27
-NC,37.0,Watauga County,37189.0,County,2021-07-05,Partial,55278.0,56177.0,27
-NC,37.0,Wayne County,37191.0,County,2021-07-05,Partial,78821.0,123131.0,27
-NC,37.0,Wilkes County,37193.0,County,2021-07-05,Partial,46092.0,68412.0,27
-NC,37.0,Wilson County,37195.0,County,2021-07-05,Partial,62358.0,81801.0,27
-NC,37.0,Yadkin County,37197.0,County,2021-07-05,Partial,27602.0,37667.0,27
-NC,37.0,Yancey County,37199.0,County,2021-07-05,Partial,14211.0,18069.0,27
+NC,37.0,Alamance County,37001.0,County,2021-07-05,Complete,74331.0,169509.0,27
+NC,37.0,Alamance County,37001.0,County,2021-07-05,Partial,78714.0,169509.0,27
+NC,37.0,Alexander County,37003.0,County,2021-07-05,Complete,12713.0,37497.0,27
+NC,37.0,Alexander County,37003.0,County,2021-07-05,Partial,13357.0,37497.0,27
+NC,37.0,Alleghany County,37005.0,County,2021-07-05,Complete,5061.0,11137.0,27
+NC,37.0,Alleghany County,37005.0,County,2021-07-05,Partial,5345.0,11137.0,27
+NC,37.0,Anson County,37007.0,County,2021-07-05,Complete,7996.0,24446.0,27
+NC,37.0,Anson County,37007.0,County,2021-07-05,Partial,8596.0,24446.0,27
+NC,37.0,Ashe County,37009.0,County,2021-07-05,Complete,11174.0,27203.0,27
+NC,37.0,Ashe County,37009.0,County,2021-07-05,Partial,12023.0,27203.0,27
+NC,37.0,Avery County,37011.0,County,2021-07-05,Complete,7394.0,17557.0,27
+NC,37.0,Avery County,37011.0,County,2021-07-05,Partial,7918.0,17557.0,27
+NC,37.0,Beaufort County,37013.0,County,2021-07-05,Complete,19509.0,46994.0,27
+NC,37.0,Beaufort County,37013.0,County,2021-07-05,Partial,20799.0,46994.0,27
+NC,37.0,Bertie County,37015.0,County,2021-07-05,Complete,7481.0,18947.0,27
+NC,37.0,Bertie County,37015.0,County,2021-07-05,Partial,8371.0,18947.0,27
+NC,37.0,Bladen County,37017.0,County,2021-07-05,Complete,10981.0,32722.0,27
+NC,37.0,Bladen County,37017.0,County,2021-07-05,Partial,12084.0,32722.0,27
+NC,37.0,Brunswick County,37019.0,County,2021-07-05,Complete,71680.0,142820.0,27
+NC,37.0,Brunswick County,37019.0,County,2021-07-05,Partial,74894.0,142820.0,27
+NC,37.0,Buncombe County,37021.0,County,2021-07-05,Complete,132376.0,261191.0,27
+NC,37.0,Buncombe County,37021.0,County,2021-07-05,Partial,138589.0,261191.0,27
+NC,37.0,Burke County,37023.0,County,2021-07-05,Complete,31866.0,90485.0,27
+NC,37.0,Burke County,37023.0,County,2021-07-05,Partial,33766.0,90485.0,27
+NC,37.0,Cabarrus County,37025.0,County,2021-07-05,Complete,84151.0,216453.0,27
+NC,37.0,Cabarrus County,37025.0,County,2021-07-05,Partial,89858.0,216453.0,27
+NC,37.0,Caldwell County,37027.0,County,2021-07-05,Complete,29059.0,82178.0,27
+NC,37.0,Caldwell County,37027.0,County,2021-07-05,Partial,30637.0,82178.0,27
+NC,37.0,Camden County,37029.0,County,2021-07-05,Complete,3126.0,10867.0,27
+NC,37.0,Camden County,37029.0,County,2021-07-05,Partial,3543.0,10867.0,27
+NC,37.0,Carteret County,37031.0,County,2021-07-05,Complete,30940.0,69473.0,27
+NC,37.0,Carteret County,37031.0,County,2021-07-05,Partial,32586.0,69473.0,27
+NC,37.0,Caswell County,37033.0,County,2021-07-05,Complete,8313.0,22604.0,27
+NC,37.0,Caswell County,37033.0,County,2021-07-05,Partial,9047.0,22604.0,27
+NC,37.0,Catawba County,37035.0,County,2021-07-05,Complete,62758.0,159551.0,27
+NC,37.0,Catawba County,37035.0,County,2021-07-05,Partial,66723.0,159551.0,27
+NC,37.0,Chatham County,37037.0,County,2021-07-05,Complete,34879.0,74470.0,27
+NC,37.0,Chatham County,37037.0,County,2021-07-05,Partial,36949.0,74470.0,27
+NC,37.0,Cherokee County,37039.0,County,2021-07-05,Complete,9651.0,28612.0,27
+NC,37.0,Cherokee County,37039.0,County,2021-07-05,Partial,10138.0,28612.0,27
+NC,37.0,Chowan County,37041.0,County,2021-07-05,Complete,5682.0,13943.0,27
+NC,37.0,Chowan County,37041.0,County,2021-07-05,Partial,6510.0,13943.0,27
+NC,37.0,Clay County,37043.0,County,2021-07-05,Complete,3894.0,11231.0,27
+NC,37.0,Clay County,37043.0,County,2021-07-05,Partial,4025.0,11231.0,27
+NC,37.0,Cleveland County,37045.0,County,2021-07-05,Complete,34260.0,97947.0,27
+NC,37.0,Cleveland County,37045.0,County,2021-07-05,Partial,36435.0,97947.0,27
+NC,37.0,Columbus County,37047.0,County,2021-07-05,Complete,17278.0,55508.0,27
+NC,37.0,Columbus County,37047.0,County,2021-07-05,Partial,18368.0,55508.0,27
+NC,37.0,Craven County,37049.0,County,2021-07-05,Complete,40253.0,102139.0,27
+NC,37.0,Craven County,37049.0,County,2021-07-05,Partial,42217.0,102139.0,27
+NC,37.0,Cumberland County,37051.0,County,2021-07-05,Complete,88479.0,335509.0,27
+NC,37.0,Cumberland County,37051.0,County,2021-07-05,Partial,95576.0,335509.0,27
+NC,37.0,Currituck County,37053.0,County,2021-07-05,Complete,9016.0,27763.0,27
+NC,37.0,Currituck County,37053.0,County,2021-07-05,Partial,10058.0,27763.0,27
+NC,37.0,Dare County,37055.0,County,2021-07-05,Complete,22090.0,37009.0,27
+NC,37.0,Dare County,37055.0,County,2021-07-05,Partial,23083.0,37009.0,27
+NC,37.0,Davidson County,37057.0,County,2021-07-05,Complete,56685.0,167609.0,27
+NC,37.0,Davidson County,37057.0,County,2021-07-05,Partial,60357.0,167609.0,27
+NC,37.0,Davie County,37059.0,County,2021-07-05,Complete,18264.0,42846.0,27
+NC,37.0,Davie County,37059.0,County,2021-07-05,Partial,19133.0,42846.0,27
+NC,37.0,Duplin County,37061.0,County,2021-07-05,Complete,16940.0,58741.0,27
+NC,37.0,Duplin County,37061.0,County,2021-07-05,Partial,18362.0,58741.0,27
+NC,37.0,Durham County,37063.0,County,2021-07-05,Complete,172967.0,321488.0,27
+NC,37.0,Durham County,37063.0,County,2021-07-05,Partial,181677.0,321488.0,27
+NC,37.0,Edgecombe County,37065.0,County,2021-07-05,Complete,17534.0,51472.0,27
+NC,37.0,Edgecombe County,37065.0,County,2021-07-05,Partial,18924.0,51472.0,27
+NC,37.0,Forsyth County,37067.0,County,2021-07-05,Complete,173731.0,382295.0,27
+NC,37.0,Forsyth County,37067.0,County,2021-07-05,Partial,184617.0,382295.0,27
+NC,37.0,Franklin County,37069.0,County,2021-07-05,Complete,27101.0,69685.0,27
+NC,37.0,Franklin County,37069.0,County,2021-07-05,Partial,28716.0,69685.0,27
+NC,37.0,Gaston County,37071.0,County,2021-07-05,Complete,78913.0,224529.0,27
+NC,37.0,Gaston County,37071.0,County,2021-07-05,Partial,84491.0,224529.0,27
+NC,37.0,Gates County,37073.0,County,2021-07-05,Complete,3486.0,11562.0,27
+NC,37.0,Gates County,37073.0,County,2021-07-05,Partial,3851.0,11562.0,27
+NC,37.0,Graham County,37075.0,County,2021-07-05,Complete,2608.0,8441.0,27
+NC,37.0,Graham County,37075.0,County,2021-07-05,Partial,2820.0,8441.0,27
+NC,37.0,Granville County,37077.0,County,2021-07-05,Complete,25532.0,60443.0,27
+NC,37.0,Granville County,37077.0,County,2021-07-05,Partial,27168.0,60443.0,27
+NC,37.0,Greene County,37079.0,County,2021-07-05,Complete,8086.0,21069.0,27
+NC,37.0,Greene County,37079.0,County,2021-07-05,Partial,8622.0,21069.0,27
+NC,37.0,Guilford County,37081.0,County,2021-07-05,Complete,247948.0,537174.0,27
+NC,37.0,Guilford County,37081.0,County,2021-07-05,Partial,262740.0,537174.0,27
+NC,37.0,Halifax County,37083.0,County,2021-07-05,Complete,19255.0,50010.0,27
+NC,37.0,Halifax County,37083.0,County,2021-07-05,Partial,20657.0,50010.0,27
+NC,37.0,Harnett County,37085.0,County,2021-07-05,Complete,37914.0,135976.0,27
+NC,37.0,Harnett County,37085.0,County,2021-07-05,Partial,40995.0,135976.0,27
+NC,37.0,Haywood County,37087.0,County,2021-07-05,Complete,27336.0,62317.0,27
+NC,37.0,Haywood County,37087.0,County,2021-07-05,Partial,28641.0,62317.0,27
+NC,37.0,Henderson County,37089.0,County,2021-07-05,Complete,52061.0,117417.0,27
+NC,37.0,Henderson County,37089.0,County,2021-07-05,Partial,54371.0,117417.0,27
+NC,37.0,Hertford County,37091.0,County,2021-07-05,Complete,7924.0,23677.0,27
+NC,37.0,Hertford County,37091.0,County,2021-07-05,Partial,8771.0,23677.0,27
+NC,37.0,Hoke County,37093.0,County,2021-07-05,Complete,11416.0,55234.0,27
+NC,37.0,Hoke County,37093.0,County,2021-07-05,Partial,12690.0,55234.0,27
+NC,37.0,Hyde County,37095.0,County,2021-07-05,Complete,2690.0,4937.0,27
+NC,37.0,Hyde County,37095.0,County,2021-07-05,Partial,2859.0,4937.0,27
+NC,37.0,Iredell County,37097.0,County,2021-07-05,Complete,68538.0,181806.0,27
+NC,37.0,Iredell County,37097.0,County,2021-07-05,Partial,71046.0,181806.0,27
+NC,37.0,Jackson County,37099.0,County,2021-07-05,Complete,16435.0,43938.0,27
+NC,37.0,Jackson County,37099.0,County,2021-07-05,Partial,17156.0,43938.0,27
+NC,37.0,Johnston County,37101.0,County,2021-07-05,Complete,77457.0,209339.0,27
+NC,37.0,Johnston County,37101.0,County,2021-07-05,Partial,83847.0,209339.0,27
+NC,37.0,Jones County,37103.0,County,2021-07-05,Complete,3518.0,9419.0,27
+NC,37.0,Jones County,37103.0,County,2021-07-05,Partial,3778.0,9419.0,27
+NC,37.0,Lee County,37105.0,County,2021-07-05,Complete,24150.0,61779.0,27
+NC,37.0,Lee County,37105.0,County,2021-07-05,Partial,25948.0,61779.0,27
+NC,37.0,Lenoir County,37107.0,County,2021-07-05,Complete,21840.0,55949.0,27
+NC,37.0,Lenoir County,37107.0,County,2021-07-05,Partial,23252.0,55949.0,27
+NC,37.0,Lincoln County,37109.0,County,2021-07-05,Complete,32079.0,86111.0,27
+NC,37.0,Lincoln County,37109.0,County,2021-07-05,Partial,33848.0,86111.0,27
+NC,37.0,Macon County,37113.0,County,2021-07-05,Complete,16314.0,35858.0,27
+NC,37.0,Macon County,37113.0,County,2021-07-05,Partial,17077.0,35858.0,27
+NC,37.0,Madison County,37115.0,County,2021-07-05,Complete,9748.0,21755.0,27
+NC,37.0,Madison County,37115.0,County,2021-07-05,Partial,10058.0,21755.0,27
+NC,37.0,Martin County,37117.0,County,2021-07-05,Complete,8546.0,22440.0,27
+NC,37.0,Martin County,37117.0,County,2021-07-05,Partial,9152.0,22440.0,27
+NC,37.0,McDowell County,37111.0,County,2021-07-05,Complete,17138.0,45756.0,27
+NC,37.0,McDowell County,37111.0,County,2021-07-05,Partial,18100.0,45756.0,27
+NC,37.0,Mecklenburg County,37119.0,County,2021-07-05,Complete,506946.0,1110356.0,27
+NC,37.0,Mecklenburg County,37119.0,County,2021-07-05,Partial,546836.0,1110356.0,27
+NC,37.0,Mitchell County,37121.0,County,2021-07-05,Complete,5317.0,14964.0,27
+NC,37.0,Mitchell County,37121.0,County,2021-07-05,Partial,5713.0,14964.0,27
+NC,37.0,Montgomery County,37123.0,County,2021-07-05,Complete,8984.0,27173.0,27
+NC,37.0,Montgomery County,37123.0,County,2021-07-05,Partial,9579.0,27173.0,27
+NC,37.0,Moore County,37125.0,County,2021-07-05,Complete,45860.0,100880.0,27
+NC,37.0,Moore County,37125.0,County,2021-07-05,Partial,47797.0,100880.0,27
+NC,37.0,Nash County,37127.0,County,2021-07-05,Complete,39583.0,94298.0,27
+NC,37.0,Nash County,37127.0,County,2021-07-05,Partial,42408.0,94298.0,27
+NC,37.0,New Hanover County,37129.0,County,2021-07-05,Complete,113840.0,234473.0,27
+NC,37.0,New Hanover County,37129.0,County,2021-07-05,Partial,120006.0,234473.0,27
+NC,37.0,Northampton County,37131.0,County,2021-07-05,Complete,7152.0,19483.0,27
+NC,37.0,Northampton County,37131.0,County,2021-07-05,Partial,7735.0,19483.0,27
+NC,37.0,Onslow County,37133.0,County,2021-07-05,Complete,41926.0,197938.0,27
+NC,37.0,Onslow County,37133.0,County,2021-07-05,Partial,46148.0,197938.0,27
+NC,37.0,Orange County,37135.0,County,2021-07-05,Complete,93105.0,148476.0,27
+NC,37.0,Orange County,37135.0,County,2021-07-05,Partial,96395.0,148476.0,27
+NC,37.0,Pamlico County,37137.0,County,2021-07-05,Complete,5866.0,12726.0,27
+NC,37.0,Pamlico County,37137.0,County,2021-07-05,Partial,6182.0,12726.0,27
+NC,37.0,Pasquotank County,37139.0,County,2021-07-05,Complete,14576.0,39824.0,27
+NC,37.0,Pasquotank County,37139.0,County,2021-07-05,Partial,16556.0,39824.0,27
+NC,37.0,Pender County,37141.0,County,2021-07-05,Complete,23302.0,63060.0,27
+NC,37.0,Pender County,37141.0,County,2021-07-05,Partial,24877.0,63060.0,27
+NC,37.0,Perquimans County,37143.0,County,2021-07-05,Complete,4589.0,13463.0,27
+NC,37.0,Perquimans County,37143.0,County,2021-07-05,Partial,5094.0,13463.0,27
+NC,37.0,Person County,37145.0,County,2021-07-05,Complete,16287.0,39490.0,27
+NC,37.0,Person County,37145.0,County,2021-07-05,Partial,17255.0,39490.0,27
+NC,37.0,Pitt County,37147.0,County,2021-07-05,Complete,71356.0,180742.0,27
+NC,37.0,Pitt County,37147.0,County,2021-07-05,Partial,75563.0,180742.0,27
+NC,37.0,Polk County,37149.0,County,2021-07-05,Complete,7927.0,20724.0,27
+NC,37.0,Polk County,37149.0,County,2021-07-05,Partial,8370.0,20724.0,27
+NC,37.0,Randolph County,37151.0,County,2021-07-05,Complete,44813.0,143667.0,27
+NC,37.0,Randolph County,37151.0,County,2021-07-05,Partial,47441.0,143667.0,27
+NC,37.0,Richmond County,37153.0,County,2021-07-05,Complete,15192.0,44829.0,27
+NC,37.0,Richmond County,37153.0,County,2021-07-05,Partial,16200.0,44829.0,27
+NC,37.0,Robeson County,37155.0,County,2021-07-05,Complete,32937.0,130625.0,27
+NC,37.0,Robeson County,37155.0,County,2021-07-05,Partial,36333.0,130625.0,27
+NC,37.0,Rockingham County,37157.0,County,2021-07-05,Complete,33963.0,91010.0,27
+NC,37.0,Rockingham County,37157.0,County,2021-07-05,Partial,36240.0,91010.0,27
+NC,37.0,Rowan County,37159.0,County,2021-07-05,Complete,42640.0,142088.0,27
+NC,37.0,Rowan County,37159.0,County,2021-07-05,Partial,45789.0,142088.0,27
+NC,37.0,Rutherford County,37161.0,County,2021-07-05,Complete,20050.0,67029.0,27
+NC,37.0,Rutherford County,37161.0,County,2021-07-05,Partial,21590.0,67029.0,27
+NC,37.0,Sampson County,37163.0,County,2021-07-05,Complete,22142.0,63531.0,27
+NC,37.0,Sampson County,37163.0,County,2021-07-05,Partial,24081.0,63531.0,27
+NC,37.0,Scotland County,37165.0,County,2021-07-05,Complete,12577.0,34823.0,27
+NC,37.0,Scotland County,37165.0,County,2021-07-05,Partial,13488.0,34823.0,27
+NC,37.0,Stanly County,37167.0,County,2021-07-05,Complete,19682.0,62806.0,27
+NC,37.0,Stanly County,37167.0,County,2021-07-05,Partial,21023.0,62806.0,27
+NC,37.0,Stokes County,37169.0,County,2021-07-05,Complete,15713.0,45591.0,27
+NC,37.0,Stokes County,37169.0,County,2021-07-05,Partial,16744.0,45591.0,27
+NC,37.0,Surry County,37171.0,County,2021-07-05,Complete,27903.0,71783.0,27
+NC,37.0,Surry County,37171.0,County,2021-07-05,Partial,29441.0,71783.0,27
+NC,37.0,Swain County,37173.0,County,2021-07-05,Complete,4295.0,14271.0,27
+NC,37.0,Swain County,37173.0,County,2021-07-05,Partial,4535.0,14271.0,27
+NC,37.0,Transylvania County,37175.0,County,2021-07-05,Complete,15295.0,34385.0,27
+NC,37.0,Transylvania County,37175.0,County,2021-07-05,Partial,15825.0,34385.0,27
+NC,37.0,Tyrrell County,37177.0,County,2021-07-05,Complete,1413.0,4016.0,27
+NC,37.0,Tyrrell County,37177.0,County,2021-07-05,Partial,1515.0,4016.0,27
+NC,37.0,Union County,37179.0,County,2021-07-05,Complete,94723.0,239859.0,27
+NC,37.0,Union County,37179.0,County,2021-07-05,Partial,100264.0,239859.0,27
+NC,37.0,Vance County,37181.0,County,2021-07-05,Complete,17991.0,44535.0,27
+NC,37.0,Vance County,37181.0,County,2021-07-05,Partial,19643.0,44535.0,27
+NC,37.0,Wake County,37183.0,County,2021-07-05,Complete,620194.0,1111761.0,27
+NC,37.0,Wake County,37183.0,County,2021-07-05,Partial,653150.0,1111761.0,27
+NC,37.0,Warren County,37185.0,County,2021-07-05,Complete,8397.0,19731.0,27
+NC,37.0,Warren County,37185.0,County,2021-07-05,Partial,8878.0,19731.0,27
+NC,37.0,Washington County,37187.0,County,2021-07-05,Complete,4143.0,11580.0,27
+NC,37.0,Washington County,37187.0,County,2021-07-05,Partial,4676.0,11580.0,27
+NC,37.0,Watauga County,37189.0,County,2021-07-05,Complete,26746.0,56177.0,27
+NC,37.0,Watauga County,37189.0,County,2021-07-05,Partial,28532.0,56177.0,27
+NC,37.0,Wayne County,37191.0,County,2021-07-05,Complete,37956.0,123131.0,27
+NC,37.0,Wayne County,37191.0,County,2021-07-05,Partial,40865.0,123131.0,27
+NC,37.0,Wilkes County,37193.0,County,2021-07-05,Complete,22042.0,68412.0,27
+NC,37.0,Wilkes County,37193.0,County,2021-07-05,Partial,24050.0,68412.0,27
+NC,37.0,Wilson County,37195.0,County,2021-07-05,Complete,30170.0,81801.0,27
+NC,37.0,Wilson County,37195.0,County,2021-07-05,Partial,32188.0,81801.0,27
+NC,37.0,Yadkin County,37197.0,County,2021-07-05,Complete,13428.0,37667.0,27
+NC,37.0,Yadkin County,37197.0,County,2021-07-05,Partial,14174.0,37667.0,27
+NC,37.0,Yancey County,37199.0,County,2021-07-05,Complete,6908.0,18069.0,27
+NC,37.0,Yancey County,37199.0,County,2021-07-05,Partial,7303.0,18069.0,27
 WV,54.0,Monroe,54063.0,County,2021-07-07,Partial,4888.0,13275.0,27
 WV,54.0,Morgan,54065.0,County,2021-07-07,Partial,5189.0,17884.0,27
 WV,54.0,Nicholas,54067.0,County,2021-07-07,Partial,10398.0,24496.0,27
@@ -10666,10 +10951,14 @@ NY,36.0,Chemung,36015.0,County,2021-07-06,Partial Coverage,44.77449194785276,834
 NM,35.0,Curry,35009.0,County,2021-07-06,Partial Coverage,35.388323732483556,48954.0,27
 NY,36.0,Nassau,36059.0,County,2021-07-06,Partial Coverage,66.25647420194498,1356924.0,27
 GA,13.0,Appling County,13001.0,County,2021-07-05,Partial Coverage,26.63983465680409,18386.0,27
+GA,13.0,Atkinson County,13003.0,County,2021-07-02,Partial Coverage,25.939987752602573,8165.0,26
+GA,13.0,Bacon County,13005.0,County,2021-07-02,Partial Coverage,23.33393049086349,11164.0,26
+GA,13.0,Baker County,13007.0,County,2021-07-01,Partial Coverage,36.07636603028308,3038.0,26
 GA,13.0,Baldwin County,13009.0,County,2021-07-05,Partial Coverage,35.488973045221655,44890.0,27
 GA,13.0,Barrow County,13013.0,County,2021-07-05,Partial Coverage,31.864488226814032,83240.0,27
 GA,13.0,Bartow County,13015.0,County,2021-07-05,Partial Coverage,29.602368709276206,107738.0,27
 GA,13.0,Ben Hill County,13017.0,County,2021-07-05,Partial Coverage,30.12574850299401,16700.0,27
+GA,13.0,Berrien County,13019.0,County,2021-07-02,Partial Coverage,24.782182811775016,19397.0,26
 GA,13.0,Bibb County,13021.0,County,2021-07-05,Partial Coverage,36.671694121795,153159.0,27
 GA,13.0,Bleckley County,13023.0,County,2021-07-05,Partial Coverage,27.320748854190942,12873.0,27
 GA,13.0,Brantley County,13025.0,County,2021-07-05,Partial Coverage,18.556701030927837,19109.0,27
@@ -10677,15 +10966,20 @@ GA,13.0,Brooks County,13027.0,County,2021-07-05,Partial Coverage,34.929158310150
 GA,13.0,Bulloch County,13031.0,County,2021-07-05,Partial Coverage,26.454627675610492,79608.0,27
 GA,13.0,Burke County,13033.0,County,2021-07-05,Partial Coverage,35.66992807041058,22383.0,27
 GA,13.0,Butts County,13035.0,County,2021-07-05,Partial Coverage,26.259223612447865,24936.0,27
+GA,13.0,Calhoun County,13037.0,County,2021-07-03,Partial Coverage,37.48586201324931,6189.0,26
 GA,13.0,Camden County,13039.0,County,2021-07-05,Partial Coverage,28.74730179636337,54666.0,27
 GA,13.0,Candler County,13043.0,County,2021-07-05,Partial Coverage,33.45367027677497,10803.0,27
 GA,13.0,Carroll County,13045.0,County,2021-07-05,Partial Coverage,29.32362157477165,119992.0,27
 GA,13.0,Catoosa County,13047.0,County,2021-07-05,Partial Coverage,31.580349215744302,67580.0,27
+GA,13.0,Charlton County,13049.0,County,2021-07-02,Partial Coverage,15.397252090800478,13392.0,26
 GA,13.0,Chatham County,13051.0,County,2021-07-05,Partial Coverage,44.149189786822376,289430.0,27
+GA,13.0,Chattahoochee County,13053.0,County,2021-07-03,Partial Coverage,15.164573209865225,10907.0,26
 GA,13.0,Chattooga County,13055.0,County,2021-07-05,Partial Coverage,30.029448545725927,24789.0,27
 GA,13.0,Cherokee County,13057.0,County,2021-07-05,Partial Coverage,41.63958372782323,258773.0,27
 GA,13.0,Clarke County,13059.0,County,2021-07-05,Partial Coverage,40.4726839189284,128331.0,27
+GA,13.0,Clay County,13061.0,County,2021-07-01,Partial Coverage,50.56457304163726,2834.0,26
 GA,13.0,Clayton County,13063.0,County,2021-07-05,Partial Coverage,33.556539472243514,292256.0,27
+GA,13.0,Clinch County,13065.0,County,2021-07-02,Partial Coverage,29.480205500151104,6618.0,26
 GA,13.0,Cobb County,13067.0,County,2021-07-05,Partial Coverage,50.05400313889134,760141.0,27
 GA,13.0,Coffee County,13069.0,County,2021-07-05,Partial Coverage,26.79037737157119,43273.0,27
 GA,13.0,Colquitt County,13071.0,County,2021-07-05,Partial Coverage,31.098684210526315,45600.0,27
@@ -10698,6 +10992,8 @@ GA,13.0,DeKalb County,13089.0,County,2021-07-05,Partial Coverage,47.708077339960
 GA,13.0,Dodge County,13091.0,County,2021-07-05,Partial Coverage,27.39626304295074,20605.0,27
 GA,13.0,Dougherty County,13095.0,County,2021-07-05,Partial Coverage,37.06398653872391,87956.0,27
 GA,13.0,Douglas County,13097.0,County,2021-07-05,Partial Coverage,36.84016317828663,146343.0,27
+GA,13.0,Early County,13099.0,County,2021-07-03,Partial Coverage,36.800785083415114,10190.0,26
+GA,13.0,Echols County,13101.0,County,2021-07-03,Partial Coverage,23.065401897154267,4006.0,26
 GA,13.0,Effingham County,13103.0,County,2021-07-05,Partial Coverage,29.426402886649246,64296.0,27
 GA,13.0,Elbert County,13105.0,County,2021-07-05,Partial Coverage,34.38053558403668,19194.0,27
 GA,13.0,Emanuel County,13107.0,County,2021-07-05,Partial Coverage,28.09326150313521,22646.0,27
@@ -10718,19 +11014,25 @@ GA,13.0,Hart County,13147.0,County,2021-07-05,Partial Coverage,31.46346117153215
 GA,13.0,Heard County,13149.0,County,2021-07-05,Partial Coverage,21.974335318292376,11923.0,27
 GA,13.0,Henry County,13151.0,County,2021-07-05,Partial Coverage,35.79026351354232,234561.0,27
 GA,13.0,Houston County,13153.0,County,2021-07-05,Partial Coverage,34.9987014056492,157863.0,27
+GA,13.0,Irwin County,13155.0,County,2021-07-02,Partial Coverage,28.876380628717076,9416.0,26
 GA,13.0,Jackson County,13157.0,County,2021-07-05,Partial Coverage,33.54481548981186,72977.0,27
 GA,13.0,Jeff Davis County,13161.0,County,2021-07-05,Partial Coverage,22.76546477009593,15115.0,27
 GA,13.0,Jefferson County,13163.0,County,2021-07-05,Partial Coverage,40.958208566592894,15362.0,27
+GA,13.0,Jenkins County,13165.0,County,2021-07-03,Partial Coverage,27.086214845550945,8676.0,26
+GA,13.0,Johnson County,13167.0,County,2021-07-01,Partial Coverage,25.987763144249715,9643.0,26
 GA,13.0,Lamar County,13171.0,County,2021-07-05,Partial Coverage,27.698275410179797,19077.0,27
+GA,13.0,Lanier County,13173.0,County,2021-07-03,Partial Coverage,21.308644344238704,10423.0,26
 GA,13.0,Laurens County,13175.0,County,2021-07-05,Partial Coverage,32.97858915576494,47546.0,27
 GA,13.0,Liberty County,13179.0,County,2021-07-05,Partial Coverage,22.562057459103116,61435.0,27
 GA,13.0,Long County,13183.0,County,2021-07-05,Partial Coverage,14.944526816299401,19559.0,27
 GA,13.0,Lowndes County,13185.0,County,2021-07-05,Partial Coverage,28.460214980495035,117406.0,27
 GA,13.0,Lumpkin County,13187.0,County,2021-07-05,Partial Coverage,29.440642665873252,33610.0,27
+GA,13.0,McIntosh County,13191.0,County,2021-07-03,Partial Coverage,32.591459173737654,14378.0,26
 GA,13.0,Macon County,13193.0,County,2021-07-05,Partial Coverage,33.44404109060014,12947.0,27
 GA,13.0,Meriwether County,13199.0,County,2021-07-05,Partial Coverage,32.985307317994994,21167.0,27
+GA,13.0,Miller County,13201.0,County,2021-07-03,Partial Coverage,40.328786288912205,5718.0,26
 GA,13.0,Mitchell County,13205.0,County,2021-07-05,Partial Coverage,34.295384896857705,21863.0,27
-GA,13.0,Monroe County,13207.0,County,2021-07-05,Partial Coverage,36.4819783885706,27578.0,27
+GA,13.0,Monroe County,13207.0,County,2021-07-04,Partial Coverage,36.478352309812166,27578.0,26
 GA,13.0,Montgomery County,13209.0,County,2021-07-05,Partial Coverage,25.74138682948103,9172.0,27
 GA,13.0,Morgan County,13211.0,County,2021-07-05,Partial Coverage,37.896866569827765,19276.0,27
 GA,13.0,Murray County,13213.0,County,2021-07-05,Partial Coverage,28.623802873104548,40096.0,27
@@ -10738,48 +11040,60 @@ GA,13.0,Muscogee County,13215.0,County,2021-07-05,Partial Coverage,33.9640086019
 GA,13.0,Newton County,13217.0,County,2021-07-05,Partial Coverage,33.5132087628866,111744.0,27
 GA,13.0,Oconee County,13219.0,County,2021-07-05,Partial Coverage,50.41211519364449,40280.0,27
 GA,13.0,Paulding County,13223.0,County,2021-07-05,Partial Coverage,29.948952670054013,168667.0,27
-GA,13.0,Peach County,13225.0,County,2021-07-05,Partial Coverage,36.393668772235536,27546.0,27
-GA,13.0,Pierce County,13229.0,County,2021-07-05,Partial Coverage,25.784741844335986,19465.0,27
+GA,13.0,Peach County,13225.0,County,2021-07-03,Partial Coverage,36.38277789878748,27546.0,26
+GA,13.0,Pierce County,13229.0,County,2021-07-03,Partial Coverage,25.779604418186487,19465.0,26
 GA,13.0,Pike County,13231.0,County,2021-07-05,Partial Coverage,25.47727033013395,18962.0,27
 GA,13.0,Polk County,13233.0,County,2021-07-05,Partial Coverage,29.500387205782275,42613.0,27
-GA,13.0,Pulaski County,13235.0,County,2021-07-05,Partial Coverage,29.199964083685014,11137.0,27
+GA,13.0,Pulaski County,13235.0,County,2021-07-03,Partial Coverage,29.190985004938494,11137.0,26
 GA,13.0,Putnam County,13237.0,County,2021-07-05,Partial Coverage,35.40847235408472,22119.0,27
-GA,13.0,Rabun County,13241.0,County,2021-07-05,Partial Coverage,40.43881659567019,17137.0,27
+GA,13.0,Quitman County,13239.0,County,2021-07-01,Partial Coverage,31.79643323183993,2299.0,26
+GA,13.0,Rabun County,13241.0,County,2021-07-03,Partial Coverage,40.42131061445994,17137.0,26
+GA,13.0,Randolph County,13243.0,County,2021-07-03,Partial Coverage,35.86603717910888,6778.0,26
 GA,13.0,Richmond County,13245.0,County,2021-07-05,Partial Coverage,32.990153961623164,202518.0,27
 GA,13.0,Rockdale County,13247.0,County,2021-07-05,Partial Coverage,41.788417532124626,90896.0,27
 GA,13.0,Schley County,13249.0,County,2021-07-05,Partial Coverage,25.261556020544038,5257.0,27
-GA,13.0,Screven County,13251.0,County,2021-07-05,Partial Coverage,36.0804811685522,13966.0,27
-GA,13.0,Seminole County,13253.0,County,2021-07-05,Partial Coverage,34.437577255871446,8090.0,27
+GA,13.0,Screven County,13251.0,County,2021-07-03,Partial Coverage,36.07332092223972,13966.0,26
+GA,13.0,Seminole County,13253.0,County,2021-07-02,Partial Coverage,34.42521631644005,8090.0,26
 GA,13.0,Spalding County,13255.0,County,2021-07-05,Partial Coverage,32.17546437191731,66703.0,27
 GA,13.0,Stephens County,13257.0,County,2021-07-05,Partial Coverage,32.85631629701061,25925.0,27
+GA,13.0,Stewart County,13259.0,County,2021-07-02,Partial Coverage,25.90243165684942,6621.0,26
 GA,13.0,Sumter County,13261.0,County,2021-07-05,Partial Coverage,40.41119089554261,29524.0,27
 GA,13.0,Talbot County,13263.0,County,2021-07-05,Partial Coverage,39.37046004842615,6195.0,27
+GA,13.0,Taliaferro County,13265.0,County,2021-07-03,Partial Coverage,37.08523096942095,1537.0,26
 GA,13.0,Tattnall County,13267.0,County,2021-07-05,Partial Coverage,25.650557620817843,25286.0,27
 GA,13.0,Telfair County,13271.0,County,2021-07-05,Partial Coverage,21.494325346784365,15860.0,27
 GA,13.0,Terrell County,13273.0,County,2021-07-05,Partial Coverage,43.558785605438985,8531.0,27
 GA,13.0,Thomas County,13275.0,County,2021-07-05,Partial Coverage,38.12287687566084,44451.0,27
-GA,13.0,Tift County,13277.0,County,2021-07-05,Partial Coverage,31.874323393366794,40644.0,27
+GA,13.0,Tift County,13277.0,County,2021-07-04,Partial Coverage,31.869402617852575,40644.0,26
 GA,13.0,Toombs County,13279.0,County,2021-07-05,Partial Coverage,29.81736861721953,26830.0,27
+GA,13.0,Towns County,13281.0,County,2021-07-03,Partial Coverage,44.60413724349921,12037.0,26
 GA,13.0,Treutlen County,13283.0,County,2021-07-05,Partial Coverage,23.141573684973192,6901.0,27
 GA,13.0,Troup County,13285.0,County,2021-07-05,Partial Coverage,27.9768885329367,69922.0,27
-GA,13.0,Turner County,13287.0,County,2021-07-05,Partial Coverage,39.43644333124609,7985.0,27
-GA,13.0,Twiggs County,13289.0,County,2021-07-05,Partial Coverage,42.389162561576356,8120.0,27
+GA,13.0,Turner County,13287.0,County,2021-07-03,Partial Coverage,39.423919849718224,7985.0,26
+GA,13.0,Twiggs County,13289.0,County,2021-07-03,Partial Coverage,42.37684729064039,8120.0,26
+GA,13.0,Union County,13291.0,County,2021-07-03,Partial Coverage,40.447146179266454,24511.0,26
 GA,13.0,Upson County,13293.0,County,2021-07-05,Partial Coverage,35.159574468085104,26320.0,27
 GA,13.0,Walker County,13295.0,County,2021-07-05,Partial Coverage,26.99072547698571,69761.0,27
 GA,13.0,Walton County,13297.0,County,2021-07-05,Partial Coverage,33.469707060776166,94593.0,27
 GA,13.0,Ware County,13299.0,County,2021-07-05,Partial Coverage,29.974254211675156,35734.0,27
 GA,13.0,Washington County,13303.0,County,2021-07-05,Partial Coverage,34.61764994600962,20374.0,27
 GA,13.0,Wayne County,13305.0,County,2021-07-05,Partial Coverage,27.710762856283623,29927.0,27
+GA,13.0,Webster County,13307.0,County,2021-07-01,Partial Coverage,35.59647103950901,2607.0,26
+GA,13.0,White County,13311.0,County,2021-07-03,Partial Coverage,30.346126371842328,30798.0,26
 GA,13.0,Whitfield County,13313.0,County,2021-07-05,Partial Coverage,35.63482050693887,104628.0,27
 GA,13.0,Wilkes County,13317.0,County,2021-07-05,Partial Coverage,38.03825304285568,9777.0,27
 GA,13.0,Wilkinson County,13319.0,County,2021-07-05,Partial Coverage,41.23296850569578,8954.0,27
 GA,13.0,Worth County,13321.0,County,2021-07-05,Partial Coverage,32.61223885020003,20247.0,27
 GA,13.0,Appling County,13001.0,County,2021-07-05,Complete Coverage,24.600239312520397,18386.0,27
+GA,13.0,Atkinson County,13003.0,County,2021-07-03,Complete Coverage,22.878138395590938,8165.0,26
+GA,13.0,Bacon County,13005.0,County,2021-07-03,Complete Coverage,21.345395915442495,11164.0,26
+GA,13.0,Baker County,13007.0,County,2021-07-01,Complete Coverage,32.71889400921659,3038.0,26
 GA,13.0,Baldwin County,13009.0,County,2021-07-05,Complete Coverage,32.45934506571619,44890.0,27
 GA,13.0,Banks County,13011.0,County,2021-07-05,Complete Coverage,22.013101798897786,19234.0,27
 GA,13.0,Barrow County,13013.0,County,2021-07-05,Complete Coverage,28.855117731859682,83240.0,27
 GA,13.0,Bartow County,13015.0,County,2021-07-05,Complete Coverage,26.946852549703912,107738.0,27
 GA,13.0,Ben Hill County,13017.0,County,2021-07-05,Complete Coverage,27.74251497005988,16700.0,27
+GA,13.0,Berrien County,13019.0,County,2021-07-04,Complete Coverage,22.74062999432902,19397.0,26
 GA,13.0,Bibb County,13021.0,County,2021-07-05,Complete Coverage,33.06629058690642,153159.0,27
 GA,13.0,Bleckley County,13023.0,County,2021-07-05,Complete Coverage,24.99805795074963,12873.0,27
 GA,13.0,Brantley County,13025.0,County,2021-07-05,Complete Coverage,16.950128211837352,19109.0,27
@@ -10788,15 +11102,20 @@ GA,13.0,Bryan County,13029.0,County,2021-07-05,Complete Coverage,35.006435006435
 GA,13.0,Bulloch County,13031.0,County,2021-07-05,Complete Coverage,24.174706059692493,79608.0,27
 GA,13.0,Burke County,13033.0,County,2021-07-05,Complete Coverage,32.44426573738998,22383.0,27
 GA,13.0,Butts County,13035.0,County,2021-07-05,Complete Coverage,23.993423163298043,24936.0,27
+GA,13.0,Calhoun County,13037.0,County,2021-07-02,Complete Coverage,34.49668767167555,6189.0,26
 GA,13.0,Camden County,13039.0,County,2021-07-05,Complete Coverage,26.561299528043026,54666.0,27
 GA,13.0,Candler County,13043.0,County,2021-07-05,Complete Coverage,30.704433953531428,10803.0,27
 GA,13.0,Carroll County,13045.0,County,2021-07-05,Complete Coverage,26.57593839589306,119992.0,27
 GA,13.0,Catoosa County,13047.0,County,2021-07-05,Complete Coverage,28.321988754069253,67580.0,27
+GA,13.0,Charlton County,13049.0,County,2021-07-02,Complete Coverage,14.165173237753883,13392.0,26
 GA,13.0,Chatham County,13051.0,County,2021-07-05,Complete Coverage,40.17171682272052,289430.0,27
+GA,13.0,Chattahoochee County,13053.0,County,2021-07-03,Complete Coverage,13.23920418080132,10907.0,26
 GA,13.0,Chattooga County,13055.0,County,2021-07-05,Complete Coverage,27.508168945903424,24789.0,27
 GA,13.0,Cherokee County,13057.0,County,2021-07-05,Complete Coverage,38.2764044162258,258773.0,27
 GA,13.0,Clarke County,13059.0,County,2021-07-05,Complete Coverage,37.561462156454795,128331.0,27
+GA,13.0,Clay County,13061.0,County,2021-07-01,Complete Coverage,44.10726887791108,2834.0,26
 GA,13.0,Clayton County,13063.0,County,2021-07-05,Complete Coverage,29.40538432059564,292256.0,27
+GA,13.0,Clinch County,13065.0,County,2021-07-03,Complete Coverage,27.243880326382595,6618.0,26
 GA,13.0,Cobb County,13067.0,County,2021-07-05,Complete Coverage,45.116103459752864,760141.0,27
 GA,13.0,Coffee County,13069.0,County,2021-07-05,Complete Coverage,23.982621958264968,43273.0,27
 GA,13.0,Colquitt County,13071.0,County,2021-07-05,Complete Coverage,28.024122807017545,45600.0,27
@@ -10813,6 +11132,8 @@ GA,13.0,Dodge County,13091.0,County,2021-07-05,Complete Coverage,24.882310118903
 GA,13.0,Dooly County,13093.0,County,2021-07-05,Complete Coverage,26.295743091859595,13390.0,27
 GA,13.0,Dougherty County,13095.0,County,2021-07-05,Complete Coverage,33.38828505161672,87956.0,27
 GA,13.0,Douglas County,13097.0,County,2021-07-05,Complete Coverage,32.55229153427222,146343.0,27
+GA,13.0,Early County,13099.0,County,2021-07-02,Complete Coverage,34.25907752698724,10190.0,26
+GA,13.0,Echols County,13101.0,County,2021-07-02,Complete Coverage,20.619071392910634,4006.0,26
 GA,13.0,Effingham County,13103.0,County,2021-07-05,Complete Coverage,26.97835013064576,64296.0,27
 GA,13.0,Elbert County,13105.0,County,2021-07-05,Complete Coverage,31.822444513910597,19194.0,27
 GA,13.0,Emanuel County,13107.0,County,2021-07-05,Complete Coverage,25.894197650799256,22646.0,27
@@ -10839,12 +11160,16 @@ GA,13.0,Hart County,13147.0,County,2021-07-05,Complete Coverage,28.9066971951917
 GA,13.0,Heard County,13149.0,County,2021-07-05,Complete Coverage,19.927870502390338,11923.0,27
 GA,13.0,Henry County,13151.0,County,2021-07-05,Complete Coverage,32.323361513636115,234561.0,27
 GA,13.0,Houston County,13153.0,County,2021-07-05,Complete Coverage,31.761083977879554,157863.0,27
+GA,13.0,Irwin County,13155.0,County,2021-07-03,Complete Coverage,26.295666949872558,9416.0,26
 GA,13.0,Jackson County,13157.0,County,2021-07-05,Complete Coverage,30.874111021280676,72977.0,27
 GA,13.0,Jasper County,13159.0,County,2021-07-05,Complete Coverage,25.550319994373726,14219.0,27
 GA,13.0,Jeff Davis County,13161.0,County,2021-07-05,Complete Coverage,20.97915977505789,15115.0,27
 GA,13.0,Jefferson County,13163.0,County,2021-07-05,Complete Coverage,37.560213513865385,15362.0,27
+GA,13.0,Jenkins County,13165.0,County,2021-07-03,Complete Coverage,24.942369755647764,8676.0,26
+GA,13.0,Johnson County,13167.0,County,2021-07-03,Complete Coverage,23.913719796743752,9643.0,26
 GA,13.0,Jones County,13169.0,County,2021-07-05,Complete Coverage,31.07708369584131,28735.0,27
 GA,13.0,Lamar County,13171.0,County,2021-07-05,Complete Coverage,25.559574356555014,19077.0,27
+GA,13.0,Lanier County,13173.0,County,2021-07-03,Complete Coverage,19.236304326969204,10423.0,26
 GA,13.0,Laurens County,13175.0,County,2021-07-05,Complete Coverage,30.137130357969124,47546.0,27
 GA,13.0,Lee County,13177.0,County,2021-07-05,Complete Coverage,36.42638036809816,29992.0,27
 GA,13.0,Liberty County,13179.0,County,2021-07-05,Complete Coverage,20.387401318466672,61435.0,27
@@ -10853,11 +11178,14 @@ GA,13.0,Long County,13183.0,County,2021-07-05,Complete Coverage,13.4055933329924
 GA,13.0,Lowndes County,13185.0,County,2021-07-05,Complete Coverage,25.655417951382383,117406.0,27
 GA,13.0,Lumpkin County,13187.0,County,2021-07-05,Complete Coverage,27.19131210949122,33610.0,27
 GA,13.0,McDuffie County,13189.0,County,2021-07-05,Complete Coverage,31.69575825825826,21312.0,27
+GA,13.0,McIntosh County,13191.0,County,2021-07-04,Complete Coverage,30.685769926276254,14378.0,26
 GA,13.0,Macon County,13193.0,County,2021-07-05,Complete Coverage,30.485826832470842,12947.0,27
 GA,13.0,Madison County,13195.0,County,2021-07-05,Complete Coverage,33.276439089692104,29880.0,27
 GA,13.0,Marion County,13197.0,County,2021-07-05,Complete Coverage,28.280894843880848,8359.0,27
 GA,13.0,Meriwether County,13199.0,County,2021-07-05,Complete Coverage,30.023149241744225,21167.0,27
+GA,13.0,Miller County,13201.0,County,2021-07-03,Complete Coverage,38.03777544596013,5718.0,26
 GA,13.0,Mitchell County,13205.0,County,2021-07-05,Complete Coverage,31.464117458720214,21863.0,27
+GA,13.0,Monroe County,13207.0,County,2021-07-04,Complete Coverage,33.523098121691206,27578.0,26
 GA,13.0,Montgomery County,13209.0,County,2021-07-05,Complete Coverage,23.800697775839513,9172.0,27
 GA,13.0,Morgan County,13211.0,County,2021-07-05,Complete Coverage,35.3392820087155,19276.0,27
 GA,13.0,Murray County,13213.0,County,2021-07-05,Complete Coverage,25.930267358339982,40096.0,27
@@ -10866,25 +11194,40 @@ GA,13.0,Newton County,13217.0,County,2021-07-05,Complete Coverage,30.07409793814
 GA,13.0,Oconee County,13219.0,County,2021-07-05,Complete Coverage,47.21201588877855,40280.0,27
 GA,13.0,Oglethorpe County,13221.0,County,2021-07-05,Complete Coverage,33.193525132708565,15259.0,27
 GA,13.0,Paulding County,13223.0,County,2021-07-05,Complete Coverage,27.119116365382677,168667.0,27
+GA,13.0,Peach County,13225.0,County,2021-07-03,Complete Coverage,32.85413490161911,27546.0,26
 GA,13.0,Pickens County,13227.0,County,2021-07-05,Complete Coverage,34.5279371605658,32591.0,27
+GA,13.0,Pierce County,13229.0,County,2021-07-03,Complete Coverage,23.570511173901874,19465.0,26
 GA,13.0,Pike County,13231.0,County,2021-07-05,Complete Coverage,23.53654677776606,18962.0,27
 GA,13.0,Polk County,13233.0,County,2021-07-05,Complete Coverage,26.85096097435055,42613.0,27
+GA,13.0,Pulaski County,13235.0,County,2021-07-02,Complete Coverage,26.694801113405763,11137.0,26
 GA,13.0,Putnam County,13237.0,County,2021-07-05,Complete Coverage,32.958090329580905,22119.0,27
+GA,13.0,Quitman County,13239.0,County,2021-06-29,Complete Coverage,28.57764245324054,2299.0,26
+GA,13.0,Rabun County,13241.0,County,2021-07-03,Complete Coverage,37.573671004259786,17137.0,26
+GA,13.0,Randolph County,13243.0,County,2021-07-03,Complete Coverage,31.76453231041605,6778.0,26
 GA,13.0,Richmond County,13245.0,County,2021-07-05,Complete Coverage,30.003752752841724,202518.0,27
 GA,13.0,Rockdale County,13247.0,County,2021-07-05,Complete Coverage,37.5682098222144,90896.0,27
 GA,13.0,Schley County,13249.0,County,2021-07-05,Complete Coverage,23.60661974510177,5257.0,27
+GA,13.0,Screven County,13251.0,County,2021-07-03,Complete Coverage,33.30230559931262,13966.0,26
+GA,13.0,Seminole County,13253.0,County,2021-07-04,Complete Coverage,32.06427688504326,8090.0,26
 GA,13.0,Spalding County,13255.0,County,2021-07-05,Complete Coverage,29.316522495240093,66703.0,27
 GA,13.0,Stephens County,13257.0,County,2021-07-05,Complete Coverage,30.42622950819672,25925.0,27
+GA,13.0,Stewart County,13259.0,County,2021-07-02,Complete Coverage,24.01449932034436,6621.0,26
 GA,13.0,Sumter County,13261.0,County,2021-07-05,Complete Coverage,37.02072889852324,29524.0,27
 GA,13.0,Talbot County,13263.0,County,2021-07-05,Complete Coverage,36.077481840193705,6195.0,27
+GA,13.0,Taliaferro County,13265.0,County,2021-07-01,Complete Coverage,33.702016916070264,1537.0,26
 GA,13.0,Tattnall County,13267.0,County,2021-07-05,Complete Coverage,23.380526773708773,25286.0,27
 GA,13.0,Taylor County,13269.0,County,2021-07-05,Complete Coverage,33.01745635910225,8020.0,27
 GA,13.0,Telfair County,13271.0,County,2021-07-05,Complete Coverage,19.577553593947037,15860.0,27
 GA,13.0,Terrell County,13273.0,County,2021-07-05,Complete Coverage,39.94842339702262,8531.0,27
 GA,13.0,Thomas County,13275.0,County,2021-07-05,Complete Coverage,34.509909788306224,44451.0,27
+GA,13.0,Tift County,13277.0,County,2021-07-04,Complete Coverage,28.73240822753666,40644.0,26
 GA,13.0,Toombs County,13279.0,County,2021-07-05,Complete Coverage,27.36116287737607,26830.0,27
+GA,13.0,Towns County,13281.0,County,2021-07-03,Complete Coverage,41.97059067874055,12037.0,26
 GA,13.0,Treutlen County,13283.0,County,2021-07-05,Complete Coverage,20.85205042747428,6901.0,27
 GA,13.0,Troup County,13285.0,County,2021-07-05,Complete Coverage,25.24670346958039,69922.0,27
+GA,13.0,Turner County,13287.0,County,2021-07-03,Complete Coverage,34.94051346274264,7985.0,26
+GA,13.0,Twiggs County,13289.0,County,2021-07-03,Complete Coverage,37.72167487684729,8120.0,26
+GA,13.0,Union County,13291.0,County,2021-07-03,Complete Coverage,38.23589408836849,24511.0,26
 GA,13.0,Upson County,13293.0,County,2021-07-05,Complete Coverage,32.921732522796354,26320.0,27
 GA,13.0,Walker County,13295.0,County,2021-07-05,Complete Coverage,24.281475322888145,69761.0,27
 GA,13.0,Walton County,13297.0,County,2021-07-05,Complete Coverage,30.643916568879305,94593.0,27
@@ -10892,153 +11235,280 @@ GA,13.0,Ware County,13299.0,County,2021-07-05,Complete Coverage,27.2121788772597
 GA,13.0,Warren County,13301.0,County,2021-07-05,Complete Coverage,34.03121431290445,5254.0,27
 GA,13.0,Washington County,13303.0,County,2021-07-05,Complete Coverage,31.65308726808678,20374.0,27
 GA,13.0,Wayne County,13305.0,County,2021-07-05,Complete Coverage,25.381762288234704,29927.0,27
+GA,13.0,Webster County,13307.0,County,2021-07-02,Complete Coverage,33.2566168009206,2607.0,26
 GA,13.0,Wheeler County,13309.0,County,2021-07-05,Complete Coverage,17.492043284532144,7855.0,27
+GA,13.0,White County,13311.0,County,2021-07-03,Complete Coverage,28.037534904863953,30798.0,26
 GA,13.0,Whitfield County,13313.0,County,2021-07-05,Complete Coverage,32.10899567993271,104628.0,27
 GA,13.0,Wilcox County,13315.0,County,2021-07-05,Complete Coverage,25.96409959467284,8635.0,27
 GA,13.0,Wilkes County,13317.0,County,2021-07-05,Complete Coverage,34.939142886365964,9777.0,27
 GA,13.0,Wilkinson County,13319.0,County,2021-07-05,Complete Coverage,37.647978557069465,8954.0,27
 GA,13.0,Worth County,13321.0,County,2021-07-05,Complete Coverage,29.969872079814294,20247.0,27
-VA,51.0,Franklin City,51620.0,County,2021-07-05,Partial Coverage,47.73440441822518,7967.0,27
-VA,51.0,Accomack,51001.0,County,2021-07-06,Partial Coverage,48.31971778685481,32316.0,27
-VA,51.0,Albemarle,51003.0,County,2021-07-06,Partial Coverage,66.9898472514406,109330.0,27
-VA,51.0,Alleghany,51005.0,County,2021-07-06,Partial Coverage,48.088829071332434,14860.0,27
-VA,51.0,Amelia,51007.0,County,2021-07-06,Partial Coverage,41.28565994674781,13145.0,27
-VA,51.0,Amherst,51009.0,County,2021-07-06,Partial Coverage,42.6609713652903,31605.0,27
-VA,51.0,Appomattox,51011.0,County,2021-07-06,Partial Coverage,39.400414807365976,15911.0,27
-VA,51.0,Arlington,51013.0,County,2021-07-06,Partial Coverage,60.67293807686137,236842.0,27
-VA,51.0,Augusta,51015.0,County,2021-07-06,Partial Coverage,48.20799915296858,75558.0,27
-VA,51.0,Bath,51017.0,County,2021-07-06,Partial Coverage,47.914154810706535,4147.0,27
-VA,51.0,Bedford,51019.0,County,2021-07-06,Partial Coverage,43.74849677835867,78997.0,27
-VA,51.0,Bland,51021.0,County,2021-07-06,Partial Coverage,40.254777070063696,6280.0,27
-VA,51.0,Botetourt,51023.0,County,2021-07-06,Partial Coverage,51.494658727071425,33419.0,27
-VA,51.0,Brunswick,51025.0,County,2021-07-06,Partial Coverage,39.91128088226234,16231.0,27
-VA,51.0,Buchanan,51027.0,County,2021-07-06,Partial Coverage,41.5206627309084,21004.0,27
-VA,51.0,Buckingham,51029.0,County,2021-07-06,Partial Coverage,44.50664800559832,17148.0,27
-VA,51.0,Campbell,51031.0,County,2021-07-06,Partial Coverage,41.43572925207251,54885.0,27
-VA,51.0,Caroline,51033.0,County,2021-07-06,Partial Coverage,42.77298616761595,30725.0,27
-VA,51.0,Carroll,51035.0,County,2021-07-06,Partial Coverage,34.258668725453994,29791.0,27
-VA,51.0,Charles City,51036.0,County,2021-07-06,Partial Coverage,52.57791181961798,6963.0,27
-VA,51.0,Charlotte,51037.0,County,2021-07-06,Partial Coverage,42.676767676767675,11880.0,27
-VA,51.0,Chesterfield,51041.0,County,2021-07-06,Partial Coverage,54.29022511210254,352802.0,27
-VA,51.0,Clarke,51043.0,County,2021-07-06,Partial Coverage,54.44284834804022,14619.0,27
-VA,51.0,Craig,51045.0,County,2021-07-06,Partial Coverage,37.809393880335215,5131.0,27
-VA,51.0,Culpeper,51047.0,County,2021-07-06,Partial Coverage,48.12090105503279,52605.0,27
-VA,51.0,Cumberland,51049.0,County,2021-07-06,Partial Coverage,41.71365283930729,9932.0,27
-VA,51.0,Dickenson,51051.0,County,2021-07-06,Partial Coverage,41.4233831540718,14318.0,27
-VA,51.0,Dinwiddie,51053.0,County,2021-07-06,Partial Coverage,38.68413677130045,28544.0,27
-VA,51.0,Essex,51057.0,County,2021-07-06,Partial Coverage,49.821966584497396,10953.0,27
+VA,51.0,Craig,51045.0,County,2021-06-29,Complete Coverage,29.68232313389203,5131.0,26
+VA,51.0,Dickenson,51051.0,County,2021-06-29,Complete Coverage,33.20296130744517,14318.0,26
+VA,51.0,King and Queen,51097.0,County,2021-06-29,Complete Coverage,38.519572953736656,7025.0,26
+VA,51.0,Patrick,51141.0,County,2021-06-29,Complete Coverage,29.37869150386188,17608.0,26
+VA,51.0,Rappahannock,51157.0,County,2021-06-29,Complete Coverage,43.134328358208954,7370.0,26
+VA,51.0,Covington,51580.0,County,2021-06-29,Complete Coverage,32.82773564463705,5538.0,26
+VA,51.0,Emporia,51595.0,County,2021-06-29,Complete Coverage,33.183688739244296,5346.0,26
+VA,51.0,Fairfax City,51600.0,County,2021-06-29,Complete Coverage,57.15475248761397,24019.0,26
+VA,51.0,Lexington,51678.0,County,2021-06-29,Complete Coverage,40.77356970185335,7446.0,26
+VA,51.0,Martinsville,51690.0,County,2021-06-29,Complete Coverage,40.58467420742393,12554.0,26
+VA,51.0,Norton,51720.0,County,2021-06-29,Complete Coverage,33.65988445114293,3981.0,26
+VA,51.0,Williamsburg,51830.0,County,2021-06-29,Complete Coverage,41.20636618964826,14954.0,26
+VA,51.0,Accomack,51001.0,County,2021-06-30,Complete Coverage,39.61505136774353,32316.0,26
+VA,51.0,Albemarle,51003.0,County,2021-06-30,Complete Coverage,55.38461538461539,109330.0,26
+VA,51.0,Alleghany,51005.0,County,2021-06-30,Complete Coverage,37.16016150740242,14860.0,26
+VA,51.0,Amelia,51007.0,County,2021-06-30,Complete Coverage,32.36972232788133,13145.0,26
+VA,51.0,Amherst,51009.0,County,2021-06-30,Complete Coverage,36.627115962664135,31605.0,26
+VA,51.0,Arlington,51013.0,County,2021-06-30,Complete Coverage,48.48422154854291,236842.0,26
+VA,51.0,Augusta,51015.0,County,2021-06-30,Complete Coverage,39.154027369702746,75558.0,26
+VA,51.0,Bath,51017.0,County,2021-06-30,Complete Coverage,40.36653002170244,4147.0,26
+VA,51.0,Bland,51021.0,County,2021-06-30,Complete Coverage,31.95859872611465,6280.0,26
+VA,51.0,Botetourt,51023.0,County,2021-06-30,Complete Coverage,39.84858912594632,33419.0,26
+VA,51.0,Brunswick,51025.0,County,2021-06-30,Complete Coverage,32.78910726387777,16231.0,26
+VA,51.0,Buchanan,51027.0,County,2021-06-30,Complete Coverage,35.43610740811274,21004.0,26
+VA,51.0,Buckingham,51029.0,County,2021-06-30,Complete Coverage,33.47329134592955,17148.0,26
+VA,51.0,Campbell,51031.0,County,2021-06-30,Complete Coverage,35.06786918101485,54885.0,26
+VA,51.0,Caroline,51033.0,County,2021-06-30,Complete Coverage,35.817737998372664,30725.0,26
+VA,51.0,Carroll,51035.0,County,2021-06-30,Complete Coverage,26.729549192709207,29791.0,26
+VA,51.0,Charles City,51036.0,County,2021-06-30,Complete Coverage,38.07266982622433,6963.0,26
+VA,51.0,Charlotte,51037.0,County,2021-06-30,Complete Coverage,32.91245791245791,11880.0,26
+VA,51.0,Culpeper,51047.0,County,2021-06-30,Complete Coverage,39.577986883376106,52605.0,26
+VA,51.0,Cumberland,51049.0,County,2021-06-30,Complete Coverage,32.69230769230769,9932.0,26
+VA,51.0,Dinwiddie,51053.0,County,2021-06-30,Complete Coverage,30.486266816143498,28544.0,26
+VA,51.0,Essex,51057.0,County,2021-06-30,Complete Coverage,42.37195288961928,10953.0,26
+VA,51.0,Floyd,51063.0,County,2021-06-30,Complete Coverage,31.46866467712236,15749.0,26
+VA,51.0,Fluvanna,51065.0,County,2021-06-30,Complete Coverage,46.73267326732673,27270.0,26
+VA,51.0,Franklin County,51067.0,County,2021-06-30,Complete Coverage,35.29674172941722,56042.0,26
+VA,51.0,Giles,51071.0,County,2021-06-30,Complete Coverage,36.088516746411486,16720.0,26
+VA,51.0,Gloucester,51073.0,County,2021-06-30,Complete Coverage,42.28606618828317,37348.0,26
+VA,51.0,Goochland,51075.0,County,2021-06-30,Complete Coverage,52.974361133330525,23753.0,26
+VA,51.0,Grayson,51077.0,County,2021-06-30,Complete Coverage,31.144694533762056,15550.0,26
+VA,51.0,Greene,51079.0,County,2021-06-30,Complete Coverage,43.42297795045159,19819.0,26
+VA,51.0,Greensville,51081.0,County,2021-06-30,Complete Coverage,32.43648553281581,11336.0,26
+VA,51.0,Halifax,51083.0,County,2021-06-30,Complete Coverage,33.78254843561086,33911.0,26
+VA,51.0,Hanover,51085.0,County,2021-06-30,Complete Coverage,48.2833175584136,107766.0,26
+VA,51.0,Henry,51089.0,County,2021-06-30,Complete Coverage,34.050675475206205,50557.0,26
+VA,51.0,Highland,51091.0,County,2021-06-30,Complete Coverage,47.077625570776256,2190.0,26
+VA,51.0,Isle of Wight,51093.0,County,2021-06-30,Complete Coverage,43.86806435096607,37109.0,26
+VA,51.0,King George,51099.0,County,2021-06-30,Complete Coverage,34.300939037114325,26836.0,26
+VA,51.0,King William,51101.0,County,2021-06-30,Complete Coverage,39.12992768836016,17148.0,26
+VA,51.0,Lancaster,51103.0,County,2021-06-30,Complete Coverage,52.4191266622654,10603.0,26
+VA,51.0,Lunenburg,51111.0,County,2021-06-30,Complete Coverage,31.731715316497212,12196.0,26
+VA,51.0,Madison,51113.0,County,2021-06-30,Complete Coverage,41.12812005127818,13261.0,26
+VA,51.0,Mathews,51115.0,County,2021-06-30,Complete Coverage,48.05297713380122,8834.0,26
+VA,51.0,Middlesex,51119.0,County,2021-06-30,Complete Coverage,48.12889812889813,10582.0,26
+VA,51.0,Montgomery,51121.0,County,2021-06-30,Complete Coverage,36.53524128482265,98535.0,26
+VA,51.0,Nelson,51125.0,County,2021-06-30,Complete Coverage,47.32752846617549,14930.0,26
+VA,51.0,New Kent,51127.0,County,2021-06-30,Complete Coverage,39.61716686154779,23091.0,26
+VA,51.0,Northampton,51131.0,County,2021-06-30,Complete Coverage,51.451750640478224,11710.0,26
+VA,51.0,Northumberland,51133.0,County,2021-06-30,Complete Coverage,49.425382389417116,12095.0,26
+VA,51.0,Orange,51137.0,County,2021-06-30,Complete Coverage,39.64535370165448,37051.0,26
+VA,51.0,Page,51139.0,County,2021-06-30,Complete Coverage,31.612417370931304,23902.0,26
+VA,51.0,Pittsylvania,51143.0,County,2021-06-30,Complete Coverage,32.57779103290586,60354.0,26
+VA,51.0,Powhatan,51145.0,County,2021-06-30,Complete Coverage,41.01578308377175,29652.0,26
+VA,51.0,Prince George,51149.0,County,2021-06-30,Complete Coverage,27.306859958803745,38353.0,26
+VA,51.0,Pulaski,51155.0,County,2021-06-30,Complete Coverage,34.108208187615716,34027.0,26
+VA,51.0,Richmond County,51159.0,County,2021-06-30,Complete Coverage,37.75906017954117,9023.0,26
+VA,51.0,Roanoke County,51161.0,County,2021-06-30,Complete Coverage,45.394219947762934,94186.0,26
+VA,51.0,Rockingham,51165.0,County,2021-06-30,Complete Coverage,37.021037731244206,81948.0,26
+VA,51.0,Russell,51167.0,County,2021-06-30,Complete Coverage,36.225833145264424,26586.0,26
+VA,51.0,Scott,51169.0,County,2021-06-30,Complete Coverage,29.648520819808958,21566.0,26
+VA,51.0,Shenandoah,51171.0,County,2021-06-30,Complete Coverage,36.62646735143067,43616.0,26
+VA,51.0,Smyth,51173.0,County,2021-06-30,Complete Coverage,35.673000265745415,30104.0,26
+VA,51.0,Southampton,51175.0,County,2021-06-30,Complete Coverage,33.83812602801883,17631.0,26
+VA,51.0,Spotsylvania,51177.0,County,2021-06-30,Complete Coverage,38.82465220423595,136215.0,26
+VA,51.0,Surry,51181.0,County,2021-06-30,Complete Coverage,42.71255060728745,6422.0,26
+VA,51.0,Sussex,51183.0,County,2021-06-30,Complete Coverage,33.085401917734565,11159.0,26
+VA,51.0,Tazewell,51185.0,County,2021-06-30,Complete Coverage,30.30422465820914,40595.0,26
+VA,51.0,Warren,51187.0,County,2021-06-30,Complete Coverage,31.74982571457026,40164.0,26
+VA,51.0,Washington,51191.0,County,2021-06-30,Complete Coverage,39.01749162634909,53740.0,26
+VA,51.0,Westmoreland,51193.0,County,2021-06-30,Complete Coverage,40.532889258950874,18015.0,26
+VA,51.0,Wise,51195.0,County,2021-06-30,Complete Coverage,31.236123371586014,37383.0,26
+VA,51.0,Wythe,51197.0,County,2021-06-30,Complete Coverage,27.44735741179752,28684.0,26
+VA,51.0,York,51199.0,County,2021-06-30,Complete Coverage,44.79203280609256,68280.0,26
+VA,51.0,Bristol,51520.0,County,2021-06-30,Complete Coverage,33.653501968738816,16762.0,26
+VA,51.0,Buena Vista City,51530.0,County,2021-06-30,Complete Coverage,35.78264896573016,6478.0,26
+VA,51.0,Charlottesville,51540.0,County,2021-06-30,Complete Coverage,48.182625989083064,47266.0,26
+VA,51.0,Chesapeake,51550.0,County,2021-06-30,Complete Coverage,38.318050932260505,244835.0,26
+VA,51.0,Colonial Heights,51570.0,County,2021-06-30,Complete Coverage,37.639608520437534,17370.0,26
+VA,51.0,Danville,51590.0,County,2021-06-30,Complete Coverage,34.08250923983618,40044.0,26
+VA,51.0,Falls Church,51610.0,County,2021-06-30,Complete Coverage,55.42861052199494,14617.0,26
+VA,51.0,Franklin City,51620.0,County,2021-06-30,Complete Coverage,38.383331241370655,7967.0,26
+VA,51.0,Fredericksburg,51630.0,County,2021-06-30,Complete Coverage,37.229645956743354,29036.0,26
+VA,51.0,Galax,51640.0,County,2021-06-30,Complete Coverage,34.47297936032771,6347.0,26
+VA,51.0,Hampton,51650.0,County,2021-06-30,Complete Coverage,37.155601813991524,134510.0,26
+VA,51.0,Harrisonburg,51660.0,County,2021-06-30,Complete Coverage,37.111438056435794,53016.0,26
+VA,51.0,Hopewell,51670.0,County,2021-06-30,Complete Coverage,27.85298948022549,22529.0,26
+VA,51.0,Lynchburg,51680.0,County,2021-06-30,Complete Coverage,32.59176321682407,82168.0,26
+VA,51.0,Manassas City,51683.0,County,2021-06-30,Complete Coverage,46.06060606060606,41085.0,26
+VA,51.0,Newport News,51700.0,County,2021-06-30,Complete Coverage,35.75617240898312,179225.0,26
+VA,51.0,Norfolk,51710.0,County,2021-06-30,Complete Coverage,30.61439717889776,242742.0,26
+VA,51.0,Petersburg,51730.0,County,2021-06-30,Complete Coverage,32.48580361130607,31346.0,26
+VA,51.0,Poquoson,51735.0,County,2021-06-30,Complete Coverage,49.001711351968055,12271.0,26
+VA,51.0,Portsmouth,51740.0,County,2021-06-30,Complete Coverage,31.70088349329435,94398.0,26
+VA,51.0,Radford,51750.0,County,2021-06-30,Complete Coverage,32.92235190969368,18249.0,26
+VA,51.0,Salem,51775.0,County,2021-06-30,Complete Coverage,41.58333662701079,25301.0,26
+VA,51.0,Staunton,51790.0,County,2021-06-30,Complete Coverage,46.39018129311728,24932.0,26
+VA,51.0,Suffolk,51800.0,County,2021-06-30,Complete Coverage,37.27146393364311,92108.0,26
+VA,51.0,Waynesboro,51820.0,County,2021-06-30,Complete Coverage,41.52894387980557,22630.0,26
+VA,51.0,Winchester,51840.0,County,2021-06-30,Complete Coverage,39.707244105705534,28078.0,26
+VA,51.0,Appomattox,51011.0,County,2021-07-01,Complete Coverage,34.22789265288166,15911.0,26
+VA,51.0,Bedford,51019.0,County,2021-07-01,Complete Coverage,36.46214413205565,78997.0,26
+VA,51.0,Chesterfield,51041.0,County,2021-07-01,Complete Coverage,45.8724723782745,352802.0,26
+VA,51.0,Clarke,51043.0,County,2021-07-01,Complete Coverage,44.54477050413845,14619.0,26
+VA,51.0,Fauquier,51061.0,County,2021-07-01,Complete Coverage,45.21636572969027,71222.0,26
+VA,51.0,Frederick,51069.0,County,2021-07-01,Complete Coverage,36.99237513016022,89313.0,26
+VA,51.0,Prince Edward,51147.0,County,2021-07-01,Complete Coverage,31.84369792123498,22802.0,26
+VA,51.0,Rockbridge,51163.0,County,2021-07-01,Complete Coverage,41.434457094759225,22573.0,26
+VA,51.0,Bath,51017.0,County,2021-07-02,Partial Coverage,47.84181335905474,4147.0,26
+VA,51.0,Henrico,51087.0,County,2021-07-02,Complete Coverage,47.845038661741505,330818.0,26
+VA,51.0,Lancaster,51103.0,County,2021-07-02,Partial Coverage,61.482599264359145,10603.0,26
+VA,51.0,Louisa,51109.0,County,2021-07-02,Complete Coverage,37.546221169960894,37591.0,26
+VA,51.0,Mecklenburg,51117.0,County,2021-07-02,Complete Coverage,36.77052342498447,30587.0,26
+VA,51.0,Nottoway,51135.0,County,2021-07-02,Complete Coverage,35.431985294117645,15232.0,26
+VA,51.0,Stafford,51179.0,County,2021-07-02,Complete Coverage,37.91224604597009,152882.0,26
+VA,51.0,Richmond City,51760.0,County,2021-07-02,Complete Coverage,38.09213838115572,230436.0,26
+VA,51.0,Bland,51021.0,County,2021-07-03,Partial Coverage,40.06369426751592,6280.0,26
+VA,51.0,Buchanan,51027.0,County,2021-07-03,Partial Coverage,41.411159779089694,21004.0,26
+VA,51.0,Charles City,51036.0,County,2021-07-03,Partial Coverage,52.376849059313514,6963.0,26
+VA,51.0,Charlotte,51037.0,County,2021-07-03,Partial Coverage,42.60942760942761,11880.0,26
+VA,51.0,Craig,51045.0,County,2021-07-03,Partial Coverage,37.75092574546872,5131.0,26
+VA,51.0,Dickenson,51051.0,County,2021-07-03,Partial Coverage,41.353540997345995,14318.0,26
+VA,51.0,Greensville,51081.0,County,2021-07-03,Partial Coverage,38.276287932251236,11336.0,26
+VA,51.0,Highland,51091.0,County,2021-07-03,Partial Coverage,51.55251141552512,2190.0,26
+VA,51.0,Mathews,51115.0,County,2021-07-03,Partial Coverage,53.226171609689835,8834.0,26
+VA,51.0,Northumberland,51133.0,County,2021-07-03,Partial Coverage,56.64324100868127,12095.0,26
+VA,51.0,Nottoway,51135.0,County,2021-07-03,Partial Coverage,42.86370798319328,15232.0,26
+VA,51.0,Patrick,51141.0,County,2021-07-03,Partial Coverage,34.302589731940024,17608.0,26
+VA,51.0,Richmond County,51159.0,County,2021-07-03,Partial Coverage,43.47777900919871,9023.0,26
+VA,51.0,Surry,51181.0,County,2021-07-03,Partial Coverage,49.84428526938648,6422.0,26
+VA,51.0,Bristol,51520.0,County,2021-07-03,Partial Coverage,40.979596706836894,16762.0,26
+VA,51.0,Franklin City,51620.0,County,2021-07-03,Partial Coverage,47.458265344546255,7967.0,26
+VA,51.0,Lexington,51678.0,County,2021-07-03,Partial Coverage,48.428686543110395,7446.0,26
+VA,51.0,Norton,51720.0,County,2021-07-03,Partial Coverage,44.03416227078623,3981.0,26
+VA,51.0,Williamsburg,51830.0,County,2021-07-03,Partial Coverage,47.63942757790558,14954.0,26
+VA,51.0,Accomack,51001.0,County,2021-07-04,Partial Coverage,48.11857903205842,32316.0,26
+VA,51.0,Albemarle,51003.0,County,2021-07-04,Partial Coverage,66.91393030275313,109330.0,26
+VA,51.0,Alleghany,51005.0,County,2021-07-04,Partial Coverage,48.00134589502019,14860.0,26
+VA,51.0,Amelia,51007.0,County,2021-07-04,Partial Coverage,41.08025865348041,13145.0,26
+VA,51.0,Amherst,51009.0,County,2021-07-04,Partial Coverage,42.48694826767917,31605.0,26
+VA,51.0,Appomattox,51011.0,County,2021-07-04,Partial Coverage,39.29985544591792,15911.0,26
+VA,51.0,Arlington,51013.0,County,2021-07-04,Partial Coverage,60.550915800407026,236842.0,26
+VA,51.0,Augusta,51015.0,County,2021-07-04,Partial Coverage,48.09550279255671,75558.0,26
+VA,51.0,Bedford,51019.0,County,2021-07-04,Partial Coverage,43.58899705052091,78997.0,26
+VA,51.0,Botetourt,51023.0,County,2021-07-04,Partial Coverage,51.419850982973756,33419.0,26
+VA,51.0,Brunswick,51025.0,County,2021-07-04,Partial Coverage,39.74493253650422,16231.0,26
+VA,51.0,Buckingham,51029.0,County,2021-07-04,Partial Coverage,44.3666899930021,17148.0,26
+VA,51.0,Campbell,51031.0,County,2021-07-04,Partial Coverage,41.306367860071056,54885.0,26
+VA,51.0,Caroline,51033.0,County,2021-07-04,Partial Coverage,42.57445077298617,30725.0,26
+VA,51.0,Carroll,51035.0,County,2021-07-04,Partial Coverage,34.16468060823739,29791.0,26
+VA,51.0,Chesterfield,51041.0,County,2021-07-04,Partial Coverage,54.1003168916276,352802.0,26
+VA,51.0,Clarke,51043.0,County,2021-07-04,Partial Coverage,54.333401737464946,14619.0,26
+VA,51.0,Culpeper,51047.0,County,2021-07-04,Partial Coverage,47.98023001615816,52605.0,26
+VA,51.0,Cumberland,51049.0,County,2021-07-04,Partial Coverage,41.46194120016109,9932.0,26
+VA,51.0,Dinwiddie,51053.0,County,2021-07-04,Partial Coverage,38.610566143497756,28544.0,26
+VA,51.0,Essex,51057.0,County,2021-07-04,Partial Coverage,49.67588788459783,10953.0,26
+VA,51.0,Fauquier,51061.0,County,2021-07-04,Partial Coverage,54.81031142062846,71222.0,26
+VA,51.0,Floyd,51063.0,County,2021-07-04,Partial Coverage,42.79636802336656,15749.0,26
+VA,51.0,Fluvanna,51065.0,County,2021-07-04,Partial Coverage,56.76567656765677,27270.0,26
+VA,51.0,Franklin County,51067.0,County,2021-07-04,Partial Coverage,40.776560436815245,56042.0,26
+VA,51.0,Frederick,51069.0,County,2021-07-04,Partial Coverage,46.52850089012798,89313.0,26
+VA,51.0,Giles,51071.0,County,2021-07-04,Partial Coverage,45.58014354066986,16720.0,26
+VA,51.0,Gloucester,51073.0,County,2021-07-04,Partial Coverage,48.55413944521795,37348.0,26
+VA,51.0,Goochland,51075.0,County,2021-07-04,Partial Coverage,63.03203805835052,23753.0,26
+VA,51.0,Grayson,51077.0,County,2021-07-04,Partial Coverage,39.18971061093247,15550.0,26
+VA,51.0,Greene,51079.0,County,2021-07-04,Partial Coverage,53.625309046874214,19819.0,26
+VA,51.0,Halifax,51083.0,County,2021-07-04,Partial Coverage,39.721624251717735,33911.0,26
+VA,51.0,Hanover,51085.0,County,2021-07-04,Partial Coverage,57.99231668615333,107766.0,26
+VA,51.0,Henrico,51087.0,County,2021-07-04,Partial Coverage,57.76620377367616,330818.0,26
+VA,51.0,Henry,51089.0,County,2021-07-04,Partial Coverage,40.72630891864628,50557.0,26
+VA,51.0,Isle of Wight,51093.0,County,2021-07-04,Partial Coverage,51.83109218787895,37109.0,26
+VA,51.0,King and Queen,51097.0,County,2021-07-04,Partial Coverage,47.08896797153025,7025.0,26
+VA,51.0,King George,51099.0,County,2021-07-04,Partial Coverage,40.82948278431957,26836.0,26
+VA,51.0,King William,51101.0,County,2021-07-04,Partial Coverage,46.040354560298574,17148.0,26
+VA,51.0,Louisa,51109.0,County,2021-07-04,Partial Coverage,47.62576148546194,37591.0,26
+VA,51.0,Lunenburg,51111.0,County,2021-07-04,Partial Coverage,42.65332896031486,12196.0,26
+VA,51.0,Madison,51113.0,County,2021-07-04,Partial Coverage,48.75952039816002,13261.0,26
+VA,51.0,Mecklenburg,51117.0,County,2021-07-04,Partial Coverage,43.185013240919346,30587.0,26
+VA,51.0,Middlesex,51119.0,County,2021-07-04,Partial Coverage,55.84010584010584,10582.0,26
+VA,51.0,Montgomery,51121.0,County,2021-07-04,Partial Coverage,47.291825239762524,98535.0,26
+VA,51.0,Nelson,51125.0,County,2021-07-04,Partial Coverage,57.9370395177495,14930.0,26
+VA,51.0,New Kent,51127.0,County,2021-07-04,Partial Coverage,48.863193451994285,23091.0,26
+VA,51.0,Northampton,51131.0,County,2021-07-04,Partial Coverage,62.33134073441503,11710.0,26
+VA,51.0,Orange,51137.0,County,2021-07-04,Partial Coverage,47.67752557285903,37051.0,26
+VA,51.0,Page,51139.0,County,2021-07-04,Partial Coverage,38.285499121412435,23902.0,26
+VA,51.0,Pittsylvania,51143.0,County,2021-07-04,Partial Coverage,40.46956291215164,60354.0,26
+VA,51.0,Powhatan,51145.0,County,2021-07-04,Partial Coverage,47.50101173613921,29652.0,26
+VA,51.0,Prince Edward,51147.0,County,2021-07-04,Partial Coverage,37.77300236821331,22802.0,26
+VA,51.0,Prince George,51149.0,County,2021-07-04,Partial Coverage,34.90730842437358,38353.0,26
+VA,51.0,Pulaski,51155.0,County,2021-07-04,Partial Coverage,44.27366503071091,34027.0,26
+VA,51.0,Rappahannock,51157.0,County,2021-07-04,Partial Coverage,54.12483039348711,7370.0,26
+VA,51.0,Roanoke County,51161.0,County,2021-07-04,Partial Coverage,57.18259613955365,94186.0,26
+VA,51.0,Rockbridge,51163.0,County,2021-07-04,Partial Coverage,50.059805962876005,22573.0,26
+VA,51.0,Rockingham,51165.0,County,2021-07-04,Partial Coverage,45.78635232098404,81948.0,26
+VA,51.0,Russell,51167.0,County,2021-07-04,Partial Coverage,43.26713307755962,26586.0,26
+VA,51.0,Scott,51169.0,County,2021-07-04,Partial Coverage,36.23759621626635,21566.0,26
+VA,51.0,Shenandoah,51171.0,County,2021-07-04,Partial Coverage,45.6025311812179,43616.0,26
+VA,51.0,Smyth,51173.0,County,2021-07-04,Partial Coverage,43.98418814775445,30104.0,26
+VA,51.0,Southampton,51175.0,County,2021-07-04,Partial Coverage,42.283477964948105,17631.0,26
+VA,51.0,Spotsylvania,51177.0,County,2021-07-04,Partial Coverage,46.75256029071688,136215.0,26
+VA,51.0,Stafford,51179.0,County,2021-07-04,Partial Coverage,45.76994021532947,152882.0,26
+VA,51.0,Sussex,51183.0,County,2021-07-04,Partial Coverage,39.24186755085581,11159.0,26
+VA,51.0,Tazewell,51185.0,County,2021-07-04,Partial Coverage,37.09816479862052,40595.0,26
+VA,51.0,Warren,51187.0,County,2021-07-04,Partial Coverage,41.813564386017326,40164.0,26
+VA,51.0,Washington,51191.0,County,2021-07-04,Partial Coverage,44.98511350949014,53740.0,26
+VA,51.0,Westmoreland,51193.0,County,2021-07-04,Partial Coverage,48.021093533166805,18015.0,26
+VA,51.0,Wise,51195.0,County,2021-07-04,Partial Coverage,39.68916352352674,37383.0,26
+VA,51.0,Wythe,51197.0,County,2021-07-04,Partial Coverage,37.15311672012272,28684.0,26
+VA,51.0,York,51199.0,County,2021-07-04,Partial Coverage,52.45166959578207,68280.0,26
+VA,51.0,Buena Vista City,51530.0,County,2021-07-04,Partial Coverage,45.77029947514665,6478.0,26
+VA,51.0,Charlottesville,51540.0,County,2021-07-04,Partial Coverage,58.564295688232555,47266.0,26
+VA,51.0,Chesapeake,51550.0,County,2021-07-04,Partial Coverage,46.1653766822554,244835.0,26
+VA,51.0,Colonial Heights,51570.0,County,2021-07-04,Partial Coverage,46.286701208981,17370.0,26
+VA,51.0,Covington,51580.0,County,2021-07-04,Partial Coverage,43.75225713253882,5538.0,26
+VA,51.0,Danville,51590.0,County,2021-07-04,Partial Coverage,42.81290580361602,40044.0,26
+VA,51.0,Emporia,51595.0,County,2021-07-04,Partial Coverage,38.81406659184437,5346.0,26
+VA,51.0,Fairfax City,51600.0,County,2021-07-04,Partial Coverage,65.88534077188892,24019.0,26
+VA,51.0,Falls Church,51610.0,County,2021-07-04,Partial Coverage,64.50023944721899,14617.0,26
+VA,51.0,Fredericksburg,51630.0,County,2021-07-04,Partial Coverage,44.63769114203058,29036.0,26
+VA,51.0,Galax,51640.0,County,2021-07-04,Partial Coverage,47.70757838348826,6347.0,26
+VA,51.0,Hampton,51650.0,County,2021-07-04,Partial Coverage,44.36696156419597,134510.0,26
+VA,51.0,Harrisonburg,51660.0,County,2021-07-04,Partial Coverage,45.93141693073789,53016.0,26
+VA,51.0,Hopewell,51670.0,County,2021-07-04,Partial Coverage,37.72471037329664,22529.0,26
+VA,51.0,Lynchburg,51680.0,County,2021-07-04,Partial Coverage,38.74622724174861,82168.0,26
+VA,51.0,Manassas City,51683.0,County,2021-07-04,Partial Coverage,56.88450772788122,41085.0,26
+VA,51.0,Martinsville,51690.0,County,2021-07-04,Partial Coverage,48.23163931814561,12554.0,26
+VA,51.0,Newport News,51700.0,County,2021-07-04,Partial Coverage,43.314827730506344,179225.0,26
+VA,51.0,Norfolk,51710.0,County,2021-07-04,Partial Coverage,37.742953423799754,242742.0,26
+VA,51.0,Petersburg,51730.0,County,2021-07-04,Partial Coverage,41.93198494225739,31346.0,26
+VA,51.0,Poquoson,51735.0,County,2021-07-04,Partial Coverage,56.15679243745416,12271.0,26
+VA,51.0,Portsmouth,51740.0,County,2021-07-04,Partial Coverage,38.93832496451196,94398.0,26
+VA,51.0,Radford,51750.0,County,2021-07-04,Partial Coverage,42.763987067784534,18249.0,26
+VA,51.0,Richmond City,51760.0,County,2021-07-04,Partial Coverage,46.2913780832856,230436.0,26
+VA,51.0,Salem,51775.0,County,2021-07-04,Partial Coverage,53.12833484842496,25301.0,26
+VA,51.0,Staunton,51790.0,County,2021-07-04,Partial Coverage,56.50569549173753,24932.0,26
+VA,51.0,Suffolk,51800.0,County,2021-07-04,Partial Coverage,44.66387284492118,92108.0,26
+VA,51.0,Waynesboro,51820.0,County,2021-07-04,Partial Coverage,51.34776844896155,22630.0,26
+VA,51.0,Winchester,51840.0,County,2021-07-04,Partial Coverage,52.70674549469335,28078.0,26
 VA,51.0,Fairfax,51059.0,County,2021-07-06,Complete Coverage,52.710251217395246,1147532.0,27
 VA,51.0,Fairfax,51059.0,County,2021-07-06,Partial Coverage,62.61733877573784,1147532.0,27
-VA,51.0,Fauquier,51061.0,County,2021-07-06,Partial Coverage,54.935272808963525,71222.0,27
-VA,51.0,Floyd,51063.0,County,2021-07-06,Partial Coverage,42.897961775350815,15749.0,27
-VA,51.0,Fluvanna,51065.0,County,2021-07-06,Partial Coverage,56.897689768976896,27270.0,27
-VA,51.0,Franklin County,51067.0,County,2021-07-06,Partial Coverage,40.88183862103423,56042.0,27
-VA,51.0,Frederick,51069.0,County,2021-07-06,Partial Coverage,46.70764614333859,89313.0,27
-VA,51.0,Giles,51071.0,County,2021-07-06,Partial Coverage,45.729665071770334,16720.0,27
-VA,51.0,Gloucester,51073.0,County,2021-07-06,Partial Coverage,48.72550069615508,37348.0,27
-VA,51.0,Goochland,51075.0,County,2021-07-06,Partial Coverage,63.10360796530964,23753.0,27
-VA,51.0,Grayson,51077.0,County,2021-07-06,Partial Coverage,39.31189710610933,15550.0,27
-VA,51.0,Greene,51079.0,County,2021-07-06,Partial Coverage,53.761541954689946,19819.0,27
-VA,51.0,Greensville,51081.0,County,2021-07-06,Partial Coverage,38.47918136908962,11336.0,27
-VA,51.0,Halifax,51083.0,County,2021-07-06,Partial Coverage,39.9221491551414,33911.0,27
-VA,51.0,Hanover,51085.0,County,2021-07-06,Partial Coverage,58.14078651893918,107766.0,27
-VA,51.0,Henrico,51087.0,County,2021-07-06,Partial Coverage,57.94303816600064,330818.0,27
-VA,51.0,Henry,51089.0,County,2021-07-06,Partial Coverage,40.86872243210634,50557.0,27
-VA,51.0,Isle of Wight,51093.0,County,2021-07-06,Partial Coverage,52.0062518526503,37109.0,27
 VA,51.0,James City,51095.0,County,2021-07-06,Complete Coverage,52.049710544542165,76523.0,27
 VA,51.0,James City,51095.0,County,2021-07-06,Partial Coverage,60.88365589430629,76523.0,27
-VA,51.0,King and Queen,51097.0,County,2021-07-06,Partial Coverage,47.27402135231317,7025.0,27
-VA,51.0,King George,51099.0,County,2021-07-06,Partial Coverage,40.92636756595618,26836.0,27
-VA,51.0,King William,51101.0,County,2021-07-06,Partial Coverage,46.186144156752974,17148.0,27
-VA,51.0,Lancaster,51103.0,County,2021-07-06,Partial Coverage,61.633499952843536,10603.0,27
 VA,51.0,Lee,51105.0,County,2021-07-06,Complete Coverage,27.40895700806899,23423.0,27
 VA,51.0,Lee,51105.0,County,2021-07-06,Partial Coverage,32.835247406395425,23423.0,27
 VA,51.0,Loudoun,51107.0,County,2021-07-06,Complete Coverage,51.678443093500476,413538.0,27
 VA,51.0,Loudoun,51107.0,County,2021-07-06,Partial Coverage,61.82092093108735,413538.0,27
-VA,51.0,Louisa,51109.0,County,2021-07-06,Partial Coverage,47.72418930063047,37591.0,27
-VA,51.0,Lunenburg,51111.0,County,2021-07-06,Partial Coverage,42.75992128566743,12196.0,27
-VA,51.0,Madison,51113.0,County,2021-07-06,Partial Coverage,48.88017494909886,13261.0,27
-VA,51.0,Mathews,51115.0,County,2021-07-06,Partial Coverage,53.39597011546299,8834.0,27
-VA,51.0,Mecklenburg,51117.0,County,2021-07-06,Partial Coverage,43.384444371791936,30587.0,27
-VA,51.0,Middlesex,51119.0,County,2021-07-06,Partial Coverage,56.0952560952561,10582.0,27
-VA,51.0,Montgomery,51121.0,County,2021-07-06,Partial Coverage,47.367940325772565,98535.0,27
-VA,51.0,Nelson,51125.0,County,2021-07-06,Partial Coverage,57.97052913596785,14930.0,27
-VA,51.0,New Kent,51127.0,County,2021-07-06,Partial Coverage,49.010436966783594,23091.0,27
-VA,51.0,Northampton,51131.0,County,2021-07-06,Partial Coverage,62.50213492741247,11710.0,27
-VA,51.0,Northumberland,51133.0,County,2021-07-06,Partial Coverage,56.73418768085986,12095.0,27
-VA,51.0,Nottoway,51135.0,County,2021-07-06,Partial Coverage,43.11974789915966,15232.0,27
-VA,51.0,Orange,51137.0,County,2021-07-06,Partial Coverage,47.81787266200642,37051.0,27
-VA,51.0,Page,51139.0,County,2021-07-06,Partial Coverage,38.39427662957075,23902.0,27
-VA,51.0,Patrick,51141.0,County,2021-07-06,Partial Coverage,34.44457064970468,17608.0,27
-VA,51.0,Pittsylvania,51143.0,County,2021-07-06,Partial Coverage,40.58388839182159,60354.0,27
-VA,51.0,Powhatan,51145.0,County,2021-07-06,Partial Coverage,47.62916498043977,29652.0,27
-VA,51.0,Prince Edward,51147.0,County,2021-07-06,Partial Coverage,37.92211209543022,22802.0,27
-VA,51.0,Prince George,51149.0,County,2021-07-06,Partial Coverage,35.0194248168331,38353.0,27
 VA,51.0,Prince William,51153.0,County,2021-07-06,Complete Coverage,46.16220353577769,470335.0,27
 VA,51.0,Prince William,51153.0,County,2021-07-06,Partial Coverage,55.596117660816226,470335.0,27
-VA,51.0,Pulaski,51155.0,County,2021-07-06,Partial Coverage,44.40297410879596,34027.0,27
-VA,51.0,Rappahannock,51157.0,County,2021-07-06,Partial Coverage,54.23337856173677,7370.0,27
-VA,51.0,Richmond County,51159.0,County,2021-07-06,Partial Coverage,43.57752410506483,9023.0,27
-VA,51.0,Roanoke County,51161.0,County,2021-07-06,Partial Coverage,57.31000360987833,94186.0,27
-VA,51.0,Rockbridge,51163.0,County,2021-07-06,Partial Coverage,50.148407389358965,22573.0,27
-VA,51.0,Rockingham,51165.0,County,2021-07-06,Partial Coverage,45.918143212769074,81948.0,27
-VA,51.0,Russell,51167.0,County,2021-07-06,Partial Coverage,43.3950199353043,26586.0,27
-VA,51.0,Scott,51169.0,County,2021-07-06,Partial Coverage,36.321060929240474,21566.0,27
-VA,51.0,Shenandoah,51171.0,County,2021-07-06,Partial Coverage,45.735509904622155,43616.0,27
-VA,51.0,Smyth,51173.0,County,2021-07-06,Partial Coverage,44.09712994950837,30104.0,27
-VA,51.0,Southampton,51175.0,County,2021-07-06,Partial Coverage,42.40258635358176,17631.0,27
-VA,51.0,Spotsylvania,51177.0,County,2021-07-06,Partial Coverage,46.91406966927284,136215.0,27
-VA,51.0,Stafford,51179.0,County,2021-07-06,Partial Coverage,45.93084862835389,152882.0,27
-VA,51.0,Surry,51181.0,County,2021-07-06,Partial Coverage,49.937714107754594,6422.0,27
-VA,51.0,Sussex,51183.0,County,2021-07-06,Partial Coverage,39.349404068464914,11159.0,27
-VA,51.0,Tazewell,51185.0,County,2021-07-06,Partial Coverage,37.20655253109989,40595.0,27
-VA,51.0,Warren,51187.0,County,2021-07-06,Partial Coverage,41.9828702320486,40164.0,27
-VA,51.0,Washington,51191.0,County,2021-07-06,Partial Coverage,45.07443245254931,53740.0,27
-VA,51.0,Westmoreland,51193.0,County,2021-07-06,Partial Coverage,48.19317235636969,18015.0,27
-VA,51.0,Wise,51195.0,County,2021-07-06,Partial Coverage,39.80418906989808,37383.0,27
-VA,51.0,Wythe,51197.0,County,2021-07-06,Partial Coverage,37.289081020778134,28684.0,27
-VA,51.0,York,51199.0,County,2021-07-06,Partial Coverage,52.59373169302871,68280.0,27
 VA,51.0,Alexandria,51510.0,County,2021-07-06,Complete Coverage,43.45158943222019,159428.0,27
 VA,51.0,Alexandria,51510.0,County,2021-07-06,Partial Coverage,58.075118548812,159428.0,27
-VA,51.0,Bristol,51520.0,County,2021-07-06,Partial Coverage,41.03328958358191,16762.0,27
-VA,51.0,Buena Vista City,51530.0,County,2021-07-06,Partial Coverage,45.87835751775239,6478.0,27
-VA,51.0,Charlottesville,51540.0,County,2021-07-06,Partial Coverage,58.621419201963356,47266.0,27
-VA,51.0,Chesapeake,51550.0,County,2021-07-06,Partial Coverage,46.28749974472604,244835.0,27
-VA,51.0,Colonial Heights,51570.0,County,2021-07-06,Partial Coverage,46.44214162348877,17370.0,27
-VA,51.0,Covington,51580.0,County,2021-07-06,Partial Coverage,43.89671361502347,5538.0,27
-VA,51.0,Danville,51590.0,County,2021-07-06,Partial Coverage,43.012686045350115,40044.0,27
-VA,51.0,Emporia,51595.0,County,2021-07-06,Partial Coverage,39.001122334455665,5346.0,27
-VA,51.0,Fairfax City,51600.0,County,2021-07-06,Partial Coverage,66.08934593446854,24019.0,27
-VA,51.0,Falls Church,51610.0,County,2021-07-06,Partial Coverage,64.59601833481562,14617.0,27
-VA,51.0,Fredericksburg,51630.0,County,2021-07-06,Partial Coverage,44.823667171786745,29036.0,27
-VA,51.0,Galax,51640.0,County,2021-07-06,Partial Coverage,47.88088860879156,6347.0,27
-VA,51.0,Hampton,51650.0,County,2021-07-06,Partial Coverage,44.50449780685451,134510.0,27
-VA,51.0,Harrisonburg,51660.0,County,2021-07-06,Partial Coverage,46.09363211106081,53016.0,27
-VA,51.0,Hopewell,51670.0,County,2021-07-06,Partial Coverage,37.880065693106665,22529.0,27
-VA,51.0,Lexington,51678.0,County,2021-07-06,Partial Coverage,48.52269674993285,7446.0,27
-VA,51.0,Lynchburg,51680.0,County,2021-07-06,Partial Coverage,38.87888228994256,82168.0,27
-VA,51.0,Manassas City,51683.0,County,2021-07-06,Partial Coverage,57.15224534501643,41085.0,27
 VA,51.0,Manassas Park,51685.0,County,2021-07-06,Complete Coverage,41.81256436663234,17478.0,27
 VA,51.0,Manassas Park,51685.0,County,2021-07-06,Partial Coverage,50.22313765877102,17478.0,27
-VA,51.0,Martinsville,51690.0,County,2021-07-06,Partial Coverage,48.36705432531464,12554.0,27
-VA,51.0,Newport News,51700.0,County,2021-07-06,Partial Coverage,43.47440368252197,179225.0,27
-VA,51.0,Norfolk,51710.0,County,2021-07-06,Partial Coverage,37.84882714981338,242742.0,27
-VA,51.0,Norton,51720.0,County,2021-07-06,Partial Coverage,44.10952022104999,3981.0,27
-VA,51.0,Petersburg,51730.0,County,2021-07-06,Partial Coverage,42.09787532699547,31346.0,27
-VA,51.0,Poquoson,51735.0,County,2021-07-06,Partial Coverage,56.197538912884035,12271.0,27
-VA,51.0,Portsmouth,51740.0,County,2021-07-06,Partial Coverage,39.087692535858814,94398.0,27
-VA,51.0,Radford,51750.0,County,2021-07-06,Partial Coverage,42.87358211408844,18249.0,27
-VA,51.0,Richmond City,51760.0,County,2021-07-06,Partial Coverage,46.437622593691955,230436.0,27
 VA,51.0,Roanoke City,51770.0,County,2021-07-06,Complete Coverage,36.270841108298114,99143.0,27
 VA,51.0,Roanoke City,51770.0,County,2021-07-06,Partial Coverage,47.25900971324249,99143.0,27
-VA,51.0,Salem,51775.0,County,2021-07-06,Partial Coverage,53.25085964981621,25301.0,27
-VA,51.0,Staunton,51790.0,County,2021-07-06,Partial Coverage,56.63805551098989,24932.0,27
-VA,51.0,Suffolk,51800.0,County,2021-07-06,Partial Coverage,44.799583098102225,92108.0,27
 VA,51.0,Virginia Beach,51810.0,County,2021-07-06,Complete Coverage,40.53256410370377,449974.0,27
 VA,51.0,Virginia Beach,51810.0,County,2021-07-06,Partial Coverage,48.74903883335482,449974.0,27
-VA,51.0,Waynesboro,51820.0,County,2021-07-06,Partial Coverage,51.471498011489174,22630.0,27
-VA,51.0,Williamsburg,51830.0,County,2021-07-06,Partial Coverage,47.71298649190852,14954.0,27
-VA,51.0,Winchester,51840.0,County,2021-07-06,Partial Coverage,52.83139824773844,28078.0,27
 TX,48.0,Anderson,48001.0,County,2021-07-06,Partial Coverage,32.48809214514593,57735.0,27
 TX,48.0,Andrews,48003.0,County,2021-07-06,Partial Coverage,34.14060411654638,18705.0,27
 TX,48.0,Angelina,48005.0,County,2021-07-06,Partial Coverage,34.12789021507236,86715.0,27
@@ -11675,106 +12145,206 @@ CO,8.0,Weld County,8123.0,County,2021-07-06,Complete Coverage,49.2998286552519,3
 CO,8.0,Weld County,8123.0,County,2021-07-06,Partial Coverage,54.49995685563897,324492.0,27
 CO,8.0,Yuma County,8125.0,County,2021-07-06,Complete Coverage,38.596666333965466,10019.0,27
 CO,8.0,Yuma County,8125.0,County,2021-07-06,Partial Coverage,42.79868250324384,10019.0,27
-NC,37.0,Alamance County,37001.0,County,2021-07-05,Partial Coverage,90.28724138541317,169509.0,27
-NC,37.0,Alexander County,37003.0,County,2021-07-05,Partial Coverage,69.52556204496359,37497.0,27
-NC,37.0,Alleghany County,37005.0,County,2021-07-05,Partial Coverage,93.43629343629344,11137.0,27
-NC,37.0,Anson County,37007.0,County,2021-07-05,Partial Coverage,67.87204450625869,24446.0,27
-NC,37.0,Ashe County,37009.0,County,2021-07-05,Partial Coverage,85.27368304966365,27203.0,27
-NC,37.0,Avery County,37011.0,County,2021-07-05,Partial Coverage,87.21307740502364,17557.0,27
-NC,37.0,Beaufort County,37013.0,County,2021-07-05,Partial Coverage,85.77265182789293,46994.0,27
-NC,37.0,Bertie County,37015.0,County,2021-07-05,Partial Coverage,83.66496015200296,18947.0,27
-NC,37.0,Bladen County,37017.0,County,2021-07-05,Partial Coverage,70.48774524784548,32722.0,27
-NC,37.0,Brunswick County,37019.0,County,2021-07-05,Partial Coverage,102.62848340568547,142820.0,27
-NC,37.0,Buncombe County,37021.0,County,2021-07-05,Partial Coverage,103.74208912251953,261191.0,27
-NC,37.0,Burke County,37023.0,County,2021-07-05,Partial Coverage,72.53356909985081,90485.0,27
-NC,37.0,Cabarrus County,37025.0,County,2021-07-05,Partial Coverage,80.39112417014317,216453.0,27
-NC,37.0,Caldwell County,37027.0,County,2021-07-05,Partial Coverage,72.64231302781766,82178.0,27
-NC,37.0,Camden County,37029.0,County,2021-07-05,Partial Coverage,61.36928315082359,10867.0,27
-NC,37.0,Carteret County,37031.0,County,2021-07-05,Partial Coverage,91.43983993781757,69473.0,27
-NC,37.0,Caswell County,37033.0,County,2021-07-05,Partial Coverage,76.80056627145638,22604.0,27
-NC,37.0,Catawba County,37035.0,County,2021-07-05,Partial Coverage,81.15336162104907,159551.0,27
-NC,37.0,Chatham County,37037.0,County,2021-07-05,Partial Coverage,96.45226265610313,74470.0,27
-NC,37.0,Cherokee County,37039.0,County,2021-07-05,Partial Coverage,69.16328813085418,28612.0,27
-NC,37.0,Chowan County,37041.0,County,2021-07-05,Partial Coverage,87.44172703148533,13943.0,27
-NC,37.0,Clay County,37043.0,County,2021-07-05,Partial Coverage,70.51019499599323,11231.0,27
-NC,37.0,Cleveland County,37045.0,County,2021-07-05,Partial Coverage,72.1767894881926,97947.0,27
-NC,37.0,Columbus County,37047.0,County,2021-07-05,Partial Coverage,64.21777041147222,55508.0,27
-NC,37.0,Craven County,37049.0,County,2021-07-05,Partial Coverage,80.74290917279394,102139.0,27
-NC,37.0,Cumberland County,37051.0,County,2021-07-05,Partial Coverage,54.858438968850315,335509.0,27
-NC,37.0,Currituck County,37053.0,County,2021-07-05,Partial Coverage,68.70294996938371,27763.0,27
-NC,37.0,Dare County,37055.0,County,2021-07-05,Partial Coverage,122.05949904077387,37009.0,27
-NC,37.0,Davidson County,37057.0,County,2021-07-05,Partial Coverage,69.83037903692522,167609.0,27
-NC,37.0,Davie County,37059.0,County,2021-07-05,Partial Coverage,87.28236008028755,42846.0,27
-NC,37.0,Duplin County,37061.0,County,2021-07-05,Partial Coverage,60.09771709708721,58741.0,27
-NC,37.0,Durham County,37063.0,County,2021-07-05,Partial Coverage,110.31329318668193,321488.0,27
-NC,37.0,Edgecombe County,37065.0,County,2021-07-05,Partial Coverage,70.83074292819397,51472.0,27
-NC,37.0,Forsyth County,37067.0,County,2021-07-05,Partial Coverage,93.73598922298225,382295.0,27
-NC,37.0,Franklin County,37069.0,County,2021-07-05,Partial Coverage,80.09901700509435,69685.0,27
-NC,37.0,Gaston County,37071.0,County,2021-07-05,Partial Coverage,72.77634514917895,224529.0,27
-NC,37.0,Gates County,37073.0,County,2021-07-05,Partial Coverage,63.45787925964366,11562.0,27
-NC,37.0,Graham County,37075.0,County,2021-07-05,Partial Coverage,64.30517711171662,8441.0,27
-NC,37.0,Granville County,37077.0,County,2021-07-05,Partial Coverage,87.18958357460748,60443.0,27
-NC,37.0,Greene County,37079.0,County,2021-07-05,Partial Coverage,79.3013432056576,21069.0,27
-NC,37.0,Guilford County,37081.0,County,2021-07-05,Partial Coverage,95.06938161564037,537174.0,27
-NC,37.0,Halifax County,37083.0,County,2021-07-05,Partial Coverage,79.80803839232154,50010.0,27
-NC,37.0,Harnett County,37085.0,County,2021-07-05,Partial Coverage,58.031564393716536,135976.0,27
-NC,37.0,Haywood County,37087.0,County,2021-07-05,Partial Coverage,89.82621114623618,62317.0,27
-NC,37.0,Henderson County,37089.0,County,2021-07-05,Partial Coverage,90.64445523220658,117417.0,27
-NC,37.0,Hertford County,37091.0,County,2021-07-05,Partial Coverage,70.5114668243443,23677.0,27
-NC,37.0,Hoke County,37093.0,County,2021-07-05,Partial Coverage,43.64340804576891,55234.0,27
-NC,37.0,Hyde County,37095.0,County,2021-07-05,Partial Coverage,112.39619201944501,4937.0,27
-NC,37.0,Iredell County,37097.0,County,2021-07-05,Partial Coverage,76.776344015049,181806.0,27
-NC,37.0,Jackson County,37099.0,County,2021-07-05,Partial Coverage,76.45090809777413,43938.0,27
-NC,37.0,Johnston County,37101.0,County,2021-07-05,Partial Coverage,77.05396509967088,209339.0,27
-NC,37.0,Jones County,37103.0,County,2021-07-05,Partial Coverage,77.46045227731182,9419.0,27
-NC,37.0,Lee County,37105.0,County,2021-07-05,Partial Coverage,81.09228054840642,61779.0,27
-NC,37.0,Lenoir County,37107.0,County,2021-07-05,Partial Coverage,80.59482743212568,55949.0,27
-NC,37.0,Lincoln County,37109.0,County,2021-07-05,Partial Coverage,76.56048588449792,86111.0,27
-NC,37.0,Macon County,37113.0,County,2021-07-05,Partial Coverage,93.12008477884991,35858.0,27
-NC,37.0,Madison County,37115.0,County,2021-07-05,Partial Coverage,91.04113996782348,21755.0,27
-NC,37.0,Martin County,37117.0,County,2021-07-05,Partial Coverage,78.86809269162211,22440.0,27
-NC,37.0,McDowell County,37111.0,County,2021-07-05,Partial Coverage,77.01285077366903,45756.0,27
-NC,37.0,Mecklenburg County,37119.0,County,2021-07-05,Partial Coverage,94.90487735465022,1110356.0,27
-NC,37.0,Mitchell County,37121.0,County,2021-07-05,Partial Coverage,73.71023790430367,14964.0,27
-NC,37.0,Montgomery County,37123.0,County,2021-07-05,Partial Coverage,68.31413535494792,27173.0,27
-NC,37.0,Moore County,37125.0,County,2021-07-05,Partial Coverage,92.84000793021411,100880.0,27
-NC,37.0,Nash County,37127.0,County,2021-07-05,Partial Coverage,86.94882182018706,94298.0,27
-NC,37.0,New Hanover County,37129.0,County,2021-07-05,Partial Coverage,99.7325918122769,234473.0,27
-NC,37.0,Northampton County,37131.0,County,2021-07-05,Partial Coverage,76.41020376738695,19483.0,27
-NC,37.0,Onslow County,37133.0,County,2021-07-05,Partial Coverage,44.49575119481858,197938.0,27
-NC,37.0,Orange County,37135.0,County,2021-07-05,Partial Coverage,127.6300546889733,148476.0,27
-NC,37.0,Pamlico County,37137.0,County,2021-07-05,Partial Coverage,94.67232437529468,12726.0,27
-NC,37.0,Pasquotank County,37139.0,County,2021-07-05,Partial Coverage,78.17396544797107,39824.0,27
-NC,37.0,Pender County,37141.0,County,2021-07-05,Partial Coverage,76.40183951791944,63060.0,27
-NC,37.0,Perquimans County,37143.0,County,2021-07-05,Partial Coverage,71.92304835475005,13463.0,27
-NC,37.0,Person County,37145.0,County,2021-07-05,Partial Coverage,84.9379589769562,39490.0,27
-NC,37.0,Pitt County,37147.0,County,2021-07-05,Partial Coverage,81.28658529838111,180742.0,27
-NC,37.0,Polk County,37149.0,County,2021-07-05,Partial Coverage,78.6382937656823,20724.0,27
-NC,37.0,Randolph County,37151.0,County,2021-07-05,Partial Coverage,64.21377212581874,143667.0,27
-NC,37.0,Richmond County,37153.0,County,2021-07-05,Partial Coverage,70.02609917687211,44829.0,27
-NC,37.0,Robeson County,37155.0,County,2021-07-05,Partial Coverage,53.02966507177033,130625.0,27
-NC,37.0,Rockingham County,37157.0,County,2021-07-05,Partial Coverage,77.13767717833205,91010.0,27
-NC,37.0,Rowan County,37159.0,County,2021-07-05,Partial Coverage,62.235375260402,142088.0,27
-NC,37.0,Rutherford County,37161.0,County,2021-07-05,Partial Coverage,62.12236494651569,67029.0,27
-NC,37.0,Sampson County,37163.0,County,2021-07-05,Partial Coverage,72.75660701075066,63531.0,27
-NC,37.0,Scotland County,37165.0,County,2021-07-05,Partial Coverage,74.84995548918818,34823.0,27
-NC,37.0,Stanly County,37167.0,County,2021-07-05,Partial Coverage,64.81068687704996,62806.0,27
-NC,37.0,Stokes County,37169.0,County,2021-07-05,Partial Coverage,71.19168256892807,45591.0,27
-NC,37.0,Surry County,37171.0,County,2021-07-05,Partial Coverage,79.88520959001436,71783.0,27
-NC,37.0,Swain County,37173.0,County,2021-07-05,Partial Coverage,61.8737299418401,14271.0,27
-NC,37.0,Transylvania County,37175.0,County,2021-07-05,Partial Coverage,90.5045804856769,34385.0,27
-NC,37.0,Tyrrell County,37177.0,County,2021-07-05,Partial Coverage,72.90836653386454,4016.0,27
-NC,37.0,Union County,37179.0,County,2021-07-05,Partial Coverage,81.29234258460178,239859.0,27
-NC,37.0,Vance County,37181.0,County,2021-07-05,Partial Coverage,84.50432244302235,44535.0,27
-NC,37.0,Wake County,37183.0,County,2021-07-05,Partial Coverage,114.53396908148424,1111761.0,27
-NC,37.0,Warren County,37185.0,County,2021-07-05,Partial Coverage,87.55258223100705,19731.0,27
-NC,37.0,Washington County,37187.0,County,2021-07-05,Partial Coverage,76.15716753022453,11580.0,27
-NC,37.0,Watauga County,37189.0,County,2021-07-05,Partial Coverage,98.3997009452267,56177.0,27
-NC,37.0,Wayne County,37191.0,County,2021-07-05,Partial Coverage,64.01393637670448,123131.0,27
-NC,37.0,Wilkes County,37193.0,County,2021-07-05,Partial Coverage,67.37414488686196,68412.0,27
-NC,37.0,Wilson County,37195.0,County,2021-07-05,Partial Coverage,76.23134191513552,81801.0,27
-NC,37.0,Yadkin County,37197.0,County,2021-07-05,Partial Coverage,73.2789975309953,37667.0,27
-NC,37.0,Yancey County,37199.0,County,2021-07-05,Partial Coverage,78.64851402955338,18069.0,27
+NC,37.0,Alamance County,37001.0,County,2021-07-05,Complete Coverage,43.85076898571757,169509.0,27
+NC,37.0,Alamance County,37001.0,County,2021-07-05,Partial Coverage,46.43647239969559,169509.0,27
+NC,37.0,Alexander County,37003.0,County,2021-07-05,Complete Coverage,33.90404565698589,37497.0,27
+NC,37.0,Alexander County,37003.0,County,2021-07-05,Partial Coverage,35.62151638797771,37497.0,27
+NC,37.0,Alleghany County,37005.0,County,2021-07-05,Complete Coverage,45.44311753614079,11137.0,27
+NC,37.0,Alleghany County,37005.0,County,2021-07-05,Partial Coverage,47.99317590015264,11137.0,27
+NC,37.0,Anson County,37007.0,County,2021-07-05,Complete Coverage,32.70882762006054,24446.0,27
+NC,37.0,Anson County,37007.0,County,2021-07-05,Partial Coverage,35.16321688619815,24446.0,27
+NC,37.0,Ashe County,37009.0,County,2021-07-05,Complete Coverage,41.076351872955186,27203.0,27
+NC,37.0,Ashe County,37009.0,County,2021-07-05,Partial Coverage,44.19733117670845,27203.0,27
+NC,37.0,Avery County,37011.0,County,2021-07-05,Complete Coverage,42.11425642193997,17557.0,27
+NC,37.0,Avery County,37011.0,County,2021-07-05,Partial Coverage,45.09882098308367,17557.0,27
+NC,37.0,Beaufort County,37013.0,County,2021-07-05,Complete Coverage,41.513810273651956,46994.0,27
+NC,37.0,Beaufort County,37013.0,County,2021-07-05,Partial Coverage,44.258841554240966,46994.0,27
+NC,37.0,Bertie County,37015.0,County,2021-07-05,Complete Coverage,39.4838232965641,18947.0,27
+NC,37.0,Bertie County,37015.0,County,2021-07-05,Partial Coverage,44.18113685543886,18947.0,27
+NC,37.0,Bladen County,37017.0,County,2021-07-05,Complete Coverage,33.558462196687245,32722.0,27
+NC,37.0,Bladen County,37017.0,County,2021-07-05,Partial Coverage,36.929283051158244,32722.0,27
+NC,37.0,Brunswick County,37019.0,County,2021-07-05,Complete Coverage,50.189049152779724,142820.0,27
+NC,37.0,Brunswick County,37019.0,County,2021-07-05,Partial Coverage,52.439434252905755,142820.0,27
+NC,37.0,Buncombe County,37021.0,County,2021-07-05,Complete Coverage,50.68168505040373,261191.0,27
+NC,37.0,Buncombe County,37021.0,County,2021-07-05,Partial Coverage,53.06040407211581,261191.0,27
+NC,37.0,Burke County,37023.0,County,2021-07-05,Complete Coverage,35.21688677681384,90485.0,27
+NC,37.0,Burke County,37023.0,County,2021-07-05,Partial Coverage,37.316682323036964,90485.0,27
+NC,37.0,Cabarrus County,37025.0,County,2021-07-05,Complete Coverage,38.87726203841019,216453.0,27
+NC,37.0,Cabarrus County,37025.0,County,2021-07-05,Partial Coverage,41.513862131732985,216453.0,27
+NC,37.0,Caldwell County,37027.0,County,2021-07-05,Complete Coverage,35.36104553530142,82178.0,27
+NC,37.0,Caldwell County,37027.0,County,2021-07-05,Partial Coverage,37.28126749251624,82178.0,27
+NC,37.0,Camden County,37029.0,County,2021-07-05,Complete Coverage,28.76598877335051,10867.0,27
+NC,37.0,Camden County,37029.0,County,2021-07-05,Partial Coverage,32.603294377473084,10867.0,27
+NC,37.0,Carteret County,37031.0,County,2021-07-05,Complete Coverage,44.53528708994861,69473.0,27
+NC,37.0,Carteret County,37031.0,County,2021-07-05,Partial Coverage,46.904552847868956,69473.0,27
+NC,37.0,Caswell County,37033.0,County,2021-07-05,Complete Coverage,36.776676694390375,22604.0,27
+NC,37.0,Caswell County,37033.0,County,2021-07-05,Partial Coverage,40.02388957706601,22604.0,27
+NC,37.0,Catawba County,37035.0,County,2021-07-05,Complete Coverage,39.33413140625881,159551.0,27
+NC,37.0,Catawba County,37035.0,County,2021-07-05,Partial Coverage,41.81923021479025,159551.0,27
+NC,37.0,Chatham County,37037.0,County,2021-07-05,Complete Coverage,46.83630992345911,74470.0,27
+NC,37.0,Chatham County,37037.0,County,2021-07-05,Partial Coverage,49.61595273264402,74470.0,27
+NC,37.0,Cherokee County,37039.0,County,2021-07-05,Complete Coverage,33.73060254438697,28612.0,27
+NC,37.0,Cherokee County,37039.0,County,2021-07-05,Partial Coverage,35.432685586467215,28612.0,27
+NC,37.0,Chowan County,37041.0,County,2021-07-05,Complete Coverage,40.75163164311841,13943.0,27
+NC,37.0,Chowan County,37041.0,County,2021-07-05,Partial Coverage,46.69009538836692,13943.0,27
+NC,37.0,Clay County,37043.0,County,2021-07-05,Complete Coverage,34.6718903036239,11231.0,27
+NC,37.0,Clay County,37043.0,County,2021-07-05,Partial Coverage,35.838304692369334,11231.0,27
+NC,37.0,Cleveland County,37045.0,County,2021-07-05,Complete Coverage,34.978100401237405,97947.0,27
+NC,37.0,Cleveland County,37045.0,County,2021-07-05,Partial Coverage,37.19868908695519,97947.0,27
+NC,37.0,Columbus County,37047.0,County,2021-07-05,Complete Coverage,31.12704475030626,55508.0,27
+NC,37.0,Columbus County,37047.0,County,2021-07-05,Partial Coverage,33.090725661165955,55508.0,27
+NC,37.0,Craven County,37049.0,County,2021-07-05,Complete Coverage,39.4100196790648,102139.0,27
+NC,37.0,Craven County,37049.0,County,2021-07-05,Partial Coverage,41.332889493729134,102139.0,27
+NC,37.0,Cumberland County,37051.0,County,2021-07-05,Complete Coverage,26.371572744695374,335509.0,27
+NC,37.0,Cumberland County,37051.0,County,2021-07-05,Partial Coverage,28.48686622415494,335509.0,27
+NC,37.0,Currituck County,37053.0,County,2021-07-05,Complete Coverage,32.47487663436949,27763.0,27
+NC,37.0,Currituck County,37053.0,County,2021-07-05,Partial Coverage,36.22807333501423,27763.0,27
+NC,37.0,Dare County,37055.0,County,2021-07-05,Complete Coverage,59.688183955254125,37009.0,27
+NC,37.0,Dare County,37055.0,County,2021-07-05,Partial Coverage,62.37131508551974,37009.0,27
+NC,37.0,Davidson County,37057.0,County,2021-07-05,Complete Coverage,33.81978294721644,167609.0,27
+NC,37.0,Davidson County,37057.0,County,2021-07-05,Partial Coverage,36.010596089708784,167609.0,27
+NC,37.0,Davie County,37059.0,County,2021-07-05,Complete Coverage,42.627083041590815,42846.0,27
+NC,37.0,Davie County,37059.0,County,2021-07-05,Partial Coverage,44.65527703869673,42846.0,27
+NC,37.0,Duplin County,37061.0,County,2021-07-05,Complete Coverage,28.83846035988492,58741.0,27
+NC,37.0,Duplin County,37061.0,County,2021-07-05,Partial Coverage,31.259256737202296,58741.0,27
+NC,37.0,Durham County,37063.0,County,2021-07-05,Complete Coverage,53.802008162046484,321488.0,27
+NC,37.0,Durham County,37063.0,County,2021-07-05,Partial Coverage,56.51128502463545,321488.0,27
+NC,37.0,Edgecombe County,37065.0,County,2021-07-05,Complete Coverage,34.065122785203606,51472.0,27
+NC,37.0,Edgecombe County,37065.0,County,2021-07-05,Partial Coverage,36.765620142990365,51472.0,27
+NC,37.0,Forsyth County,37067.0,County,2021-07-05,Complete Coverage,45.4442250094822,382295.0,27
+NC,37.0,Forsyth County,37067.0,County,2021-07-05,Partial Coverage,48.291764213500045,382295.0,27
+NC,37.0,Franklin County,37069.0,County,2021-07-05,Complete Coverage,38.890722537131374,69685.0,27
+NC,37.0,Franklin County,37069.0,County,2021-07-05,Partial Coverage,41.20829446796298,69685.0,27
+NC,37.0,Gaston County,37071.0,County,2021-07-05,Complete Coverage,35.14601677288903,224529.0,27
+NC,37.0,Gaston County,37071.0,County,2021-07-05,Partial Coverage,37.630328376289924,224529.0,27
+NC,37.0,Gates County,37073.0,County,2021-07-05,Complete Coverage,30.150492994291646,11562.0,27
+NC,37.0,Gates County,37073.0,County,2021-07-05,Partial Coverage,33.307386265352015,11562.0,27
+NC,37.0,Graham County,37075.0,County,2021-07-05,Complete Coverage,30.896813173794573,8441.0,27
+NC,37.0,Graham County,37075.0,County,2021-07-05,Partial Coverage,33.40836393792205,8441.0,27
+NC,37.0,Granville County,37077.0,County,2021-07-05,Complete Coverage,42.24145062290091,60443.0,27
+NC,37.0,Granville County,37077.0,County,2021-07-05,Partial Coverage,44.94813295170657,60443.0,27
+NC,37.0,Greene County,37079.0,County,2021-07-05,Complete Coverage,38.378660591390194,21069.0,27
+NC,37.0,Greene County,37079.0,County,2021-07-05,Partial Coverage,40.92268261426741,21069.0,27
+NC,37.0,Guilford County,37081.0,County,2021-07-05,Complete Coverage,46.15785574134266,537174.0,27
+NC,37.0,Guilford County,37081.0,County,2021-07-05,Partial Coverage,48.911525874297716,537174.0,27
+NC,37.0,Halifax County,37083.0,County,2021-07-05,Complete Coverage,38.50229954009198,50010.0,27
+NC,37.0,Halifax County,37083.0,County,2021-07-05,Partial Coverage,41.30573885222955,50010.0,27
+NC,37.0,Harnett County,37085.0,County,2021-07-05,Complete Coverage,27.8828616814732,135976.0,27
+NC,37.0,Harnett County,37085.0,County,2021-07-05,Partial Coverage,30.148702712243338,135976.0,27
+NC,37.0,Haywood County,37087.0,County,2021-07-05,Complete Coverage,43.866039764430255,62317.0,27
+NC,37.0,Haywood County,37087.0,County,2021-07-05,Partial Coverage,45.96017138180593,62317.0,27
+NC,37.0,Henderson County,37089.0,County,2021-07-05,Complete Coverage,44.33855404242997,117417.0,27
+NC,37.0,Henderson County,37089.0,County,2021-07-05,Partial Coverage,46.305901189776606,117417.0,27
+NC,37.0,Hertford County,37091.0,County,2021-07-05,Complete Coverage,33.467077754783126,23677.0,27
+NC,37.0,Hertford County,37091.0,County,2021-07-05,Partial Coverage,37.04438906956118,23677.0,27
+NC,37.0,Hoke County,37093.0,County,2021-07-05,Complete Coverage,20.668428866278017,55234.0,27
+NC,37.0,Hoke County,37093.0,County,2021-07-05,Partial Coverage,22.974979179490894,55234.0,27
+NC,37.0,Hyde County,37095.0,County,2021-07-05,Complete Coverage,54.4865302815475,4937.0,27
+NC,37.0,Hyde County,37095.0,County,2021-07-05,Partial Coverage,57.90966173789751,4937.0,27
+NC,37.0,Iredell County,37097.0,County,2021-07-05,Complete Coverage,37.698425794528234,181806.0,27
+NC,37.0,Iredell County,37097.0,County,2021-07-05,Partial Coverage,39.07791822052077,181806.0,27
+NC,37.0,Jackson County,37099.0,County,2021-07-05,Complete Coverage,37.404979744184985,43938.0,27
+NC,37.0,Jackson County,37099.0,County,2021-07-05,Partial Coverage,39.04592835358915,43938.0,27
+NC,37.0,Johnston County,37101.0,County,2021-07-05,Complete Coverage,37.000749979698,209339.0,27
+NC,37.0,Johnston County,37101.0,County,2021-07-05,Partial Coverage,40.05321511997287,209339.0,27
+NC,37.0,Jones County,37103.0,County,2021-07-05,Complete Coverage,37.35003715893407,9419.0,27
+NC,37.0,Jones County,37103.0,County,2021-07-05,Partial Coverage,40.110415118377745,9419.0,27
+NC,37.0,Lee County,37105.0,County,2021-07-05,Complete Coverage,39.090953236536684,61779.0,27
+NC,37.0,Lee County,37105.0,County,2021-07-05,Partial Coverage,42.00132731186973,61779.0,27
+NC,37.0,Lenoir County,37107.0,County,2021-07-05,Complete Coverage,39.03555023324814,55949.0,27
+NC,37.0,Lenoir County,37107.0,County,2021-07-05,Partial Coverage,41.55927719887755,55949.0,27
+NC,37.0,Lincoln County,37109.0,County,2021-07-05,Complete Coverage,37.25308032655526,86111.0,27
+NC,37.0,Lincoln County,37109.0,County,2021-07-05,Partial Coverage,39.30740555794266,86111.0,27
+NC,37.0,Macon County,37113.0,County,2021-07-05,Complete Coverage,45.49612359863907,35858.0,27
+NC,37.0,Macon County,37113.0,County,2021-07-05,Partial Coverage,47.623961180210834,35858.0,27
+NC,37.0,Madison County,37115.0,County,2021-07-05,Complete Coverage,44.80809009423121,21755.0,27
+NC,37.0,Madison County,37115.0,County,2021-07-05,Partial Coverage,46.23304987359228,21755.0,27
+NC,37.0,Martin County,37117.0,County,2021-07-05,Complete Coverage,38.08377896613191,22440.0,27
+NC,37.0,Martin County,37117.0,County,2021-07-05,Partial Coverage,40.78431372549019,22440.0,27
+NC,37.0,McDowell County,37111.0,County,2021-07-05,Complete Coverage,37.45519713261649,45756.0,27
+NC,37.0,McDowell County,37111.0,County,2021-07-05,Partial Coverage,39.55765364105254,45756.0,27
+NC,37.0,Mecklenburg County,37119.0,County,2021-07-05,Complete Coverage,45.6561679317264,1110356.0,27
+NC,37.0,Mecklenburg County,37119.0,County,2021-07-05,Partial Coverage,49.24870942292382,1110356.0,27
+NC,37.0,Mitchell County,37121.0,County,2021-07-05,Complete Coverage,35.531943330660255,14964.0,27
+NC,37.0,Mitchell County,37121.0,County,2021-07-05,Partial Coverage,38.17829457364341,14964.0,27
+NC,37.0,Montgomery County,37123.0,County,2021-07-05,Complete Coverage,33.062230890957935,27173.0,27
+NC,37.0,Montgomery County,37123.0,County,2021-07-05,Partial Coverage,35.25190446398999,27173.0,27
+NC,37.0,Moore County,37125.0,County,2021-07-05,Complete Coverage,45.459952418715304,100880.0,27
+NC,37.0,Moore County,37125.0,County,2021-07-05,Partial Coverage,47.38005551149881,100880.0,27
+NC,37.0,Nash County,37127.0,County,2021-07-05,Complete Coverage,41.976500031814034,94298.0,27
+NC,37.0,Nash County,37127.0,County,2021-07-05,Partial Coverage,44.97232178837303,94298.0,27
+NC,37.0,New Hanover County,37129.0,County,2021-07-05,Complete Coverage,48.551432361082085,234473.0,27
+NC,37.0,New Hanover County,37129.0,County,2021-07-05,Partial Coverage,51.18115945119481,234473.0,27
+NC,37.0,Northampton County,37131.0,County,2021-07-05,Complete Coverage,36.708925730123696,19483.0,27
+NC,37.0,Northampton County,37131.0,County,2021-07-05,Partial Coverage,39.70127803726326,19483.0,27
+NC,37.0,Onslow County,37133.0,County,2021-07-05,Complete Coverage,21.181380028089603,197938.0,27
+NC,37.0,Onslow County,37133.0,County,2021-07-05,Partial Coverage,23.314371166728975,197938.0,27
+NC,37.0,Orange County,37135.0,County,2021-07-05,Complete Coverage,62.707104178453086,148476.0,27
+NC,37.0,Orange County,37135.0,County,2021-07-05,Partial Coverage,64.92295051052022,148476.0,27
+NC,37.0,Pamlico County,37137.0,County,2021-07-05,Complete Coverage,46.094609460946096,12726.0,27
+NC,37.0,Pamlico County,37137.0,County,2021-07-05,Partial Coverage,48.577714914348576,12726.0,27
+NC,37.0,Pasquotank County,37139.0,County,2021-07-05,Complete Coverage,36.60104459622338,39824.0,27
+NC,37.0,Pasquotank County,37139.0,County,2021-07-05,Partial Coverage,41.57292085174769,39824.0,27
+NC,37.0,Pender County,37141.0,County,2021-07-05,Complete Coverage,36.952109102442115,63060.0,27
+NC,37.0,Pender County,37141.0,County,2021-07-05,Partial Coverage,39.449730415477326,63060.0,27
+NC,37.0,Perquimans County,37143.0,County,2021-07-05,Complete Coverage,34.086013518532276,13463.0,27
+NC,37.0,Perquimans County,37143.0,County,2021-07-05,Partial Coverage,37.83703483621778,13463.0,27
+NC,37.0,Person County,37145.0,County,2021-07-05,Complete Coverage,41.24335274753102,39490.0,27
+NC,37.0,Person County,37145.0,County,2021-07-05,Partial Coverage,43.69460622942517,39490.0,27
+NC,37.0,Pitt County,37147.0,County,2021-07-05,Complete Coverage,39.47947903641655,180742.0,27
+NC,37.0,Pitt County,37147.0,County,2021-07-05,Partial Coverage,41.80710626196457,180742.0,27
+NC,37.0,Polk County,37149.0,County,2021-07-05,Complete Coverage,38.250337772630765,20724.0,27
+NC,37.0,Polk County,37149.0,County,2021-07-05,Partial Coverage,40.387955993051534,20724.0,27
+NC,37.0,Randolph County,37151.0,County,2021-07-05,Complete Coverage,31.192271015612494,143667.0,27
+NC,37.0,Randolph County,37151.0,County,2021-07-05,Partial Coverage,33.02150111020624,143667.0,27
+NC,37.0,Richmond County,37153.0,County,2021-07-05,Complete Coverage,33.88877735394499,44829.0,27
+NC,37.0,Richmond County,37153.0,County,2021-07-05,Partial Coverage,36.13732182292712,44829.0,27
+NC,37.0,Robeson County,37155.0,County,2021-07-05,Complete Coverage,25.214928229665073,130625.0,27
+NC,37.0,Robeson County,37155.0,County,2021-07-05,Partial Coverage,27.814736842105262,130625.0,27
+NC,37.0,Rockingham County,37157.0,County,2021-07-05,Complete Coverage,37.317877156356445,91010.0,27
+NC,37.0,Rockingham County,37157.0,County,2021-07-05,Partial Coverage,39.81980002197561,91010.0,27
+NC,37.0,Rowan County,37159.0,County,2021-07-05,Complete Coverage,30.009571533134395,142088.0,27
+NC,37.0,Rowan County,37159.0,County,2021-07-05,Partial Coverage,32.22580372726761,142088.0,27
+NC,37.0,Rutherford County,37161.0,County,2021-07-05,Complete Coverage,29.91242596488087,67029.0,27
+NC,37.0,Rutherford County,37161.0,County,2021-07-05,Partial Coverage,32.209938981634814,67029.0,27
+NC,37.0,Sampson County,37163.0,County,2021-07-05,Complete Coverage,34.852276841227116,63531.0,27
+NC,37.0,Sampson County,37163.0,County,2021-07-05,Partial Coverage,37.90433016952354,63531.0,27
+NC,37.0,Scotland County,37165.0,County,2021-07-05,Complete Coverage,36.116934210148465,34823.0,27
+NC,37.0,Scotland County,37165.0,County,2021-07-05,Partial Coverage,38.73302127903972,34823.0,27
+NC,37.0,Stanly County,37167.0,County,2021-07-05,Complete Coverage,31.337770276725152,62806.0,27
+NC,37.0,Stanly County,37167.0,County,2021-07-05,Partial Coverage,33.47291660032481,62806.0,27
+NC,37.0,Stokes County,37169.0,County,2021-07-05,Complete Coverage,34.46513566274045,45591.0,27
+NC,37.0,Stokes County,37169.0,County,2021-07-05,Partial Coverage,36.72654690618762,45591.0,27
+NC,37.0,Surry County,37171.0,County,2021-07-05,Complete Coverage,38.87132050764109,71783.0,27
+NC,37.0,Surry County,37171.0,County,2021-07-05,Partial Coverage,41.01388908237326,71783.0,27
+NC,37.0,Swain County,37173.0,County,2021-07-05,Complete Coverage,30.09599887884521,14271.0,27
+NC,37.0,Swain County,37173.0,County,2021-07-05,Partial Coverage,31.777731062994885,14271.0,27
+NC,37.0,Transylvania County,37175.0,County,2021-07-05,Complete Coverage,44.48160535117057,34385.0,27
+NC,37.0,Transylvania County,37175.0,County,2021-07-05,Partial Coverage,46.022975134506325,34385.0,27
+NC,37.0,Tyrrell County,37177.0,County,2021-07-05,Complete Coverage,35.18426294820717,4016.0,27
+NC,37.0,Tyrrell County,37177.0,County,2021-07-05,Partial Coverage,37.72410358565737,4016.0,27
+NC,37.0,Union County,37179.0,County,2021-07-05,Complete Coverage,39.491117698314426,239859.0,27
+NC,37.0,Union County,37179.0,County,2021-07-05,Partial Coverage,41.80122488628736,239859.0,27
+NC,37.0,Vance County,37181.0,County,2021-07-05,Complete Coverage,40.39744021556079,44535.0,27
+NC,37.0,Vance County,37181.0,County,2021-07-05,Partial Coverage,44.10688222746155,44535.0,27
+NC,37.0,Wake County,37183.0,County,2021-07-05,Complete Coverage,55.78483145208368,1111761.0,27
+NC,37.0,Wake County,37183.0,County,2021-07-05,Partial Coverage,58.749137629400565,1111761.0,27
+NC,37.0,Warren County,37185.0,County,2021-07-05,Complete Coverage,42.557396989508895,19731.0,27
+NC,37.0,Warren County,37185.0,County,2021-07-05,Partial Coverage,44.99518524149815,19731.0,27
+NC,37.0,Washington County,37187.0,County,2021-07-05,Complete Coverage,35.77720207253886,11580.0,27
+NC,37.0,Washington County,37187.0,County,2021-07-05,Partial Coverage,40.379965457685664,11580.0,27
+NC,37.0,Watauga County,37189.0,County,2021-07-05,Complete Coverage,47.610231945458104,56177.0,27
+NC,37.0,Watauga County,37189.0,County,2021-07-05,Partial Coverage,50.78946899976859,56177.0,27
+NC,37.0,Wayne County,37191.0,County,2021-07-05,Complete Coverage,30.825705955445827,123131.0,27
+NC,37.0,Wayne County,37191.0,County,2021-07-05,Partial Coverage,33.18823042125866,123131.0,27
+NC,37.0,Wilkes County,37193.0,County,2021-07-05,Complete Coverage,32.21949365608373,68412.0,27
+NC,37.0,Wilkes County,37193.0,County,2021-07-05,Partial Coverage,35.15465123077823,68412.0,27
+NC,37.0,Wilson County,37195.0,County,2021-07-05,Complete Coverage,36.88218970428235,81801.0,27
+NC,37.0,Wilson County,37195.0,County,2021-07-05,Partial Coverage,39.34915221085317,81801.0,27
+NC,37.0,Yadkin County,37197.0,County,2021-07-05,Complete Coverage,35.649242042105826,37667.0,27
+NC,37.0,Yadkin County,37197.0,County,2021-07-05,Partial Coverage,37.62975548888948,37667.0,27
+NC,37.0,Yancey County,37199.0,County,2021-07-05,Complete Coverage,38.23122474957109,18069.0,27
+NC,37.0,Yancey County,37199.0,County,2021-07-05,Partial Coverage,40.41728927998229,18069.0,27
 WV,54.0,Monroe,54063.0,County,2021-07-07,Partial Coverage,36.8210922787194,13275.0,27
 WV,54.0,Morgan,54065.0,County,2021-07-07,Partial Coverage,29.014761798255424,17884.0,27
 WV,54.0,Nicholas,54067.0,County,2021-07-07,Partial Coverage,42.447746570868716,24496.0,27
