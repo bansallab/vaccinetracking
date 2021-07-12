@@ -4355,299 +4355,324 @@ NY,36.0,New York,36061.0,County,2021-07-09,Partial,1130606.0,1628706.0,27
 WA,53.0,Franklin,53021.0,County,2021-07-09,Partial,33224.0,95222.0,27
 IN,18.0,Monroe,18105.0,County,2021-07-09,Partial,77703.0,148431.0,27
 WA,53.0,Stevens,53065.0,County,2021-07-09,Partial,12386.0,45723.0,27
-GA,13.0,Appling County,13001.0,County,2021-07-05,Partial,4898.0,18386.0,27
-GA,13.0,Atkinson County,13003.0,County,2021-07-02,Partial,2118.0,8165.0,26
-GA,13.0,Bacon County,13005.0,County,2021-07-02,Partial,2605.0,11164.0,26
-GA,13.0,Baker County,13007.0,County,2021-07-01,Partial,1096.0,3038.0,26
-GA,13.0,Baldwin County,13009.0,County,2021-07-05,Partial,15931.0,44890.0,27
-GA,13.0,Barrow County,13013.0,County,2021-07-05,Partial,26524.0,83240.0,27
-GA,13.0,Bartow County,13015.0,County,2021-07-05,Partial,31893.0,107738.0,27
-GA,13.0,Ben Hill County,13017.0,County,2021-07-05,Partial,5031.0,16700.0,27
-GA,13.0,Berrien County,13019.0,County,2021-07-02,Partial,4807.0,19397.0,26
-GA,13.0,Bibb County,13021.0,County,2021-07-05,Partial,56166.0,153159.0,27
-GA,13.0,Bleckley County,13023.0,County,2021-07-05,Partial,3517.0,12873.0,27
-GA,13.0,Brantley County,13025.0,County,2021-07-05,Partial,3546.0,19109.0,27
-GA,13.0,Brooks County,13027.0,County,2021-07-05,Partial,5399.0,15457.0,27
-GA,13.0,Bulloch County,13031.0,County,2021-07-05,Partial,21060.0,79608.0,27
-GA,13.0,Burke County,13033.0,County,2021-07-05,Partial,7984.0,22383.0,27
-GA,13.0,Butts County,13035.0,County,2021-07-05,Partial,6548.0,24936.0,27
-GA,13.0,Calhoun County,13037.0,County,2021-07-03,Partial,2320.0,6189.0,26
-GA,13.0,Camden County,13039.0,County,2021-07-05,Partial,15715.0,54666.0,27
-GA,13.0,Candler County,13043.0,County,2021-07-05,Partial,3614.0,10803.0,27
-GA,13.0,Carroll County,13045.0,County,2021-07-05,Partial,35186.0,119992.0,27
-GA,13.0,Catoosa County,13047.0,County,2021-07-05,Partial,21342.0,67580.0,27
-GA,13.0,Charlton County,13049.0,County,2021-07-02,Partial,2062.0,13392.0,26
-GA,13.0,Chatham County,13051.0,County,2021-07-05,Partial,127781.0,289430.0,27
-GA,13.0,Chattahoochee County,13053.0,County,2021-07-03,Partial,1654.0,10907.0,26
-GA,13.0,Chattooga County,13055.0,County,2021-07-05,Partial,7444.0,24789.0,27
-GA,13.0,Cherokee County,13057.0,County,2021-07-05,Partial,107752.0,258773.0,27
-GA,13.0,Clarke County,13059.0,County,2021-07-05,Partial,51939.0,128331.0,27
-GA,13.0,Clay County,13061.0,County,2021-07-01,Partial,1433.0,2834.0,26
-GA,13.0,Clayton County,13063.0,County,2021-07-05,Partial,98071.0,292256.0,27
-GA,13.0,Clinch County,13065.0,County,2021-07-02,Partial,1951.0,6618.0,26
-GA,13.0,Cobb County,13067.0,County,2021-07-05,Partial,380481.0,760141.0,27
-GA,13.0,Coffee County,13069.0,County,2021-07-05,Partial,11593.0,43273.0,27
-GA,13.0,Colquitt County,13071.0,County,2021-07-05,Partial,14181.0,45600.0,27
-GA,13.0,Columbia County,13073.0,County,2021-07-05,Partial,58025.0,156714.0,27
-GA,13.0,Cook County,13075.0,County,2021-07-05,Partial,5391.0,17270.0,27
-GA,13.0,Coweta County,13077.0,County,2021-07-05,Partial,52491.0,148509.0,27
-GA,13.0,Dawson County,13085.0,County,2021-07-05,Partial,8403.0,26108.0,27
-GA,13.0,Decatur County,13087.0,County,2021-07-05,Partial,9144.0,26404.0,27
-GA,13.0,DeKalb County,13089.0,County,2021-07-05,Partial,362246.0,759297.0,27
-GA,13.0,Dodge County,13091.0,County,2021-07-05,Partial,5645.0,20605.0,27
-GA,13.0,Dougherty County,13095.0,County,2021-07-05,Partial,32600.0,87956.0,27
-GA,13.0,Douglas County,13097.0,County,2021-07-05,Partial,53913.0,146343.0,27
-GA,13.0,Early County,13099.0,County,2021-07-03,Partial,3750.0,10190.0,26
-GA,13.0,Echols County,13101.0,County,2021-07-03,Partial,924.0,4006.0,26
-GA,13.0,Effingham County,13103.0,County,2021-07-05,Partial,18920.0,64296.0,27
-GA,13.0,Elbert County,13105.0,County,2021-07-05,Partial,6599.0,19194.0,27
-GA,13.0,Emanuel County,13107.0,County,2021-07-05,Partial,6362.0,22646.0,27
-GA,13.0,Evans County,13109.0,County,2021-07-05,Partial,3463.0,10654.0,27
-GA,13.0,Fannin County,13111.0,County,2021-07-05,Partial,9102.0,26188.0,27
-GA,13.0,Fayette County,13113.0,County,2021-07-05,Partial,61821.0,114421.0,27
-GA,13.0,Floyd County,13115.0,County,2021-07-05,Partial,33649.0,98498.0,27
-GA,13.0,Forsyth County,13117.0,County,2021-07-05,Partial,113384.0,244252.0,27
-GA,13.0,Fulton County,13121.0,County,2021-07-05,Partial,527335.0,1063937.0,27
-GA,13.0,Glynn County,13127.0,County,2021-07-05,Partial,34926.0,85292.0,27
-GA,13.0,Gordon County,13129.0,County,2021-07-05,Partial,17472.0,57963.0,27
-GA,13.0,Grady County,13131.0,County,2021-07-05,Partial,7749.0,24633.0,27
-GA,13.0,Gwinnett County,13135.0,County,2021-07-05,Partial,440247.0,936250.0,27
-GA,13.0,Habersham County,13137.0,County,2021-07-05,Partial,15068.0,45328.0,27
-GA,13.0,Hall County,13139.0,County,2021-07-05,Partial,75201.0,204441.0,27
-GA,13.0,Harris County,13145.0,County,2021-07-05,Partial,12659.0,35236.0,27
-GA,13.0,Hart County,13147.0,County,2021-07-05,Partial,8245.0,26205.0,27
-GA,13.0,Heard County,13149.0,County,2021-07-05,Partial,2620.0,11923.0,27
-GA,13.0,Henry County,13151.0,County,2021-07-05,Partial,83950.0,234561.0,27
-GA,13.0,Houston County,13153.0,County,2021-07-05,Partial,55250.0,157863.0,27
-GA,13.0,Irwin County,13155.0,County,2021-07-02,Partial,2719.0,9416.0,26
-GA,13.0,Jackson County,13157.0,County,2021-07-05,Partial,24480.0,72977.0,27
-GA,13.0,Jeff Davis County,13161.0,County,2021-07-05,Partial,3441.0,15115.0,27
-GA,13.0,Jefferson County,13163.0,County,2021-07-05,Partial,6292.0,15362.0,27
-GA,13.0,Jenkins County,13165.0,County,2021-07-03,Partial,2350.0,8676.0,26
-GA,13.0,Johnson County,13167.0,County,2021-07-01,Partial,2506.0,9643.0,26
-GA,13.0,Lamar County,13171.0,County,2021-07-05,Partial,5284.0,19077.0,27
-GA,13.0,Lanier County,13173.0,County,2021-07-03,Partial,2221.0,10423.0,26
-GA,13.0,Laurens County,13175.0,County,2021-07-05,Partial,15680.0,47546.0,27
-GA,13.0,Liberty County,13179.0,County,2021-07-05,Partial,13861.0,61435.0,27
-GA,13.0,Long County,13183.0,County,2021-07-05,Partial,2923.0,19559.0,27
-GA,13.0,Lowndes County,13185.0,County,2021-07-05,Partial,33414.0,117406.0,27
-GA,13.0,Lumpkin County,13187.0,County,2021-07-05,Partial,9895.0,33610.0,27
-GA,13.0,McIntosh County,13191.0,County,2021-07-03,Partial,4686.0,14378.0,26
-GA,13.0,Macon County,13193.0,County,2021-07-05,Partial,4330.0,12947.0,27
-GA,13.0,Meriwether County,13199.0,County,2021-07-05,Partial,6982.0,21167.0,27
-GA,13.0,Miller County,13201.0,County,2021-07-03,Partial,2306.0,5718.0,26
-GA,13.0,Mitchell County,13205.0,County,2021-07-05,Partial,7498.0,21863.0,27
-GA,13.0,Monroe County,13207.0,County,2021-07-04,Partial,10060.0,27578.0,26
-GA,13.0,Montgomery County,13209.0,County,2021-07-05,Partial,2361.0,9172.0,27
-GA,13.0,Morgan County,13211.0,County,2021-07-05,Partial,7305.0,19276.0,27
-GA,13.0,Murray County,13213.0,County,2021-07-05,Partial,11477.0,40096.0,27
-GA,13.0,Muscogee County,13215.0,County,2021-07-05,Partial,66491.0,195769.0,27
-GA,13.0,Newton County,13217.0,County,2021-07-05,Partial,37449.0,111744.0,27
-GA,13.0,Oconee County,13219.0,County,2021-07-05,Partial,20306.0,40280.0,27
-GA,13.0,Paulding County,13223.0,County,2021-07-05,Partial,50514.0,168667.0,27
-GA,13.0,Peach County,13225.0,County,2021-07-03,Partial,10022.0,27546.0,26
-GA,13.0,Pierce County,13229.0,County,2021-07-03,Partial,5018.0,19465.0,26
-GA,13.0,Pike County,13231.0,County,2021-07-05,Partial,4831.0,18962.0,27
-GA,13.0,Polk County,13233.0,County,2021-07-05,Partial,12571.0,42613.0,27
-GA,13.0,Pulaski County,13235.0,County,2021-07-03,Partial,3251.0,11137.0,26
-GA,13.0,Putnam County,13237.0,County,2021-07-05,Partial,7832.0,22119.0,27
+GA,13.0,Appling County,13001.0,County,2021-07-08,Partial,4923.0,18386.0,27
+GA,13.0,Atkinson County,13003.0,County,2021-07-08,Partial,2137.0,8165.0,27
+GA,13.0,Bacon County,13005.0,County,2021-07-08,Partial,2623.0,11164.0,27
+GA,13.0,Baker County,13007.0,County,2021-07-08,Partial,1104.0,3038.0,27
+GA,13.0,Baldwin County,13009.0,County,2021-07-08,Partial,16030.0,44890.0,27
+GA,13.0,Banks County,13011.0,County,2021-07-08,Partial,4638.0,19234.0,27
+GA,13.0,Barrow County,13013.0,County,2021-07-08,Partial,26743.0,83240.0,27
+GA,13.0,Bartow County,13015.0,County,2021-07-08,Partial,32098.0,107738.0,27
+GA,13.0,Ben Hill County,13017.0,County,2021-07-08,Partial,5072.0,16700.0,27
+GA,13.0,Berrien County,13019.0,County,2021-07-08,Partial,4837.0,19397.0,27
+GA,13.0,Bibb County,13021.0,County,2021-07-08,Partial,56598.0,153159.0,27
+GA,13.0,Bleckley County,13023.0,County,2021-07-08,Partial,3548.0,12873.0,27
+GA,13.0,Brantley County,13025.0,County,2021-07-08,Partial,3564.0,19109.0,27
+GA,13.0,Brooks County,13027.0,County,2021-07-08,Partial,5428.0,15457.0,27
+GA,13.0,Bryan County,13029.0,County,2021-07-08,Partial,15253.0,39627.0,27
+GA,13.0,Bulloch County,13031.0,County,2021-07-08,Partial,21201.0,79608.0,27
+GA,13.0,Burke County,13033.0,County,2021-07-08,Partial,8064.0,22383.0,27
+GA,13.0,Butts County,13035.0,County,2021-07-08,Partial,6595.0,24936.0,27
+GA,13.0,Calhoun County,13037.0,County,2021-07-08,Partial,2344.0,6189.0,27
+GA,13.0,Camden County,13039.0,County,2021-07-08,Partial,15844.0,54666.0,27
+GA,13.0,Candler County,13043.0,County,2021-07-08,Partial,3632.0,10803.0,27
+GA,13.0,Carroll County,13045.0,County,2021-07-08,Partial,35452.0,119992.0,27
+GA,13.0,Catoosa County,13047.0,County,2021-07-08,Partial,21478.0,67580.0,27
+GA,13.0,Charlton County,13049.0,County,2021-07-08,Partial,2075.0,13392.0,27
+GA,13.0,Chatham County,13051.0,County,2021-07-08,Partial,128881.0,289430.0,27
+GA,13.0,Chattahoochee County,13053.0,County,2021-07-08,Partial,1671.0,10907.0,27
+GA,13.0,Chattooga County,13055.0,County,2021-07-08,Partial,7489.0,24789.0,27
+GA,13.0,Cherokee County,13057.0,County,2021-07-08,Partial,108458.0,258773.0,27
+GA,13.0,Clarke County,13059.0,County,2021-07-08,Partial,52224.0,128331.0,27
+GA,13.0,Clay County,13061.0,County,2021-07-07,Partial,1450.0,2834.0,27
+GA,13.0,Clayton County,13063.0,County,2021-07-08,Partial,99306.0,292256.0,27
+GA,13.0,Clinch County,13065.0,County,2021-07-07,Partial,1965.0,6618.0,27
+GA,13.0,Cobb County,13067.0,County,2021-07-08,Partial,383251.0,760141.0,27
+GA,13.0,Coffee County,13069.0,County,2021-07-08,Partial,11697.0,43273.0,27
+GA,13.0,Colquitt County,13071.0,County,2021-07-08,Partial,14310.0,45600.0,27
+GA,13.0,Columbia County,13073.0,County,2021-07-08,Partial,58526.0,156714.0,27
+GA,13.0,Cook County,13075.0,County,2021-07-08,Partial,5435.0,17270.0,27
+GA,13.0,Coweta County,13077.0,County,2021-07-08,Partial,52889.0,148509.0,27
+GA,13.0,Crawford County,13079.0,County,2021-07-07,Partial,3792.0,12404.0,27
+GA,13.0,Crisp County,13081.0,County,2021-07-08,Partial,7976.0,22372.0,27
+GA,13.0,Dade County,13083.0,County,2021-07-08,Partial,4495.0,16116.0,27
+GA,13.0,Dawson County,13085.0,County,2021-07-08,Partial,8465.0,26108.0,27
+GA,13.0,Decatur County,13087.0,County,2021-07-08,Partial,9283.0,26404.0,27
+GA,13.0,DeKalb County,13089.0,County,2021-07-08,Partial,365242.0,759297.0,27
+GA,13.0,Dodge County,13091.0,County,2021-07-08,Partial,5686.0,20605.0,27
+GA,13.0,Dooly County,13093.0,County,2021-07-08,Partial,3889.0,13390.0,27
+GA,13.0,Dougherty County,13095.0,County,2021-07-08,Partial,32850.0,87956.0,27
+GA,13.0,Douglas County,13097.0,County,2021-07-08,Partial,54441.0,146343.0,27
+GA,13.0,Early County,13099.0,County,2021-07-08,Partial,3775.0,10190.0,27
+GA,13.0,Echols County,13101.0,County,2021-07-08,Partial,934.0,4006.0,27
+GA,13.0,Effingham County,13103.0,County,2021-07-08,Partial,19086.0,64296.0,27
+GA,13.0,Elbert County,13105.0,County,2021-07-08,Partial,6640.0,19194.0,27
+GA,13.0,Emanuel County,13107.0,County,2021-07-07,Partial,6414.0,22646.0,27
+GA,13.0,Evans County,13109.0,County,2021-07-08,Partial,3494.0,10654.0,27
+GA,13.0,Fannin County,13111.0,County,2021-07-08,Partial,9145.0,26188.0,27
+GA,13.0,Fayette County,13113.0,County,2021-07-08,Partial,62273.0,114421.0,27
+GA,13.0,Floyd County,13115.0,County,2021-07-08,Partial,33873.0,98498.0,27
+GA,13.0,Forsyth County,13117.0,County,2021-07-08,Partial,114141.0,244252.0,27
+GA,13.0,Franklin County,13119.0,County,2021-07-08,Partial,6896.0,23349.0,27
+GA,13.0,Fulton County,13121.0,County,2021-07-08,Partial,531054.0,1063937.0,27
+GA,13.0,Gilmer County,13123.0,County,2021-07-08,Partial,11360.0,31369.0,27
+GA,13.0,Glascock County,13125.0,County,2021-07-07,Partial,788.0,2971.0,27
+GA,13.0,Glynn County,13127.0,County,2021-07-08,Partial,35112.0,85292.0,27
+GA,13.0,Gordon County,13129.0,County,2021-07-08,Partial,17615.0,57963.0,27
+GA,13.0,Grady County,13131.0,County,2021-07-08,Partial,7795.0,24633.0,27
+GA,13.0,Greene County,13133.0,County,2021-07-08,Partial,8489.0,18324.0,27
+GA,13.0,Gwinnett County,13135.0,County,2021-07-08,Partial,444636.0,936250.0,27
+GA,13.0,Habersham County,13137.0,County,2021-07-08,Partial,15161.0,45328.0,27
+GA,13.0,Hall County,13139.0,County,2021-07-08,Partial,75802.0,204441.0,27
+GA,13.0,Hancock County,13141.0,County,2021-07-07,Partial,3403.0,8457.0,27
+GA,13.0,Haralson County,13143.0,County,2021-07-08,Partial,7930.0,29792.0,27
+GA,13.0,Harris County,13145.0,County,2021-07-08,Partial,12793.0,35236.0,27
+GA,13.0,Hart County,13147.0,County,2021-07-08,Partial,8293.0,26205.0,27
+GA,13.0,Heard County,13149.0,County,2021-07-08,Partial,2641.0,11923.0,27
+GA,13.0,Henry County,13151.0,County,2021-07-08,Partial,84790.0,234561.0,27
+GA,13.0,Houston County,13153.0,County,2021-07-08,Partial,55723.0,157863.0,27
+GA,13.0,Irwin County,13155.0,County,2021-07-08,Partial,2735.0,9416.0,27
+GA,13.0,Jackson County,13157.0,County,2021-07-08,Partial,24668.0,72977.0,27
+GA,13.0,Jasper County,13159.0,County,2021-07-08,Partial,3960.0,14219.0,27
+GA,13.0,Jeff Davis County,13161.0,County,2021-07-08,Partial,3463.0,15115.0,27
+GA,13.0,Jefferson County,13163.0,County,2021-07-08,Partial,6333.0,15362.0,27
+GA,13.0,Jenkins County,13165.0,County,2021-07-07,Partial,2357.0,8676.0,27
+GA,13.0,Johnson County,13167.0,County,2021-07-08,Partial,2521.0,9643.0,27
+GA,13.0,Jones County,13169.0,County,2021-07-08,Partial,9822.0,28735.0,27
+GA,13.0,Lamar County,13171.0,County,2021-07-08,Partial,5325.0,19077.0,27
+GA,13.0,Lanier County,13173.0,County,2021-07-08,Partial,2240.0,10423.0,27
+GA,13.0,Laurens County,13175.0,County,2021-07-08,Partial,15791.0,47546.0,27
+GA,13.0,Lee County,13177.0,County,2021-07-08,Partial,12116.0,29992.0,27
+GA,13.0,Liberty County,13179.0,County,2021-07-08,Partial,14041.0,61435.0,27
+GA,13.0,Lincoln County,13181.0,County,2021-07-08,Partial,3024.0,7921.0,27
+GA,13.0,Long County,13183.0,County,2021-07-08,Partial,2950.0,19559.0,27
+GA,13.0,Lowndes County,13185.0,County,2021-07-08,Partial,33702.0,117406.0,27
+GA,13.0,Lumpkin County,13187.0,County,2021-07-08,Partial,9957.0,33610.0,27
+GA,13.0,McDuffie County,13189.0,County,2021-07-08,Partial,7576.0,21312.0,27
+GA,13.0,McIntosh County,13191.0,County,2021-07-08,Partial,4699.0,14378.0,27
+GA,13.0,Macon County,13193.0,County,2021-07-08,Partial,4368.0,12947.0,27
+GA,13.0,Madison County,13195.0,County,2021-07-08,Partial,10829.0,29880.0,27
+GA,13.0,Marion County,13197.0,County,2021-07-08,Partial,2729.0,8359.0,27
+GA,13.0,Meriwether County,13199.0,County,2021-07-08,Partial,7022.0,21167.0,27
+GA,13.0,Miller County,13201.0,County,2021-07-08,Partial,2317.0,5718.0,27
+GA,13.0,Mitchell County,13205.0,County,2021-07-08,Partial,7547.0,21863.0,27
+GA,13.0,Monroe County,13207.0,County,2021-07-08,Partial,10159.0,27578.0,27
+GA,13.0,Montgomery County,13209.0,County,2021-07-08,Partial,2377.0,9172.0,27
+GA,13.0,Morgan County,13211.0,County,2021-07-08,Partial,7347.0,19276.0,27
+GA,13.0,Murray County,13213.0,County,2021-07-08,Partial,11556.0,40096.0,27
+GA,13.0,Muscogee County,13215.0,County,2021-07-08,Partial,67071.0,195769.0,27
+GA,13.0,Newton County,13217.0,County,2021-07-08,Partial,37822.0,111744.0,27
+GA,13.0,Oconee County,13219.0,County,2021-07-08,Partial,20387.0,40280.0,27
+GA,13.0,Oglethorpe County,13221.0,County,2021-07-08,Partial,5463.0,15259.0,27
+GA,13.0,Paulding County,13223.0,County,2021-07-08,Partial,50978.0,168667.0,27
+GA,13.0,Peach County,13225.0,County,2021-07-08,Partial,10094.0,27546.0,27
+GA,13.0,Pickens County,13227.0,County,2021-07-08,Partial,12114.0,32591.0,27
+GA,13.0,Pierce County,13229.0,County,2021-07-08,Partial,5050.0,19465.0,27
+GA,13.0,Pike County,13231.0,County,2021-07-08,Partial,4858.0,18962.0,27
+GA,13.0,Polk County,13233.0,County,2021-07-08,Partial,12674.0,42613.0,27
+GA,13.0,Pulaski County,13235.0,County,2021-07-07,Partial,3262.0,11137.0,27
+GA,13.0,Putnam County,13237.0,County,2021-07-08,Partial,7876.0,22119.0,27
 GA,13.0,Quitman County,13239.0,County,2021-07-01,Partial,731.0,2299.0,26
-GA,13.0,Rabun County,13241.0,County,2021-07-03,Partial,6927.0,17137.0,26
-GA,13.0,Randolph County,13243.0,County,2021-07-03,Partial,2431.0,6778.0,26
-GA,13.0,Richmond County,13245.0,County,2021-07-05,Partial,66811.0,202518.0,27
-GA,13.0,Rockdale County,13247.0,County,2021-07-05,Partial,37984.0,90896.0,27
-GA,13.0,Schley County,13249.0,County,2021-07-05,Partial,1328.0,5257.0,27
-GA,13.0,Screven County,13251.0,County,2021-07-03,Partial,5038.0,13966.0,26
-GA,13.0,Seminole County,13253.0,County,2021-07-02,Partial,2785.0,8090.0,26
-GA,13.0,Spalding County,13255.0,County,2021-07-05,Partial,21462.0,66703.0,27
-GA,13.0,Stephens County,13257.0,County,2021-07-05,Partial,8518.0,25925.0,27
-GA,13.0,Stewart County,13259.0,County,2021-07-02,Partial,1715.0,6621.0,26
-GA,13.0,Sumter County,13261.0,County,2021-07-05,Partial,11931.0,29524.0,27
-GA,13.0,Talbot County,13263.0,County,2021-07-05,Partial,2439.0,6195.0,27
-GA,13.0,Taliaferro County,13265.0,County,2021-07-03,Partial,570.0,1537.0,26
-GA,13.0,Tattnall County,13267.0,County,2021-07-05,Partial,6486.0,25286.0,27
-GA,13.0,Telfair County,13271.0,County,2021-07-05,Partial,3409.0,15860.0,27
-GA,13.0,Terrell County,13273.0,County,2021-07-05,Partial,3716.0,8531.0,27
-GA,13.0,Thomas County,13275.0,County,2021-07-05,Partial,16946.0,44451.0,27
-GA,13.0,Tift County,13277.0,County,2021-07-04,Partial,12953.0,40644.0,26
-GA,13.0,Toombs County,13279.0,County,2021-07-05,Partial,8000.0,26830.0,27
-GA,13.0,Towns County,13281.0,County,2021-07-03,Partial,5369.0,12037.0,26
-GA,13.0,Treutlen County,13283.0,County,2021-07-05,Partial,1597.0,6901.0,27
-GA,13.0,Troup County,13285.0,County,2021-07-05,Partial,19562.0,69922.0,27
-GA,13.0,Turner County,13287.0,County,2021-07-03,Partial,3148.0,7985.0,26
-GA,13.0,Twiggs County,13289.0,County,2021-07-03,Partial,3441.0,8120.0,26
-GA,13.0,Union County,13291.0,County,2021-07-03,Partial,9914.0,24511.0,26
-GA,13.0,Upson County,13293.0,County,2021-07-05,Partial,9254.0,26320.0,27
-GA,13.0,Walker County,13295.0,County,2021-07-05,Partial,18829.0,69761.0,27
-GA,13.0,Walton County,13297.0,County,2021-07-05,Partial,31660.0,94593.0,27
-GA,13.0,Ware County,13299.0,County,2021-07-05,Partial,10711.0,35734.0,27
-GA,13.0,Washington County,13303.0,County,2021-07-05,Partial,7053.0,20374.0,27
-GA,13.0,Wayne County,13305.0,County,2021-07-05,Partial,8293.0,29927.0,27
-GA,13.0,Webster County,13307.0,County,2021-07-01,Partial,928.0,2607.0,26
-GA,13.0,White County,13311.0,County,2021-07-03,Partial,9346.0,30798.0,26
-GA,13.0,Whitfield County,13313.0,County,2021-07-05,Partial,37284.0,104628.0,27
-GA,13.0,Wilkes County,13317.0,County,2021-07-05,Partial,3719.0,9777.0,27
-GA,13.0,Wilkinson County,13319.0,County,2021-07-05,Partial,3692.0,8954.0,27
-GA,13.0,Worth County,13321.0,County,2021-07-05,Partial,6603.0,20247.0,27
-GA,13.0,Appling County,13001.0,County,2021-07-05,Complete,4523.0,18386.0,27
-GA,13.0,Atkinson County,13003.0,County,2021-07-03,Complete,1868.0,8165.0,26
-GA,13.0,Bacon County,13005.0,County,2021-07-03,Complete,2383.0,11164.0,26
-GA,13.0,Baker County,13007.0,County,2021-07-01,Complete,994.0,3038.0,26
-GA,13.0,Baldwin County,13009.0,County,2021-07-05,Complete,14571.0,44890.0,27
-GA,13.0,Banks County,13011.0,County,2021-07-05,Complete,4234.0,19234.0,27
-GA,13.0,Barrow County,13013.0,County,2021-07-05,Complete,24019.0,83240.0,27
-GA,13.0,Bartow County,13015.0,County,2021-07-05,Complete,29032.0,107738.0,27
-GA,13.0,Ben Hill County,13017.0,County,2021-07-05,Complete,4633.0,16700.0,27
-GA,13.0,Berrien County,13019.0,County,2021-07-04,Complete,4411.0,19397.0,26
-GA,13.0,Bibb County,13021.0,County,2021-07-05,Complete,50644.0,153159.0,27
-GA,13.0,Bleckley County,13023.0,County,2021-07-05,Complete,3218.0,12873.0,27
-GA,13.0,Brantley County,13025.0,County,2021-07-05,Complete,3239.0,19109.0,27
-GA,13.0,Brooks County,13027.0,County,2021-07-05,Complete,4963.0,15457.0,27
-GA,13.0,Bryan County,13029.0,County,2021-07-05,Complete,13872.0,39627.0,27
-GA,13.0,Bulloch County,13031.0,County,2021-07-05,Complete,19245.0,79608.0,27
-GA,13.0,Burke County,13033.0,County,2021-07-05,Complete,7262.0,22383.0,27
-GA,13.0,Butts County,13035.0,County,2021-07-05,Complete,5983.0,24936.0,27
-GA,13.0,Calhoun County,13037.0,County,2021-07-02,Complete,2135.0,6189.0,26
-GA,13.0,Camden County,13039.0,County,2021-07-05,Complete,14520.0,54666.0,27
-GA,13.0,Candler County,13043.0,County,2021-07-05,Complete,3317.0,10803.0,27
-GA,13.0,Carroll County,13045.0,County,2021-07-05,Complete,31889.0,119992.0,27
-GA,13.0,Catoosa County,13047.0,County,2021-07-05,Complete,19140.0,67580.0,27
-GA,13.0,Charlton County,13049.0,County,2021-07-02,Complete,1897.0,13392.0,26
-GA,13.0,Chatham County,13051.0,County,2021-07-05,Complete,116269.0,289430.0,27
-GA,13.0,Chattahoochee County,13053.0,County,2021-07-03,Complete,1444.0,10907.0,26
-GA,13.0,Chattooga County,13055.0,County,2021-07-05,Complete,6819.0,24789.0,27
-GA,13.0,Cherokee County,13057.0,County,2021-07-05,Complete,99049.0,258773.0,27
-GA,13.0,Clarke County,13059.0,County,2021-07-05,Complete,48203.0,128331.0,27
-GA,13.0,Clay County,13061.0,County,2021-07-01,Complete,1250.0,2834.0,26
-GA,13.0,Clayton County,13063.0,County,2021-07-05,Complete,85939.0,292256.0,27
-GA,13.0,Clinch County,13065.0,County,2021-07-03,Complete,1803.0,6618.0,26
-GA,13.0,Cobb County,13067.0,County,2021-07-05,Complete,342946.0,760141.0,27
-GA,13.0,Coffee County,13069.0,County,2021-07-05,Complete,10378.0,43273.0,27
-GA,13.0,Colquitt County,13071.0,County,2021-07-05,Complete,12779.0,45600.0,27
-GA,13.0,Columbia County,13073.0,County,2021-07-05,Complete,53560.0,156714.0,27
-GA,13.0,Cook County,13075.0,County,2021-07-05,Complete,4955.0,17270.0,27
-GA,13.0,Coweta County,13077.0,County,2021-07-05,Complete,47320.0,148509.0,27
-GA,13.0,Crawford County,13079.0,County,2021-07-05,Complete,3457.0,12404.0,27
-GA,13.0,Crisp County,13081.0,County,2021-07-05,Complete,7102.0,22372.0,27
-GA,13.0,Dade County,13083.0,County,2021-07-05,Complete,4034.0,16116.0,27
-GA,13.0,Dawson County,13085.0,County,2021-07-05,Complete,7774.0,26108.0,27
-GA,13.0,Decatur County,13087.0,County,2021-07-05,Complete,8331.0,26404.0,27
-GA,13.0,DeKalb County,13089.0,County,2021-07-05,Complete,321683.0,759297.0,27
-GA,13.0,Dodge County,13091.0,County,2021-07-05,Complete,5127.0,20605.0,27
-GA,13.0,Dooly County,13093.0,County,2021-07-05,Complete,3521.0,13390.0,27
-GA,13.0,Dougherty County,13095.0,County,2021-07-05,Complete,29367.0,87956.0,27
-GA,13.0,Douglas County,13097.0,County,2021-07-05,Complete,47638.0,146343.0,27
-GA,13.0,Early County,13099.0,County,2021-07-02,Complete,3491.0,10190.0,26
-GA,13.0,Echols County,13101.0,County,2021-07-02,Complete,826.0,4006.0,26
-GA,13.0,Effingham County,13103.0,County,2021-07-05,Complete,17346.0,64296.0,27
-GA,13.0,Elbert County,13105.0,County,2021-07-05,Complete,6108.0,19194.0,27
-GA,13.0,Emanuel County,13107.0,County,2021-07-05,Complete,5864.0,22646.0,27
-GA,13.0,Evans County,13109.0,County,2021-07-05,Complete,3107.0,10654.0,27
-GA,13.0,Fannin County,13111.0,County,2021-07-05,Complete,8468.0,26188.0,27
-GA,13.0,Fayette County,13113.0,County,2021-07-05,Complete,56665.0,114421.0,27
-GA,13.0,Floyd County,13115.0,County,2021-07-05,Complete,30957.0,98498.0,27
-GA,13.0,Forsyth County,13117.0,County,2021-07-05,Complete,104716.0,244252.0,27
-GA,13.0,Franklin County,13119.0,County,2021-07-05,Complete,6305.0,23349.0,27
-GA,13.0,Fulton County,13121.0,County,2021-07-05,Complete,470405.0,1063937.0,27
-GA,13.0,Gilmer County,13123.0,County,2021-07-05,Complete,10491.0,31369.0,27
-GA,13.0,Glascock County,13125.0,County,2021-07-05,Complete,728.0,2971.0,27
-GA,13.0,Glynn County,13127.0,County,2021-07-05,Complete,32672.0,85292.0,27
-GA,13.0,Gordon County,13129.0,County,2021-07-05,Complete,15938.0,57963.0,27
-GA,13.0,Grady County,13131.0,County,2021-07-05,Complete,7138.0,24633.0,27
-GA,13.0,Greene County,13133.0,County,2021-07-05,Complete,7887.0,18324.0,27
-GA,13.0,Gwinnett County,13135.0,County,2021-07-05,Complete,395826.0,936250.0,27
-GA,13.0,Habersham County,13137.0,County,2021-07-05,Complete,13662.0,45328.0,27
-GA,13.0,Hall County,13139.0,County,2021-07-05,Complete,68334.0,204441.0,27
-GA,13.0,Hancock County,13141.0,County,2021-07-05,Complete,3105.0,8457.0,27
-GA,13.0,Haralson County,13143.0,County,2021-07-05,Complete,7253.0,29792.0,27
-GA,13.0,Harris County,13145.0,County,2021-07-05,Complete,11255.0,35236.0,27
-GA,13.0,Hart County,13147.0,County,2021-07-05,Complete,7575.0,26205.0,27
-GA,13.0,Heard County,13149.0,County,2021-07-05,Complete,2376.0,11923.0,27
-GA,13.0,Henry County,13151.0,County,2021-07-05,Complete,75818.0,234561.0,27
-GA,13.0,Houston County,13153.0,County,2021-07-05,Complete,50139.0,157863.0,27
-GA,13.0,Irwin County,13155.0,County,2021-07-03,Complete,2476.0,9416.0,26
-GA,13.0,Jackson County,13157.0,County,2021-07-05,Complete,22531.0,72977.0,27
-GA,13.0,Jasper County,13159.0,County,2021-07-05,Complete,3633.0,14219.0,27
-GA,13.0,Jeff Davis County,13161.0,County,2021-07-05,Complete,3171.0,15115.0,27
-GA,13.0,Jefferson County,13163.0,County,2021-07-05,Complete,5770.0,15362.0,27
-GA,13.0,Jenkins County,13165.0,County,2021-07-03,Complete,2164.0,8676.0,26
-GA,13.0,Johnson County,13167.0,County,2021-07-03,Complete,2306.0,9643.0,26
-GA,13.0,Jones County,13169.0,County,2021-07-05,Complete,8930.0,28735.0,27
-GA,13.0,Lamar County,13171.0,County,2021-07-05,Complete,4876.0,19077.0,27
-GA,13.0,Lanier County,13173.0,County,2021-07-03,Complete,2005.0,10423.0,26
-GA,13.0,Laurens County,13175.0,County,2021-07-05,Complete,14329.0,47546.0,27
-GA,13.0,Lee County,13177.0,County,2021-07-05,Complete,10925.0,29992.0,27
-GA,13.0,Liberty County,13179.0,County,2021-07-05,Complete,12525.0,61435.0,27
-GA,13.0,Lincoln County,13181.0,County,2021-07-05,Complete,2753.0,7921.0,27
-GA,13.0,Long County,13183.0,County,2021-07-05,Complete,2622.0,19559.0,27
-GA,13.0,Lowndes County,13185.0,County,2021-07-05,Complete,30121.0,117406.0,27
-GA,13.0,Lumpkin County,13187.0,County,2021-07-05,Complete,9139.0,33610.0,27
-GA,13.0,McDuffie County,13189.0,County,2021-07-05,Complete,6755.0,21312.0,27
-GA,13.0,McIntosh County,13191.0,County,2021-07-04,Complete,4412.0,14378.0,26
-GA,13.0,Macon County,13193.0,County,2021-07-05,Complete,3947.0,12947.0,27
-GA,13.0,Madison County,13195.0,County,2021-07-05,Complete,9943.0,29880.0,27
-GA,13.0,Marion County,13197.0,County,2021-07-05,Complete,2364.0,8359.0,27
-GA,13.0,Meriwether County,13199.0,County,2021-07-05,Complete,6355.0,21167.0,27
-GA,13.0,Miller County,13201.0,County,2021-07-03,Complete,2175.0,5718.0,26
-GA,13.0,Mitchell County,13205.0,County,2021-07-05,Complete,6879.0,21863.0,27
-GA,13.0,Monroe County,13207.0,County,2021-07-04,Complete,9245.0,27578.0,26
-GA,13.0,Montgomery County,13209.0,County,2021-07-05,Complete,2183.0,9172.0,27
-GA,13.0,Morgan County,13211.0,County,2021-07-05,Complete,6812.0,19276.0,27
-GA,13.0,Murray County,13213.0,County,2021-07-05,Complete,10397.0,40096.0,27
-GA,13.0,Muscogee County,13215.0,County,2021-07-05,Complete,59443.0,195769.0,27
-GA,13.0,Newton County,13217.0,County,2021-07-05,Complete,33606.0,111744.0,27
-GA,13.0,Oconee County,13219.0,County,2021-07-05,Complete,19017.0,40280.0,27
-GA,13.0,Oglethorpe County,13221.0,County,2021-07-05,Complete,5065.0,15259.0,27
-GA,13.0,Paulding County,13223.0,County,2021-07-05,Complete,45741.0,168667.0,27
-GA,13.0,Peach County,13225.0,County,2021-07-03,Complete,9050.0,27546.0,26
-GA,13.0,Pickens County,13227.0,County,2021-07-05,Complete,11253.0,32591.0,27
-GA,13.0,Pierce County,13229.0,County,2021-07-03,Complete,4588.0,19465.0,26
-GA,13.0,Pike County,13231.0,County,2021-07-05,Complete,4463.0,18962.0,27
-GA,13.0,Polk County,13233.0,County,2021-07-05,Complete,11442.0,42613.0,27
-GA,13.0,Pulaski County,13235.0,County,2021-07-02,Complete,2973.0,11137.0,26
-GA,13.0,Putnam County,13237.0,County,2021-07-05,Complete,7290.0,22119.0,27
-GA,13.0,Quitman County,13239.0,County,2021-06-29,Complete,657.0,2299.0,26
-GA,13.0,Rabun County,13241.0,County,2021-07-03,Complete,6439.0,17137.0,26
-GA,13.0,Randolph County,13243.0,County,2021-07-03,Complete,2153.0,6778.0,26
-GA,13.0,Richmond County,13245.0,County,2021-07-05,Complete,60763.0,202518.0,27
-GA,13.0,Rockdale County,13247.0,County,2021-07-05,Complete,34148.0,90896.0,27
-GA,13.0,Schley County,13249.0,County,2021-07-05,Complete,1241.0,5257.0,27
-GA,13.0,Screven County,13251.0,County,2021-07-03,Complete,4651.0,13966.0,26
-GA,13.0,Seminole County,13253.0,County,2021-07-04,Complete,2594.0,8090.0,26
-GA,13.0,Spalding County,13255.0,County,2021-07-05,Complete,19555.0,66703.0,27
-GA,13.0,Stephens County,13257.0,County,2021-07-05,Complete,7888.0,25925.0,27
-GA,13.0,Stewart County,13259.0,County,2021-07-02,Complete,1590.0,6621.0,26
-GA,13.0,Sumter County,13261.0,County,2021-07-05,Complete,10930.0,29524.0,27
-GA,13.0,Talbot County,13263.0,County,2021-07-05,Complete,2235.0,6195.0,27
-GA,13.0,Taliaferro County,13265.0,County,2021-07-01,Complete,518.0,1537.0,26
-GA,13.0,Tattnall County,13267.0,County,2021-07-05,Complete,5912.0,25286.0,27
-GA,13.0,Taylor County,13269.0,County,2021-07-05,Complete,2648.0,8020.0,27
-GA,13.0,Telfair County,13271.0,County,2021-07-05,Complete,3105.0,15860.0,27
-GA,13.0,Terrell County,13273.0,County,2021-07-05,Complete,3408.0,8531.0,27
-GA,13.0,Thomas County,13275.0,County,2021-07-05,Complete,15340.0,44451.0,27
-GA,13.0,Tift County,13277.0,County,2021-07-04,Complete,11678.0,40644.0,26
-GA,13.0,Toombs County,13279.0,County,2021-07-05,Complete,7341.0,26830.0,27
-GA,13.0,Towns County,13281.0,County,2021-07-03,Complete,5052.0,12037.0,26
-GA,13.0,Treutlen County,13283.0,County,2021-07-05,Complete,1439.0,6901.0,27
-GA,13.0,Troup County,13285.0,County,2021-07-05,Complete,17653.0,69922.0,27
-GA,13.0,Turner County,13287.0,County,2021-07-03,Complete,2790.0,7985.0,26
-GA,13.0,Twiggs County,13289.0,County,2021-07-03,Complete,3063.0,8120.0,26
-GA,13.0,Union County,13291.0,County,2021-07-03,Complete,9372.0,24511.0,26
-GA,13.0,Upson County,13293.0,County,2021-07-05,Complete,8665.0,26320.0,27
-GA,13.0,Walker County,13295.0,County,2021-07-05,Complete,16939.0,69761.0,27
-GA,13.0,Walton County,13297.0,County,2021-07-05,Complete,28987.0,94593.0,27
-GA,13.0,Ware County,13299.0,County,2021-07-05,Complete,9724.0,35734.0,27
-GA,13.0,Warren County,13301.0,County,2021-07-05,Complete,1788.0,5254.0,27
-GA,13.0,Washington County,13303.0,County,2021-07-05,Complete,6449.0,20374.0,27
-GA,13.0,Wayne County,13305.0,County,2021-07-05,Complete,7596.0,29927.0,27
-GA,13.0,Webster County,13307.0,County,2021-07-02,Complete,867.0,2607.0,26
-GA,13.0,Wheeler County,13309.0,County,2021-07-05,Complete,1374.0,7855.0,27
-GA,13.0,White County,13311.0,County,2021-07-03,Complete,8635.0,30798.0,26
-GA,13.0,Whitfield County,13313.0,County,2021-07-05,Complete,33595.0,104628.0,27
-GA,13.0,Wilcox County,13315.0,County,2021-07-05,Complete,2242.0,8635.0,27
-GA,13.0,Wilkes County,13317.0,County,2021-07-05,Complete,3416.0,9777.0,27
-GA,13.0,Wilkinson County,13319.0,County,2021-07-05,Complete,3371.0,8954.0,27
-GA,13.0,Worth County,13321.0,County,2021-07-05,Complete,6068.0,20247.0,27
+GA,13.0,Rabun County,13241.0,County,2021-07-08,Partial,6966.0,17137.0,27
+GA,13.0,Randolph County,13243.0,County,2021-07-08,Partial,2458.0,6778.0,27
+GA,13.0,Richmond County,13245.0,County,2021-07-08,Partial,67608.0,202518.0,27
+GA,13.0,Rockdale County,13247.0,County,2021-07-08,Partial,38341.0,90896.0,27
+GA,13.0,Schley County,13249.0,County,2021-07-08,Partial,1339.0,5257.0,27
+GA,13.0,Screven County,13251.0,County,2021-07-08,Partial,5074.0,13966.0,27
+GA,13.0,Seminole County,13253.0,County,2021-07-08,Partial,2801.0,8090.0,27
+GA,13.0,Spalding County,13255.0,County,2021-07-08,Partial,21620.0,66703.0,27
+GA,13.0,Stephens County,13257.0,County,2021-07-08,Partial,8577.0,25925.0,27
+GA,13.0,Stewart County,13259.0,County,2021-07-08,Partial,1727.0,6621.0,27
+GA,13.0,Sumter County,13261.0,County,2021-07-08,Partial,12026.0,29524.0,27
+GA,13.0,Talbot County,13263.0,County,2021-07-08,Partial,2458.0,6195.0,27
+GA,13.0,Taliaferro County,13265.0,County,2021-07-07,Partial,577.0,1537.0,27
+GA,13.0,Tattnall County,13267.0,County,2021-07-08,Partial,6517.0,25286.0,27
+GA,13.0,Taylor County,13269.0,County,2021-07-07,Partial,2890.0,8020.0,27
+GA,13.0,Telfair County,13271.0,County,2021-07-08,Partial,3422.0,15860.0,27
+GA,13.0,Terrell County,13273.0,County,2021-07-08,Partial,3747.0,8531.0,27
+GA,13.0,Thomas County,13275.0,County,2021-07-08,Partial,17061.0,44451.0,27
+GA,13.0,Tift County,13277.0,County,2021-07-08,Partial,13039.0,40644.0,27
+GA,13.0,Toombs County,13279.0,County,2021-07-08,Partial,8060.0,26830.0,27
+GA,13.0,Towns County,13281.0,County,2021-07-08,Partial,5404.0,12037.0,27
+GA,13.0,Treutlen County,13283.0,County,2021-07-08,Partial,1603.0,6901.0,27
+GA,13.0,Troup County,13285.0,County,2021-07-08,Partial,19764.0,69922.0,27
+GA,13.0,Turner County,13287.0,County,2021-07-08,Partial,3162.0,7985.0,27
+GA,13.0,Twiggs County,13289.0,County,2021-07-08,Partial,3475.0,8120.0,27
+GA,13.0,Union County,13291.0,County,2021-07-08,Partial,9968.0,24511.0,27
+GA,13.0,Upson County,13293.0,County,2021-07-08,Partial,9301.0,26320.0,27
+GA,13.0,Walker County,13295.0,County,2021-07-08,Partial,18958.0,69761.0,27
+GA,13.0,Walton County,13297.0,County,2021-07-08,Partial,31918.0,94593.0,27
+GA,13.0,Ware County,13299.0,County,2021-07-08,Partial,10765.0,35734.0,27
+GA,13.0,Warren County,13301.0,County,2021-07-08,Partial,2031.0,5254.0,27
+GA,13.0,Washington County,13303.0,County,2021-07-08,Partial,7091.0,20374.0,27
+GA,13.0,Wayne County,13305.0,County,2021-07-08,Partial,8337.0,29927.0,27
+GA,13.0,Webster County,13307.0,County,2021-07-08,Partial,945.0,2607.0,27
+GA,13.0,Wheeler County,13309.0,County,2021-07-08,Partial,1483.0,7855.0,27
+GA,13.0,White County,13311.0,County,2021-07-08,Partial,9398.0,30798.0,27
+GA,13.0,Whitfield County,13313.0,County,2021-07-08,Partial,37531.0,104628.0,27
+GA,13.0,Wilcox County,13315.0,County,2021-07-07,Partial,2467.0,8635.0,27
+GA,13.0,Wilkes County,13317.0,County,2021-07-08,Partial,3748.0,9777.0,27
+GA,13.0,Wilkinson County,13319.0,County,2021-07-08,Partial,3712.0,8954.0,27
+GA,13.0,Worth County,13321.0,County,2021-07-08,Partial,6639.0,20247.0,27
+GA,13.0,Appling County,13001.0,County,2021-07-08,Complete,4552.0,18386.0,27
+GA,13.0,Atkinson County,13003.0,County,2021-07-07,Complete,1881.0,8165.0,27
+GA,13.0,Bacon County,13005.0,County,2021-07-08,Complete,2397.0,11164.0,27
+GA,13.0,Baker County,13007.0,County,2021-07-07,Complete,998.0,3038.0,27
+GA,13.0,Baldwin County,13009.0,County,2021-07-08,Complete,14657.0,44890.0,27
+GA,13.0,Banks County,13011.0,County,2021-07-08,Complete,4251.0,19234.0,27
+GA,13.0,Barrow County,13013.0,County,2021-07-08,Complete,24214.0,83240.0,27
+GA,13.0,Bartow County,13015.0,County,2021-07-08,Complete,29233.0,107738.0,27
+GA,13.0,Ben Hill County,13017.0,County,2021-07-08,Complete,4661.0,16700.0,27
+GA,13.0,Berrien County,13019.0,County,2021-07-08,Complete,4431.0,19397.0,27
+GA,13.0,Bibb County,13021.0,County,2021-07-08,Complete,50948.0,153159.0,27
+GA,13.0,Bleckley County,13023.0,County,2021-07-08,Complete,3234.0,12873.0,27
+GA,13.0,Brantley County,13025.0,County,2021-07-08,Complete,3257.0,19109.0,27
+GA,13.0,Brooks County,13027.0,County,2021-07-08,Complete,5003.0,15457.0,27
+GA,13.0,Bryan County,13029.0,County,2021-07-08,Complete,13964.0,39627.0,27
+GA,13.0,Bulloch County,13031.0,County,2021-07-08,Complete,19360.0,79608.0,27
+GA,13.0,Burke County,13033.0,County,2021-07-08,Complete,7330.0,22383.0,27
+GA,13.0,Butts County,13035.0,County,2021-07-08,Complete,6039.0,24936.0,27
+GA,13.0,Calhoun County,13037.0,County,2021-07-08,Complete,2156.0,6189.0,27
+GA,13.0,Camden County,13039.0,County,2021-07-08,Complete,14642.0,54666.0,27
+GA,13.0,Candler County,13043.0,County,2021-07-08,Complete,3333.0,10803.0,27
+GA,13.0,Carroll County,13045.0,County,2021-07-08,Complete,32126.0,119992.0,27
+GA,13.0,Catoosa County,13047.0,County,2021-07-08,Complete,19245.0,67580.0,27
+GA,13.0,Charlton County,13049.0,County,2021-07-08,Complete,1906.0,13392.0,27
+GA,13.0,Chatham County,13051.0,County,2021-07-08,Complete,117120.0,289430.0,27
+GA,13.0,Chattahoochee County,13053.0,County,2021-07-07,Complete,1459.0,10907.0,27
+GA,13.0,Chattooga County,13055.0,County,2021-07-08,Complete,6855.0,24789.0,27
+GA,13.0,Cherokee County,13057.0,County,2021-07-08,Complete,99663.0,258773.0,27
+GA,13.0,Clarke County,13059.0,County,2021-07-08,Complete,48462.0,128331.0,27
+GA,13.0,Clay County,13061.0,County,2021-07-07,Complete,1276.0,2834.0,27
+GA,13.0,Clayton County,13063.0,County,2021-07-08,Complete,86861.0,292256.0,27
+GA,13.0,Clinch County,13065.0,County,2021-07-08,Complete,1817.0,6618.0,27
+GA,13.0,Cobb County,13067.0,County,2021-07-08,Complete,345190.0,760141.0,27
+GA,13.0,Coffee County,13069.0,County,2021-07-08,Complete,10464.0,43273.0,27
+GA,13.0,Colquitt County,13071.0,County,2021-07-08,Complete,12886.0,45600.0,27
+GA,13.0,Columbia County,13073.0,County,2021-07-08,Complete,53975.0,156714.0,27
+GA,13.0,Cook County,13075.0,County,2021-07-08,Complete,4993.0,17270.0,27
+GA,13.0,Coweta County,13077.0,County,2021-07-08,Complete,47616.0,148509.0,27
+GA,13.0,Crawford County,13079.0,County,2021-07-08,Complete,3475.0,12404.0,27
+GA,13.0,Crisp County,13081.0,County,2021-07-08,Complete,7159.0,22372.0,27
+GA,13.0,Dade County,13083.0,County,2021-07-08,Complete,4059.0,16116.0,27
+GA,13.0,Dawson County,13085.0,County,2021-07-08,Complete,7822.0,26108.0,27
+GA,13.0,Decatur County,13087.0,County,2021-07-08,Complete,8499.0,26404.0,27
+GA,13.0,DeKalb County,13089.0,County,2021-07-08,Complete,324261.0,759297.0,27
+GA,13.0,Dodge County,13091.0,County,2021-07-08,Complete,5165.0,20605.0,27
+GA,13.0,Dooly County,13093.0,County,2021-07-08,Complete,3564.0,13390.0,27
+GA,13.0,Dougherty County,13095.0,County,2021-07-08,Complete,29625.0,87956.0,27
+GA,13.0,Douglas County,13097.0,County,2021-07-08,Complete,48122.0,146343.0,27
+GA,13.0,Early County,13099.0,County,2021-07-08,Complete,3509.0,10190.0,27
+GA,13.0,Echols County,13101.0,County,2021-07-08,Complete,828.0,4006.0,27
+GA,13.0,Effingham County,13103.0,County,2021-07-08,Complete,17452.0,64296.0,27
+GA,13.0,Elbert County,13105.0,County,2021-07-08,Complete,6145.0,19194.0,27
+GA,13.0,Emanuel County,13107.0,County,2021-07-08,Complete,5928.0,22646.0,27
+GA,13.0,Evans County,13109.0,County,2021-07-08,Complete,3126.0,10654.0,27
+GA,13.0,Fannin County,13111.0,County,2021-07-08,Complete,8507.0,26188.0,27
+GA,13.0,Fayette County,13113.0,County,2021-07-08,Complete,57013.0,114421.0,27
+GA,13.0,Floyd County,13115.0,County,2021-07-08,Complete,31192.0,98498.0,27
+GA,13.0,Forsyth County,13117.0,County,2021-07-08,Complete,105354.0,244252.0,27
+GA,13.0,Franklin County,13119.0,County,2021-07-08,Complete,6348.0,23349.0,27
+GA,13.0,Fulton County,13121.0,County,2021-07-08,Complete,473672.0,1063937.0,27
+GA,13.0,Gilmer County,13123.0,County,2021-07-08,Complete,10546.0,31369.0,27
+GA,13.0,Glascock County,13125.0,County,2021-07-07,Complete,729.0,2971.0,27
+GA,13.0,Glynn County,13127.0,County,2021-07-08,Complete,32859.0,85292.0,27
+GA,13.0,Gordon County,13129.0,County,2021-07-08,Complete,16053.0,57963.0,27
+GA,13.0,Grady County,13131.0,County,2021-07-08,Complete,7206.0,24633.0,27
+GA,13.0,Greene County,13133.0,County,2021-07-08,Complete,7927.0,18324.0,27
+GA,13.0,Gwinnett County,13135.0,County,2021-07-08,Complete,399635.0,936250.0,27
+GA,13.0,Habersham County,13137.0,County,2021-07-08,Complete,13732.0,45328.0,27
+GA,13.0,Hall County,13139.0,County,2021-07-08,Complete,68862.0,204441.0,27
+GA,13.0,Hancock County,13141.0,County,2021-07-08,Complete,3129.0,8457.0,27
+GA,13.0,Haralson County,13143.0,County,2021-07-08,Complete,7296.0,29792.0,27
+GA,13.0,Harris County,13145.0,County,2021-07-08,Complete,11353.0,35236.0,27
+GA,13.0,Hart County,13147.0,County,2021-07-08,Complete,7628.0,26205.0,27
+GA,13.0,Heard County,13149.0,County,2021-07-08,Complete,2394.0,11923.0,27
+GA,13.0,Henry County,13151.0,County,2021-07-08,Complete,76459.0,234561.0,27
+GA,13.0,Houston County,13153.0,County,2021-07-08,Complete,50518.0,157863.0,27
+GA,13.0,Irwin County,13155.0,County,2021-07-08,Complete,2490.0,9416.0,27
+GA,13.0,Jackson County,13157.0,County,2021-07-08,Complete,22710.0,72977.0,27
+GA,13.0,Jasper County,13159.0,County,2021-07-07,Complete,3650.0,14219.0,27
+GA,13.0,Jeff Davis County,13161.0,County,2021-07-08,Complete,3188.0,15115.0,27
+GA,13.0,Jefferson County,13163.0,County,2021-07-08,Complete,5838.0,15362.0,27
+GA,13.0,Jenkins County,13165.0,County,2021-07-07,Complete,2175.0,8676.0,27
+GA,13.0,Johnson County,13167.0,County,2021-07-08,Complete,2328.0,9643.0,27
+GA,13.0,Jones County,13169.0,County,2021-07-07,Complete,8975.0,28735.0,27
+GA,13.0,Lamar County,13171.0,County,2021-07-08,Complete,4905.0,19077.0,27
+GA,13.0,Lanier County,13173.0,County,2021-07-08,Complete,2015.0,10423.0,27
+GA,13.0,Laurens County,13175.0,County,2021-07-08,Complete,14441.0,47546.0,27
+GA,13.0,Lee County,13177.0,County,2021-07-08,Complete,11008.0,29992.0,27
+GA,13.0,Liberty County,13179.0,County,2021-07-08,Complete,12669.0,61435.0,27
+GA,13.0,Lincoln County,13181.0,County,2021-07-08,Complete,2762.0,7921.0,27
+GA,13.0,Long County,13183.0,County,2021-07-08,Complete,2645.0,19559.0,27
+GA,13.0,Lowndes County,13185.0,County,2021-07-08,Complete,30396.0,117406.0,27
+GA,13.0,Lumpkin County,13187.0,County,2021-07-08,Complete,9190.0,33610.0,27
+GA,13.0,McDuffie County,13189.0,County,2021-07-08,Complete,6803.0,21312.0,27
+GA,13.0,McIntosh County,13191.0,County,2021-07-08,Complete,4429.0,14378.0,27
+GA,13.0,Macon County,13193.0,County,2021-07-08,Complete,3981.0,12947.0,27
+GA,13.0,Madison County,13195.0,County,2021-07-08,Complete,9986.0,29880.0,27
+GA,13.0,Marion County,13197.0,County,2021-07-08,Complete,2383.0,8359.0,27
+GA,13.0,Meriwether County,13199.0,County,2021-07-08,Complete,6400.0,21167.0,27
+GA,13.0,Miller County,13201.0,County,2021-07-08,Complete,2189.0,5718.0,27
+GA,13.0,Mitchell County,13205.0,County,2021-07-08,Complete,6939.0,21863.0,27
+GA,13.0,Monroe County,13207.0,County,2021-07-08,Complete,9325.0,27578.0,27
+GA,13.0,Montgomery County,13209.0,County,2021-07-08,Complete,2197.0,9172.0,27
+GA,13.0,Morgan County,13211.0,County,2021-07-08,Complete,6845.0,19276.0,27
+GA,13.0,Murray County,13213.0,County,2021-07-08,Complete,10471.0,40096.0,27
+GA,13.0,Muscogee County,13215.0,County,2021-07-08,Complete,59888.0,195769.0,27
+GA,13.0,Newton County,13217.0,County,2021-07-08,Complete,33940.0,111744.0,27
+GA,13.0,Oconee County,13219.0,County,2021-07-08,Complete,19119.0,40280.0,27
+GA,13.0,Oglethorpe County,13221.0,County,2021-07-08,Complete,5082.0,15259.0,27
+GA,13.0,Paulding County,13223.0,County,2021-07-08,Complete,46109.0,168667.0,27
+GA,13.0,Peach County,13225.0,County,2021-07-08,Complete,9091.0,27546.0,27
+GA,13.0,Pickens County,13227.0,County,2021-07-08,Complete,11324.0,32591.0,27
+GA,13.0,Pierce County,13229.0,County,2021-07-08,Complete,4627.0,19465.0,27
+GA,13.0,Pike County,13231.0,County,2021-07-08,Complete,4491.0,18962.0,27
+GA,13.0,Polk County,13233.0,County,2021-07-08,Complete,11513.0,42613.0,27
+GA,13.0,Pulaski County,13235.0,County,2021-07-08,Complete,2990.0,11137.0,27
+GA,13.0,Putnam County,13237.0,County,2021-07-08,Complete,7330.0,22119.0,27
+GA,13.0,Quitman County,13239.0,County,2021-06-29,Complete,658.0,2299.0,26
+GA,13.0,Rabun County,13241.0,County,2021-07-08,Complete,6478.0,17137.0,27
+GA,13.0,Randolph County,13243.0,County,2021-07-08,Complete,2170.0,6778.0,27
+GA,13.0,Richmond County,13245.0,County,2021-07-08,Complete,61357.0,202518.0,27
+GA,13.0,Rockdale County,13247.0,County,2021-07-08,Complete,34406.0,90896.0,27
+GA,13.0,Schley County,13249.0,County,2021-07-08,Complete,1248.0,5257.0,27
+GA,13.0,Screven County,13251.0,County,2021-07-08,Complete,4676.0,13966.0,27
+GA,13.0,Seminole County,13253.0,County,2021-07-08,Complete,2610.0,8090.0,27
+GA,13.0,Spalding County,13255.0,County,2021-07-08,Complete,19712.0,66703.0,27
+GA,13.0,Stephens County,13257.0,County,2021-07-08,Complete,7914.0,25925.0,27
+GA,13.0,Stewart County,13259.0,County,2021-07-08,Complete,1601.0,6621.0,27
+GA,13.0,Sumter County,13261.0,County,2021-07-08,Complete,11032.0,29524.0,27
+GA,13.0,Talbot County,13263.0,County,2021-07-08,Complete,2254.0,6195.0,27
+GA,13.0,Taliaferro County,13265.0,County,2021-07-08,Complete,522.0,1537.0,27
+GA,13.0,Tattnall County,13267.0,County,2021-07-08,Complete,5957.0,25286.0,27
+GA,13.0,Taylor County,13269.0,County,2021-07-08,Complete,2669.0,8020.0,27
+GA,13.0,Telfair County,13271.0,County,2021-07-08,Complete,3135.0,15860.0,27
+GA,13.0,Terrell County,13273.0,County,2021-07-08,Complete,3451.0,8531.0,27
+GA,13.0,Thomas County,13275.0,County,2021-07-08,Complete,15443.0,44451.0,27
+GA,13.0,Tift County,13277.0,County,2021-07-08,Complete,11774.0,40644.0,27
+GA,13.0,Toombs County,13279.0,County,2021-07-08,Complete,7408.0,26830.0,27
+GA,13.0,Towns County,13281.0,County,2021-07-08,Complete,5076.0,12037.0,27
+GA,13.0,Treutlen County,13283.0,County,2021-07-08,Complete,1454.0,6901.0,27
+GA,13.0,Troup County,13285.0,County,2021-07-08,Complete,17785.0,69922.0,27
+GA,13.0,Turner County,13287.0,County,2021-07-08,Complete,2812.0,7985.0,27
+GA,13.0,Twiggs County,13289.0,County,2021-07-07,Complete,3079.0,8120.0,27
+GA,13.0,Union County,13291.0,County,2021-07-08,Complete,9411.0,24511.0,27
+GA,13.0,Upson County,13293.0,County,2021-07-08,Complete,8702.0,26320.0,27
+GA,13.0,Walker County,13295.0,County,2021-07-08,Complete,17048.0,69761.0,27
+GA,13.0,Walton County,13297.0,County,2021-07-08,Complete,29194.0,94593.0,27
+GA,13.0,Ware County,13299.0,County,2021-07-08,Complete,9772.0,35734.0,27
+GA,13.0,Warren County,13301.0,County,2021-07-08,Complete,1815.0,5254.0,27
+GA,13.0,Washington County,13303.0,County,2021-07-08,Complete,6474.0,20374.0,27
+GA,13.0,Wayne County,13305.0,County,2021-07-08,Complete,7640.0,29927.0,27
+GA,13.0,Webster County,13307.0,County,2021-07-08,Complete,871.0,2607.0,27
+GA,13.0,Wheeler County,13309.0,County,2021-07-08,Complete,1384.0,7855.0,27
+GA,13.0,White County,13311.0,County,2021-07-08,Complete,8695.0,30798.0,27
+GA,13.0,Whitfield County,13313.0,County,2021-07-08,Complete,33881.0,104628.0,27
+GA,13.0,Wilcox County,13315.0,County,2021-07-08,Complete,2260.0,8635.0,27
+GA,13.0,Wilkes County,13317.0,County,2021-07-08,Complete,3460.0,9777.0,27
+GA,13.0,Wilkinson County,13319.0,County,2021-07-08,Complete,3385.0,8954.0,27
+GA,13.0,Worth County,13321.0,County,2021-07-08,Complete,6113.0,20247.0,27
 VA,51.0,Craig,51045.0,County,2021-06-29,Complete,1523.0,5131.0,26
 VA,51.0,King and Queen,51097.0,County,2021-06-29,Complete,2706.0,7025.0,26
 VA,51.0,Patrick,51141.0,County,2021-06-29,Complete,5174.0,17608.0,26
@@ -10614,299 +10639,324 @@ NY,36.0,New York,36061.0,County,2021-07-09,Partial Coverage,69.4174393659752,162
 WA,53.0,Franklin,53021.0,County,2021-07-09,Partial Coverage,34.89109659532461,95222.0,27
 IN,18.0,Monroe,18105.0,County,2021-07-09,Partial Coverage,52.34957657093195,148431.0,27
 WA,53.0,Stevens,53065.0,County,2021-07-09,Partial Coverage,27.089211119130415,45723.0,27
-GA,13.0,Appling County,13001.0,County,2021-07-05,Partial Coverage,26.63983465680409,18386.0,27
-GA,13.0,Atkinson County,13003.0,County,2021-07-02,Partial Coverage,25.939987752602573,8165.0,26
-GA,13.0,Bacon County,13005.0,County,2021-07-02,Partial Coverage,23.33393049086349,11164.0,26
-GA,13.0,Baker County,13007.0,County,2021-07-01,Partial Coverage,36.07636603028308,3038.0,26
-GA,13.0,Baldwin County,13009.0,County,2021-07-05,Partial Coverage,35.488973045221655,44890.0,27
-GA,13.0,Barrow County,13013.0,County,2021-07-05,Partial Coverage,31.864488226814032,83240.0,27
-GA,13.0,Bartow County,13015.0,County,2021-07-05,Partial Coverage,29.602368709276206,107738.0,27
-GA,13.0,Ben Hill County,13017.0,County,2021-07-05,Partial Coverage,30.12574850299401,16700.0,27
-GA,13.0,Berrien County,13019.0,County,2021-07-02,Partial Coverage,24.782182811775016,19397.0,26
-GA,13.0,Bibb County,13021.0,County,2021-07-05,Partial Coverage,36.671694121795,153159.0,27
-GA,13.0,Bleckley County,13023.0,County,2021-07-05,Partial Coverage,27.320748854190942,12873.0,27
-GA,13.0,Brantley County,13025.0,County,2021-07-05,Partial Coverage,18.556701030927837,19109.0,27
-GA,13.0,Brooks County,13027.0,County,2021-07-05,Partial Coverage,34.92915831015074,15457.0,27
-GA,13.0,Bulloch County,13031.0,County,2021-07-05,Partial Coverage,26.454627675610492,79608.0,27
-GA,13.0,Burke County,13033.0,County,2021-07-05,Partial Coverage,35.66992807041058,22383.0,27
-GA,13.0,Butts County,13035.0,County,2021-07-05,Partial Coverage,26.259223612447865,24936.0,27
-GA,13.0,Calhoun County,13037.0,County,2021-07-03,Partial Coverage,37.48586201324931,6189.0,26
-GA,13.0,Camden County,13039.0,County,2021-07-05,Partial Coverage,28.74730179636337,54666.0,27
-GA,13.0,Candler County,13043.0,County,2021-07-05,Partial Coverage,33.45367027677497,10803.0,27
-GA,13.0,Carroll County,13045.0,County,2021-07-05,Partial Coverage,29.32362157477165,119992.0,27
-GA,13.0,Catoosa County,13047.0,County,2021-07-05,Partial Coverage,31.580349215744302,67580.0,27
-GA,13.0,Charlton County,13049.0,County,2021-07-02,Partial Coverage,15.397252090800478,13392.0,26
-GA,13.0,Chatham County,13051.0,County,2021-07-05,Partial Coverage,44.149189786822376,289430.0,27
-GA,13.0,Chattahoochee County,13053.0,County,2021-07-03,Partial Coverage,15.164573209865225,10907.0,26
-GA,13.0,Chattooga County,13055.0,County,2021-07-05,Partial Coverage,30.029448545725927,24789.0,27
-GA,13.0,Cherokee County,13057.0,County,2021-07-05,Partial Coverage,41.63958372782323,258773.0,27
-GA,13.0,Clarke County,13059.0,County,2021-07-05,Partial Coverage,40.4726839189284,128331.0,27
-GA,13.0,Clay County,13061.0,County,2021-07-01,Partial Coverage,50.56457304163726,2834.0,26
-GA,13.0,Clayton County,13063.0,County,2021-07-05,Partial Coverage,33.556539472243514,292256.0,27
-GA,13.0,Clinch County,13065.0,County,2021-07-02,Partial Coverage,29.480205500151104,6618.0,26
-GA,13.0,Cobb County,13067.0,County,2021-07-05,Partial Coverage,50.05400313889134,760141.0,27
-GA,13.0,Coffee County,13069.0,County,2021-07-05,Partial Coverage,26.79037737157119,43273.0,27
-GA,13.0,Colquitt County,13071.0,County,2021-07-05,Partial Coverage,31.098684210526315,45600.0,27
-GA,13.0,Columbia County,13073.0,County,2021-07-05,Partial Coverage,37.02604744949398,156714.0,27
-GA,13.0,Cook County,13075.0,County,2021-07-05,Partial Coverage,31.215981470758543,17270.0,27
-GA,13.0,Coweta County,13077.0,County,2021-07-05,Partial Coverage,35.345332606104684,148509.0,27
-GA,13.0,Dawson County,13085.0,County,2021-07-05,Partial Coverage,32.18553700015321,26108.0,27
-GA,13.0,Decatur County,13087.0,County,2021-07-05,Partial Coverage,34.63111649750038,26404.0,27
-GA,13.0,DeKalb County,13089.0,County,2021-07-05,Partial Coverage,47.70807733996052,759297.0,27
-GA,13.0,Dodge County,13091.0,County,2021-07-05,Partial Coverage,27.39626304295074,20605.0,27
-GA,13.0,Dougherty County,13095.0,County,2021-07-05,Partial Coverage,37.06398653872391,87956.0,27
-GA,13.0,Douglas County,13097.0,County,2021-07-05,Partial Coverage,36.84016317828663,146343.0,27
-GA,13.0,Early County,13099.0,County,2021-07-03,Partial Coverage,36.800785083415114,10190.0,26
-GA,13.0,Echols County,13101.0,County,2021-07-03,Partial Coverage,23.065401897154267,4006.0,26
-GA,13.0,Effingham County,13103.0,County,2021-07-05,Partial Coverage,29.426402886649246,64296.0,27
-GA,13.0,Elbert County,13105.0,County,2021-07-05,Partial Coverage,34.38053558403668,19194.0,27
-GA,13.0,Emanuel County,13107.0,County,2021-07-05,Partial Coverage,28.09326150313521,22646.0,27
-GA,13.0,Evans County,13109.0,County,2021-07-05,Partial Coverage,32.5042237657218,10654.0,27
-GA,13.0,Fannin County,13111.0,County,2021-07-05,Partial Coverage,34.75637696654957,26188.0,27
-GA,13.0,Fayette County,13113.0,County,2021-07-05,Partial Coverage,54.029417676825055,114421.0,27
-GA,13.0,Floyd County,13115.0,County,2021-07-05,Partial Coverage,34.162114966801354,98498.0,27
-GA,13.0,Forsyth County,13117.0,County,2021-07-05,Partial Coverage,46.42090955242946,244252.0,27
-GA,13.0,Fulton County,13121.0,County,2021-07-05,Partial Coverage,49.56449489020496,1063937.0,27
-GA,13.0,Glynn County,13127.0,County,2021-07-05,Partial Coverage,40.94874079632322,85292.0,27
-GA,13.0,Gordon County,13129.0,County,2021-07-05,Partial Coverage,30.143367320532064,57963.0,27
-GA,13.0,Grady County,13131.0,County,2021-07-05,Partial Coverage,31.457800511508953,24633.0,27
-GA,13.0,Gwinnett County,13135.0,County,2021-07-05,Partial Coverage,47.02237650200267,936250.0,27
-GA,13.0,Habersham County,13137.0,County,2021-07-05,Partial Coverage,33.242146134839395,45328.0,27
-GA,13.0,Hall County,13139.0,County,2021-07-05,Partial Coverage,36.783717551763104,204441.0,27
-GA,13.0,Harris County,13145.0,County,2021-07-05,Partial Coverage,35.92632534907481,35236.0,27
-GA,13.0,Hart County,13147.0,County,2021-07-05,Partial Coverage,31.46346117153215,26205.0,27
-GA,13.0,Heard County,13149.0,County,2021-07-05,Partial Coverage,21.974335318292376,11923.0,27
-GA,13.0,Henry County,13151.0,County,2021-07-05,Partial Coverage,35.79026351354232,234561.0,27
-GA,13.0,Houston County,13153.0,County,2021-07-05,Partial Coverage,34.9987014056492,157863.0,27
-GA,13.0,Irwin County,13155.0,County,2021-07-02,Partial Coverage,28.876380628717076,9416.0,26
-GA,13.0,Jackson County,13157.0,County,2021-07-05,Partial Coverage,33.54481548981186,72977.0,27
-GA,13.0,Jeff Davis County,13161.0,County,2021-07-05,Partial Coverage,22.76546477009593,15115.0,27
-GA,13.0,Jefferson County,13163.0,County,2021-07-05,Partial Coverage,40.958208566592894,15362.0,27
-GA,13.0,Jenkins County,13165.0,County,2021-07-03,Partial Coverage,27.086214845550945,8676.0,26
-GA,13.0,Johnson County,13167.0,County,2021-07-01,Partial Coverage,25.987763144249715,9643.0,26
-GA,13.0,Lamar County,13171.0,County,2021-07-05,Partial Coverage,27.698275410179797,19077.0,27
-GA,13.0,Lanier County,13173.0,County,2021-07-03,Partial Coverage,21.308644344238704,10423.0,26
-GA,13.0,Laurens County,13175.0,County,2021-07-05,Partial Coverage,32.97858915576494,47546.0,27
-GA,13.0,Liberty County,13179.0,County,2021-07-05,Partial Coverage,22.562057459103116,61435.0,27
-GA,13.0,Long County,13183.0,County,2021-07-05,Partial Coverage,14.944526816299401,19559.0,27
-GA,13.0,Lowndes County,13185.0,County,2021-07-05,Partial Coverage,28.460214980495035,117406.0,27
-GA,13.0,Lumpkin County,13187.0,County,2021-07-05,Partial Coverage,29.440642665873252,33610.0,27
-GA,13.0,McIntosh County,13191.0,County,2021-07-03,Partial Coverage,32.591459173737654,14378.0,26
-GA,13.0,Macon County,13193.0,County,2021-07-05,Partial Coverage,33.44404109060014,12947.0,27
-GA,13.0,Meriwether County,13199.0,County,2021-07-05,Partial Coverage,32.985307317994994,21167.0,27
-GA,13.0,Miller County,13201.0,County,2021-07-03,Partial Coverage,40.328786288912205,5718.0,26
-GA,13.0,Mitchell County,13205.0,County,2021-07-05,Partial Coverage,34.295384896857705,21863.0,27
-GA,13.0,Monroe County,13207.0,County,2021-07-04,Partial Coverage,36.478352309812166,27578.0,26
-GA,13.0,Montgomery County,13209.0,County,2021-07-05,Partial Coverage,25.74138682948103,9172.0,27
-GA,13.0,Morgan County,13211.0,County,2021-07-05,Partial Coverage,37.896866569827765,19276.0,27
-GA,13.0,Murray County,13213.0,County,2021-07-05,Partial Coverage,28.623802873104548,40096.0,27
-GA,13.0,Muscogee County,13215.0,County,2021-07-05,Partial Coverage,33.964008601974776,195769.0,27
-GA,13.0,Newton County,13217.0,County,2021-07-05,Partial Coverage,33.5132087628866,111744.0,27
-GA,13.0,Oconee County,13219.0,County,2021-07-05,Partial Coverage,50.41211519364449,40280.0,27
-GA,13.0,Paulding County,13223.0,County,2021-07-05,Partial Coverage,29.948952670054013,168667.0,27
-GA,13.0,Peach County,13225.0,County,2021-07-03,Partial Coverage,36.38277789878748,27546.0,26
-GA,13.0,Pierce County,13229.0,County,2021-07-03,Partial Coverage,25.779604418186487,19465.0,26
-GA,13.0,Pike County,13231.0,County,2021-07-05,Partial Coverage,25.47727033013395,18962.0,27
-GA,13.0,Polk County,13233.0,County,2021-07-05,Partial Coverage,29.500387205782275,42613.0,27
-GA,13.0,Pulaski County,13235.0,County,2021-07-03,Partial Coverage,29.190985004938494,11137.0,26
-GA,13.0,Putnam County,13237.0,County,2021-07-05,Partial Coverage,35.40847235408472,22119.0,27
+GA,13.0,Appling County,13001.0,County,2021-07-08,Partial Coverage,26.775807679756337,18386.0,27
+GA,13.0,Atkinson County,13003.0,County,2021-07-08,Partial Coverage,26.172688303735455,8165.0,27
+GA,13.0,Bacon County,13005.0,County,2021-07-08,Partial Coverage,23.495163024005734,11164.0,27
+GA,13.0,Baker County,13007.0,County,2021-07-08,Partial Coverage,36.33969716919026,3038.0,27
+GA,13.0,Baldwin County,13009.0,County,2021-07-08,Partial Coverage,35.7095121407886,44890.0,27
+GA,13.0,Banks County,13011.0,County,2021-07-08,Partial Coverage,24.113548923780805,19234.0,27
+GA,13.0,Barrow County,13013.0,County,2021-07-08,Partial Coverage,32.12758289283998,83240.0,27
+GA,13.0,Bartow County,13015.0,County,2021-07-08,Partial Coverage,29.792645120570274,107738.0,27
+GA,13.0,Ben Hill County,13017.0,County,2021-07-08,Partial Coverage,30.37125748502994,16700.0,27
+GA,13.0,Berrien County,13019.0,County,2021-07-08,Partial Coverage,24.936845904005775,19397.0,27
+GA,13.0,Bibb County,13021.0,County,2021-07-08,Partial Coverage,36.95375394198186,153159.0,27
+GA,13.0,Bleckley County,13023.0,County,2021-07-08,Partial Coverage,27.561562961236696,12873.0,27
+GA,13.0,Brantley County,13025.0,County,2021-07-08,Partial Coverage,18.650897482861478,19109.0,27
+GA,13.0,Brooks County,13027.0,County,2021-07-08,Partial Coverage,35.116775570938735,15457.0,27
+GA,13.0,Bryan County,13029.0,County,2021-07-08,Partial Coverage,38.491432609079666,39627.0,27
+GA,13.0,Bulloch County,13031.0,County,2021-07-08,Partial Coverage,26.63174555321073,79608.0,27
+GA,13.0,Burke County,13033.0,County,2021-07-08,Partial Coverage,36.02734217933253,22383.0,27
+GA,13.0,Butts County,13035.0,County,2021-07-08,Partial Coverage,26.447706127686878,24936.0,27
+GA,13.0,Calhoun County,13037.0,County,2021-07-08,Partial Coverage,37.87364679269672,6189.0,27
+GA,13.0,Camden County,13039.0,County,2021-07-08,Partial Coverage,28.983280283905902,54666.0,27
+GA,13.0,Candler County,13043.0,County,2021-07-08,Partial Coverage,33.62029066000185,10803.0,27
+GA,13.0,Carroll County,13045.0,County,2021-07-08,Partial Coverage,29.545303020201345,119992.0,27
+GA,13.0,Catoosa County,13047.0,County,2021-07-08,Partial Coverage,31.781592187037585,67580.0,27
+GA,13.0,Charlton County,13049.0,County,2021-07-08,Partial Coverage,15.494324970131421,13392.0,27
+GA,13.0,Chatham County,13051.0,County,2021-07-08,Partial Coverage,44.52924714093218,289430.0,27
+GA,13.0,Chattahoochee County,13053.0,County,2021-07-08,Partial Coverage,15.320436416979922,10907.0,27
+GA,13.0,Chattooga County,13055.0,County,2021-07-08,Partial Coverage,30.210980676913145,24789.0,27
+GA,13.0,Cherokee County,13057.0,County,2021-07-08,Partial Coverage,41.91240971816998,258773.0,27
+GA,13.0,Clarke County,13059.0,County,2021-07-08,Partial Coverage,40.69476587886013,128331.0,27
+GA,13.0,Clay County,13061.0,County,2021-07-07,Partial Coverage,51.164431898376854,2834.0,27
+GA,13.0,Clayton County,13063.0,County,2021-07-08,Partial Coverage,33.97911420124822,292256.0,27
+GA,13.0,Clinch County,13065.0,County,2021-07-07,Partial Coverage,29.69174977334542,6618.0,27
+GA,13.0,Cobb County,13067.0,County,2021-07-08,Partial Coverage,50.41840921618489,760141.0,27
+GA,13.0,Coffee County,13069.0,County,2021-07-08,Partial Coverage,27.03071199131098,43273.0,27
+GA,13.0,Colquitt County,13071.0,County,2021-07-08,Partial Coverage,31.38157894736842,45600.0,27
+GA,13.0,Columbia County,13073.0,County,2021-07-08,Partial Coverage,37.345738096149674,156714.0,27
+GA,13.0,Cook County,13075.0,County,2021-07-08,Partial Coverage,31.470758540822235,17270.0,27
+GA,13.0,Coweta County,13077.0,County,2021-07-08,Partial Coverage,35.61332983186204,148509.0,27
+GA,13.0,Crawford County,13079.0,County,2021-07-07,Partial Coverage,30.570783618187683,12404.0,27
+GA,13.0,Crisp County,13081.0,County,2021-07-08,Partial Coverage,35.65170749150724,22372.0,27
+GA,13.0,Dade County,13083.0,County,2021-07-08,Partial Coverage,27.891536361379995,16116.0,27
+GA,13.0,Dawson County,13085.0,County,2021-07-08,Partial Coverage,32.42301210356979,26108.0,27
+GA,13.0,Decatur County,13087.0,County,2021-07-08,Partial Coverage,35.15755188607787,26404.0,27
+GA,13.0,DeKalb County,13089.0,County,2021-07-08,Partial Coverage,48.102652848621815,759297.0,27
+GA,13.0,Dodge County,13091.0,County,2021-07-08,Partial Coverage,27.595243872846396,20605.0,27
+GA,13.0,Dooly County,13093.0,County,2021-07-08,Partial Coverage,29.04406273338312,13390.0,27
+GA,13.0,Dougherty County,13095.0,County,2021-07-08,Partial Coverage,37.34821956432762,87956.0,27
+GA,13.0,Douglas County,13097.0,County,2021-07-08,Partial Coverage,37.2009593899264,146343.0,27
+GA,13.0,Early County,13099.0,County,2021-07-08,Partial Coverage,37.04612365063788,10190.0,27
+GA,13.0,Echols County,13101.0,County,2021-07-08,Partial Coverage,23.315027458811784,4006.0,27
+GA,13.0,Effingham County,13103.0,County,2021-07-08,Partial Coverage,29.684583799925345,64296.0,27
+GA,13.0,Elbert County,13105.0,County,2021-07-08,Partial Coverage,34.59414400333438,19194.0,27
+GA,13.0,Emanuel County,13107.0,County,2021-07-07,Partial Coverage,28.322882628278723,22646.0,27
+GA,13.0,Evans County,13109.0,County,2021-07-08,Partial Coverage,32.795194293223204,10654.0,27
+GA,13.0,Fannin County,13111.0,County,2021-07-08,Partial Coverage,34.92057430884375,26188.0,27
+GA,13.0,Fayette County,13113.0,County,2021-07-08,Partial Coverage,54.424450057244734,114421.0,27
+GA,13.0,Floyd County,13115.0,County,2021-07-08,Partial Coverage,34.38953075189344,98498.0,27
+GA,13.0,Forsyth County,13117.0,County,2021-07-08,Partial Coverage,46.73083536675237,244252.0,27
+GA,13.0,Franklin County,13119.0,County,2021-07-08,Partial Coverage,29.534455437063684,23349.0,27
+GA,13.0,Fulton County,13121.0,County,2021-07-08,Partial Coverage,49.91404566247814,1063937.0,27
+GA,13.0,Gilmer County,13123.0,County,2021-07-08,Partial Coverage,36.21409671969141,31369.0,27
+GA,13.0,Glascock County,13125.0,County,2021-07-07,Partial Coverage,26.523056210030294,2971.0,27
+GA,13.0,Glynn County,13127.0,County,2021-07-08,Partial Coverage,41.166815176100926,85292.0,27
+GA,13.0,Gordon County,13129.0,County,2021-07-08,Partial Coverage,30.39007642806618,57963.0,27
+GA,13.0,Grady County,13131.0,County,2021-07-08,Partial Coverage,31.644541874720904,24633.0,27
+GA,13.0,Greene County,13133.0,County,2021-07-08,Partial Coverage,46.32722113075748,18324.0,27
+GA,13.0,Gwinnett County,13135.0,County,2021-07-08,Partial Coverage,47.49116154873164,936250.0,27
+GA,13.0,Habersham County,13137.0,County,2021-07-08,Partial Coverage,33.44731733145076,45328.0,27
+GA,13.0,Hall County,13139.0,County,2021-07-08,Partial Coverage,37.07768989586238,204441.0,27
+GA,13.0,Hancock County,13141.0,County,2021-07-07,Partial Coverage,40.23885538607071,8457.0,27
+GA,13.0,Haralson County,13143.0,County,2021-07-08,Partial Coverage,26.617883995703544,29792.0,27
+GA,13.0,Harris County,13145.0,County,2021-07-08,Partial Coverage,36.3066182313543,35236.0,27
+GA,13.0,Hart County,13147.0,County,2021-07-08,Partial Coverage,31.64663232207594,26205.0,27
+GA,13.0,Heard County,13149.0,County,2021-07-08,Partial Coverage,22.150465486874108,11923.0,27
+GA,13.0,Henry County,13151.0,County,2021-07-08,Partial Coverage,36.14837931284399,234561.0,27
+GA,13.0,Houston County,13153.0,County,2021-07-08,Partial Coverage,35.29832829732109,157863.0,27
+GA,13.0,Irwin County,13155.0,County,2021-07-08,Partial Coverage,29.046304163126592,9416.0,27
+GA,13.0,Jackson County,13157.0,County,2021-07-08,Partial Coverage,33.80243090288721,72977.0,27
+GA,13.0,Jasper County,13159.0,County,2021-07-08,Partial Coverage,27.850059779168717,14219.0,27
+GA,13.0,Jeff Davis County,13161.0,County,2021-07-08,Partial Coverage,22.9110155474694,15115.0,27
+GA,13.0,Jefferson County,13163.0,County,2021-07-08,Partial Coverage,41.225100898320534,15362.0,27
+GA,13.0,Jenkins County,13165.0,County,2021-07-07,Partial Coverage,27.166897187644075,8676.0,27
+GA,13.0,Johnson County,13167.0,County,2021-07-08,Partial Coverage,26.143316395312663,9643.0,27
+GA,13.0,Jones County,13169.0,County,2021-07-08,Partial Coverage,34.181311988863754,28735.0,27
+GA,13.0,Lamar County,13171.0,County,2021-07-08,Partial Coverage,27.9131938984117,19077.0,27
+GA,13.0,Lanier County,13173.0,County,2021-07-08,Partial Coverage,21.490933512424444,10423.0,27
+GA,13.0,Laurens County,13175.0,County,2021-07-08,Partial Coverage,33.21204728052833,47546.0,27
+GA,13.0,Lee County,13177.0,County,2021-07-08,Partial Coverage,40.39743931715124,29992.0,27
+GA,13.0,Liberty County,13179.0,County,2021-07-08,Partial Coverage,22.85505005290144,61435.0,27
+GA,13.0,Lincoln County,13181.0,County,2021-07-08,Partial Coverage,38.176997853806334,7921.0,27
+GA,13.0,Long County,13183.0,County,2021-07-08,Partial Coverage,15.08257068357278,19559.0,27
+GA,13.0,Lowndes County,13185.0,County,2021-07-08,Partial Coverage,28.70551760557382,117406.0,27
+GA,13.0,Lumpkin County,13187.0,County,2021-07-08,Partial Coverage,29.62511157393633,33610.0,27
+GA,13.0,McDuffie County,13189.0,County,2021-07-08,Partial Coverage,35.548048048048045,21312.0,27
+GA,13.0,McIntosh County,13191.0,County,2021-07-08,Partial Coverage,32.681875086938376,14378.0,27
+GA,13.0,Macon County,13193.0,County,2021-07-08,Partial Coverage,33.737545377307484,12947.0,27
+GA,13.0,Madison County,13195.0,County,2021-07-08,Partial Coverage,36.24163319946452,29880.0,27
+GA,13.0,Marion County,13197.0,County,2021-07-08,Partial Coverage,32.64744586673047,8359.0,27
+GA,13.0,Meriwether County,13199.0,County,2021-07-08,Partial Coverage,33.17428071998866,21167.0,27
+GA,13.0,Miller County,13201.0,County,2021-07-08,Partial Coverage,40.521161245190626,5718.0,27
+GA,13.0,Mitchell County,13205.0,County,2021-07-08,Partial Coverage,34.51950784430316,21863.0,27
+GA,13.0,Monroe County,13207.0,County,2021-07-08,Partial Coverage,36.837334106896805,27578.0,27
+GA,13.0,Montgomery County,13209.0,County,2021-07-08,Partial Coverage,25.915830789358917,9172.0,27
+GA,13.0,Morgan County,13211.0,County,2021-07-08,Partial Coverage,38.114754098360656,19276.0,27
+GA,13.0,Murray County,13213.0,County,2021-07-08,Partial Coverage,28.820830007980845,40096.0,27
+GA,13.0,Muscogee County,13215.0,County,2021-07-08,Partial Coverage,34.26027614177934,195769.0,27
+GA,13.0,Newton County,13217.0,County,2021-07-08,Partial Coverage,33.84700744558992,111744.0,27
+GA,13.0,Oconee County,13219.0,County,2021-07-08,Partial Coverage,50.613207547169814,40280.0,27
+GA,13.0,Oglethorpe County,13221.0,County,2021-07-08,Partial Coverage,35.801821875614394,15259.0,27
+GA,13.0,Paulding County,13223.0,County,2021-07-08,Partial Coverage,30.224050940610788,168667.0,27
+GA,13.0,Peach County,13225.0,County,2021-07-08,Partial Coverage,36.644158861540696,27546.0,27
+GA,13.0,Pickens County,13227.0,County,2021-07-08,Partial Coverage,37.16977079561842,32591.0,27
+GA,13.0,Pierce County,13229.0,County,2021-07-08,Partial Coverage,25.94400205497046,19465.0,27
+GA,13.0,Pike County,13231.0,County,2021-07-08,Partial Coverage,25.619660373378334,18962.0,27
+GA,13.0,Polk County,13233.0,County,2021-07-08,Partial Coverage,29.742097481989063,42613.0,27
+GA,13.0,Pulaski County,13235.0,County,2021-07-07,Partial Coverage,29.28975487115022,11137.0,27
+GA,13.0,Putnam County,13237.0,County,2021-07-08,Partial Coverage,35.60739635607396,22119.0,27
 GA,13.0,Quitman County,13239.0,County,2021-07-01,Partial Coverage,31.79643323183993,2299.0,26
-GA,13.0,Rabun County,13241.0,County,2021-07-03,Partial Coverage,40.42131061445994,17137.0,26
-GA,13.0,Randolph County,13243.0,County,2021-07-03,Partial Coverage,35.86603717910888,6778.0,26
-GA,13.0,Richmond County,13245.0,County,2021-07-05,Partial Coverage,32.990153961623164,202518.0,27
-GA,13.0,Rockdale County,13247.0,County,2021-07-05,Partial Coverage,41.788417532124626,90896.0,27
-GA,13.0,Schley County,13249.0,County,2021-07-05,Partial Coverage,25.261556020544038,5257.0,27
-GA,13.0,Screven County,13251.0,County,2021-07-03,Partial Coverage,36.07332092223972,13966.0,26
-GA,13.0,Seminole County,13253.0,County,2021-07-02,Partial Coverage,34.42521631644005,8090.0,26
-GA,13.0,Spalding County,13255.0,County,2021-07-05,Partial Coverage,32.17546437191731,66703.0,27
-GA,13.0,Stephens County,13257.0,County,2021-07-05,Partial Coverage,32.85631629701061,25925.0,27
-GA,13.0,Stewart County,13259.0,County,2021-07-02,Partial Coverage,25.90243165684942,6621.0,26
-GA,13.0,Sumter County,13261.0,County,2021-07-05,Partial Coverage,40.41119089554261,29524.0,27
-GA,13.0,Talbot County,13263.0,County,2021-07-05,Partial Coverage,39.37046004842615,6195.0,27
-GA,13.0,Taliaferro County,13265.0,County,2021-07-03,Partial Coverage,37.08523096942095,1537.0,26
-GA,13.0,Tattnall County,13267.0,County,2021-07-05,Partial Coverage,25.650557620817843,25286.0,27
-GA,13.0,Telfair County,13271.0,County,2021-07-05,Partial Coverage,21.494325346784365,15860.0,27
-GA,13.0,Terrell County,13273.0,County,2021-07-05,Partial Coverage,43.558785605438985,8531.0,27
-GA,13.0,Thomas County,13275.0,County,2021-07-05,Partial Coverage,38.12287687566084,44451.0,27
-GA,13.0,Tift County,13277.0,County,2021-07-04,Partial Coverage,31.869402617852575,40644.0,26
-GA,13.0,Toombs County,13279.0,County,2021-07-05,Partial Coverage,29.81736861721953,26830.0,27
-GA,13.0,Towns County,13281.0,County,2021-07-03,Partial Coverage,44.60413724349921,12037.0,26
-GA,13.0,Treutlen County,13283.0,County,2021-07-05,Partial Coverage,23.141573684973192,6901.0,27
-GA,13.0,Troup County,13285.0,County,2021-07-05,Partial Coverage,27.9768885329367,69922.0,27
-GA,13.0,Turner County,13287.0,County,2021-07-03,Partial Coverage,39.423919849718224,7985.0,26
-GA,13.0,Twiggs County,13289.0,County,2021-07-03,Partial Coverage,42.37684729064039,8120.0,26
-GA,13.0,Union County,13291.0,County,2021-07-03,Partial Coverage,40.447146179266454,24511.0,26
-GA,13.0,Upson County,13293.0,County,2021-07-05,Partial Coverage,35.159574468085104,26320.0,27
-GA,13.0,Walker County,13295.0,County,2021-07-05,Partial Coverage,26.99072547698571,69761.0,27
-GA,13.0,Walton County,13297.0,County,2021-07-05,Partial Coverage,33.469707060776166,94593.0,27
-GA,13.0,Ware County,13299.0,County,2021-07-05,Partial Coverage,29.974254211675156,35734.0,27
-GA,13.0,Washington County,13303.0,County,2021-07-05,Partial Coverage,34.61764994600962,20374.0,27
-GA,13.0,Wayne County,13305.0,County,2021-07-05,Partial Coverage,27.710762856283623,29927.0,27
-GA,13.0,Webster County,13307.0,County,2021-07-01,Partial Coverage,35.59647103950901,2607.0,26
-GA,13.0,White County,13311.0,County,2021-07-03,Partial Coverage,30.346126371842328,30798.0,26
-GA,13.0,Whitfield County,13313.0,County,2021-07-05,Partial Coverage,35.63482050693887,104628.0,27
-GA,13.0,Wilkes County,13317.0,County,2021-07-05,Partial Coverage,38.03825304285568,9777.0,27
-GA,13.0,Wilkinson County,13319.0,County,2021-07-05,Partial Coverage,41.23296850569578,8954.0,27
-GA,13.0,Worth County,13321.0,County,2021-07-05,Partial Coverage,32.61223885020003,20247.0,27
-GA,13.0,Appling County,13001.0,County,2021-07-05,Complete Coverage,24.600239312520397,18386.0,27
-GA,13.0,Atkinson County,13003.0,County,2021-07-03,Complete Coverage,22.878138395590938,8165.0,26
-GA,13.0,Bacon County,13005.0,County,2021-07-03,Complete Coverage,21.345395915442495,11164.0,26
-GA,13.0,Baker County,13007.0,County,2021-07-01,Complete Coverage,32.71889400921659,3038.0,26
-GA,13.0,Baldwin County,13009.0,County,2021-07-05,Complete Coverage,32.45934506571619,44890.0,27
-GA,13.0,Banks County,13011.0,County,2021-07-05,Complete Coverage,22.013101798897786,19234.0,27
-GA,13.0,Barrow County,13013.0,County,2021-07-05,Complete Coverage,28.855117731859682,83240.0,27
-GA,13.0,Bartow County,13015.0,County,2021-07-05,Complete Coverage,26.946852549703912,107738.0,27
-GA,13.0,Ben Hill County,13017.0,County,2021-07-05,Complete Coverage,27.74251497005988,16700.0,27
-GA,13.0,Berrien County,13019.0,County,2021-07-04,Complete Coverage,22.74062999432902,19397.0,26
-GA,13.0,Bibb County,13021.0,County,2021-07-05,Complete Coverage,33.06629058690642,153159.0,27
-GA,13.0,Bleckley County,13023.0,County,2021-07-05,Complete Coverage,24.99805795074963,12873.0,27
-GA,13.0,Brantley County,13025.0,County,2021-07-05,Complete Coverage,16.950128211837352,19109.0,27
-GA,13.0,Brooks County,13027.0,County,2021-07-05,Complete Coverage,32.108429837614025,15457.0,27
-GA,13.0,Bryan County,13029.0,County,2021-07-05,Complete Coverage,35.006435006435005,39627.0,27
-GA,13.0,Bulloch County,13031.0,County,2021-07-05,Complete Coverage,24.174706059692493,79608.0,27
-GA,13.0,Burke County,13033.0,County,2021-07-05,Complete Coverage,32.44426573738998,22383.0,27
-GA,13.0,Butts County,13035.0,County,2021-07-05,Complete Coverage,23.993423163298043,24936.0,27
-GA,13.0,Calhoun County,13037.0,County,2021-07-02,Complete Coverage,34.49668767167555,6189.0,26
-GA,13.0,Camden County,13039.0,County,2021-07-05,Complete Coverage,26.561299528043026,54666.0,27
-GA,13.0,Candler County,13043.0,County,2021-07-05,Complete Coverage,30.704433953531428,10803.0,27
-GA,13.0,Carroll County,13045.0,County,2021-07-05,Complete Coverage,26.57593839589306,119992.0,27
-GA,13.0,Catoosa County,13047.0,County,2021-07-05,Complete Coverage,28.321988754069253,67580.0,27
-GA,13.0,Charlton County,13049.0,County,2021-07-02,Complete Coverage,14.165173237753883,13392.0,26
-GA,13.0,Chatham County,13051.0,County,2021-07-05,Complete Coverage,40.17171682272052,289430.0,27
-GA,13.0,Chattahoochee County,13053.0,County,2021-07-03,Complete Coverage,13.23920418080132,10907.0,26
-GA,13.0,Chattooga County,13055.0,County,2021-07-05,Complete Coverage,27.508168945903424,24789.0,27
-GA,13.0,Cherokee County,13057.0,County,2021-07-05,Complete Coverage,38.2764044162258,258773.0,27
-GA,13.0,Clarke County,13059.0,County,2021-07-05,Complete Coverage,37.561462156454795,128331.0,27
-GA,13.0,Clay County,13061.0,County,2021-07-01,Complete Coverage,44.10726887791108,2834.0,26
-GA,13.0,Clayton County,13063.0,County,2021-07-05,Complete Coverage,29.40538432059564,292256.0,27
-GA,13.0,Clinch County,13065.0,County,2021-07-03,Complete Coverage,27.243880326382595,6618.0,26
-GA,13.0,Cobb County,13067.0,County,2021-07-05,Complete Coverage,45.116103459752864,760141.0,27
-GA,13.0,Coffee County,13069.0,County,2021-07-05,Complete Coverage,23.982621958264968,43273.0,27
-GA,13.0,Colquitt County,13071.0,County,2021-07-05,Complete Coverage,28.024122807017545,45600.0,27
-GA,13.0,Columbia County,13073.0,County,2021-07-05,Complete Coverage,34.17690825325114,156714.0,27
-GA,13.0,Cook County,13075.0,County,2021-07-05,Complete Coverage,28.691372321945572,17270.0,27
-GA,13.0,Coweta County,13077.0,County,2021-07-05,Complete Coverage,31.863388750850117,148509.0,27
-GA,13.0,Crawford County,13079.0,County,2021-07-05,Complete Coverage,27.87004192196066,12404.0,27
-GA,13.0,Crisp County,13081.0,County,2021-07-05,Complete Coverage,31.745038440908278,22372.0,27
-GA,13.0,Dade County,13083.0,County,2021-07-05,Complete Coverage,25.03102506825515,16116.0,27
-GA,13.0,Dawson County,13085.0,County,2021-07-05,Complete Coverage,29.776313773555998,26108.0,27
-GA,13.0,Decatur County,13087.0,County,2021-07-05,Complete Coverage,31.552037570065142,26404.0,27
-GA,13.0,DeKalb County,13089.0,County,2021-07-05,Complete Coverage,42.365898982874945,759297.0,27
-GA,13.0,Dodge County,13091.0,County,2021-07-05,Complete Coverage,24.882310118903177,20605.0,27
-GA,13.0,Dooly County,13093.0,County,2021-07-05,Complete Coverage,26.295743091859595,13390.0,27
-GA,13.0,Dougherty County,13095.0,County,2021-07-05,Complete Coverage,33.38828505161672,87956.0,27
-GA,13.0,Douglas County,13097.0,County,2021-07-05,Complete Coverage,32.55229153427222,146343.0,27
-GA,13.0,Early County,13099.0,County,2021-07-02,Complete Coverage,34.25907752698724,10190.0,26
-GA,13.0,Echols County,13101.0,County,2021-07-02,Complete Coverage,20.619071392910634,4006.0,26
-GA,13.0,Effingham County,13103.0,County,2021-07-05,Complete Coverage,26.97835013064576,64296.0,27
-GA,13.0,Elbert County,13105.0,County,2021-07-05,Complete Coverage,31.822444513910597,19194.0,27
-GA,13.0,Emanuel County,13107.0,County,2021-07-05,Complete Coverage,25.894197650799256,22646.0,27
-GA,13.0,Evans County,13109.0,County,2021-07-05,Complete Coverage,29.16275577247982,10654.0,27
-GA,13.0,Fannin County,13111.0,County,2021-07-05,Complete Coverage,32.335420803421414,26188.0,27
-GA,13.0,Fayette County,13113.0,County,2021-07-05,Complete Coverage,49.523251850621826,114421.0,27
-GA,13.0,Floyd County,13115.0,County,2021-07-05,Complete Coverage,31.429064549534,98498.0,27
-GA,13.0,Forsyth County,13117.0,County,2021-07-05,Complete Coverage,42.87211568380197,244252.0,27
-GA,13.0,Franklin County,13119.0,County,2021-07-05,Complete Coverage,27.00329778577241,23349.0,27
-GA,13.0,Fulton County,13121.0,County,2021-07-05,Complete Coverage,44.213614151965764,1063937.0,27
-GA,13.0,Gilmer County,13123.0,County,2021-07-05,Complete Coverage,33.44384583506009,31369.0,27
-GA,13.0,Glascock County,13125.0,County,2021-07-05,Complete Coverage,24.503534163581286,2971.0,27
-GA,13.0,Glynn County,13127.0,County,2021-07-05,Complete Coverage,38.306054495146086,85292.0,27
-GA,13.0,Gordon County,13129.0,County,2021-07-05,Complete Coverage,27.49685143971154,57963.0,27
-GA,13.0,Grady County,13131.0,County,2021-07-05,Complete Coverage,28.977388056671945,24633.0,27
-GA,13.0,Greene County,13133.0,County,2021-07-05,Complete Coverage,43.041912246234446,18324.0,27
-GA,13.0,Gwinnett County,13135.0,County,2021-07-05,Complete Coverage,42.27781041388518,936250.0,27
-GA,13.0,Habersham County,13137.0,County,2021-07-05,Complete Coverage,30.140310624779385,45328.0,27
-GA,13.0,Hall County,13139.0,County,2021-07-05,Complete Coverage,33.424802265690346,204441.0,27
-GA,13.0,Hancock County,13141.0,County,2021-07-05,Complete Coverage,36.715147215324585,8457.0,27
-GA,13.0,Haralson County,13143.0,County,2021-07-05,Complete Coverage,24.34546186895811,29792.0,27
-GA,13.0,Harris County,13145.0,County,2021-07-05,Complete Coverage,31.941764104892723,35236.0,27
-GA,13.0,Hart County,13147.0,County,2021-07-05,Complete Coverage,28.906697195191757,26205.0,27
-GA,13.0,Heard County,13149.0,County,2021-07-05,Complete Coverage,19.927870502390338,11923.0,27
-GA,13.0,Henry County,13151.0,County,2021-07-05,Complete Coverage,32.323361513636115,234561.0,27
-GA,13.0,Houston County,13153.0,County,2021-07-05,Complete Coverage,31.761083977879554,157863.0,27
-GA,13.0,Irwin County,13155.0,County,2021-07-03,Complete Coverage,26.295666949872558,9416.0,26
-GA,13.0,Jackson County,13157.0,County,2021-07-05,Complete Coverage,30.874111021280676,72977.0,27
-GA,13.0,Jasper County,13159.0,County,2021-07-05,Complete Coverage,25.550319994373726,14219.0,27
-GA,13.0,Jeff Davis County,13161.0,County,2021-07-05,Complete Coverage,20.97915977505789,15115.0,27
-GA,13.0,Jefferson County,13163.0,County,2021-07-05,Complete Coverage,37.560213513865385,15362.0,27
-GA,13.0,Jenkins County,13165.0,County,2021-07-03,Complete Coverage,24.942369755647764,8676.0,26
-GA,13.0,Johnson County,13167.0,County,2021-07-03,Complete Coverage,23.913719796743752,9643.0,26
-GA,13.0,Jones County,13169.0,County,2021-07-05,Complete Coverage,31.07708369584131,28735.0,27
-GA,13.0,Lamar County,13171.0,County,2021-07-05,Complete Coverage,25.559574356555014,19077.0,27
-GA,13.0,Lanier County,13173.0,County,2021-07-03,Complete Coverage,19.236304326969204,10423.0,26
-GA,13.0,Laurens County,13175.0,County,2021-07-05,Complete Coverage,30.137130357969124,47546.0,27
-GA,13.0,Lee County,13177.0,County,2021-07-05,Complete Coverage,36.42638036809816,29992.0,27
-GA,13.0,Liberty County,13179.0,County,2021-07-05,Complete Coverage,20.387401318466672,61435.0,27
-GA,13.0,Lincoln County,13181.0,County,2021-07-05,Complete Coverage,34.75571266254261,7921.0,27
-GA,13.0,Long County,13183.0,County,2021-07-05,Complete Coverage,13.405593332992485,19559.0,27
-GA,13.0,Lowndes County,13185.0,County,2021-07-05,Complete Coverage,25.655417951382383,117406.0,27
-GA,13.0,Lumpkin County,13187.0,County,2021-07-05,Complete Coverage,27.19131210949122,33610.0,27
-GA,13.0,McDuffie County,13189.0,County,2021-07-05,Complete Coverage,31.69575825825826,21312.0,27
-GA,13.0,McIntosh County,13191.0,County,2021-07-04,Complete Coverage,30.685769926276254,14378.0,26
-GA,13.0,Macon County,13193.0,County,2021-07-05,Complete Coverage,30.485826832470842,12947.0,27
-GA,13.0,Madison County,13195.0,County,2021-07-05,Complete Coverage,33.276439089692104,29880.0,27
-GA,13.0,Marion County,13197.0,County,2021-07-05,Complete Coverage,28.280894843880848,8359.0,27
-GA,13.0,Meriwether County,13199.0,County,2021-07-05,Complete Coverage,30.023149241744225,21167.0,27
-GA,13.0,Miller County,13201.0,County,2021-07-03,Complete Coverage,38.03777544596013,5718.0,26
-GA,13.0,Mitchell County,13205.0,County,2021-07-05,Complete Coverage,31.464117458720214,21863.0,27
-GA,13.0,Monroe County,13207.0,County,2021-07-04,Complete Coverage,33.523098121691206,27578.0,26
-GA,13.0,Montgomery County,13209.0,County,2021-07-05,Complete Coverage,23.800697775839513,9172.0,27
-GA,13.0,Morgan County,13211.0,County,2021-07-05,Complete Coverage,35.3392820087155,19276.0,27
-GA,13.0,Murray County,13213.0,County,2021-07-05,Complete Coverage,25.930267358339982,40096.0,27
-GA,13.0,Muscogee County,13215.0,County,2021-07-05,Complete Coverage,30.363847187246193,195769.0,27
-GA,13.0,Newton County,13217.0,County,2021-07-05,Complete Coverage,30.07409793814433,111744.0,27
-GA,13.0,Oconee County,13219.0,County,2021-07-05,Complete Coverage,47.21201588877855,40280.0,27
-GA,13.0,Oglethorpe County,13221.0,County,2021-07-05,Complete Coverage,33.193525132708565,15259.0,27
-GA,13.0,Paulding County,13223.0,County,2021-07-05,Complete Coverage,27.119116365382677,168667.0,27
-GA,13.0,Peach County,13225.0,County,2021-07-03,Complete Coverage,32.85413490161911,27546.0,26
-GA,13.0,Pickens County,13227.0,County,2021-07-05,Complete Coverage,34.5279371605658,32591.0,27
-GA,13.0,Pierce County,13229.0,County,2021-07-03,Complete Coverage,23.570511173901874,19465.0,26
-GA,13.0,Pike County,13231.0,County,2021-07-05,Complete Coverage,23.53654677776606,18962.0,27
-GA,13.0,Polk County,13233.0,County,2021-07-05,Complete Coverage,26.85096097435055,42613.0,27
-GA,13.0,Pulaski County,13235.0,County,2021-07-02,Complete Coverage,26.694801113405763,11137.0,26
-GA,13.0,Putnam County,13237.0,County,2021-07-05,Complete Coverage,32.958090329580905,22119.0,27
-GA,13.0,Quitman County,13239.0,County,2021-06-29,Complete Coverage,28.57764245324054,2299.0,26
-GA,13.0,Rabun County,13241.0,County,2021-07-03,Complete Coverage,37.573671004259786,17137.0,26
-GA,13.0,Randolph County,13243.0,County,2021-07-03,Complete Coverage,31.76453231041605,6778.0,26
-GA,13.0,Richmond County,13245.0,County,2021-07-05,Complete Coverage,30.003752752841724,202518.0,27
-GA,13.0,Rockdale County,13247.0,County,2021-07-05,Complete Coverage,37.5682098222144,90896.0,27
-GA,13.0,Schley County,13249.0,County,2021-07-05,Complete Coverage,23.60661974510177,5257.0,27
-GA,13.0,Screven County,13251.0,County,2021-07-03,Complete Coverage,33.30230559931262,13966.0,26
-GA,13.0,Seminole County,13253.0,County,2021-07-04,Complete Coverage,32.06427688504326,8090.0,26
-GA,13.0,Spalding County,13255.0,County,2021-07-05,Complete Coverage,29.316522495240093,66703.0,27
-GA,13.0,Stephens County,13257.0,County,2021-07-05,Complete Coverage,30.42622950819672,25925.0,27
-GA,13.0,Stewart County,13259.0,County,2021-07-02,Complete Coverage,24.01449932034436,6621.0,26
-GA,13.0,Sumter County,13261.0,County,2021-07-05,Complete Coverage,37.02072889852324,29524.0,27
-GA,13.0,Talbot County,13263.0,County,2021-07-05,Complete Coverage,36.077481840193705,6195.0,27
-GA,13.0,Taliaferro County,13265.0,County,2021-07-01,Complete Coverage,33.702016916070264,1537.0,26
-GA,13.0,Tattnall County,13267.0,County,2021-07-05,Complete Coverage,23.380526773708773,25286.0,27
-GA,13.0,Taylor County,13269.0,County,2021-07-05,Complete Coverage,33.01745635910225,8020.0,27
-GA,13.0,Telfair County,13271.0,County,2021-07-05,Complete Coverage,19.577553593947037,15860.0,27
-GA,13.0,Terrell County,13273.0,County,2021-07-05,Complete Coverage,39.94842339702262,8531.0,27
-GA,13.0,Thomas County,13275.0,County,2021-07-05,Complete Coverage,34.509909788306224,44451.0,27
-GA,13.0,Tift County,13277.0,County,2021-07-04,Complete Coverage,28.73240822753666,40644.0,26
-GA,13.0,Toombs County,13279.0,County,2021-07-05,Complete Coverage,27.36116287737607,26830.0,27
-GA,13.0,Towns County,13281.0,County,2021-07-03,Complete Coverage,41.97059067874055,12037.0,26
-GA,13.0,Treutlen County,13283.0,County,2021-07-05,Complete Coverage,20.85205042747428,6901.0,27
-GA,13.0,Troup County,13285.0,County,2021-07-05,Complete Coverage,25.24670346958039,69922.0,27
-GA,13.0,Turner County,13287.0,County,2021-07-03,Complete Coverage,34.94051346274264,7985.0,26
-GA,13.0,Twiggs County,13289.0,County,2021-07-03,Complete Coverage,37.72167487684729,8120.0,26
-GA,13.0,Union County,13291.0,County,2021-07-03,Complete Coverage,38.23589408836849,24511.0,26
-GA,13.0,Upson County,13293.0,County,2021-07-05,Complete Coverage,32.921732522796354,26320.0,27
-GA,13.0,Walker County,13295.0,County,2021-07-05,Complete Coverage,24.281475322888145,69761.0,27
-GA,13.0,Walton County,13297.0,County,2021-07-05,Complete Coverage,30.643916568879305,94593.0,27
-GA,13.0,Ware County,13299.0,County,2021-07-05,Complete Coverage,27.212178877259753,35734.0,27
-GA,13.0,Warren County,13301.0,County,2021-07-05,Complete Coverage,34.03121431290445,5254.0,27
-GA,13.0,Washington County,13303.0,County,2021-07-05,Complete Coverage,31.65308726808678,20374.0,27
-GA,13.0,Wayne County,13305.0,County,2021-07-05,Complete Coverage,25.381762288234704,29927.0,27
-GA,13.0,Webster County,13307.0,County,2021-07-02,Complete Coverage,33.2566168009206,2607.0,26
-GA,13.0,Wheeler County,13309.0,County,2021-07-05,Complete Coverage,17.492043284532144,7855.0,27
-GA,13.0,White County,13311.0,County,2021-07-03,Complete Coverage,28.037534904863953,30798.0,26
-GA,13.0,Whitfield County,13313.0,County,2021-07-05,Complete Coverage,32.10899567993271,104628.0,27
-GA,13.0,Wilcox County,13315.0,County,2021-07-05,Complete Coverage,25.96409959467284,8635.0,27
-GA,13.0,Wilkes County,13317.0,County,2021-07-05,Complete Coverage,34.939142886365964,9777.0,27
-GA,13.0,Wilkinson County,13319.0,County,2021-07-05,Complete Coverage,37.647978557069465,8954.0,27
-GA,13.0,Worth County,13321.0,County,2021-07-05,Complete Coverage,29.969872079814294,20247.0,27
+GA,13.0,Rabun County,13241.0,County,2021-07-08,Partial Coverage,40.64888837019315,17137.0,27
+GA,13.0,Randolph County,13243.0,County,2021-07-08,Partial Coverage,36.26438477426969,6778.0,27
+GA,13.0,Richmond County,13245.0,County,2021-07-08,Partial Coverage,33.3836992267354,202518.0,27
+GA,13.0,Rockdale County,13247.0,County,2021-07-08,Partial Coverage,42.181174089068826,90896.0,27
+GA,13.0,Schley County,13249.0,County,2021-07-08,Partial Coverage,25.470800836979265,5257.0,27
+GA,13.0,Screven County,13251.0,County,2021-07-08,Partial Coverage,36.33108978948876,13966.0,27
+GA,13.0,Seminole County,13253.0,County,2021-07-08,Partial Coverage,34.6229913473424,8090.0,27
+GA,13.0,Spalding County,13255.0,County,2021-07-08,Partial Coverage,32.41233527727388,66703.0,27
+GA,13.0,Stephens County,13257.0,County,2021-07-08,Partial Coverage,33.083895853423336,25925.0,27
+GA,13.0,Stewart County,13259.0,County,2021-07-08,Partial Coverage,26.083673161153904,6621.0,27
+GA,13.0,Sumter County,13261.0,County,2021-07-08,Partial Coverage,40.73296301314185,29524.0,27
+GA,13.0,Talbot County,13263.0,County,2021-07-08,Partial Coverage,39.6771589991929,6195.0,27
+GA,13.0,Taliaferro County,13265.0,County,2021-07-07,Partial Coverage,37.540663630448925,1537.0,27
+GA,13.0,Tattnall County,13267.0,County,2021-07-08,Partial Coverage,25.77315510559203,25286.0,27
+GA,13.0,Taylor County,13269.0,County,2021-07-07,Partial Coverage,36.03491271820449,8020.0,27
+GA,13.0,Telfair County,13271.0,County,2021-07-08,Partial Coverage,21.576292559899116,15860.0,27
+GA,13.0,Terrell County,13273.0,County,2021-07-08,Partial Coverage,43.92216621732505,8531.0,27
+GA,13.0,Thomas County,13275.0,County,2021-07-08,Partial Coverage,38.38158871566444,44451.0,27
+GA,13.0,Tift County,13277.0,County,2021-07-08,Partial Coverage,32.08099596496408,40644.0,27
+GA,13.0,Toombs County,13279.0,County,2021-07-08,Partial Coverage,30.040998881848676,26830.0,27
+GA,13.0,Towns County,13281.0,County,2021-07-08,Partial Coverage,44.89490736894575,12037.0,27
+GA,13.0,Treutlen County,13283.0,County,2021-07-08,Partial Coverage,23.228517606144038,6901.0,27
+GA,13.0,Troup County,13285.0,County,2021-07-08,Partial Coverage,28.26578187122794,69922.0,27
+GA,13.0,Turner County,13287.0,County,2021-07-08,Partial Coverage,39.59924859110833,7985.0,27
+GA,13.0,Twiggs County,13289.0,County,2021-07-08,Partial Coverage,42.79556650246305,8120.0,27
+GA,13.0,Union County,13291.0,County,2021-07-08,Partial Coverage,40.6674554281751,24511.0,27
+GA,13.0,Upson County,13293.0,County,2021-07-08,Partial Coverage,35.338145896656535,26320.0,27
+GA,13.0,Walker County,13295.0,County,2021-07-08,Partial Coverage,27.17564255099554,69761.0,27
+GA,13.0,Walton County,13297.0,County,2021-07-08,Partial Coverage,33.742454515661834,94593.0,27
+GA,13.0,Ware County,13299.0,County,2021-07-08,Partial Coverage,30.125370795320983,35734.0,27
+GA,13.0,Warren County,13301.0,County,2021-07-08,Partial Coverage,38.65626189569851,5254.0,27
+GA,13.0,Washington County,13303.0,County,2021-07-08,Partial Coverage,34.80416216746834,20374.0,27
+GA,13.0,Wayne County,13305.0,County,2021-07-08,Partial Coverage,27.857787282387143,29927.0,27
+GA,13.0,Webster County,13307.0,County,2021-07-08,Partial Coverage,36.24856156501726,2607.0,27
+GA,13.0,Wheeler County,13309.0,County,2021-07-08,Partial Coverage,18.879694462126036,7855.0,27
+GA,13.0,White County,13311.0,County,2021-07-08,Partial Coverage,30.51496850444834,30798.0,27
+GA,13.0,Whitfield County,13313.0,County,2021-07-08,Partial Coverage,35.8708949803112,104628.0,27
+GA,13.0,Wilcox County,13315.0,County,2021-07-07,Partial Coverage,28.569774174869718,8635.0,27
+GA,13.0,Wilkes County,13317.0,County,2021-07-08,Partial Coverage,38.33486754628209,9777.0,27
+GA,13.0,Wilkinson County,13319.0,County,2021-07-08,Partial Coverage,41.45633236542327,8954.0,27
+GA,13.0,Worth County,13321.0,County,2021-07-08,Partial Coverage,32.79004296932879,20247.0,27
+GA,13.0,Appling County,13001.0,County,2021-07-08,Complete Coverage,24.757968019145,18386.0,27
+GA,13.0,Atkinson County,13003.0,County,2021-07-07,Complete Coverage,23.037354562155542,8165.0,27
+GA,13.0,Bacon County,13005.0,County,2021-07-08,Complete Coverage,21.47079899677535,11164.0,27
+GA,13.0,Baker County,13007.0,County,2021-07-07,Complete Coverage,32.85055957867018,3038.0,27
+GA,13.0,Baldwin County,13009.0,County,2021-07-08,Complete Coverage,32.650924482067275,44890.0,27
+GA,13.0,Banks County,13011.0,County,2021-07-08,Complete Coverage,22.101486950192367,19234.0,27
+GA,13.0,Barrow County,13013.0,County,2021-07-08,Complete Coverage,29.089380105718405,83240.0,27
+GA,13.0,Bartow County,13015.0,County,2021-07-08,Complete Coverage,27.133416250533703,107738.0,27
+GA,13.0,Ben Hill County,13017.0,County,2021-07-08,Complete Coverage,27.910179640718564,16700.0,27
+GA,13.0,Berrien County,13019.0,County,2021-07-08,Complete Coverage,22.843738722482858,19397.0,27
+GA,13.0,Bibb County,13021.0,County,2021-07-08,Complete Coverage,33.26477712703792,153159.0,27
+GA,13.0,Bleckley County,13023.0,County,2021-07-08,Complete Coverage,25.122349102773246,12873.0,27
+GA,13.0,Brantley County,13025.0,County,2021-07-08,Complete Coverage,17.044324663770997,19109.0,27
+GA,13.0,Brooks County,13027.0,County,2021-07-08,Complete Coverage,32.36721226628712,15457.0,27
+GA,13.0,Bryan County,13029.0,County,2021-07-08,Complete Coverage,35.238599944482296,39627.0,27
+GA,13.0,Bulloch County,13031.0,County,2021-07-08,Complete Coverage,24.319163903125315,79608.0,27
+GA,13.0,Burke County,13033.0,County,2021-07-08,Complete Coverage,32.74806772997364,22383.0,27
+GA,13.0,Butts County,13035.0,County,2021-07-08,Complete Coverage,24.217998075072185,24936.0,27
+GA,13.0,Calhoun County,13037.0,County,2021-07-08,Complete Coverage,34.83599935369203,6189.0,27
+GA,13.0,Camden County,13039.0,County,2021-07-08,Complete Coverage,26.78447298137782,54666.0,27
+GA,13.0,Candler County,13043.0,County,2021-07-08,Complete Coverage,30.85254096084421,10803.0,27
+GA,13.0,Carroll County,13045.0,County,2021-07-08,Complete Coverage,26.77345156343756,119992.0,27
+GA,13.0,Catoosa County,13047.0,County,2021-07-08,Complete Coverage,28.477360165729507,67580.0,27
+GA,13.0,Charlton County,13049.0,County,2021-07-08,Complete Coverage,14.232377538829152,13392.0,27
+GA,13.0,Chatham County,13051.0,County,2021-07-08,Complete Coverage,40.465743012127284,289430.0,27
+GA,13.0,Chattahoochee County,13053.0,County,2021-07-07,Complete Coverage,13.376730540020171,10907.0,27
+GA,13.0,Chattooga County,13055.0,County,2021-07-08,Complete Coverage,27.6533946508532,24789.0,27
+GA,13.0,Cherokee County,13057.0,County,2021-07-08,Complete Coverage,38.51367801122992,258773.0,27
+GA,13.0,Clarke County,13059.0,County,2021-07-08,Complete Coverage,37.76328400776118,128331.0,27
+GA,13.0,Clay County,13061.0,County,2021-07-07,Complete Coverage,45.02470007057163,2834.0,27
+GA,13.0,Clayton County,13063.0,County,2021-07-08,Complete Coverage,29.72086116281616,292256.0,27
+GA,13.0,Clinch County,13065.0,County,2021-07-08,Complete Coverage,27.45542459957691,6618.0,27
+GA,13.0,Cobb County,13067.0,County,2021-07-08,Complete Coverage,45.411311848722804,760141.0,27
+GA,13.0,Coffee County,13069.0,County,2021-07-08,Complete Coverage,24.181360201511335,43273.0,27
+GA,13.0,Colquitt County,13071.0,County,2021-07-08,Complete Coverage,28.25877192982456,45600.0,27
+GA,13.0,Columbia County,13073.0,County,2021-07-08,Complete Coverage,34.44172186275636,156714.0,27
+GA,13.0,Cook County,13075.0,County,2021-07-08,Complete Coverage,28.911407064273305,17270.0,27
+GA,13.0,Coweta County,13077.0,County,2021-07-08,Complete Coverage,32.062703270508855,148509.0,27
+GA,13.0,Crawford County,13079.0,County,2021-07-08,Complete Coverage,28.015156401160915,12404.0,27
+GA,13.0,Crisp County,13081.0,County,2021-07-08,Complete Coverage,31.999821205077776,22372.0,27
+GA,13.0,Dade County,13083.0,County,2021-07-08,Complete Coverage,25.1861504095309,16116.0,27
+GA,13.0,Dawson County,13085.0,County,2021-07-08,Complete Coverage,29.96016546652367,26108.0,27
+GA,13.0,Decatur County,13087.0,County,2021-07-08,Complete Coverage,32.18830480230268,26404.0,27
+GA,13.0,DeKalb County,13089.0,County,2021-07-08,Complete Coverage,42.70542356943331,759297.0,27
+GA,13.0,Dodge County,13091.0,County,2021-07-08,Complete Coverage,25.06673137587964,20605.0,27
+GA,13.0,Dooly County,13093.0,County,2021-07-08,Complete Coverage,26.616878267363703,13390.0,27
+GA,13.0,Dougherty County,13095.0,County,2021-07-08,Complete Coverage,33.68161353403975,87956.0,27
+GA,13.0,Douglas County,13097.0,County,2021-07-08,Complete Coverage,32.88302139494202,146343.0,27
+GA,13.0,Early County,13099.0,County,2021-07-08,Complete Coverage,34.43572129538764,10190.0,27
+GA,13.0,Echols County,13101.0,County,2021-07-08,Complete Coverage,20.668996505242138,4006.0,27
+GA,13.0,Effingham County,13103.0,County,2021-07-08,Complete Coverage,27.14321264153291,64296.0,27
+GA,13.0,Elbert County,13105.0,County,2021-07-08,Complete Coverage,32.015213087423156,19194.0,27
+GA,13.0,Emanuel County,13107.0,County,2021-07-08,Complete Coverage,26.176808266360506,22646.0,27
+GA,13.0,Evans County,13109.0,County,2021-07-08,Complete Coverage,29.341092547400038,10654.0,27
+GA,13.0,Fannin County,13111.0,County,2021-07-08,Complete Coverage,32.48434397433939,26188.0,27
+GA,13.0,Fayette County,13113.0,County,2021-07-08,Complete Coverage,49.82739182492724,114421.0,27
+GA,13.0,Floyd County,13115.0,County,2021-07-08,Complete Coverage,31.66764807407257,98498.0,27
+GA,13.0,Forsyth County,13117.0,County,2021-07-08,Complete Coverage,43.13332132387862,244252.0,27
+GA,13.0,Franklin County,13119.0,County,2021-07-08,Complete Coverage,27.187459848387512,23349.0,27
+GA,13.0,Fulton County,13121.0,County,2021-07-08,Complete Coverage,44.52068120574808,1063937.0,27
+GA,13.0,Gilmer County,13123.0,County,2021-07-08,Complete Coverage,33.61917816953043,31369.0,27
+GA,13.0,Glascock County,13125.0,County,2021-07-07,Complete Coverage,24.537192864355436,2971.0,27
+GA,13.0,Glynn County,13127.0,County,2021-07-08,Complete Coverage,38.52530131782582,85292.0,27
+GA,13.0,Gordon County,13129.0,County,2021-07-08,Complete Coverage,27.695253868847367,57963.0,27
+GA,13.0,Grady County,13131.0,County,2021-07-08,Complete Coverage,29.25344050663744,24633.0,27
+GA,13.0,Greene County,13133.0,County,2021-07-08,Complete Coverage,43.26020519537219,18324.0,27
+GA,13.0,Gwinnett County,13135.0,County,2021-07-08,Complete Coverage,42.68464619492657,936250.0,27
+GA,13.0,Habersham County,13137.0,County,2021-07-08,Complete Coverage,30.29474055771267,45328.0,27
+GA,13.0,Hall County,13139.0,County,2021-07-08,Complete Coverage,33.68306748646309,204441.0,27
+GA,13.0,Hancock County,13141.0,County,2021-07-08,Complete Coverage,36.99893579283434,8457.0,27
+GA,13.0,Haralson County,13143.0,County,2021-07-08,Complete Coverage,24.489795918367346,29792.0,27
+GA,13.0,Harris County,13145.0,County,2021-07-08,Complete Coverage,32.2198887501419,35236.0,27
+GA,13.0,Hart County,13147.0,County,2021-07-08,Complete Coverage,29.10894867391719,26205.0,27
+GA,13.0,Heard County,13149.0,County,2021-07-08,Complete Coverage,20.078839218317537,11923.0,27
+GA,13.0,Henry County,13151.0,County,2021-07-08,Complete Coverage,32.59663797476989,234561.0,27
+GA,13.0,Houston County,13153.0,County,2021-07-08,Complete Coverage,32.001165567612425,157863.0,27
+GA,13.0,Irwin County,13155.0,County,2021-07-08,Complete Coverage,26.444350042480885,9416.0,27
+GA,13.0,Jackson County,13157.0,County,2021-07-08,Complete Coverage,31.119393781602422,72977.0,27
+GA,13.0,Jasper County,13159.0,County,2021-07-07,Complete Coverage,25.66987833180955,14219.0,27
+GA,13.0,Jeff Davis County,13161.0,County,2021-07-08,Complete Coverage,21.091630830301025,15115.0,27
+GA,13.0,Jefferson County,13163.0,County,2021-07-08,Complete Coverage,38.00286421038927,15362.0,27
+GA,13.0,Jenkins County,13165.0,County,2021-07-07,Complete Coverage,25.069156293222683,8676.0,27
+GA,13.0,Johnson County,13167.0,County,2021-07-08,Complete Coverage,24.141864564969406,9643.0,27
+GA,13.0,Jones County,13169.0,County,2021-07-07,Complete Coverage,31.233687141117105,28735.0,27
+GA,13.0,Lamar County,13171.0,County,2021-07-08,Complete Coverage,25.71158987262148,19077.0,27
+GA,13.0,Lanier County,13173.0,County,2021-07-08,Complete Coverage,19.332245994435382,10423.0,27
+GA,13.0,Laurens County,13175.0,County,2021-07-08,Complete Coverage,30.37269170908173,47546.0,27
+GA,13.0,Lee County,13177.0,County,2021-07-08,Complete Coverage,36.70312083222193,29992.0,27
+GA,13.0,Liberty County,13179.0,County,2021-07-08,Complete Coverage,20.62179539350533,61435.0,27
+GA,13.0,Lincoln County,13181.0,County,2021-07-08,Complete Coverage,34.86933467996465,7921.0,27
+GA,13.0,Long County,13183.0,County,2021-07-08,Complete Coverage,13.523186256966103,19559.0,27
+GA,13.0,Lowndes County,13185.0,County,2021-07-08,Complete Coverage,25.889647888523584,117406.0,27
+GA,13.0,Lumpkin County,13187.0,County,2021-07-08,Complete Coverage,27.343052662897946,33610.0,27
+GA,13.0,McDuffie County,13189.0,County,2021-07-08,Complete Coverage,31.920983483483482,21312.0,27
+GA,13.0,McIntosh County,13191.0,County,2021-07-08,Complete Coverage,30.804006120461818,14378.0,27
+GA,13.0,Macon County,13193.0,County,2021-07-08,Complete Coverage,30.74843593110373,12947.0,27
+GA,13.0,Madison County,13195.0,County,2021-07-08,Complete Coverage,33.42034805890228,29880.0,27
+GA,13.0,Marion County,13197.0,County,2021-07-08,Complete Coverage,28.50819476013877,8359.0,27
+GA,13.0,Meriwether County,13199.0,County,2021-07-08,Complete Coverage,30.235744318987102,21167.0,27
+GA,13.0,Miller County,13201.0,County,2021-07-08,Complete Coverage,38.28261629940538,5718.0,27
+GA,13.0,Mitchell County,13205.0,County,2021-07-08,Complete Coverage,31.73855372089832,21863.0,27
+GA,13.0,Monroe County,13207.0,County,2021-07-08,Complete Coverage,33.81318442236565,27578.0,27
+GA,13.0,Montgomery County,13209.0,County,2021-07-08,Complete Coverage,23.953336240732664,9172.0,27
+GA,13.0,Morgan County,13211.0,County,2021-07-08,Complete Coverage,35.510479352562776,19276.0,27
+GA,13.0,Murray County,13213.0,County,2021-07-08,Complete Coverage,26.11482442138867,40096.0,27
+GA,13.0,Muscogee County,13215.0,County,2021-07-08,Complete Coverage,30.59115590313073,195769.0,27
+GA,13.0,Newton County,13217.0,County,2021-07-08,Complete Coverage,30.372995418098512,111744.0,27
+GA,13.0,Oconee County,13219.0,County,2021-07-08,Complete Coverage,47.46524329692155,40280.0,27
+GA,13.0,Oglethorpe County,13221.0,County,2021-07-08,Complete Coverage,33.30493479258143,15259.0,27
+GA,13.0,Paulding County,13223.0,County,2021-07-08,Complete Coverage,27.337297752375985,168667.0,27
+GA,13.0,Peach County,13225.0,County,2021-07-08,Complete Coverage,33.00297683874247,27546.0,27
+GA,13.0,Pickens County,13227.0,County,2021-07-08,Complete Coverage,34.74578871467583,32591.0,27
+GA,13.0,Pierce County,13229.0,County,2021-07-08,Complete Coverage,23.77087079373234,19465.0,27
+GA,13.0,Pike County,13231.0,County,2021-07-08,Complete Coverage,23.68421052631579,18962.0,27
+GA,13.0,Polk County,13233.0,County,2021-07-08,Complete Coverage,27.017576795813483,42613.0,27
+GA,13.0,Pulaski County,13235.0,County,2021-07-08,Complete Coverage,26.847445452096615,11137.0,27
+GA,13.0,Putnam County,13237.0,County,2021-07-08,Complete Coverage,33.138930331389304,22119.0,27
+GA,13.0,Quitman County,13239.0,County,2021-06-29,Complete Coverage,28.621139625924314,2299.0,26
+GA,13.0,Rabun County,13241.0,County,2021-07-08,Complete Coverage,37.801248759993,17137.0,27
+GA,13.0,Randolph County,13243.0,County,2021-07-08,Complete Coverage,32.01534375922101,6778.0,27
+GA,13.0,Richmond County,13245.0,County,2021-07-08,Complete Coverage,30.29706001441847,202518.0,27
+GA,13.0,Rockdale County,13247.0,County,2021-07-08,Complete Coverage,37.85205069530012,90896.0,27
+GA,13.0,Schley County,13249.0,County,2021-07-08,Complete Coverage,23.739775537378733,5257.0,27
+GA,13.0,Screven County,13251.0,County,2021-07-08,Complete Coverage,33.481311757124445,13966.0,27
+GA,13.0,Seminole County,13253.0,County,2021-07-08,Complete Coverage,32.26205191594561,8090.0,27
+GA,13.0,Spalding County,13255.0,County,2021-07-08,Complete Coverage,29.55189421765138,66703.0,27
+GA,13.0,Stephens County,13257.0,County,2021-07-08,Complete Coverage,30.526518804243008,25925.0,27
+GA,13.0,Stewart County,13259.0,County,2021-07-08,Complete Coverage,24.180637365956805,6621.0,27
+GA,13.0,Sumter County,13261.0,County,2021-07-08,Complete Coverage,37.36621054057716,29524.0,27
+GA,13.0,Talbot County,13263.0,County,2021-07-08,Complete Coverage,36.38418079096045,6195.0,27
+GA,13.0,Taliaferro County,13265.0,County,2021-07-08,Complete Coverage,33.9622641509434,1537.0,27
+GA,13.0,Tattnall County,13267.0,County,2021-07-08,Complete Coverage,23.558490864510006,25286.0,27
+GA,13.0,Taylor County,13269.0,County,2021-07-08,Complete Coverage,33.27930174563591,8020.0,27
+GA,13.0,Telfair County,13271.0,County,2021-07-08,Complete Coverage,19.76670870113493,15860.0,27
+GA,13.0,Terrell County,13273.0,County,2021-07-08,Complete Coverage,40.45246747157426,8531.0,27
+GA,13.0,Thomas County,13275.0,County,2021-07-08,Complete Coverage,34.74162561022249,44451.0,27
+GA,13.0,Tift County,13277.0,County,2021-07-08,Complete Coverage,28.96860545221927,40644.0,27
+GA,13.0,Toombs County,13279.0,County,2021-07-08,Complete Coverage,27.610883339545286,26830.0,27
+GA,13.0,Towns County,13281.0,County,2021-07-08,Complete Coverage,42.16997590761818,12037.0,27
+GA,13.0,Treutlen County,13283.0,County,2021-07-08,Complete Coverage,21.06941023040139,6901.0,27
+GA,13.0,Troup County,13285.0,County,2021-07-08,Complete Coverage,25.435485254998426,69922.0,27
+GA,13.0,Turner County,13287.0,County,2021-07-08,Complete Coverage,35.21603005635567,7985.0,27
+GA,13.0,Twiggs County,13289.0,County,2021-07-07,Complete Coverage,37.91871921182266,8120.0,27
+GA,13.0,Union County,13291.0,County,2021-07-08,Complete Coverage,38.395006323691405,24511.0,27
+GA,13.0,Upson County,13293.0,County,2021-07-08,Complete Coverage,33.06231003039514,26320.0,27
+GA,13.0,Walker County,13295.0,County,2021-07-08,Complete Coverage,24.437723083098007,69761.0,27
+GA,13.0,Walton County,13297.0,County,2021-07-08,Complete Coverage,30.862748829194548,94593.0,27
+GA,13.0,Ware County,13299.0,County,2021-07-08,Complete Coverage,27.346504729389377,35734.0,27
+GA,13.0,Warren County,13301.0,County,2021-07-08,Complete Coverage,34.54510848877046,5254.0,27
+GA,13.0,Washington County,13303.0,County,2021-07-08,Complete Coverage,31.7757926769412,20374.0,27
+GA,13.0,Wayne County,13305.0,County,2021-07-08,Complete Coverage,25.528786714338224,29927.0,27
+GA,13.0,Webster County,13307.0,County,2021-07-08,Complete Coverage,33.41004986574607,2607.0,27
+GA,13.0,Wheeler County,13309.0,County,2021-07-08,Complete Coverage,17.61935073201782,7855.0,27
+GA,13.0,White County,13311.0,County,2021-07-08,Complete Coverage,28.232352750178585,30798.0,27
+GA,13.0,Whitfield County,13313.0,County,2021-07-08,Complete Coverage,32.382345070153306,104628.0,27
+GA,13.0,Wilcox County,13315.0,County,2021-07-08,Complete Coverage,26.17255356108859,8635.0,27
+GA,13.0,Wilkes County,13317.0,County,2021-07-08,Complete Coverage,35.389178684668096,9777.0,27
+GA,13.0,Wilkinson County,13319.0,County,2021-07-08,Complete Coverage,37.804333258878714,8954.0,27
+GA,13.0,Worth County,13321.0,County,2021-07-08,Complete Coverage,30.192127228725244,20247.0,27
 VA,51.0,Craig,51045.0,County,2021-06-29,Complete Coverage,29.68232313389203,5131.0,26
 VA,51.0,King and Queen,51097.0,County,2021-06-29,Complete Coverage,38.519572953736656,7025.0,26
 VA,51.0,Patrick,51141.0,County,2021-06-29,Complete Coverage,29.384370740572468,17608.0,26
