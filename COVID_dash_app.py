@@ -13,7 +13,7 @@ import dash_html_components as html
 import dash_bootstrap_components as dbc
 from dash.dependencies import Input, Output, State
 
-import dash_table
+# import dash_table
 
 # from timeit import default_timer as timer
 
@@ -106,7 +106,7 @@ def US_choropleth(coverage_sel):
                         color_continuous_scale=custom_colorscale,
                         # range_color=[0, 7],  # restrict colorbar range so that more color variation shows
                         scope='usa',
-                        custom_data=['COUNTY_NAME', 'STATE_NAME', 'GEOFLAG', 'DATE'],
+                        custom_data=['COUNTY_NAME', 'STATE_NAME', 'POPN', 'DATE'],
                         # data available for hover
                         )
 
@@ -146,7 +146,7 @@ def US_choropleth(coverage_sel):
                       marker_opacity=0.85,  # changes fill color opacity to let state borders through
                       marker_line_color='#262626',  # controls county border color; needs to be darker than "states"
                       # denotes custom template for what hover text should say
-                      hovertemplate='<b>%{customdata[0]}, %{customdata[1]}</b><br>Coverage: %{z:.1f}%<br>Scale of data: %{customdata[2]}<br>Date: %{customdata[3]|%d %b %Y}'
+                      hovertemplate='<b>%{customdata[0]}, %{customdata[1]}</b><br>Coverage: %{z:.1f}%<br>Population: %{customdata[2]:,}<br>Date: %{customdata[3]|%d %b %Y}'
                       )
     # dash.callback_context.record_timing('updt_trace', timer() - start_5, '5th task')
 
@@ -269,7 +269,7 @@ row_1 = dbc.Row(
                     ),
                     className='mt-3'
                 )
-            ], width={'size': 6, 'offset': 3}, className='h-100'
+            ], width={'size': 6, 'offset': 3}, style={'height': '100%'}
         )
     ], justify='left', no_gutters=True
 )
@@ -302,17 +302,17 @@ row_2 = dbc.Row(
                         ))
                     ]
                 )
-            ], width={'size': 8, 'offset': 2}, className='h-100'  # , style={'background-color': 'black'}
+            ], width={'size': 8, 'offset': 2}, style={'height': '100%'}
         ),
         dbc.Col(
             children=[
-                modal,
+                # modal,
                 html.Div(
                     alert
                 )
-            ], width=2  # , style={'background-color': 'orange'}
+            ], width=2, style={'height': '100%'}
         )
-    ], justify='left', no_gutters=True  # , className='h-50'
+    ], justify='left', no_gutters=True, className='h-100'
 )
 
 # row for barplots
