@@ -6,7 +6,15 @@ This repository contains US county-level data for COVID-19 vaccination over time
 ## Citation:
 If you use this data, please cite:
 
-Andrew Tiu, Zachary Susswein, Alexes Merritt, Shweta Bansal. Characterizing the spatiotemporal heterogeneity of the COVID-19 vaccination landscape. MedRxiv.
+- Alexes Merritt, Andrew Tiu, Shweta Bansal. COVID-19 vaccination data. Github. https://github.com/bansallab/vaccinetracking/tree/main/vacc_data
+
+- Andrew Tiu, Zachary Susswein, Alexes Merritt, Shweta Bansal. Characterizing the spatiotemporal heterogeneity of the COVID-19 vaccination landscape. MedRxiv.
+
+## Data source
+For more information about the data, see 
+
+- http://www.vaccinetracking.us/data.html and
+- Andrew Tiu, Zachary Susswein, Alexes Merritt, Shweta Bansal. Characterizing the spatiotemporal heterogeneity of the COVID-19 vaccination landscape. MedRxiv.
 
 ## Files:
 - data_county_timeseries.csv: The file has the compiled CDC& individual state vaccination data at the county level weekly from December 13 to present. The data is then corrected using data from individual states. (More info below)
