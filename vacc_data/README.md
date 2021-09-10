@@ -1,9 +1,12 @@
 # COVID-19 vaccination data
 
-This directory contains US county-level data for COVID-19 vaccination over time, by dose, and by demographic group.
+This repository contains US county-level data for COVID-19 vaccination over time, by dose, and by demographic group.
 
-## Authors
-Shweta Bansal, Andrew Tiu, Alexes Merritt, Zack Susswein; Georgetown University
+
+## Citation:
+If you use this data, please cite:
+
+Andrew Tiu, Zachary Susswein, Alexes Merritt, Shweta Bansal. Characterizing the spatiotemporal heterogeneity of the COVID-19 vaccination landscape. MedRxiv.
 
 ## Files:
 - data_county_timeseries.csv: The file has the compiled CDC& individual state vaccination data at the county level weekly from December 13 to present. The data is then corrected using data from individual states. (More info below)
@@ -57,7 +60,3 @@ WV
 
 MA
 - Three counties (Barnstable, Nantucket, Dukes) have incorrect data in CDC. So we scale use the timeseries for a neighboring county and rescale it to match the current corrected value.
-
-
-## Citation:
-Andrew Tiu, Zachary Susswein, Alexes Merritt, Shweta Bansal. Characterizing the spatiotemporal heterogeneity of the COVID-19 vaccination landscape. MedRxiv.
