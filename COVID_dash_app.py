@@ -28,8 +28,8 @@ with urlopen('https://raw.githubusercontent.com/plotly/datasets/master/geojson-c
     counties = json.load(response)
 
 # vacc data
-county_daily_total = pd.read_csv('vacc_data/data_master_county.csv', parse_dates=['DATE'])  # read data
-state_demo = pd.read_csv('vacc_data/data_master_demo.csv', parse_dates=['DATE'])  # read state demographic data
+county_daily_total = pd.read_csv('vacc_data/data_master_county_current.csv', parse_dates=['DATE'])  # read data
+state_demo = pd.read_csv('vacc_data/U_demo.csv', parse_dates=['DATE'])  # read state demographic data
 
 # function to zero pad county FIPS codes
 def pad_fips_county(x):
