@@ -1,0 +1,2129 @@
+STATE_NAME,STATE,DEMO_GROUP,DATE,CASE_TYPE,CASES
+California,6,CASES_Adult,2021-04-10,Partial,8306439.96
+California,6,CASES_Asian,2021-04-10,Partial,1513790.46
+California,6,CASES_Black,2021-04-10,Partial,388151.4
+California,6,CASES_BlackDisparity,2021-04-10,Partial,9.833333333333334
+California,6,CASES_Child,2021-04-10,Partial,64691.9
+California,6,CASES_Elderly,2021-04-10,Partial,4567248.14
+California,6,CASES_Female,2021-04-10,Partial,7154924.139999999
+California,6,CASES_Hispanic,2021-04-10,Partial,2535922.48
+California,6,CASES_HispanicDisparity,2021-04-10,Partial,4.1020408163265305
+California,6,CASES_Male,2021-04-10,Partial,5731702.339999999
+California,6,CASES_Native,2021-04-10,Partial,38815.14
+California,6,CASES_NotHispanic,2021-04-10,Partial,10402457.52
+California,6,CASES_OtherRace,2021-04-10,Partial,0.0
+California,6,CASES_Pacific,2021-04-10,Partial,51753.52
+California,6,CASES_UnknownAge,2021-04-10,Partial,0.5000000000000029
+California,6,CASES_UnknownEthnicity,2021-04-10,Partial,0.0
+California,6,CASES_UnknownGender,2021-04-10,Partial,0.4000000000000181
+California,6,CASES_UnknownRace,2021-04-10,Partial,67.5
+California,6,CASES_White,2021-04-10,Partial,3816822.1
+Colorado,8,CASES_Adult,2021-04-10,Partial,902251.3815
+Colorado,8,CASES_Asian,2021-04-10,Partial,42584.136
+Colorado,8,CASES_Black,2021-04-10,Partial,43293.8716
+Colorado,8,CASES_BlackDisparity,2021-04-10,Partial,29.59426229508197
+Colorado,8,CASES_Child,2021-04-10,Partial,24131.01040000001
+Colorado,8,CASES_Elderly,2021-04-10,Partial,846182.2691
+Colorado,8,CASES_Female,2021-04-10,Partial,998420.5553
+Colorado,8,CASES_Hispanic,2021-04-10,Partial,145495.79799999998
+Colorado,8,CASES_HispanicDisparity,2021-04-10,Partial,11.195121951219514
+Colorado,8,CASES_Male,2021-04-10,Partial,770772.8616
+Colorado,8,CASES_Native,2021-04-10,Partial,8516.8272
+Colorado,8,CASES_NotHispanic,2021-04-10,Partial,1628843.2019999996
+Colorado,8,CASES_OtherRace,2021-04-10,Partial,0.0
+Colorado,8,CASES_Pacific,2021-04-10,Partial,3548.678
+Colorado,8,CASES_UnknownAge,2021-04-10,Partial,1.4599999999999904
+Colorado,8,CASES_UnknownEthnicity,2021-04-10,Partial,0.0
+Colorado,8,CASES_UnknownGender,2021-04-10,Partial,0.29000000000000264
+Colorado,8,CASES_UnknownRace,2021-04-10,Partial,25.35
+Colorado,8,CASES_White,2021-04-10,Partial,1281250.1919
+Delaware,10,CASES_Adult,2021-04-10 00:00:00,Partial,74499.0
+Delaware,10,CASES_Asian,2021-04-10 00:00:00,Partial,4791.0
+Delaware,10,CASES_Black,2021-04-10 00:00:00,Partial,19868.0
+Delaware,10,CASES_BlackDisparity,2021-04-10 00:00:00,Partial,6.4850010066438495
+Delaware,10,CASES_Child,2021-04-10 00:00:00,Partial,142.0
+Delaware,10,CASES_Elderly,2021-04-10 00:00:00,Partial,112571.0
+Delaware,10,CASES_Female,2021-04-10 00:00:00,Partial,112183.0
+Delaware,10,CASES_Hispanic,2021-04-10 00:00:00,Partial,5825.0
+Delaware,10,CASES_HispanicDisparity,2021-04-10 00:00:00,Partial,25.11193133047211
+Delaware,10,CASES_Male,2021-04-10 00:00:00,Partial,74982.0
+Delaware,10,CASES_Native,2021-04-10 00:00:00,Partial,0.0
+Delaware,10,CASES_NotHispanic,2021-04-10 00:00:00,Partial,146277.0
+Delaware,10,CASES_OtherRace,2021-04-10 00:00:00,Partial,0.0
+Delaware,10,CASES_Pacific,2021-04-10 00:00:00,Partial,0.0
+Delaware,10,CASES_UnknownAge,2021-04-10 00:00:00,Partial,66.36072219187534
+Delaware,10,CASES_UnknownEthnicity,2021-04-10 00:00:00,Partial,72.66947934335737
+Delaware,10,CASES_UnknownGender,2021-04-10 00:00:00,Partial,66.36916740936664
+Delaware,10,CASES_UnknownRace,2021-04-10 00:00:00,Partial,69.78247275968145
+Delaware,10,CASES_White,2021-04-10 00:00:00,Partial,128844.0
+District of Columbia,11,CASES_Adult,2021-04-10,Partial,
+District of Columbia,11,CASES_Asian,2021-04-10,Partial,
+District of Columbia,11,CASES_Black,2021-04-10,Partial,
+District of Columbia,11,CASES_BlackDisparity,2021-04-10,Partial,
+District of Columbia,11,CASES_Child,2021-04-10,Partial,
+District of Columbia,11,CASES_Elderly,2021-04-10,Partial,
+District of Columbia,11,CASES_Female,2021-04-10,Partial,
+District of Columbia,11,CASES_Hispanic,2021-04-10,Partial,
+District of Columbia,11,CASES_HispanicDisparity,2021-04-10,Partial,
+District of Columbia,11,CASES_Male,2021-04-10,Partial,
+District of Columbia,11,CASES_Native,2021-04-10,Partial,
+District of Columbia,11,CASES_NotHispanic,2021-04-10,Partial,
+District of Columbia,11,CASES_OtherRace,2021-04-10,Partial,
+District of Columbia,11,CASES_Pacific,2021-04-10,Partial,
+District of Columbia,11,CASES_UnknownAge,2021-04-10,Partial,
+District of Columbia,11,CASES_UnknownEthnicity,2021-04-10,Partial,
+District of Columbia,11,CASES_UnknownGender,2021-04-10,Partial,
+District of Columbia,11,CASES_UnknownRace,2021-04-10,Partial,
+District of Columbia,11,CASES_White,2021-04-10,Partial,
+Florida,12,CASES_Adult,2021-04-10,Partial,
+Florida,12,CASES_Asian,2021-04-10,Partial,
+Florida,12,CASES_Black,2021-04-10,Partial,
+Florida,12,CASES_BlackDisparity,2021-04-10,Partial,
+Florida,12,CASES_Child,2021-04-10,Partial,
+Florida,12,CASES_Elderly,2021-04-10,Partial,
+Florida,12,CASES_Female,2021-04-10,Partial,
+Florida,12,CASES_Hispanic,2021-04-10,Partial,
+Florida,12,CASES_HispanicDisparity,2021-04-10,Partial,
+Florida,12,CASES_Male,2021-04-10,Partial,
+Florida,12,CASES_Native,2021-04-10,Partial,
+Florida,12,CASES_NotHispanic,2021-04-10,Partial,
+Florida,12,CASES_OtherRace,2021-04-10,Partial,
+Florida,12,CASES_Pacific,2021-04-10,Partial,
+Florida,12,CASES_UnknownAge,2021-04-10,Partial,
+Florida,12,CASES_UnknownEthnicity,2021-04-10,Partial,
+Florida,12,CASES_UnknownGender,2021-04-10,Partial,
+Florida,12,CASES_UnknownRace,2021-04-10,Partial,
+Florida,12,CASES_White,2021-04-10,Partial,
+Hawaii,15,CASES_Adult,2021-04-10,Partial,
+Hawaii,15,CASES_Asian,2021-04-10,Partial,
+Hawaii,15,CASES_Black,2021-04-10,Partial,
+Hawaii,15,CASES_BlackDisparity,2021-04-10,Partial,
+Hawaii,15,CASES_Child,2021-04-10,Partial,
+Hawaii,15,CASES_Elderly,2021-04-10,Partial,
+Hawaii,15,CASES_Female,2021-04-10,Partial,
+Hawaii,15,CASES_Hispanic,2021-04-10,Partial,
+Hawaii,15,CASES_HispanicDisparity,2021-04-10,Partial,
+Hawaii,15,CASES_Male,2021-04-10,Partial,
+Hawaii,15,CASES_Native,2021-04-10,Partial,
+Hawaii,15,CASES_NotHispanic,2021-04-10,Partial,
+Hawaii,15,CASES_OtherRace,2021-04-10,Partial,
+Hawaii,15,CASES_Pacific,2021-04-10,Partial,
+Hawaii,15,CASES_UnknownAge,2021-04-10,Partial,
+Hawaii,15,CASES_UnknownEthnicity,2021-04-10,Partial,
+Hawaii,15,CASES_UnknownGender,2021-04-10,Partial,
+Hawaii,15,CASES_UnknownRace,2021-04-10,Partial,
+Hawaii,15,CASES_White,2021-04-10,Partial,
+Idaho,16,CASES_Adult,2021-04-10,Partial,
+Idaho,16,CASES_Asian,2021-04-10,Partial,
+Idaho,16,CASES_Black,2021-04-10,Partial,
+Idaho,16,CASES_BlackDisparity,2021-04-10,Partial,
+Idaho,16,CASES_Child,2021-04-10,Partial,
+Idaho,16,CASES_Elderly,2021-04-10,Partial,
+Idaho,16,CASES_Female,2021-04-10,Partial,
+Idaho,16,CASES_Hispanic,2021-04-10,Partial,
+Idaho,16,CASES_HispanicDisparity,2021-04-10,Partial,
+Idaho,16,CASES_Male,2021-04-10,Partial,
+Idaho,16,CASES_Native,2021-04-10,Partial,
+Idaho,16,CASES_NotHispanic,2021-04-10,Partial,
+Idaho,16,CASES_OtherRace,2021-04-10,Partial,
+Idaho,16,CASES_Pacific,2021-04-10,Partial,
+Idaho,16,CASES_UnknownAge,2021-04-10,Partial,
+Idaho,16,CASES_UnknownEthnicity,2021-04-10,Partial,
+Idaho,16,CASES_UnknownGender,2021-04-10,Partial,
+Idaho,16,CASES_UnknownRace,2021-04-10,Partial,
+Idaho,16,CASES_White,2021-04-10,Partial,
+Illinois,17,CASES_Adult,2021-04-10,Partial,
+Illinois,17,CASES_Asian,2021-04-10,Partial,
+Illinois,17,CASES_Black,2021-04-10,Partial,
+Illinois,17,CASES_BlackDisparity,2021-04-10,Partial,
+Illinois,17,CASES_Child,2021-04-10,Partial,
+Illinois,17,CASES_Elderly,2021-04-10,Partial,
+Illinois,17,CASES_Female,2021-04-10,Partial,
+Illinois,17,CASES_Hispanic,2021-04-10,Partial,
+Illinois,17,CASES_HispanicDisparity,2021-04-10,Partial,
+Illinois,17,CASES_Male,2021-04-10,Partial,
+Illinois,17,CASES_Native,2021-04-10,Partial,
+Illinois,17,CASES_NotHispanic,2021-04-10,Partial,
+Illinois,17,CASES_OtherRace,2021-04-10,Partial,
+Illinois,17,CASES_Pacific,2021-04-10,Partial,
+Illinois,17,CASES_UnknownAge,2021-04-10,Partial,
+Illinois,17,CASES_UnknownEthnicity,2021-04-10,Partial,
+Illinois,17,CASES_UnknownGender,2021-04-10,Partial,
+Illinois,17,CASES_UnknownRace,2021-04-10,Partial,
+Illinois,17,CASES_White,2021-04-10,Partial,
+Indiana,18,CASES_Adult,2021-04-10,Partial,1121054.436
+Indiana,18,CASES_Asian,2021-04-10,Partial,57556.389
+Indiana,18,CASES_Black,2021-04-10,Partial,159886.94
+Indiana,18,CASES_BlackDisparity,2021-04-10,Partial,32.27517482517483
+Indiana,18,CASES_Child,2021-04-10,Partial,15396.324
+Indiana,18,CASES_Elderly,2021-04-10,Partial,1836243.082
+Indiana,18,CASES_Female,2021-04-10,Partial,1706212.6220000002
+Indiana,18,CASES_Hispanic,2021-04-10,Partial,83624.62400000001
+Indiana,18,CASES_HispanicDisparity,2021-04-10,Partial,0.0
+Indiana,18,CASES_Male,2021-04-10,Partial,1256864.4670000002
+Indiana,18,CASES_Native,2021-04-10,Partial,0.0
+Indiana,18,CASES_NotHispanic,2021-04-10,Partial,0.0
+Indiana,18,CASES_OtherRace,2021-04-10,Partial,0.0
+Indiana,18,CASES_Pacific,2021-04-10,Partial,0.0
+Indiana,18,CASES_UnknownAge,2021-04-10,Partial,1.0000000000000024
+Indiana,18,CASES_UnknownEthnicity,2021-04-10,Partial,200.0
+Indiana,18,CASES_UnknownGender,2021-04-10,Partial,0.7000000000000046
+Indiana,18,CASES_UnknownRace,2021-04-10,Partial,16.799999999999972
+Indiana,18,CASES_White,2021-04-10,Partial,2561429.2490000003
+Louisiana,22,CASES_Adult,2021-04-10,Partial,570313.9347
+Louisiana,22,CASES_Asian,2021-04-10,Partial,29756.5833
+Louisiana,22,CASES_Black,2021-04-10,Partial,335718.4647
+Louisiana,22,CASES_BlackDisparity,2021-04-10,Partial,2.244207429201913
+Louisiana,22,CASES_Child,2021-04-10,Partial,4444.9668
+Louisiana,22,CASES_Elderly,2021-04-10,Partial,659830.6272
+Louisiana,22,CASES_Female,2021-04-10,Partial,712799.8148999999
+Louisiana,22,CASES_Hispanic,2021-04-10,Partial,0.0
+Louisiana,22,CASES_HispanicDisparity,2021-04-10,Partial,0.0
+Louisiana,22,CASES_Male,2021-04-10,Partial,518209.0461
+Louisiana,22,CASES_Native,2021-04-10,Partial,3210.2538
+Louisiana,22,CASES_NotHispanic,2021-04-10,Partial,0.0
+Louisiana,22,CASES_OtherRace,2021-04-10,Partial,0.0
+Louisiana,22,CASES_Pacific,2021-04-10,Partial,10001.1753
+Louisiana,22,CASES_UnknownAge,2021-04-10,Partial,0.3700000000000023
+Louisiana,22,CASES_UnknownEthnicity,2021-04-10,Partial,100.0
+Louisiana,22,CASES_UnknownGender,2021-04-10,Partial,0.3000000000000161
+Louisiana,22,CASES_UnknownRace,2021-04-10,Partial,11.789999999999988
+Louisiana,22,CASES_White,2021-04-10,Partial,753421.8726000001
+Maine,23,CASES_Adult,2021-04-10,Partial,
+Maine,23,CASES_Asian,2021-04-10,Partial,
+Maine,23,CASES_Black,2021-04-10,Partial,
+Maine,23,CASES_BlackDisparity,2021-04-10,Partial,
+Maine,23,CASES_Child,2021-04-10,Partial,
+Maine,23,CASES_Elderly,2021-04-10,Partial,
+Maine,23,CASES_Female,2021-04-10,Partial,
+Maine,23,CASES_Hispanic,2021-04-10,Partial,
+Maine,23,CASES_HispanicDisparity,2021-04-10,Partial,
+Maine,23,CASES_Male,2021-04-10,Partial,
+Maine,23,CASES_Native,2021-04-10,Partial,
+Maine,23,CASES_NotHispanic,2021-04-10,Partial,
+Maine,23,CASES_OtherRace,2021-04-10,Partial,
+Maine,23,CASES_Pacific,2021-04-10,Partial,
+Maine,23,CASES_UnknownAge,2021-04-10,Partial,
+Maine,23,CASES_UnknownEthnicity,2021-04-10,Partial,
+Maine,23,CASES_UnknownGender,2021-04-10,Partial,
+Maine,23,CASES_UnknownRace,2021-04-10,Partial,
+Maine,23,CASES_White,2021-04-10,Partial,
+Maryland,24,CASES_Adult,2021-04-10,Partial,
+Maryland,24,CASES_Asian,2021-04-10,Partial,
+Maryland,24,CASES_Black,2021-04-10,Partial,
+Maryland,24,CASES_BlackDisparity,2021-04-10,Partial,
+Maryland,24,CASES_Child,2021-04-10,Partial,
+Maryland,24,CASES_Elderly,2021-04-10,Partial,
+Maryland,24,CASES_Female,2021-04-10,Partial,
+Maryland,24,CASES_Hispanic,2021-04-10,Partial,
+Maryland,24,CASES_HispanicDisparity,2021-04-10,Partial,
+Maryland,24,CASES_Male,2021-04-10,Partial,
+Maryland,24,CASES_Native,2021-04-10,Partial,
+Maryland,24,CASES_NotHispanic,2021-04-10,Partial,
+Maryland,24,CASES_OtherRace,2021-04-10,Partial,
+Maryland,24,CASES_Pacific,2021-04-10,Partial,
+Maryland,24,CASES_UnknownAge,2021-04-10,Partial,
+Maryland,24,CASES_UnknownEthnicity,2021-04-10,Partial,
+Maryland,24,CASES_UnknownGender,2021-04-10,Partial,
+Maryland,24,CASES_UnknownRace,2021-04-10,Partial,
+Maryland,24,CASES_White,2021-04-10,Partial,
+Massachusetts,25,CASES_Adult,2021-04-10,Partial,
+Massachusetts,25,CASES_Asian,2021-04-10,Partial,
+Massachusetts,25,CASES_Black,2021-04-10,Partial,
+Massachusetts,25,CASES_BlackDisparity,2021-04-10,Partial,
+Massachusetts,25,CASES_Child,2021-04-10,Partial,
+Massachusetts,25,CASES_Elderly,2021-04-10,Partial,
+Massachusetts,25,CASES_Female,2021-04-10,Partial,
+Massachusetts,25,CASES_Hispanic,2021-04-10,Partial,
+Massachusetts,25,CASES_HispanicDisparity,2021-04-10,Partial,
+Massachusetts,25,CASES_Male,2021-04-10,Partial,
+Massachusetts,25,CASES_Native,2021-04-10,Partial,
+Massachusetts,25,CASES_NotHispanic,2021-04-10,Partial,
+Massachusetts,25,CASES_OtherRace,2021-04-10,Partial,
+Massachusetts,25,CASES_Pacific,2021-04-10,Partial,
+Massachusetts,25,CASES_UnknownAge,2021-04-10,Partial,
+Massachusetts,25,CASES_UnknownEthnicity,2021-04-10,Partial,
+Massachusetts,25,CASES_UnknownGender,2021-04-10,Partial,
+Massachusetts,25,CASES_UnknownRace,2021-04-10,Partial,
+Massachusetts,25,CASES_White,2021-04-10,Partial,
+Mississippi,28,CASES_Adult,2021-04-10,Partial,
+Mississippi,28,CASES_Asian,2021-04-10,Partial,
+Mississippi,28,CASES_Black,2021-04-10,Partial,
+Mississippi,28,CASES_BlackDisparity,2021-04-10,Partial,
+Mississippi,28,CASES_Child,2021-04-10,Partial,
+Mississippi,28,CASES_Elderly,2021-04-10,Partial,
+Mississippi,28,CASES_Female,2021-04-10,Partial,
+Mississippi,28,CASES_Hispanic,2021-04-10,Partial,
+Mississippi,28,CASES_HispanicDisparity,2021-04-10,Partial,
+Mississippi,28,CASES_Male,2021-04-10,Partial,
+Mississippi,28,CASES_Native,2021-04-10,Partial,
+Mississippi,28,CASES_NotHispanic,2021-04-10,Partial,
+Mississippi,28,CASES_OtherRace,2021-04-10,Partial,
+Mississippi,28,CASES_Pacific,2021-04-10,Partial,
+Mississippi,28,CASES_UnknownAge,2021-04-10,Partial,
+Mississippi,28,CASES_UnknownEthnicity,2021-04-10,Partial,
+Mississippi,28,CASES_UnknownGender,2021-04-10,Partial,
+Mississippi,28,CASES_UnknownRace,2021-04-10,Partial,
+Mississippi,28,CASES_White,2021-04-10,Partial,
+Missouri,29,CASES_Adult,2021-04-10,Partial,
+Missouri,29,CASES_Asian,2021-04-10,Partial,
+Missouri,29,CASES_Black,2021-04-10,Partial,
+Missouri,29,CASES_BlackDisparity,2021-04-10,Partial,
+Missouri,29,CASES_Child,2021-04-10,Partial,
+Missouri,29,CASES_Elderly,2021-04-10,Partial,
+Missouri,29,CASES_Female,2021-04-10,Partial,
+Missouri,29,CASES_Hispanic,2021-04-10,Partial,
+Missouri,29,CASES_HispanicDisparity,2021-04-10,Partial,
+Missouri,29,CASES_Male,2021-04-10,Partial,
+Missouri,29,CASES_Native,2021-04-10,Partial,
+Missouri,29,CASES_NotHispanic,2021-04-10,Partial,
+Missouri,29,CASES_OtherRace,2021-04-10,Partial,
+Missouri,29,CASES_Pacific,2021-04-10,Partial,
+Missouri,29,CASES_UnknownAge,2021-04-10,Partial,
+Missouri,29,CASES_UnknownEthnicity,2021-04-10,Partial,
+Missouri,29,CASES_UnknownGender,2021-04-10,Partial,
+Missouri,29,CASES_UnknownRace,2021-04-10,Partial,
+Missouri,29,CASES_White,2021-04-10,Partial,
+Nebraska,31,CASES_Adult,2021-04-10,Partial,
+Nebraska,31,CASES_Asian,2021-04-10,Partial,
+Nebraska,31,CASES_Black,2021-04-10,Partial,
+Nebraska,31,CASES_BlackDisparity,2021-04-10,Partial,
+Nebraska,31,CASES_Child,2021-04-10,Partial,
+Nebraska,31,CASES_Elderly,2021-04-10,Partial,
+Nebraska,31,CASES_Female,2021-04-10,Partial,
+Nebraska,31,CASES_Hispanic,2021-04-10,Partial,
+Nebraska,31,CASES_HispanicDisparity,2021-04-10,Partial,
+Nebraska,31,CASES_Male,2021-04-10,Partial,
+Nebraska,31,CASES_Native,2021-04-10,Partial,
+Nebraska,31,CASES_NotHispanic,2021-04-10,Partial,
+Nebraska,31,CASES_OtherRace,2021-04-10,Partial,
+Nebraska,31,CASES_Pacific,2021-04-10,Partial,
+Nebraska,31,CASES_UnknownAge,2021-04-10,Partial,
+Nebraska,31,CASES_UnknownEthnicity,2021-04-10,Partial,
+Nebraska,31,CASES_UnknownGender,2021-04-10,Partial,
+Nebraska,31,CASES_UnknownRace,2021-04-10,Partial,
+Nebraska,31,CASES_White,2021-04-10,Partial,
+North Carolina,37,CASES_Adult,2021-04-10,Partial,2042968.087
+North Carolina,37,CASES_Asian,2021-04-10,Partial,127986.35400000002
+North Carolina,37,CASES_Black,2021-04-10,Partial,697203.047
+North Carolina,37,CASES_BlackDisparity,2021-04-10,Partial,8.989766081871347
+North Carolina,37,CASES_Child,2021-04-10,Partial,14160.944
+North Carolina,37,CASES_Elderly,2021-04-10,Partial,2128946.969
+North Carolina,37,CASES_Female,2021-04-10,Partial,2430776.369
+North Carolina,37,CASES_Hispanic,2021-04-10,Partial,183027.414
+North Carolina,37,CASES_HispanicDisparity,2021-04-10,Partial,0.0
+North Carolina,37,CASES_Male,2021-04-10,Partial,1715131.23
+North Carolina,37,CASES_Native,2021-04-10,Partial,31796.249000000003
+North Carolina,37,CASES_NotHispanic,2021-04-10,Partial,0.0
+North Carolina,37,CASES_OtherRace,2021-04-10,Partial,0.0
+North Carolina,37,CASES_Pacific,2021-04-10,Partial,0.0
+North Carolina,37,CASES_UnknownAge,2021-04-10,Partial,0.6000000000000018
+North Carolina,37,CASES_UnknownEthnicity,2021-04-10,Partial,200.0
+North Carolina,37,CASES_UnknownGender,2021-04-10,Partial,1.9000000000000008
+North Carolina,37,CASES_UnknownRace,2021-04-10,Partial,18.4
+North Carolina,37,CASES_White,2021-04-10,Partial,3094137.665
+North Dakota,38,CASES_Adult,2021-04-10,Partial,
+North Dakota,38,CASES_Asian,2021-04-10,Partial,
+North Dakota,38,CASES_Black,2021-04-10,Partial,
+North Dakota,38,CASES_BlackDisparity,2021-04-10,Partial,
+North Dakota,38,CASES_Child,2021-04-10,Partial,
+North Dakota,38,CASES_Elderly,2021-04-10,Partial,
+North Dakota,38,CASES_Female,2021-04-10,Partial,
+North Dakota,38,CASES_Hispanic,2021-04-10,Partial,
+North Dakota,38,CASES_HispanicDisparity,2021-04-10,Partial,
+North Dakota,38,CASES_Male,2021-04-10,Partial,
+North Dakota,38,CASES_Native,2021-04-10,Partial,
+North Dakota,38,CASES_NotHispanic,2021-04-10,Partial,
+North Dakota,38,CASES_OtherRace,2021-04-10,Partial,
+North Dakota,38,CASES_Pacific,2021-04-10,Partial,
+North Dakota,38,CASES_UnknownAge,2021-04-10,Partial,
+North Dakota,38,CASES_UnknownEthnicity,2021-04-10,Partial,
+North Dakota,38,CASES_UnknownGender,2021-04-10,Partial,
+North Dakota,38,CASES_UnknownRace,2021-04-10,Partial,
+North Dakota,38,CASES_White,2021-04-10,Partial,
+Ohio,39,CASES_Adult,2021-04-10,Partial,
+Ohio,39,CASES_Asian,2021-04-10,Partial,
+Ohio,39,CASES_Black,2021-04-10,Partial,
+Ohio,39,CASES_BlackDisparity,2021-04-10,Partial,
+Ohio,39,CASES_Child,2021-04-10,Partial,
+Ohio,39,CASES_Elderly,2021-04-10,Partial,
+Ohio,39,CASES_Female,2021-04-10,Partial,
+Ohio,39,CASES_Hispanic,2021-04-10,Partial,
+Ohio,39,CASES_HispanicDisparity,2021-04-10,Partial,
+Ohio,39,CASES_Male,2021-04-10,Partial,
+Ohio,39,CASES_Native,2021-04-10,Partial,
+Ohio,39,CASES_NotHispanic,2021-04-10,Partial,
+Ohio,39,CASES_OtherRace,2021-04-10,Partial,
+Ohio,39,CASES_Pacific,2021-04-10,Partial,
+Ohio,39,CASES_UnknownAge,2021-04-10,Partial,
+Ohio,39,CASES_UnknownEthnicity,2021-04-10,Partial,
+Ohio,39,CASES_UnknownGender,2021-04-10,Partial,
+Ohio,39,CASES_UnknownRace,2021-04-10,Partial,
+Ohio,39,CASES_White,2021-04-10,Partial,
+Pennsylvania,42,CASES_Adult,2021-04-10,Partial,
+Pennsylvania,42,CASES_Asian,2021-04-10,Partial,
+Pennsylvania,42,CASES_Black,2021-04-10,Partial,
+Pennsylvania,42,CASES_BlackDisparity,2021-04-10,Partial,
+Pennsylvania,42,CASES_Child,2021-04-10,Partial,
+Pennsylvania,42,CASES_Elderly,2021-04-10,Partial,
+Pennsylvania,42,CASES_Female,2021-04-10,Partial,
+Pennsylvania,42,CASES_Hispanic,2021-04-10,Partial,
+Pennsylvania,42,CASES_HispanicDisparity,2021-04-10,Partial,
+Pennsylvania,42,CASES_Male,2021-04-10,Partial,
+Pennsylvania,42,CASES_Native,2021-04-10,Partial,
+Pennsylvania,42,CASES_NotHispanic,2021-04-10,Partial,
+Pennsylvania,42,CASES_OtherRace,2021-04-10,Partial,
+Pennsylvania,42,CASES_Pacific,2021-04-10,Partial,
+Pennsylvania,42,CASES_UnknownAge,2021-04-10,Partial,
+Pennsylvania,42,CASES_UnknownEthnicity,2021-04-10,Partial,
+Pennsylvania,42,CASES_UnknownGender,2021-04-10,Partial,
+Pennsylvania,42,CASES_UnknownRace,2021-04-10,Partial,
+Pennsylvania,42,CASES_White,2021-04-10,Partial,
+Rhode Island,44,CASES_Adult,2021-04-10,Partial,
+Rhode Island,44,CASES_Asian,2021-04-10,Partial,
+Rhode Island,44,CASES_Black,2021-04-10,Partial,
+Rhode Island,44,CASES_BlackDisparity,2021-04-10,Partial,
+Rhode Island,44,CASES_Child,2021-04-10,Partial,
+Rhode Island,44,CASES_Elderly,2021-04-10,Partial,
+Rhode Island,44,CASES_Female,2021-04-10,Partial,
+Rhode Island,44,CASES_Hispanic,2021-04-10,Partial,
+Rhode Island,44,CASES_HispanicDisparity,2021-04-10,Partial,
+Rhode Island,44,CASES_Male,2021-04-10,Partial,
+Rhode Island,44,CASES_Native,2021-04-10,Partial,
+Rhode Island,44,CASES_NotHispanic,2021-04-10,Partial,
+Rhode Island,44,CASES_OtherRace,2021-04-10,Partial,
+Rhode Island,44,CASES_Pacific,2021-04-10,Partial,
+Rhode Island,44,CASES_UnknownAge,2021-04-10,Partial,
+Rhode Island,44,CASES_UnknownEthnicity,2021-04-10,Partial,
+Rhode Island,44,CASES_UnknownGender,2021-04-10,Partial,
+Rhode Island,44,CASES_UnknownRace,2021-04-10,Partial,
+Rhode Island,44,CASES_White,2021-04-10,Partial,
+Tennessee,47,CASES_Adult,2021-04-08 00:00:00,Partial,0.0
+Tennessee,47,CASES_Asian,2021-04-08 00:00:00,Partial,54625.0
+Tennessee,47,CASES_Black,2021-04-08 00:00:00,Partial,327459.0
+Tennessee,47,CASES_BlackDisparity,2021-04-08 00:00:00,Partial,13.746089233966911
+Tennessee,47,CASES_Child,2021-04-08 00:00:00,Partial,0.0
+Tennessee,47,CASES_Elderly,2021-04-08 00:00:00,Partial,0.0
+Tennessee,47,CASES_Female,2021-04-08 00:00:00,Partial,1845308.0
+Tennessee,47,CASES_Hispanic,2021-04-08 00:00:00,Partial,94869.0
+Tennessee,47,CASES_HispanicDisparity,2021-04-08 00:00:00,Partial,59.38856715199829
+Tennessee,47,CASES_Male,2021-04-08 00:00:00,Partial,1328824.0
+Tennessee,47,CASES_Native,2021-04-08 00:00:00,Partial,0.0
+Tennessee,47,CASES_NotHispanic,2021-04-08 00:00:00,Partial,2661558.0
+Tennessee,47,CASES_OtherRace,2021-04-08 00:00:00,Partial,0.0
+Tennessee,47,CASES_Pacific,2021-04-08 00:00:00,Partial,0.0
+Tennessee,47,CASES_UnknownAge,2021-04-08 00:00:00,Partial,200.0
+Tennessee,47,CASES_UnknownEthnicity,2021-04-08 00:00:00,Partial,0.0
+Tennessee,47,CASES_UnknownGender,2021-04-08 00:00:00,Partial,8160.0
+Tennessee,47,CASES_UnknownRace,2021-04-08 00:00:00,Partial,586894.0
+Tennessee,47,CASES_White,2021-04-08 00:00:00,Partial,2213314.0
+Texas,48,CASES_Adult,2021-04-10,Partial,9831641.0
+Texas,48,CASES_Asian,2021-04-10,Partial,932838.0
+Texas,48,CASES_Black,2021-04-10,Partial,988144.0
+Texas,48,CASES_BlackDisparity,2021-04-10,Partial,12.162654960554624
+Texas,48,CASES_Child,2021-04-10,Partial,0.0
+Texas,48,CASES_Elderly,2021-04-10,Partial,4663289.0
+Texas,48,CASES_Female,2021-04-10,Partial,8106426.0
+Texas,48,CASES_Hispanic,2021-04-10,Partial,3583289.0
+Texas,48,CASES_HispanicDisparity,2021-04-10,Partial,5.148260405500482
+Texas,48,CASES_Male,2021-04-10,Partial,6231502.0
+Texas,48,CASES_Native,2021-04-10,Partial,0.0
+Texas,48,CASES_NotHispanic,2021-04-10,Partial,9031990.0
+Texas,48,CASES_OtherRace,2021-04-10,Partial,0.0
+Texas,48,CASES_Pacific,2021-04-10,Partial,0.0
+Texas,48,CASES_UnknownAge,2021-04-10,Partial,0.029630175653280376
+Texas,48,CASES_UnknownEthnicity,2021-04-10,Partial,0.0
+Texas,48,CASES_UnknownGender,2021-04-10,Partial,1.1553616260032156
+Texas,48,CASES_UnknownRace,2021-04-10,Partial,13.151864641099605
+Texas,48,CASES_White,2021-04-10,Partial,5923153.0
+Vermont,50,CASES_Adult,2021-04-10,Partial,
+Vermont,50,CASES_Asian,2021-04-10,Partial,
+Vermont,50,CASES_Black,2021-04-10,Partial,
+Vermont,50,CASES_BlackDisparity,2021-04-10,Partial,
+Vermont,50,CASES_Child,2021-04-10,Partial,
+Vermont,50,CASES_Elderly,2021-04-10,Partial,
+Vermont,50,CASES_Female,2021-04-10,Partial,
+Vermont,50,CASES_Hispanic,2021-04-10,Partial,
+Vermont,50,CASES_HispanicDisparity,2021-04-10,Partial,
+Vermont,50,CASES_Male,2021-04-10,Partial,
+Vermont,50,CASES_Native,2021-04-10,Partial,
+Vermont,50,CASES_NotHispanic,2021-04-10,Partial,
+Vermont,50,CASES_OtherRace,2021-04-10,Partial,
+Vermont,50,CASES_Pacific,2021-04-10,Partial,
+Vermont,50,CASES_UnknownAge,2021-04-10,Partial,
+Vermont,50,CASES_UnknownEthnicity,2021-04-10,Partial,
+Vermont,50,CASES_UnknownGender,2021-04-10,Partial,
+Vermont,50,CASES_UnknownRace,2021-04-10,Partial,
+Vermont,50,CASES_White,2021-04-10,Partial,
+Virginia,51,CASES_Adult,2021-04-10,Partial,
+Virginia,51,CASES_Asian,2021-04-10,Partial,
+Virginia,51,CASES_Black,2021-04-10,Partial,
+Virginia,51,CASES_BlackDisparity,2021-04-10,Partial,
+Virginia,51,CASES_Child,2021-04-10,Partial,
+Virginia,51,CASES_Elderly,2021-04-10,Partial,
+Virginia,51,CASES_Female,2021-04-10,Partial,
+Virginia,51,CASES_Hispanic,2021-04-10,Partial,
+Virginia,51,CASES_HispanicDisparity,2021-04-10,Partial,
+Virginia,51,CASES_Male,2021-04-10,Partial,
+Virginia,51,CASES_Native,2021-04-10,Partial,
+Virginia,51,CASES_NotHispanic,2021-04-10,Partial,
+Virginia,51,CASES_OtherRace,2021-04-10,Partial,
+Virginia,51,CASES_Pacific,2021-04-10,Partial,
+Virginia,51,CASES_UnknownAge,2021-04-10,Partial,
+Virginia,51,CASES_UnknownEthnicity,2021-04-10,Partial,
+Virginia,51,CASES_UnknownGender,2021-04-10,Partial,
+Virginia,51,CASES_UnknownRace,2021-04-10,Partial,
+Virginia,51,CASES_White,2021-04-10,Partial,
+Washington,53,CASES_Adult,2021-04-10,Partial,
+Washington,53,CASES_Asian,2021-04-10,Partial,
+Washington,53,CASES_Black,2021-04-10,Partial,
+Washington,53,CASES_BlackDisparity,2021-04-10,Partial,
+Washington,53,CASES_Child,2021-04-10,Partial,
+Washington,53,CASES_Elderly,2021-04-10,Partial,
+Washington,53,CASES_Female,2021-04-10,Partial,
+Washington,53,CASES_Hispanic,2021-04-10,Partial,
+Washington,53,CASES_HispanicDisparity,2021-04-10,Partial,
+Washington,53,CASES_Male,2021-04-10,Partial,
+Washington,53,CASES_Native,2021-04-10,Partial,
+Washington,53,CASES_NotHispanic,2021-04-10,Partial,
+Washington,53,CASES_OtherRace,2021-04-10,Partial,
+Washington,53,CASES_Pacific,2021-04-10,Partial,
+Washington,53,CASES_UnknownAge,2021-04-10,Partial,
+Washington,53,CASES_UnknownEthnicity,2021-04-10,Partial,
+Washington,53,CASES_UnknownGender,2021-04-10,Partial,
+Washington,53,CASES_UnknownRace,2021-04-10,Partial,
+Washington,53,CASES_White,2021-04-10,Partial,
+West Virginia,54,CASES_Adult,2021-04-10,Partial,0.0
+West Virginia,54,CASES_Asian,2021-04-10,Partial,0.0
+West Virginia,54,CASES_Black,2021-04-10,Partial,0.0
+West Virginia,54,CASES_BlackDisparity,2021-04-10,Partial,0.0
+West Virginia,54,CASES_Child,2021-04-10,Partial,0.0
+West Virginia,54,CASES_Elderly,2021-04-10,Partial,0.0
+West Virginia,54,CASES_Female,2021-04-10,Partial,0.0
+West Virginia,54,CASES_Hispanic,2021-04-10,Partial,0.0
+West Virginia,54,CASES_HispanicDisparity,2021-04-10,Partial,0.0
+West Virginia,54,CASES_Male,2021-04-10,Partial,0.0
+West Virginia,54,CASES_Native,2021-04-10,Partial,0.0
+West Virginia,54,CASES_NotHispanic,2021-04-10,Partial,0.0
+West Virginia,54,CASES_OtherRace,2021-04-10,Partial,0.0
+West Virginia,54,CASES_Pacific,2021-04-10,Partial,0.0
+West Virginia,54,CASES_UnknownAge,2021-04-10,Partial,100.0
+West Virginia,54,CASES_UnknownEthnicity,2021-04-10,Partial,100.0
+West Virginia,54,CASES_UnknownGender,2021-04-10,Partial,100.0
+West Virginia,54,CASES_UnknownRace,2021-04-10,Partial,100.0
+West Virginia,54,CASES_White,2021-04-10,Partial,0.0
+Wisconsin,55,CASES_Adult,2021-04-10,Partial,
+Wisconsin,55,CASES_Asian,2021-04-10,Partial,
+Wisconsin,55,CASES_Black,2021-04-10,Partial,
+Wisconsin,55,CASES_BlackDisparity,2021-04-10,Partial,
+Wisconsin,55,CASES_Child,2021-04-10,Partial,
+Wisconsin,55,CASES_Elderly,2021-04-10,Partial,
+Wisconsin,55,CASES_Female,2021-04-10,Partial,
+Wisconsin,55,CASES_Hispanic,2021-04-10,Partial,
+Wisconsin,55,CASES_HispanicDisparity,2021-04-10,Partial,
+Wisconsin,55,CASES_Male,2021-04-10,Partial,
+Wisconsin,55,CASES_Native,2021-04-10,Partial,
+Wisconsin,55,CASES_NotHispanic,2021-04-10,Partial,
+Wisconsin,55,CASES_OtherRace,2021-04-10,Partial,
+Wisconsin,55,CASES_Pacific,2021-04-10,Partial,
+Wisconsin,55,CASES_UnknownAge,2021-04-10,Partial,
+Wisconsin,55,CASES_UnknownEthnicity,2021-04-10,Partial,
+Wisconsin,55,CASES_UnknownGender,2021-04-10,Partial,
+Wisconsin,55,CASES_UnknownRace,2021-04-10,Partial,
+Wisconsin,55,CASES_White,2021-04-10,Partial,
+California,6,CASES_Adult,2021-04-10,Complete,
+California,6,CASES_Asian,2021-04-10,Complete,
+California,6,CASES_Black,2021-04-10,Complete,
+California,6,CASES_BlackDisparity,2021-04-10,Complete,
+California,6,CASES_Child,2021-04-10,Complete,
+California,6,CASES_Elderly,2021-04-10,Complete,
+California,6,CASES_Female,2021-04-10,Complete,
+California,6,CASES_Hispanic,2021-04-10,Complete,
+California,6,CASES_HispanicDisparity,2021-04-10,Complete,
+California,6,CASES_Male,2021-04-10,Complete,
+California,6,CASES_Native,2021-04-10,Complete,
+California,6,CASES_NotHispanic,2021-04-10,Complete,
+California,6,CASES_OtherRace,2021-04-10,Complete,
+California,6,CASES_Pacific,2021-04-10,Complete,
+California,6,CASES_UnknownAge,2021-04-10,Complete,
+California,6,CASES_UnknownEthnicity,2021-04-10,Complete,
+California,6,CASES_UnknownGender,2021-04-10,Complete,
+California,6,CASES_UnknownRace,2021-04-10,Complete,
+California,6,CASES_White,2021-04-10,Complete,
+Colorado,8,CASES_Adult,2021-04-10,Complete,
+Colorado,8,CASES_Asian,2021-04-10,Complete,
+Colorado,8,CASES_Black,2021-04-10,Complete,
+Colorado,8,CASES_BlackDisparity,2021-04-10,Complete,
+Colorado,8,CASES_Child,2021-04-10,Complete,
+Colorado,8,CASES_Elderly,2021-04-10,Complete,
+Colorado,8,CASES_Female,2021-04-10,Complete,
+Colorado,8,CASES_Hispanic,2021-04-10,Complete,
+Colorado,8,CASES_HispanicDisparity,2021-04-10,Complete,
+Colorado,8,CASES_Male,2021-04-10,Complete,
+Colorado,8,CASES_Native,2021-04-10,Complete,
+Colorado,8,CASES_NotHispanic,2021-04-10,Complete,
+Colorado,8,CASES_OtherRace,2021-04-10,Complete,
+Colorado,8,CASES_Pacific,2021-04-10,Complete,
+Colorado,8,CASES_UnknownAge,2021-04-10,Complete,
+Colorado,8,CASES_UnknownEthnicity,2021-04-10,Complete,
+Colorado,8,CASES_UnknownGender,2021-04-10,Complete,
+Colorado,8,CASES_UnknownRace,2021-04-10,Complete,
+Colorado,8,CASES_White,2021-04-10,Complete,
+Delaware,10,CASES_Adult,2021-04-10 00:00:00,Complete,
+Delaware,10,CASES_Asian,2021-04-10 00:00:00,Complete,
+Delaware,10,CASES_Black,2021-04-10 00:00:00,Complete,
+Delaware,10,CASES_BlackDisparity,2021-04-10 00:00:00,Complete,
+Delaware,10,CASES_Child,2021-04-10 00:00:00,Complete,
+Delaware,10,CASES_Elderly,2021-04-10 00:00:00,Complete,
+Delaware,10,CASES_Female,2021-04-10 00:00:00,Complete,
+Delaware,10,CASES_Hispanic,2021-04-10 00:00:00,Complete,
+Delaware,10,CASES_HispanicDisparity,2021-04-10 00:00:00,Complete,
+Delaware,10,CASES_Male,2021-04-10 00:00:00,Complete,
+Delaware,10,CASES_Native,2021-04-10 00:00:00,Complete,
+Delaware,10,CASES_NotHispanic,2021-04-10 00:00:00,Complete,
+Delaware,10,CASES_OtherRace,2021-04-10 00:00:00,Complete,
+Delaware,10,CASES_Pacific,2021-04-10 00:00:00,Complete,
+Delaware,10,CASES_UnknownAge,2021-04-10 00:00:00,Complete,
+Delaware,10,CASES_UnknownEthnicity,2021-04-10 00:00:00,Complete,
+Delaware,10,CASES_UnknownGender,2021-04-10 00:00:00,Complete,
+Delaware,10,CASES_UnknownRace,2021-04-10 00:00:00,Complete,
+Delaware,10,CASES_White,2021-04-10 00:00:00,Complete,
+District of Columbia,11,CASES_Adult,2021-04-10,Complete,33041.0
+District of Columbia,11,CASES_Asian,2021-04-10,Complete,0.0
+District of Columbia,11,CASES_Black,2021-04-10,Complete,21913.0
+District of Columbia,11,CASES_BlackDisparity,2021-04-10,Complete,1.2396750787203945
+District of Columbia,11,CASES_Child,2021-04-10,Complete,137.0
+District of Columbia,11,CASES_Elderly,2021-04-10,Complete,35122.0
+District of Columbia,11,CASES_Female,2021-04-10,Complete,40349.0
+District of Columbia,11,CASES_Hispanic,2021-04-10,Complete,3269.0
+District of Columbia,11,CASES_HispanicDisparity,2021-04-10,Complete,0.0
+District of Columbia,11,CASES_Male,2021-04-10,Complete,27802.0
+District of Columbia,11,CASES_Native,2021-04-10,Complete,0.0
+District of Columbia,11,CASES_NotHispanic,2021-04-10,Complete,0.0
+District of Columbia,11,CASES_OtherRace,2021-04-10,Complete,0.0
+District of Columbia,11,CASES_Pacific,2021-04-10,Complete,0.0
+District of Columbia,11,CASES_UnknownAge,2021-04-10,Complete,0.20935203349632536
+District of Columbia,11,CASES_UnknownEthnicity,2021-04-10,Complete,100.0
+District of Columbia,11,CASES_UnknownGender,2021-04-10,Complete,0.2269200363072058
+District of Columbia,11,CASES_UnknownRace,2021-04-10,Complete,28.149796503967448
+District of Columbia,11,CASES_White,2021-04-10,Complete,27165.0
+Florida,12,CASES_Adult,2021-04-10,Complete,1073956.0
+Florida,12,CASES_Asian,2021-04-10,Complete,0.0
+Florida,12,CASES_Black,2021-04-10,Complete,232917.0
+Florida,12,CASES_BlackDisparity,2021-04-10,Complete,10.742092676790442
+Florida,12,CASES_Child,2021-04-10,Complete,51102.0
+Florida,12,CASES_Elderly,2021-04-10,Complete,2472014.0
+Florida,12,CASES_Female,2021-04-10,Complete,2079284.0
+Florida,12,CASES_Hispanic,2021-04-10,Complete,450956.0
+Florida,12,CASES_HispanicDisparity,2021-04-10,Complete,0.0
+Florida,12,CASES_Male,2021-04-10,Complete,1513780.0
+Florida,12,CASES_Native,2021-04-10,Complete,12707.0
+Florida,12,CASES_NotHispanic,2021-04-10,Complete,0.0
+Florida,12,CASES_OtherRace,2021-04-10,Complete,0.0
+Florida,12,CASES_Pacific,2021-04-10,Complete,0.0
+Florida,12,CASES_UnknownAge,2021-04-10,Complete,1.4206554664460433
+Florida,12,CASES_UnknownEthnicity,2021-04-10,Complete,100.0
+Florida,12,CASES_UnknownGender,2021-04-10,Complete,0.1114239581526308
+Florida,12,CASES_UnknownRace,2021-04-10,Complete,23.96779936570633
+Florida,12,CASES_White,2021-04-10,Complete,2502016.0
+Hawaii,15,CASES_Adult,2021-04-10,Complete,0.0
+Hawaii,15,CASES_Asian,2021-04-10,Complete,111952.0
+Hawaii,15,CASES_Black,2021-04-10,Complete,1593.0
+Hawaii,15,CASES_BlackDisparity,2021-04-10,Complete,33.82360326428123
+Hawaii,15,CASES_Child,2021-04-10,Complete,0.0
+Hawaii,15,CASES_Elderly,2021-04-10,Complete,0.0
+Hawaii,15,CASES_Female,2021-04-10,Complete,0.0
+Hawaii,15,CASES_Hispanic,2021-04-10,Complete,0.0
+Hawaii,15,CASES_HispanicDisparity,2021-04-10,Complete,0.0
+Hawaii,15,CASES_Male,2021-04-10,Complete,0.0
+Hawaii,15,CASES_Native,2021-04-10,Complete,0.0
+Hawaii,15,CASES_NotHispanic,2021-04-10,Complete,0.0
+Hawaii,15,CASES_OtherRace,2021-04-10,Complete,0.0
+Hawaii,15,CASES_Pacific,2021-04-10,Complete,23676.0
+Hawaii,15,CASES_UnknownAge,2021-04-10,Complete,100.0
+Hawaii,15,CASES_UnknownEthnicity,2021-04-10,Complete,100.0
+Hawaii,15,CASES_UnknownGender,2021-04-10,Complete,100.0
+Hawaii,15,CASES_UnknownRace,2021-04-10,Complete,75.83190289891694
+Hawaii,15,CASES_White,2021-04-10,Complete,53881.0
+Idaho,16,CASES_Adult,2021-04-10,Complete,123832.0
+Idaho,16,CASES_Asian,2021-04-10,Complete,2342.0
+Idaho,16,CASES_Black,2021-04-10,Complete,719.0
+Idaho,16,CASES_BlackDisparity,2021-04-10,Complete,236.3226703755216
+Idaho,16,CASES_Child,2021-04-10,Complete,9335.0
+Idaho,16,CASES_Elderly,2021-04-10,Complete,159876.0
+Idaho,16,CASES_Female,2021-04-10,Complete,0.0
+Idaho,16,CASES_Hispanic,2021-04-10,Complete,9123.0
+Idaho,16,CASES_HispanicDisparity,2021-04-10,Complete,0.0
+Idaho,16,CASES_Male,2021-04-10,Complete,0.0
+Idaho,16,CASES_Native,2021-04-10,Complete,1575.0
+Idaho,16,CASES_NotHispanic,2021-04-10,Complete,0.0
+Idaho,16,CASES_OtherRace,2021-04-10,Complete,0.0
+Idaho,16,CASES_Pacific,2021-04-10,Complete,394.0
+Idaho,16,CASES_UnknownAge,2021-04-10,Complete,0.0
+Idaho,16,CASES_UnknownEthnicity,2021-04-10,Complete,100.0
+Idaho,16,CASES_UnknownGender,2021-04-10,Complete,100.0
+Idaho,16,CASES_UnknownRace,2021-04-10,Complete,0.0
+Idaho,16,CASES_White,2021-04-10,Complete,169916.0
+Illinois,17,CASES_Adult,2021-04-10,Complete,1294413.0
+Illinois,17,CASES_Asian,2021-04-10,Complete,120252.0
+Illinois,17,CASES_Black,2021-04-10,Complete,196889.0
+Illinois,17,CASES_BlackDisparity,2021-04-10,Complete,8.282717673409891
+Illinois,17,CASES_Child,2021-04-10,Complete,0.0
+Illinois,17,CASES_Elderly,2021-04-10,Complete,1027660.0
+Illinois,17,CASES_Female,2021-04-10,Complete,1361481.0
+Illinois,17,CASES_Hispanic,2021-04-10,Complete,212617.0
+Illinois,17,CASES_HispanicDisparity,2021-04-10,Complete,9.921389164554103
+Illinois,17,CASES_Male,2021-04-10,Complete,948385.0
+Illinois,17,CASES_Native,2021-04-10,Complete,5619.0
+Illinois,17,CASES_NotHispanic,2021-04-10,Complete,2109456.0
+Illinois,17,CASES_OtherRace,2021-04-10,Complete,0.0
+Illinois,17,CASES_Pacific,2021-04-10,Complete,4072.0
+Illinois,17,CASES_UnknownAge,2021-04-10,Complete,0.0
+Illinois,17,CASES_UnknownEthnicity,2021-04-10,Complete,0.0
+Illinois,17,CASES_UnknownGender,2021-04-10,Complete,0.5256940673269099
+Illinois,17,CASES_UnknownRace,2021-04-10,Complete,21.29166481846178
+Illinois,17,CASES_White,2021-04-10,Complete,1630776.0
+Indiana,18,CASES_Adult,2021-04-10,Complete,396279.54
+Indiana,18,CASES_Asian,2021-04-10,Complete,20792.445
+Indiana,18,CASES_Black,2021-04-10,Complete,63600.42000000001
+Indiana,18,CASES_BlackDisparity,2021-04-10,Complete,16.711538461538463
+Indiana,18,CASES_Child,2021-04-10,Complete,4892.34
+Indiana,18,CASES_Elderly,2021-04-10,Complete,824359.29
+Indiana,18,CASES_Female,2021-04-10,Complete,711835.4700000002
+Indiana,18,CASES_Hispanic,2021-04-10,Complete,29354.04
+Indiana,18,CASES_HispanicDisparity,2021-04-10,Complete,0.0
+Indiana,18,CASES_Male,2021-04-10,Complete,507580.275
+Indiana,18,CASES_Native,2021-04-10,Complete,0.0
+Indiana,18,CASES_NotHispanic,2021-04-10,Complete,0.0
+Indiana,18,CASES_OtherRace,2021-04-10,Complete,0.0
+Indiana,18,CASES_Pacific,2021-04-10,Complete,0.0
+Indiana,18,CASES_UnknownAge,2021-04-10,Complete,0.1999999999999939
+Indiana,18,CASES_UnknownEthnicity,2021-04-10,Complete,100.0
+Indiana,18,CASES_UnknownGender,2021-04-10,Complete,0.3000000000000004
+Indiana,18,CASES_UnknownRace,2021-04-10,Complete,7.899999999999981
+Indiana,18,CASES_White,2021-04-10,Complete,1062860.8650000002
+Louisiana,22,CASES_Adult,2021-04-10,Complete,
+Louisiana,22,CASES_Asian,2021-04-10,Complete,
+Louisiana,22,CASES_Black,2021-04-10,Complete,
+Louisiana,22,CASES_BlackDisparity,2021-04-10,Complete,
+Louisiana,22,CASES_Child,2021-04-10,Complete,
+Louisiana,22,CASES_Elderly,2021-04-10,Complete,
+Louisiana,22,CASES_Female,2021-04-10,Complete,
+Louisiana,22,CASES_Hispanic,2021-04-10,Complete,
+Louisiana,22,CASES_HispanicDisparity,2021-04-10,Complete,
+Louisiana,22,CASES_Male,2021-04-10,Complete,
+Louisiana,22,CASES_Native,2021-04-10,Complete,
+Louisiana,22,CASES_NotHispanic,2021-04-10,Complete,
+Louisiana,22,CASES_OtherRace,2021-04-10,Complete,
+Louisiana,22,CASES_Pacific,2021-04-10,Complete,
+Louisiana,22,CASES_UnknownAge,2021-04-10,Complete,
+Louisiana,22,CASES_UnknownEthnicity,2021-04-10,Complete,
+Louisiana,22,CASES_UnknownGender,2021-04-10,Complete,
+Louisiana,22,CASES_UnknownRace,2021-04-10,Complete,
+Louisiana,22,CASES_White,2021-04-10,Complete,
+Maine,23,CASES_Adult,2021-04-10,Complete,88658.0
+Maine,23,CASES_Asian,2021-04-10,Complete,1906.0
+Maine,23,CASES_Black,2021-04-10,Complete,2136.0
+Maine,23,CASES_BlackDisparity,2021-04-10,Complete,112.82303370786516
+Maine,23,CASES_Child,2021-04-10,Complete,1247.0
+Maine,23,CASES_Elderly,2021-04-10,Complete,218755.0
+Maine,23,CASES_Female,2021-04-10,Complete,183372.0
+Maine,23,CASES_Hispanic,2021-04-10,Complete,2043.0
+Maine,23,CASES_HispanicDisparity,2021-04-10,Complete,0.0
+Maine,23,CASES_Male,2021-04-10,Complete,124135.0
+Maine,23,CASES_Native,2021-04-10,Complete,1501.0
+Maine,23,CASES_NotHispanic,2021-04-10,Complete,0.0
+Maine,23,CASES_OtherRace,2021-04-10,Complete,0.0
+Maine,23,CASES_Pacific,2021-04-10,Complete,209.0
+Maine,23,CASES_UnknownAge,2021-04-10,Complete,0.4040044061426813
+Maine,23,CASES_UnknownEthnicity,2021-04-10,Complete,100.0
+Maine,23,CASES_UnknownGender,2021-04-10,Complete,0.3735501846692153
+Maine,23,CASES_UnknownRace,2021-04-10,Complete,21.231776064277845
+Maine,23,CASES_White,2021-04-10,Complete,240990.0
+Maryland,24,CASES_Adult,2021-04-10,Complete,529478.0
+Maryland,24,CASES_Asian,2021-04-10,Complete,66309.0
+Maryland,24,CASES_Black,2021-04-10,Complete,221225.0
+Maryland,24,CASES_BlackDisparity,2021-04-10,Complete,3.2689976268504917
+Maryland,24,CASES_Child,2021-04-10,Complete,6960.0
+Maryland,24,CASES_Elderly,2021-04-10,Complete,583452.0
+Maryland,24,CASES_Female,2021-04-10,Complete,668133.0
+Maryland,24,CASES_Hispanic,2021-04-10,Complete,44301.0
+Maryland,24,CASES_HispanicDisparity,2021-04-10,Complete,0.0
+Maryland,24,CASES_Male,2021-04-10,Complete,439167.0
+Maryland,24,CASES_Native,2021-04-10,Complete,6965.0
+Maryland,24,CASES_NotHispanic,2021-04-10,Complete,0.0
+Maryland,24,CASES_OtherRace,2021-04-10,Complete,0.0
+Maryland,24,CASES_Pacific,2021-04-10,Complete,2106.0
+Maryland,24,CASES_UnknownAge,2021-04-10,Complete,0.0
+Maryland,24,CASES_UnknownEthnicity,2021-04-10,Complete,100.0
+Maryland,24,CASES_UnknownGender,2021-04-10,Complete,0.5058718877198027
+Maryland,24,CASES_UnknownRace,2021-04-10,Complete,15.142102378406543
+Maryland,24,CASES_White,2021-04-10,Complete,723184.0
+Massachusetts,25,CASES_Adult,2021-04-10,Complete,689700.0
+Massachusetts,25,CASES_Asian,2021-04-10,Complete,56700.0
+Massachusetts,25,CASES_Black,2021-04-10,Complete,66200.0
+Massachusetts,25,CASES_BlackDisparity,2021-04-10,Complete,14.76737160120846
+Massachusetts,25,CASES_Child,2021-04-10,Complete,9000.0
+Massachusetts,25,CASES_Elderly,2021-04-10,Complete,637000.0
+Massachusetts,25,CASES_Female,2021-04-10,Complete,801900.0
+Massachusetts,25,CASES_Hispanic,2021-04-10,Complete,63900.0
+Massachusetts,25,CASES_HispanicDisparity,2021-04-10,Complete,19.90297339593114
+Massachusetts,25,CASES_Male,2021-04-10,Complete,516600.0
+Massachusetts,25,CASES_Native,2021-04-10,Complete,1100.0
+Massachusetts,25,CASES_NotHispanic,2021-04-10,Complete,1271800.0
+Massachusetts,25,CASES_OtherRace,2021-04-10,Complete,0.0
+Massachusetts,25,CASES_Pacific,2021-04-10,Complete,700.0
+Massachusetts,25,CASES_UnknownAge,2021-04-10,Complete,0.6738039979037209
+Massachusetts,25,CASES_UnknownEthnicity,2021-04-10,Complete,0.0
+Massachusetts,25,CASES_UnknownGender,2021-04-10,Complete,1.2877143071048889
+Massachusetts,25,CASES_UnknownRace,2021-04-10,Complete,21.85370966534401
+Massachusetts,25,CASES_White,2021-04-10,Complete,977600.0
+Mississippi,28,CASES_Adult,2021-04-10,Complete,251423.0
+Mississippi,28,CASES_Asian,2021-04-10,Complete,7175.0
+Mississippi,28,CASES_Black,2021-04-10,Complete,142818.0
+Mississippi,28,CASES_BlackDisparity,2021-04-10,Complete,2.1872663109692057
+Mississippi,28,CASES_Child,2021-04-10,Complete,11237.0
+Mississippi,28,CASES_Elderly,2021-04-10,Complete,251899.0
+Mississippi,28,CASES_Female,2021-04-10,Complete,0.0
+Mississippi,28,CASES_Hispanic,2021-04-10,Complete,6147.0
+Mississippi,28,CASES_HispanicDisparity,2021-04-10,Complete,0.0
+Mississippi,28,CASES_Male,2021-04-10,Complete,0.0
+Mississippi,28,CASES_Native,2021-04-10,Complete,632.0
+Mississippi,28,CASES_NotHispanic,2021-04-10,Complete,0.0
+Mississippi,28,CASES_OtherRace,2021-04-10,Complete,0.0
+Mississippi,28,CASES_Pacific,2021-04-10,Complete,319.0
+Mississippi,28,CASES_UnknownAge,2021-04-10,Complete,5.991408292865148
+Mississippi,28,CASES_UnknownEthnicity,2021-04-10,Complete,100.0
+Mississippi,28,CASES_UnknownGender,2021-04-10,Complete,100.0
+Mississippi,28,CASES_UnknownRace,2021-04-10,Complete,14.97964138961524
+Mississippi,28,CASES_White,2021-04-10,Complete,312381.0
+Missouri,29,CASES_Adult,2021-04-10,Complete,
+Missouri,29,CASES_Asian,2021-04-10,Complete,
+Missouri,29,CASES_Black,2021-04-10,Complete,
+Missouri,29,CASES_BlackDisparity,2021-04-10,Complete,
+Missouri,29,CASES_Child,2021-04-10,Complete,
+Missouri,29,CASES_Elderly,2021-04-10,Complete,
+Missouri,29,CASES_Female,2021-04-10,Complete,
+Missouri,29,CASES_Hispanic,2021-04-10,Complete,
+Missouri,29,CASES_HispanicDisparity,2021-04-10,Complete,
+Missouri,29,CASES_Male,2021-04-10,Complete,
+Missouri,29,CASES_Native,2021-04-10,Complete,
+Missouri,29,CASES_NotHispanic,2021-04-10,Complete,
+Missouri,29,CASES_OtherRace,2021-04-10,Complete,
+Missouri,29,CASES_Pacific,2021-04-10,Complete,
+Missouri,29,CASES_UnknownAge,2021-04-10,Complete,
+Missouri,29,CASES_UnknownEthnicity,2021-04-10,Complete,
+Missouri,29,CASES_UnknownGender,2021-04-10,Complete,
+Missouri,29,CASES_UnknownRace,2021-04-10,Complete,
+Missouri,29,CASES_White,2021-04-10,Complete,
+Nebraska,31,CASES_Adult,2021-04-10,Complete,173471.0
+Nebraska,31,CASES_Asian,2021-04-10,Complete,6253.0
+Nebraska,31,CASES_Black,2021-04-10,Complete,9719.0
+Nebraska,31,CASES_BlackDisparity,2021-04-10,Complete,34.11595843193744
+Nebraska,31,CASES_Child,2021-04-10,Complete,1494.0
+Nebraska,31,CASES_Elderly,2021-04-10,Complete,195730.0
+Nebraska,31,CASES_Female,2021-04-10,Complete,228911.0
+Nebraska,31,CASES_Hispanic,2021-04-10,Complete,15623.0
+Nebraska,31,CASES_HispanicDisparity,2021-04-10,Complete,0.0
+Nebraska,31,CASES_Male,2021-04-10,Complete,139965.0
+Nebraska,31,CASES_Native,2021-04-10,Complete,1414.0
+Nebraska,31,CASES_NotHispanic,2021-04-10,Complete,0.0
+Nebraska,31,CASES_OtherRace,2021-04-10,Complete,0.0
+Nebraska,31,CASES_Pacific,2021-04-10,Complete,280.0
+Nebraska,31,CASES_UnknownAge,2021-04-10,Complete,0.4035640968230118
+Nebraska,31,CASES_UnknownEthnicity,2021-04-10,Complete,100.0
+Nebraska,31,CASES_UnknownGender,2021-04-10,Complete,0.4912367782852303
+Nebraska,31,CASES_UnknownRace,2021-04-10,Complete,7.932354456604719
+Nebraska,31,CASES_White,2021-04-10,Complete,331573.0
+North Carolina,37,CASES_Adult,2021-04-10,Complete,693867.19
+North Carolina,37,CASES_Asian,2021-04-10,Complete,45693.69300000001
+North Carolina,37,CASES_Black,2021-04-10,Complete,270777.44
+North Carolina,37,CASES_BlackDisparity,2021-04-10,Complete,4.75
+North Carolina,37,CASES_Child,2021-04-10,Complete,1692.359
+North Carolina,37,CASES_Elderly,2021-04-10,Complete,996799.451
+North Carolina,37,CASES_Female,2021-04-10,Complete,1001876.5280000002
+North Carolina,37,CASES_Hispanic,2021-04-10,Complete,55847.847
+North Carolina,37,CASES_HispanicDisparity,2021-04-10,Complete,0.0
+North Carolina,37,CASES_Male,2021-04-10,Complete,675251.2409999999
+North Carolina,37,CASES_Native,2021-04-10,Complete,11846.513
+North Carolina,37,CASES_NotHispanic,2021-04-10,Complete,0.0
+North Carolina,37,CASES_OtherRace,2021-04-10,Complete,0.0
+North Carolina,37,CASES_Pacific,2021-04-10,Complete,0.0
+North Carolina,37,CASES_UnknownAge,2021-04-10,Complete,0.10000000000000324
+North Carolina,37,CASES_UnknownEthnicity,2021-04-10,Complete,100.0
+North Carolina,37,CASES_UnknownGender,2021-04-10,Complete,0.8999999999999948
+North Carolina,37,CASES_UnknownRace,2021-04-10,Complete,7.9999999999999964
+North Carolina,37,CASES_White,2021-04-10,Complete,1286192.84
+North Dakota,38,CASES_Adult,2021-04-10,Complete,
+North Dakota,38,CASES_Asian,2021-04-10,Complete,
+North Dakota,38,CASES_Black,2021-04-10,Complete,
+North Dakota,38,CASES_BlackDisparity,2021-04-10,Complete,
+North Dakota,38,CASES_Child,2021-04-10,Complete,
+North Dakota,38,CASES_Elderly,2021-04-10,Complete,
+North Dakota,38,CASES_Female,2021-04-10,Complete,
+North Dakota,38,CASES_Hispanic,2021-04-10,Complete,
+North Dakota,38,CASES_HispanicDisparity,2021-04-10,Complete,
+North Dakota,38,CASES_Male,2021-04-10,Complete,
+North Dakota,38,CASES_Native,2021-04-10,Complete,
+North Dakota,38,CASES_NotHispanic,2021-04-10,Complete,
+North Dakota,38,CASES_OtherRace,2021-04-10,Complete,
+North Dakota,38,CASES_Pacific,2021-04-10,Complete,
+North Dakota,38,CASES_UnknownAge,2021-04-10,Complete,
+North Dakota,38,CASES_UnknownEthnicity,2021-04-10,Complete,
+North Dakota,38,CASES_UnknownGender,2021-04-10,Complete,
+North Dakota,38,CASES_UnknownRace,2021-04-10,Complete,
+North Dakota,38,CASES_White,2021-04-10,Complete,
+Ohio,39,CASES_Adult,2021-04-10,Complete,739645.0
+Ohio,39,CASES_Asian,2021-04-10,Complete,35597.0
+Ohio,39,CASES_Black,2021-04-10,Complete,132707.0
+Ohio,39,CASES_BlackDisparity,2021-04-10,Complete,13.173924510387545
+Ohio,39,CASES_Child,2021-04-10,Complete,10311.0
+Ohio,39,CASES_Elderly,2021-04-10,Complete,1420928.0
+Ohio,39,CASES_Female,2021-04-10,Complete,1288505.0
+Ohio,39,CASES_Hispanic,2021-04-10,Complete,31570.0
+Ohio,39,CASES_HispanicDisparity,2021-04-10,Complete,0.0
+Ohio,39,CASES_Male,2021-04-10,Complete,839655.0
+Ohio,39,CASES_Native,2021-04-10,Complete,3693.0
+Ohio,39,CASES_NotHispanic,2021-04-10,Complete,0.0
+Ohio,39,CASES_OtherRace,2021-04-10,Complete,0.0
+Ohio,39,CASES_Pacific,2021-04-10,Complete,1122.0
+Ohio,39,CASES_UnknownAge,2021-04-10,Complete,0.4778559771380877
+Ohio,39,CASES_UnknownEthnicity,2021-04-10,Complete,100.0
+Ohio,39,CASES_UnknownGender,2021-04-10,Complete,1.9708910443230527
+Ohio,39,CASES_UnknownRace,2021-04-10,Complete,13.356751684863793
+Ohio,39,CASES_White,2021-04-10,Complete,1748272.0
+Pennsylvania,42,CASES_Adult,2021-04-10,Complete,810562.0
+Pennsylvania,42,CASES_Asian,2021-04-10,Complete,3038.0
+Pennsylvania,42,CASES_Black,2021-04-10,Complete,52527.0
+Pennsylvania,42,CASES_BlackDisparity,2021-04-10,Complete,26.994916899880057
+Pennsylvania,42,CASES_Child,2021-04-10,Complete,11262.0
+Pennsylvania,42,CASES_Elderly,2021-04-10,Complete,1102972.0
+Pennsylvania,42,CASES_Female,2021-04-10,Complete,1143731.0
+Pennsylvania,42,CASES_Hispanic,2021-04-10,Complete,29083.0
+Pennsylvania,42,CASES_HispanicDisparity,2021-04-10,Complete,0.0
+Pennsylvania,42,CASES_Male,2021-04-10,Complete,723513.0
+Pennsylvania,42,CASES_Native,2021-04-10,Complete,269.0
+Pennsylvania,42,CASES_NotHispanic,2021-04-10,Complete,0.0
+Pennsylvania,42,CASES_OtherRace,2021-04-10,Complete,0.0
+Pennsylvania,42,CASES_Pacific,2021-04-10,Complete,2597.0
+Pennsylvania,42,CASES_UnknownAge,2021-04-10,Complete,4.022025136904744
+Pennsylvania,42,CASES_UnknownEthnicity,2021-04-10,Complete,100.0
+Pennsylvania,42,CASES_UnknownGender,2021-04-10,Complete,6.3438132297281165
+Pennsylvania,42,CASES_UnknownRace,2021-04-10,Complete,26.24403001020202
+Pennsylvania,42,CASES_White,2021-04-10,Complete,1417962.0
+Rhode Island,44,CASES_Adult,2021-04-10,Complete,100103.0
+Rhode Island,44,CASES_Asian,2021-04-10,Complete,3425.0
+Rhode Island,44,CASES_Black,2021-04-10,Complete,6591.0
+Rhode Island,44,CASES_BlackDisparity,2021-04-10,Complete,23.29479593384919
+Rhode Island,44,CASES_Child,2021-04-10,Complete,1223.0
+Rhode Island,44,CASES_Elderly,2021-04-10,Complete,110939.0
+Rhode Island,44,CASES_Female,2021-04-10,Complete,128834.0
+Rhode Island,44,CASES_Hispanic,2021-04-10,Complete,15343.0
+Rhode Island,44,CASES_HispanicDisparity,2021-04-10,Complete,15.581698494427426
+Rhode Island,44,CASES_Male,2021-04-10,Complete,83225.0
+Rhode Island,44,CASES_Native,2021-04-10,Complete,501.0
+Rhode Island,44,CASES_NotHispanic,2021-04-10,Complete,239070.0
+Rhode Island,44,CASES_OtherRace,2021-04-10,Complete,0.0
+Rhode Island,44,CASES_Pacific,2021-04-10,Complete,282.0
+Rhode Island,44,CASES_UnknownAge,2021-04-10,Complete,17.047477919760393
+Rhode Island,44,CASES_UnknownEthnicity,2021-04-10,Complete,0.0
+Rhode Island,44,CASES_UnknownGender,2021-04-10,Complete,16.647734195972692
+Rhode Island,44,CASES_UnknownRace,2021-04-10,Complete,37.06021311804035
+Rhode Island,44,CASES_White,2021-04-10,Complete,153536.0
+Tennessee,47,CASES_Adult,2021-04-08 00:00:00,Complete,0.0
+Tennessee,47,CASES_Asian,2021-04-08 00:00:00,Complete,16408.0
+Tennessee,47,CASES_Black,2021-04-08 00:00:00,Complete,115651.0
+Tennessee,47,CASES_BlackDisparity,2021-04-08 00:00:00,Complete,7.261225583868708
+Tennessee,47,CASES_Child,2021-04-08 00:00:00,Complete,0.0
+Tennessee,47,CASES_Elderly,2021-04-08 00:00:00,Complete,0.0
+Tennessee,47,CASES_Female,2021-04-08 00:00:00,Complete,707058.0
+Tennessee,47,CASES_Hispanic,2021-04-08 00:00:00,Complete,29231.0
+Tennessee,47,CASES_HispanicDisparity,2021-04-08 00:00:00,Complete,33.965687112996484
+Tennessee,47,CASES_Male,2021-04-08 00:00:00,Complete,477930.0
+Tennessee,47,CASES_Native,2021-04-08 00:00:00,Complete,0.0
+Tennessee,47,CASES_NotHispanic,2021-04-08 00:00:00,Complete,992851.0
+Tennessee,47,CASES_OtherRace,2021-04-08 00:00:00,Complete,0.0
+Tennessee,47,CASES_Pacific,2021-04-08 00:00:00,Complete,0.0
+Tennessee,47,CASES_UnknownAge,2021-04-08 00:00:00,Complete,100.0
+Tennessee,47,CASES_UnknownEthnicity,2021-04-08 00:00:00,Complete,0.0
+Tennessee,47,CASES_UnknownGender,2021-04-08 00:00:00,Complete,2796.0
+Tennessee,47,CASES_UnknownRace,2021-04-08 00:00:00,Complete,215957.0
+Tennessee,47,CASES_White,2021-04-08 00:00:00,Complete,839768.0
+Texas,48,CASES_Adult,2021-04-10,Complete,3447246.0
+Texas,48,CASES_Asian,2021-04-10,Complete,327975.0
+Texas,48,CASES_Black,2021-04-10,Complete,359291.0
+Texas,48,CASES_BlackDisparity,2021-04-10,Complete,6.400639036324318
+Texas,48,CASES_Child,2021-04-10,Complete,0.0
+Texas,48,CASES_Elderly,2021-04-10,Complete,2017028.0
+Texas,48,CASES_Female,2021-04-10,Complete,3091932.0
+Texas,48,CASES_Hispanic,2021-04-10,Complete,1255474.0
+Texas,48,CASES_HispanicDisparity,2021-04-10,Complete,2.753049445866661
+Texas,48,CASES_Male,2021-04-10,Complete,2301287.0
+Texas,48,CASES_Native,2021-04-10,Complete,0.0
+Texas,48,CASES_NotHispanic,2021-04-10,Complete,3456382.0
+Texas,48,CASES_OtherRace,2021-04-10,Complete,0.0
+Texas,48,CASES_Pacific,2021-04-10,Complete,0.0
+Texas,48,CASES_UnknownAge,2021-04-10,Complete,0.007703404648684494
+Texas,48,CASES_UnknownEthnicity,2021-04-10,Complete,0.0
+Texas,48,CASES_UnknownGender,2021-04-10,Complete,0.6577810974186092
+Texas,48,CASES_UnknownRace,2021-04-10,Complete,6.891528011482282
+Texas,48,CASES_White,2021-04-10,Complete,2299692.0
+Vermont,50,CASES_Adult,2021-04-10,Complete,
+Vermont,50,CASES_Asian,2021-04-10,Complete,
+Vermont,50,CASES_Black,2021-04-10,Complete,
+Vermont,50,CASES_BlackDisparity,2021-04-10,Complete,
+Vermont,50,CASES_Child,2021-04-10,Complete,
+Vermont,50,CASES_Elderly,2021-04-10,Complete,
+Vermont,50,CASES_Female,2021-04-10,Complete,
+Vermont,50,CASES_Hispanic,2021-04-10,Complete,
+Vermont,50,CASES_HispanicDisparity,2021-04-10,Complete,
+Vermont,50,CASES_Male,2021-04-10,Complete,
+Vermont,50,CASES_Native,2021-04-10,Complete,
+Vermont,50,CASES_NotHispanic,2021-04-10,Complete,
+Vermont,50,CASES_OtherRace,2021-04-10,Complete,
+Vermont,50,CASES_Pacific,2021-04-10,Complete,
+Vermont,50,CASES_UnknownAge,2021-04-10,Complete,
+Vermont,50,CASES_UnknownEthnicity,2021-04-10,Complete,
+Vermont,50,CASES_UnknownGender,2021-04-10,Complete,
+Vermont,50,CASES_UnknownRace,2021-04-10,Complete,
+Vermont,50,CASES_White,2021-04-10,Complete,
+Virginia,51,CASES_Adult,2021-04-10,Complete,594017.0
+Virginia,51,CASES_Asian,2021-04-10,Complete,36218.0
+Virginia,51,CASES_Black,2021-04-10,Complete,125383.0
+Virginia,51,CASES_BlackDisparity,2021-04-10,Complete,5.340644265969072
+Virginia,51,CASES_Child,2021-04-10,Complete,9851.0
+Virginia,51,CASES_Elderly,2021-04-10,Complete,794877.0
+Virginia,51,CASES_Female,2021-04-10,Complete,837839.0
+Virginia,51,CASES_Hispanic,2021-04-10,Complete,54660.0
+Virginia,51,CASES_HispanicDisparity,2021-04-10,Complete,26.790358580314674
+Virginia,51,CASES_Male,2021-04-10,Complete,556141.0
+Virginia,51,CASES_Native,2021-04-10,Complete,4112.0
+Virginia,51,CASES_NotHispanic,2021-04-10,Complete,1464361.0
+Virginia,51,CASES_OtherRace,2021-04-10,Complete,0.0
+Virginia,51,CASES_Pacific,2021-04-10,Complete,0.0
+Virginia,51,CASES_UnknownAge,2021-04-10,Complete,8.56650434720784
+Virginia,51,CASES_UnknownEthnicity,2021-04-10,Complete,0.0
+Virginia,51,CASES_UnknownGender,2021-04-10,Complete,8.231683432947932
+Virginia,51,CASES_UnknownRace,2021-04-10,Complete,47.663067199202644
+Virginia,51,CASES_White,2021-04-10,Complete,669626.0
+Washington,53,CASES_Adult,2021-04-10,Complete,631352.0
+Washington,53,CASES_Asian,2021-04-10,Complete,0.0
+Washington,53,CASES_Black,2021-04-10,Complete,0.0
+Washington,53,CASES_BlackDisparity,2021-04-10,Complete,0.0
+Washington,53,CASES_Child,2021-04-10,Complete,6806.0
+Washington,53,CASES_Elderly,2021-04-10,Complete,708658.0
+Washington,53,CASES_Female,2021-04-10,Complete,0.0
+Washington,53,CASES_Hispanic,2021-04-10,Complete,0.0
+Washington,53,CASES_HispanicDisparity,2021-04-10,Complete,0.0
+Washington,53,CASES_Male,2021-04-10,Complete,0.0
+Washington,53,CASES_Native,2021-04-10,Complete,0.0
+Washington,53,CASES_NotHispanic,2021-04-10,Complete,0.0
+Washington,53,CASES_OtherRace,2021-04-10,Complete,0.0
+Washington,53,CASES_Pacific,2021-04-10,Complete,0.0
+Washington,53,CASES_UnknownAge,2021-04-10,Complete,0.5053400019007793
+Washington,53,CASES_UnknownEthnicity,2021-04-10,Complete,100.0
+Washington,53,CASES_UnknownGender,2021-04-10,Complete,100.0
+Washington,53,CASES_UnknownRace,2021-04-10,Complete,100.0
+Washington,53,CASES_White,2021-04-10,Complete,0.0
+West Virginia,54,CASES_Adult,2021-04-10,Complete,
+West Virginia,54,CASES_Asian,2021-04-10,Complete,
+West Virginia,54,CASES_Black,2021-04-10,Complete,
+West Virginia,54,CASES_BlackDisparity,2021-04-10,Complete,
+West Virginia,54,CASES_Child,2021-04-10,Complete,
+West Virginia,54,CASES_Elderly,2021-04-10,Complete,
+West Virginia,54,CASES_Female,2021-04-10,Complete,
+West Virginia,54,CASES_Hispanic,2021-04-10,Complete,
+West Virginia,54,CASES_HispanicDisparity,2021-04-10,Complete,
+West Virginia,54,CASES_Male,2021-04-10,Complete,
+West Virginia,54,CASES_Native,2021-04-10,Complete,
+West Virginia,54,CASES_NotHispanic,2021-04-10,Complete,
+West Virginia,54,CASES_OtherRace,2021-04-10,Complete,
+West Virginia,54,CASES_Pacific,2021-04-10,Complete,
+West Virginia,54,CASES_UnknownAge,2021-04-10,Complete,
+West Virginia,54,CASES_UnknownEthnicity,2021-04-10,Complete,
+West Virginia,54,CASES_UnknownGender,2021-04-10,Complete,
+West Virginia,54,CASES_UnknownRace,2021-04-10,Complete,
+West Virginia,54,CASES_White,2021-04-10,Complete,
+Wisconsin,55,CASES_Adult,2021-04-10,Complete,
+Wisconsin,55,CASES_Asian,2021-04-10,Complete,
+Wisconsin,55,CASES_Black,2021-04-10,Complete,
+Wisconsin,55,CASES_BlackDisparity,2021-04-10,Complete,
+Wisconsin,55,CASES_Child,2021-04-10,Complete,
+Wisconsin,55,CASES_Elderly,2021-04-10,Complete,
+Wisconsin,55,CASES_Female,2021-04-10,Complete,
+Wisconsin,55,CASES_Hispanic,2021-04-10,Complete,
+Wisconsin,55,CASES_HispanicDisparity,2021-04-10,Complete,
+Wisconsin,55,CASES_Male,2021-04-10,Complete,
+Wisconsin,55,CASES_Native,2021-04-10,Complete,
+Wisconsin,55,CASES_NotHispanic,2021-04-10,Complete,
+Wisconsin,55,CASES_OtherRace,2021-04-10,Complete,
+Wisconsin,55,CASES_Pacific,2021-04-10,Complete,
+Wisconsin,55,CASES_UnknownAge,2021-04-10,Complete,
+Wisconsin,55,CASES_UnknownEthnicity,2021-04-10,Complete,
+Wisconsin,55,CASES_UnknownGender,2021-04-10,Complete,
+Wisconsin,55,CASES_UnknownRace,2021-04-10,Complete,
+Wisconsin,55,CASES_White,2021-04-10,Complete,
+California,6,CASES_Adult,2021-04-10,Partial Coverage,37.7882977487356
+California,6,CASES_Asian,2021-04-10,Partial Coverage,24.77178996047256
+California,6,CASES_Black,2021-04-10,Partial Coverage,15.20518404219438
+California,6,CASES_BlackDisparity,2021-04-10,Partial Coverage,0.8831078624855622
+California,6,CASES_Child,2021-04-10,Partial Coverage,0.6871345091354659
+California,6,CASES_Elderly,2021-04-10,Partial Coverage,56.27480697631696
+California,6,CASES_Female,2021-04-10,Partial Coverage,36.013445665603726
+California,6,CASES_Hispanic,2021-04-10,Partial Coverage,16.282131740340855
+California,6,CASES_HispanicDisparity,2021-04-10,Partial Coverage,2.669001044493024
+California,6,CASES_Male,2021-04-10,Partial Coverage,29.1766095080167
+California,6,CASES_Native,2021-04-10,Partial Coverage,5.972828077345652
+California,6,CASES_NotHispanic,2021-04-10,Partial Coverage,43.45702662154275
+California,6,CASES_OtherRace,2021-04-10,Partial Coverage,0.0
+California,6,CASES_Pacific,2021-04-10,Partial Coverage,25.902014464102503
+California,6,CASES_UnknownAge,2021-04-10,Partial Coverage,0.5000000000000029
+California,6,CASES_UnknownEthnicity,2021-04-10,Partial Coverage,0.0
+California,6,CASES_UnknownGender,2021-04-10,Partial Coverage,0.4000000000000181
+California,6,CASES_UnknownRace,2021-04-10,Partial Coverage,67.5
+California,6,CASES_White,2021-04-10,Partial Coverage,13.427817578201859
+Colorado,8,CASES_Adult,2021-04-10,Partial Coverage,27.887546873261385
+Colorado,8,CASES_Asian,2021-04-10,Partial Coverage,21.01218568665377
+Colorado,8,CASES_Black,2021-04-10,Partial Coverage,16.36949307884558
+Colorado,8,CASES_BlackDisparity,2021-04-10,Partial Coverage,1.5633448123283735
+Colorado,8,CASES_Child,2021-04-10,Partial Coverage,1.8103218081754404
+Colorado,8,CASES_Elderly,2021-04-10,Partial Coverage,71.08099380233323
+Colorado,8,CASES_Female,2021-04-10,Partial Coverage,34.94172143580081
+Colorado,8,CASES_Hispanic,2021-04-10,Partial Coverage,11.575728774830852
+Colorado,8,CASES_HispanicDisparity,2021-04-10,Partial Coverage,3.1256594117629475
+Colorado,8,CASES_Male,2021-04-10,Partial Coverage,26.566025916229282
+Colorado,8,CASES_Native,2021-04-10,Partial Coverage,9.159651545460413
+Colorado,8,CASES_NotHispanic,2021-04-10,Partial Coverage,36.18178559306523
+Colorado,8,CASES_OtherRace,2021-04-10,Partial Coverage,0.0
+Colorado,8,CASES_Pacific,2021-04-10,Partial Coverage,31.323841468796893
+Colorado,8,CASES_UnknownAge,2021-04-10,Partial Coverage,1.4599999999999904
+Colorado,8,CASES_UnknownEthnicity,2021-04-10,Partial Coverage,0.0
+Colorado,8,CASES_UnknownGender,2021-04-10,Partial Coverage,0.29000000000000264
+Colorado,8,CASES_UnknownRace,2021-04-10,Partial Coverage,25.35
+Colorado,8,CASES_White,2021-04-10,Partial Coverage,25.59116208525845
+Delaware,10,CASES_Adult,2021-04-10 00:00:00,Partial Coverage,14.891431015769136
+Delaware,10,CASES_Asian,2021-04-10 00:00:00,Partial Coverage,12.018663923939492
+Delaware,10,CASES_Black,2021-04-10 00:00:00,Partial Coverage,8.808924201042814
+Delaware,10,CASES_BlackDisparity,2021-04-10 00:00:00,Partial Coverage,2.169866954036985
+Delaware,10,CASES_Child,2021-04-10 00:00:00,Partial Coverage,0.06569147213663826
+Delaware,10,CASES_Elderly,2021-04-10 00:00:00,Partial Coverage,43.74730395109611
+Delaware,10,CASES_Female,2021-04-10 00:00:00,Partial Coverage,22.304069220690657
+Delaware,10,CASES_Hispanic,2021-04-10 00:00:00,Partial Coverage,6.237217719052158
+Delaware,10,CASES_HispanicDisparity,2021-04-10 00:00:00,Partial Coverage,2.6639031170698333
+Delaware,10,CASES_Male,2021-04-10 00:00:00,Partial Coverage,15.926744875136206
+Delaware,10,CASES_Native,2021-04-10 00:00:00,Partial Coverage,0.0
+Delaware,10,CASES_NotHispanic,2021-04-10 00:00:00,Partial Coverage,16.615343723626236
+Delaware,10,CASES_OtherRace,2021-04-10 00:00:00,Partial Coverage,0.0
+Delaware,10,CASES_Pacific,2021-04-10 00:00:00,Partial Coverage,0.0
+Delaware,10,CASES_UnknownAge,2021-04-10 00:00:00,Partial Coverage,66.36072219187534
+Delaware,10,CASES_UnknownEthnicity,2021-04-10 00:00:00,Partial Coverage,72.66947934335737
+Delaware,10,CASES_UnknownGender,2021-04-10 00:00:00,Partial Coverage,66.36916740936664
+Delaware,10,CASES_UnknownRace,2021-04-10 00:00:00,Partial Coverage,69.78247275968145
+Delaware,10,CASES_White,2021-04-10 00:00:00,Partial Coverage,19.114193524459445
+District of Columbia,11,CASES_Adult,2021-04-10,Partial Coverage,
+District of Columbia,11,CASES_Asian,2021-04-10,Partial Coverage,
+District of Columbia,11,CASES_Black,2021-04-10,Partial Coverage,
+District of Columbia,11,CASES_BlackDisparity,2021-04-10,Partial Coverage,
+District of Columbia,11,CASES_Child,2021-04-10,Partial Coverage,
+District of Columbia,11,CASES_Elderly,2021-04-10,Partial Coverage,
+District of Columbia,11,CASES_Female,2021-04-10,Partial Coverage,
+District of Columbia,11,CASES_Hispanic,2021-04-10,Partial Coverage,
+District of Columbia,11,CASES_HispanicDisparity,2021-04-10,Partial Coverage,
+District of Columbia,11,CASES_Male,2021-04-10,Partial Coverage,
+District of Columbia,11,CASES_Native,2021-04-10,Partial Coverage,
+District of Columbia,11,CASES_NotHispanic,2021-04-10,Partial Coverage,
+District of Columbia,11,CASES_OtherRace,2021-04-10,Partial Coverage,
+District of Columbia,11,CASES_Pacific,2021-04-10,Partial Coverage,
+District of Columbia,11,CASES_UnknownAge,2021-04-10,Partial Coverage,
+District of Columbia,11,CASES_UnknownEthnicity,2021-04-10,Partial Coverage,
+District of Columbia,11,CASES_UnknownGender,2021-04-10,Partial Coverage,
+District of Columbia,11,CASES_UnknownRace,2021-04-10,Partial Coverage,
+District of Columbia,11,CASES_White,2021-04-10,Partial Coverage,
+Florida,12,CASES_Adult,2021-04-10,Partial Coverage,
+Florida,12,CASES_Asian,2021-04-10,Partial Coverage,
+Florida,12,CASES_Black,2021-04-10,Partial Coverage,
+Florida,12,CASES_BlackDisparity,2021-04-10,Partial Coverage,
+Florida,12,CASES_Child,2021-04-10,Partial Coverage,
+Florida,12,CASES_Elderly,2021-04-10,Partial Coverage,
+Florida,12,CASES_Female,2021-04-10,Partial Coverage,
+Florida,12,CASES_Hispanic,2021-04-10,Partial Coverage,
+Florida,12,CASES_HispanicDisparity,2021-04-10,Partial Coverage,
+Florida,12,CASES_Male,2021-04-10,Partial Coverage,
+Florida,12,CASES_Native,2021-04-10,Partial Coverage,
+Florida,12,CASES_NotHispanic,2021-04-10,Partial Coverage,
+Florida,12,CASES_OtherRace,2021-04-10,Partial Coverage,
+Florida,12,CASES_Pacific,2021-04-10,Partial Coverage,
+Florida,12,CASES_UnknownAge,2021-04-10,Partial Coverage,
+Florida,12,CASES_UnknownEthnicity,2021-04-10,Partial Coverage,
+Florida,12,CASES_UnknownGender,2021-04-10,Partial Coverage,
+Florida,12,CASES_UnknownRace,2021-04-10,Partial Coverage,
+Florida,12,CASES_White,2021-04-10,Partial Coverage,
+Hawaii,15,CASES_Adult,2021-04-10,Partial Coverage,
+Hawaii,15,CASES_Asian,2021-04-10,Partial Coverage,
+Hawaii,15,CASES_Black,2021-04-10,Partial Coverage,
+Hawaii,15,CASES_BlackDisparity,2021-04-10,Partial Coverage,
+Hawaii,15,CASES_Child,2021-04-10,Partial Coverage,
+Hawaii,15,CASES_Elderly,2021-04-10,Partial Coverage,
+Hawaii,15,CASES_Female,2021-04-10,Partial Coverage,
+Hawaii,15,CASES_Hispanic,2021-04-10,Partial Coverage,
+Hawaii,15,CASES_HispanicDisparity,2021-04-10,Partial Coverage,
+Hawaii,15,CASES_Male,2021-04-10,Partial Coverage,
+Hawaii,15,CASES_Native,2021-04-10,Partial Coverage,
+Hawaii,15,CASES_NotHispanic,2021-04-10,Partial Coverage,
+Hawaii,15,CASES_OtherRace,2021-04-10,Partial Coverage,
+Hawaii,15,CASES_Pacific,2021-04-10,Partial Coverage,
+Hawaii,15,CASES_UnknownAge,2021-04-10,Partial Coverage,
+Hawaii,15,CASES_UnknownEthnicity,2021-04-10,Partial Coverage,
+Hawaii,15,CASES_UnknownGender,2021-04-10,Partial Coverage,
+Hawaii,15,CASES_UnknownRace,2021-04-10,Partial Coverage,
+Hawaii,15,CASES_White,2021-04-10,Partial Coverage,
+Idaho,16,CASES_Adult,2021-04-10,Partial Coverage,
+Idaho,16,CASES_Asian,2021-04-10,Partial Coverage,
+Idaho,16,CASES_Black,2021-04-10,Partial Coverage,
+Idaho,16,CASES_BlackDisparity,2021-04-10,Partial Coverage,
+Idaho,16,CASES_Child,2021-04-10,Partial Coverage,
+Idaho,16,CASES_Elderly,2021-04-10,Partial Coverage,
+Idaho,16,CASES_Female,2021-04-10,Partial Coverage,
+Idaho,16,CASES_Hispanic,2021-04-10,Partial Coverage,
+Idaho,16,CASES_HispanicDisparity,2021-04-10,Partial Coverage,
+Idaho,16,CASES_Male,2021-04-10,Partial Coverage,
+Idaho,16,CASES_Native,2021-04-10,Partial Coverage,
+Idaho,16,CASES_NotHispanic,2021-04-10,Partial Coverage,
+Idaho,16,CASES_OtherRace,2021-04-10,Partial Coverage,
+Idaho,16,CASES_Pacific,2021-04-10,Partial Coverage,
+Idaho,16,CASES_UnknownAge,2021-04-10,Partial Coverage,
+Idaho,16,CASES_UnknownEthnicity,2021-04-10,Partial Coverage,
+Idaho,16,CASES_UnknownGender,2021-04-10,Partial Coverage,
+Idaho,16,CASES_UnknownRace,2021-04-10,Partial Coverage,
+Idaho,16,CASES_White,2021-04-10,Partial Coverage,
+Illinois,17,CASES_Adult,2021-04-10,Partial Coverage,
+Illinois,17,CASES_Asian,2021-04-10,Partial Coverage,
+Illinois,17,CASES_Black,2021-04-10,Partial Coverage,
+Illinois,17,CASES_BlackDisparity,2021-04-10,Partial Coverage,
+Illinois,17,CASES_Child,2021-04-10,Partial Coverage,
+Illinois,17,CASES_Elderly,2021-04-10,Partial Coverage,
+Illinois,17,CASES_Female,2021-04-10,Partial Coverage,
+Illinois,17,CASES_Hispanic,2021-04-10,Partial Coverage,
+Illinois,17,CASES_HispanicDisparity,2021-04-10,Partial Coverage,
+Illinois,17,CASES_Male,2021-04-10,Partial Coverage,
+Illinois,17,CASES_Native,2021-04-10,Partial Coverage,
+Illinois,17,CASES_NotHispanic,2021-04-10,Partial Coverage,
+Illinois,17,CASES_OtherRace,2021-04-10,Partial Coverage,
+Illinois,17,CASES_Pacific,2021-04-10,Partial Coverage,
+Illinois,17,CASES_UnknownAge,2021-04-10,Partial Coverage,
+Illinois,17,CASES_UnknownEthnicity,2021-04-10,Partial Coverage,
+Illinois,17,CASES_UnknownGender,2021-04-10,Partial Coverage,
+Illinois,17,CASES_UnknownRace,2021-04-10,Partial Coverage,
+Illinois,17,CASES_White,2021-04-10,Partial Coverage,
+Indiana,18,CASES_Adult,2021-04-10,Partial Coverage,31.4616771599315
+Indiana,18,CASES_Asian,2021-04-10,Partial Coverage,32.93641716738197
+Indiana,18,CASES_Black,2021-04-10,Partial Coverage,23.878120538354462
+Indiana,18,CASES_BlackDisparity,2021-04-10,Partial Coverage,3.785091467523032
+Indiana,18,CASES_Child,2021-04-10,Partial Coverage,0.9292684428381566
+Indiana,18,CASES_Elderly,2021-04-10,Partial Coverage,121.4318786582628
+Indiana,18,CASES_Female,2021-04-10,Partial Coverage,50.008298174103906
+Indiana,18,CASES_Hispanic,2021-04-10,Partial Coverage,17.088814005431658
+Indiana,18,CASES_HispanicDisparity,2021-04-10,Partial Coverage,0.0
+Indiana,18,CASES_Male,2021-04-10,Partial Coverage,37.85325889361394
+Indiana,18,CASES_Native,2021-04-10,Partial Coverage,0.0
+Indiana,18,CASES_NotHispanic,2021-04-10,Partial Coverage,0.0
+Indiana,18,CASES_OtherRace,2021-04-10,Partial Coverage,0.0
+Indiana,18,CASES_Pacific,2021-04-10,Partial Coverage,0.0
+Indiana,18,CASES_UnknownAge,2021-04-10,Partial Coverage,1.0000000000000024
+Indiana,18,CASES_UnknownEthnicity,2021-04-10,Partial Coverage,200.0
+Indiana,18,CASES_UnknownGender,2021-04-10,Partial Coverage,0.7000000000000046
+Indiana,18,CASES_UnknownRace,2021-04-10,Partial Coverage,16.799999999999972
+Indiana,18,CASES_White,2021-04-10,Partial Coverage,44.86186139044612
+Louisiana,22,CASES_Adult,2021-04-10,Partial Coverage,23.12949624920359
+Louisiana,22,CASES_Asian,2021-04-10,Partial Coverage,35.3437182867731
+Louisiana,22,CASES_Black,2021-04-10,Partial Coverage,22.01818054046184
+Louisiana,22,CASES_BlackDisparity,2021-04-10,Partial Coverage,1.1723196917920284
+Louisiana,22,CASES_Child,2021-04-10,Partial Coverage,0.3879678276694262
+Louisiana,22,CASES_Elderly,2021-04-10,Partial Coverage,63.60757425198536
+Louisiana,22,CASES_Female,2021-04-10,Partial Coverage,29.927641883426595
+Louisiana,22,CASES_Hispanic,2021-04-10,Partial Coverage,0.0
+Louisiana,22,CASES_HispanicDisparity,2021-04-10,Partial Coverage,0.0
+Louisiana,22,CASES_Male,2021-04-10,Partial Coverage,22.85829805694625
+Louisiana,22,CASES_Native,2021-04-10,Partial Coverage,8.772143950158487
+Louisiana,22,CASES_NotHispanic,2021-04-10,Partial Coverage,0.0
+Louisiana,22,CASES_OtherRace,2021-04-10,Partial Coverage,0.0
+Louisiana,22,CASES_Pacific,2021-04-10,Partial Coverage,350.4266047652418
+Louisiana,22,CASES_UnknownAge,2021-04-10,Partial Coverage,0.3700000000000023
+Louisiana,22,CASES_UnknownEthnicity,2021-04-10,Partial Coverage,100.0
+Louisiana,22,CASES_UnknownGender,2021-04-10,Partial Coverage,0.3000000000000161
+Louisiana,22,CASES_UnknownRace,2021-04-10,Partial Coverage,11.789999999999988
+Louisiana,22,CASES_White,2021-04-10,Partial Coverage,25.812346625015454
+Maine,23,CASES_Adult,2021-04-10,Partial Coverage,
+Maine,23,CASES_Asian,2021-04-10,Partial Coverage,
+Maine,23,CASES_Black,2021-04-10,Partial Coverage,
+Maine,23,CASES_BlackDisparity,2021-04-10,Partial Coverage,
+Maine,23,CASES_Child,2021-04-10,Partial Coverage,
+Maine,23,CASES_Elderly,2021-04-10,Partial Coverage,
+Maine,23,CASES_Female,2021-04-10,Partial Coverage,
+Maine,23,CASES_Hispanic,2021-04-10,Partial Coverage,
+Maine,23,CASES_HispanicDisparity,2021-04-10,Partial Coverage,
+Maine,23,CASES_Male,2021-04-10,Partial Coverage,
+Maine,23,CASES_Native,2021-04-10,Partial Coverage,
+Maine,23,CASES_NotHispanic,2021-04-10,Partial Coverage,
+Maine,23,CASES_OtherRace,2021-04-10,Partial Coverage,
+Maine,23,CASES_Pacific,2021-04-10,Partial Coverage,
+Maine,23,CASES_UnknownAge,2021-04-10,Partial Coverage,
+Maine,23,CASES_UnknownEthnicity,2021-04-10,Partial Coverage,
+Maine,23,CASES_UnknownGender,2021-04-10,Partial Coverage,
+Maine,23,CASES_UnknownRace,2021-04-10,Partial Coverage,
+Maine,23,CASES_White,2021-04-10,Partial Coverage,
+Maryland,24,CASES_Adult,2021-04-10,Partial Coverage,
+Maryland,24,CASES_Asian,2021-04-10,Partial Coverage,
+Maryland,24,CASES_Black,2021-04-10,Partial Coverage,
+Maryland,24,CASES_BlackDisparity,2021-04-10,Partial Coverage,
+Maryland,24,CASES_Child,2021-04-10,Partial Coverage,
+Maryland,24,CASES_Elderly,2021-04-10,Partial Coverage,
+Maryland,24,CASES_Female,2021-04-10,Partial Coverage,
+Maryland,24,CASES_Hispanic,2021-04-10,Partial Coverage,
+Maryland,24,CASES_HispanicDisparity,2021-04-10,Partial Coverage,
+Maryland,24,CASES_Male,2021-04-10,Partial Coverage,
+Maryland,24,CASES_Native,2021-04-10,Partial Coverage,
+Maryland,24,CASES_NotHispanic,2021-04-10,Partial Coverage,
+Maryland,24,CASES_OtherRace,2021-04-10,Partial Coverage,
+Maryland,24,CASES_Pacific,2021-04-10,Partial Coverage,
+Maryland,24,CASES_UnknownAge,2021-04-10,Partial Coverage,
+Maryland,24,CASES_UnknownEthnicity,2021-04-10,Partial Coverage,
+Maryland,24,CASES_UnknownGender,2021-04-10,Partial Coverage,
+Maryland,24,CASES_UnknownRace,2021-04-10,Partial Coverage,
+Maryland,24,CASES_White,2021-04-10,Partial Coverage,
+Massachusetts,25,CASES_Adult,2021-04-10,Partial Coverage,
+Massachusetts,25,CASES_Asian,2021-04-10,Partial Coverage,
+Massachusetts,25,CASES_Black,2021-04-10,Partial Coverage,
+Massachusetts,25,CASES_BlackDisparity,2021-04-10,Partial Coverage,
+Massachusetts,25,CASES_Child,2021-04-10,Partial Coverage,
+Massachusetts,25,CASES_Elderly,2021-04-10,Partial Coverage,
+Massachusetts,25,CASES_Female,2021-04-10,Partial Coverage,
+Massachusetts,25,CASES_Hispanic,2021-04-10,Partial Coverage,
+Massachusetts,25,CASES_HispanicDisparity,2021-04-10,Partial Coverage,
+Massachusetts,25,CASES_Male,2021-04-10,Partial Coverage,
+Massachusetts,25,CASES_Native,2021-04-10,Partial Coverage,
+Massachusetts,25,CASES_NotHispanic,2021-04-10,Partial Coverage,
+Massachusetts,25,CASES_OtherRace,2021-04-10,Partial Coverage,
+Massachusetts,25,CASES_Pacific,2021-04-10,Partial Coverage,
+Massachusetts,25,CASES_UnknownAge,2021-04-10,Partial Coverage,
+Massachusetts,25,CASES_UnknownEthnicity,2021-04-10,Partial Coverage,
+Massachusetts,25,CASES_UnknownGender,2021-04-10,Partial Coverage,
+Massachusetts,25,CASES_UnknownRace,2021-04-10,Partial Coverage,
+Massachusetts,25,CASES_White,2021-04-10,Partial Coverage,
+Mississippi,28,CASES_Adult,2021-04-10,Partial Coverage,
+Mississippi,28,CASES_Asian,2021-04-10,Partial Coverage,
+Mississippi,28,CASES_Black,2021-04-10,Partial Coverage,
+Mississippi,28,CASES_BlackDisparity,2021-04-10,Partial Coverage,
+Mississippi,28,CASES_Child,2021-04-10,Partial Coverage,
+Mississippi,28,CASES_Elderly,2021-04-10,Partial Coverage,
+Mississippi,28,CASES_Female,2021-04-10,Partial Coverage,
+Mississippi,28,CASES_Hispanic,2021-04-10,Partial Coverage,
+Mississippi,28,CASES_HispanicDisparity,2021-04-10,Partial Coverage,
+Mississippi,28,CASES_Male,2021-04-10,Partial Coverage,
+Mississippi,28,CASES_Native,2021-04-10,Partial Coverage,
+Mississippi,28,CASES_NotHispanic,2021-04-10,Partial Coverage,
+Mississippi,28,CASES_OtherRace,2021-04-10,Partial Coverage,
+Mississippi,28,CASES_Pacific,2021-04-10,Partial Coverage,
+Mississippi,28,CASES_UnknownAge,2021-04-10,Partial Coverage,
+Mississippi,28,CASES_UnknownEthnicity,2021-04-10,Partial Coverage,
+Mississippi,28,CASES_UnknownGender,2021-04-10,Partial Coverage,
+Mississippi,28,CASES_UnknownRace,2021-04-10,Partial Coverage,
+Mississippi,28,CASES_White,2021-04-10,Partial Coverage,
+Missouri,29,CASES_Adult,2021-04-10,Partial Coverage,0.0
+Missouri,29,CASES_Asian,2021-04-10,Partial Coverage,22.0
+Missouri,29,CASES_Black,2021-04-10,Partial Coverage,13.1
+Missouri,29,CASES_BlackDisparity,2021-04-10,Partial Coverage,1.702290076335878
+Missouri,29,CASES_Child,2021-04-10,Partial Coverage,0.0
+Missouri,29,CASES_Elderly,2021-04-10,Partial Coverage,0.0
+Missouri,29,CASES_Female,2021-04-10,Partial Coverage,31.6
+Missouri,29,CASES_Hispanic,2021-04-10,Partial Coverage,20.7
+Missouri,29,CASES_HispanicDisparity,2021-04-10,Partial Coverage,1.0531400966183575
+Missouri,29,CASES_Male,2021-04-10,Partial Coverage,23.9
+Missouri,29,CASES_Native,2021-04-10,Partial Coverage,6.6
+Missouri,29,CASES_NotHispanic,2021-04-10,Partial Coverage,21.8
+Missouri,29,CASES_OtherRace,2021-04-10,Partial Coverage,0.0
+Missouri,29,CASES_Pacific,2021-04-10,Partial Coverage,36.0
+Missouri,29,CASES_UnknownAge,2021-04-10,Partial Coverage,100.0
+Missouri,29,CASES_UnknownEthnicity,2021-04-10,Partial Coverage,0.0
+Missouri,29,CASES_UnknownGender,2021-04-10,Partial Coverage,0.0
+Missouri,29,CASES_UnknownRace,2021-04-10,Partial Coverage,0.0
+Missouri,29,CASES_White,2021-04-10,Partial Coverage,22.3
+Nebraska,31,CASES_Adult,2021-04-10,Partial Coverage,
+Nebraska,31,CASES_Asian,2021-04-10,Partial Coverage,
+Nebraska,31,CASES_Black,2021-04-10,Partial Coverage,
+Nebraska,31,CASES_BlackDisparity,2021-04-10,Partial Coverage,
+Nebraska,31,CASES_Child,2021-04-10,Partial Coverage,
+Nebraska,31,CASES_Elderly,2021-04-10,Partial Coverage,
+Nebraska,31,CASES_Female,2021-04-10,Partial Coverage,
+Nebraska,31,CASES_Hispanic,2021-04-10,Partial Coverage,
+Nebraska,31,CASES_HispanicDisparity,2021-04-10,Partial Coverage,
+Nebraska,31,CASES_Male,2021-04-10,Partial Coverage,
+Nebraska,31,CASES_Native,2021-04-10,Partial Coverage,
+Nebraska,31,CASES_NotHispanic,2021-04-10,Partial Coverage,
+Nebraska,31,CASES_OtherRace,2021-04-10,Partial Coverage,
+Nebraska,31,CASES_Pacific,2021-04-10,Partial Coverage,
+Nebraska,31,CASES_UnknownAge,2021-04-10,Partial Coverage,
+Nebraska,31,CASES_UnknownEthnicity,2021-04-10,Partial Coverage,
+Nebraska,31,CASES_UnknownGender,2021-04-10,Partial Coverage,
+Nebraska,31,CASES_UnknownRace,2021-04-10,Partial Coverage,
+Nebraska,31,CASES_White,2021-04-10,Partial Coverage,
+North Carolina,37,CASES_Adult,2021-04-10,Partial Coverage,36.25748875254897
+North Carolina,37,CASES_Asian,2021-04-10,Partial Coverage,38.2849945707286
+North Carolina,37,CASES_Black,2021-04-10,Partial Coverage,29.915649008415567
+North Carolina,37,CASES_BlackDisparity,2021-04-10,Partial Coverage,2.8314417214415446
+North Carolina,37,CASES_Child,2021-04-10,Partial Coverage,0.5795236354990221
+North Carolina,37,CASES_Elderly,2021-04-10,Partial Coverage,88.34079770117327
+North Carolina,37,CASES_Female,2021-04-10,Partial Coverage,45.11613916203585
+North Carolina,37,CASES_Hispanic,2021-04-10,Partial Coverage,17.84188549759707
+North Carolina,37,CASES_HispanicDisparity,2021-04-10,Partial Coverage,0.0
+North Carolina,37,CASES_Male,2021-04-10,Partial Coverage,33.62828335944963
+North Carolina,37,CASES_Native,2021-04-10,Partial Coverage,19.200981297970372
+North Carolina,37,CASES_NotHispanic,2021-04-10,Partial Coverage,0.0
+North Carolina,37,CASES_OtherRace,2021-04-10,Partial Coverage,0.0
+North Carolina,37,CASES_Pacific,2021-04-10,Partial Coverage,0.0
+North Carolina,37,CASES_UnknownAge,2021-04-10,Partial Coverage,0.6000000000000018
+North Carolina,37,CASES_UnknownEthnicity,2021-04-10,Partial Coverage,200.0
+North Carolina,37,CASES_UnknownGender,2021-04-10,Partial Coverage,1.9000000000000008
+North Carolina,37,CASES_UnknownRace,2021-04-10,Partial Coverage,18.4
+North Carolina,37,CASES_White,2021-04-10,Partial Coverage,41.81556998478408
+North Dakota,38,CASES_Adult,2021-04-10,Partial Coverage,0.0
+North Dakota,38,CASES_Asian,2021-04-10,Partial Coverage,45.8
+North Dakota,38,CASES_Black,2021-04-10,Partial Coverage,29.6
+North Dakota,38,CASES_BlackDisparity,2021-04-10,Partial Coverage,5.416683217477656
+North Dakota,38,CASES_Child,2021-04-10,Partial Coverage,0.0
+North Dakota,38,CASES_Elderly,2021-04-10,Partial Coverage,0.0
+North Dakota,38,CASES_Female,2021-04-10,Partial Coverage,73.7
+North Dakota,38,CASES_Hispanic,2021-04-10,Partial Coverage,36.3
+North Dakota,38,CASES_HispanicDisparity,2021-04-10,Partial Coverage,4.267581300813006
+North Dakota,38,CASES_Male,2021-04-10,Partial Coverage,66.5
+North Dakota,38,CASES_Native,2021-04-10,Partial Coverage,67.5
+North Dakota,38,CASES_NotHispanic,2021-04-10,Partial Coverage,73.6
+North Dakota,38,CASES_OtherRace,2021-04-10,Partial Coverage,0.0
+North Dakota,38,CASES_Pacific,2021-04-10,Partial Coverage,46.7
+North Dakota,38,CASES_UnknownAge,2021-04-10,Partial Coverage,200.0
+North Dakota,38,CASES_UnknownEthnicity,2021-04-10,Partial Coverage,0.0
+North Dakota,38,CASES_UnknownGender,2021-04-10,Partial Coverage,0.0
+North Dakota,38,CASES_UnknownRace,2021-04-10,Partial Coverage,0.0
+North Dakota,38,CASES_White,2021-04-10,Partial Coverage,77.4
+Ohio,39,CASES_Adult,2021-04-10,Partial Coverage,
+Ohio,39,CASES_Asian,2021-04-10,Partial Coverage,
+Ohio,39,CASES_Black,2021-04-10,Partial Coverage,
+Ohio,39,CASES_BlackDisparity,2021-04-10,Partial Coverage,
+Ohio,39,CASES_Child,2021-04-10,Partial Coverage,
+Ohio,39,CASES_Elderly,2021-04-10,Partial Coverage,
+Ohio,39,CASES_Female,2021-04-10,Partial Coverage,
+Ohio,39,CASES_Hispanic,2021-04-10,Partial Coverage,
+Ohio,39,CASES_HispanicDisparity,2021-04-10,Partial Coverage,
+Ohio,39,CASES_Male,2021-04-10,Partial Coverage,
+Ohio,39,CASES_Native,2021-04-10,Partial Coverage,
+Ohio,39,CASES_NotHispanic,2021-04-10,Partial Coverage,
+Ohio,39,CASES_OtherRace,2021-04-10,Partial Coverage,
+Ohio,39,CASES_Pacific,2021-04-10,Partial Coverage,
+Ohio,39,CASES_UnknownAge,2021-04-10,Partial Coverage,
+Ohio,39,CASES_UnknownEthnicity,2021-04-10,Partial Coverage,
+Ohio,39,CASES_UnknownGender,2021-04-10,Partial Coverage,
+Ohio,39,CASES_UnknownRace,2021-04-10,Partial Coverage,
+Ohio,39,CASES_White,2021-04-10,Partial Coverage,
+Pennsylvania,42,CASES_Adult,2021-04-10,Partial Coverage,
+Pennsylvania,42,CASES_Asian,2021-04-10,Partial Coverage,
+Pennsylvania,42,CASES_Black,2021-04-10,Partial Coverage,
+Pennsylvania,42,CASES_BlackDisparity,2021-04-10,Partial Coverage,
+Pennsylvania,42,CASES_Child,2021-04-10,Partial Coverage,
+Pennsylvania,42,CASES_Elderly,2021-04-10,Partial Coverage,
+Pennsylvania,42,CASES_Female,2021-04-10,Partial Coverage,
+Pennsylvania,42,CASES_Hispanic,2021-04-10,Partial Coverage,
+Pennsylvania,42,CASES_HispanicDisparity,2021-04-10,Partial Coverage,
+Pennsylvania,42,CASES_Male,2021-04-10,Partial Coverage,
+Pennsylvania,42,CASES_Native,2021-04-10,Partial Coverage,
+Pennsylvania,42,CASES_NotHispanic,2021-04-10,Partial Coverage,
+Pennsylvania,42,CASES_OtherRace,2021-04-10,Partial Coverage,
+Pennsylvania,42,CASES_Pacific,2021-04-10,Partial Coverage,
+Pennsylvania,42,CASES_UnknownAge,2021-04-10,Partial Coverage,
+Pennsylvania,42,CASES_UnknownEthnicity,2021-04-10,Partial Coverage,
+Pennsylvania,42,CASES_UnknownGender,2021-04-10,Partial Coverage,
+Pennsylvania,42,CASES_UnknownRace,2021-04-10,Partial Coverage,
+Pennsylvania,42,CASES_White,2021-04-10,Partial Coverage,
+Rhode Island,44,CASES_Adult,2021-04-10,Partial Coverage,
+Rhode Island,44,CASES_Asian,2021-04-10,Partial Coverage,
+Rhode Island,44,CASES_Black,2021-04-10,Partial Coverage,
+Rhode Island,44,CASES_BlackDisparity,2021-04-10,Partial Coverage,
+Rhode Island,44,CASES_Child,2021-04-10,Partial Coverage,
+Rhode Island,44,CASES_Elderly,2021-04-10,Partial Coverage,
+Rhode Island,44,CASES_Female,2021-04-10,Partial Coverage,
+Rhode Island,44,CASES_Hispanic,2021-04-10,Partial Coverage,
+Rhode Island,44,CASES_HispanicDisparity,2021-04-10,Partial Coverage,
+Rhode Island,44,CASES_Male,2021-04-10,Partial Coverage,
+Rhode Island,44,CASES_Native,2021-04-10,Partial Coverage,
+Rhode Island,44,CASES_NotHispanic,2021-04-10,Partial Coverage,
+Rhode Island,44,CASES_OtherRace,2021-04-10,Partial Coverage,
+Rhode Island,44,CASES_Pacific,2021-04-10,Partial Coverage,
+Rhode Island,44,CASES_UnknownAge,2021-04-10,Partial Coverage,
+Rhode Island,44,CASES_UnknownEthnicity,2021-04-10,Partial Coverage,
+Rhode Island,44,CASES_UnknownGender,2021-04-10,Partial Coverage,
+Rhode Island,44,CASES_UnknownRace,2021-04-10,Partial Coverage,
+Rhode Island,44,CASES_White,2021-04-10,Partial Coverage,
+Tennessee,47,CASES_Adult,2021-04-08 00:00:00,Partial Coverage,0.0
+Tennessee,47,CASES_Asian,2021-04-08 00:00:00,Partial Coverage,40.741818073331544
+Tennessee,47,CASES_Black,2021-04-08 00:00:00,Partial Coverage,28.121079194580158
+Tennessee,47,CASES_BlackDisparity,2021-04-08 00:00:00,Partial Coverage,2.989460979413089
+Tennessee,47,CASES_Child,2021-04-08 00:00:00,Partial Coverage,0.0
+Tennessee,47,CASES_Elderly,2021-04-08 00:00:00,Partial Coverage,0.0
+Tennessee,47,CASES_Female,2021-04-08 00:00:00,Partial Coverage,52.76929654111386
+Tennessee,47,CASES_Hispanic,2021-04-08 00:00:00,Partial Coverage,24.239489807911447
+Tennessee,47,CASES_HispanicDisparity,2021-04-08 00:00:00,Partial Coverage,3.6104950562372
+Tennessee,47,CASES_Male,2021-04-08 00:00:00,Partial Coverage,39.87781188564206
+Tennessee,47,CASES_Native,2021-04-08 00:00:00,Partial Coverage,0.0
+Tennessee,47,CASES_NotHispanic,2021-04-08 00:00:00,Partial Coverage,41.34271501781978
+Tennessee,47,CASES_OtherRace,2021-04-08 00:00:00,Partial Coverage,0.0
+Tennessee,47,CASES_Pacific,2021-04-08 00:00:00,Partial Coverage,0.0
+Tennessee,47,CASES_UnknownAge,2021-04-08 00:00:00,Partial Coverage,200.0
+Tennessee,47,CASES_UnknownEthnicity,2021-04-08 00:00:00,Partial Coverage,0.0
+Tennessee,47,CASES_UnknownGender,2021-04-08 00:00:00,Partial Coverage,8160.0
+Tennessee,47,CASES_UnknownRace,2021-04-08 00:00:00,Partial Coverage,586894.0
+Tennessee,47,CASES_White,2021-04-08 00:00:00,Partial Coverage,41.3363202820855
+Texas,48,CASES_Adult,2021-04-10,Partial Coverage,61.820674010801646
+Texas,48,CASES_Asian,2021-04-10,Partial Coverage,61.75812826471231
+Texas,48,CASES_Black,2021-04-10,Partial Coverage,26.426466903133036
+Texas,48,CASES_BlackDisparity,2021-04-10,Partial Coverage,1.9941504693808207
+Texas,48,CASES_Child,2021-04-10,Partial Coverage,0.0
+Texas,48,CASES_Elderly,2021-04-10,Partial Coverage,88.1924894082902
+Texas,48,CASES_Female,2021-04-10,Partial Coverage,55.549417984936674
+Texas,48,CASES_Hispanic,2021-04-10,Partial Coverage,31.08988547038595
+Texas,48,CASES_HispanicDisparity,2021-04-10,Partial Coverage,3.3964308957839715
+Texas,48,CASES_Male,2021-04-10,Partial Coverage,43.266201022558135
+Texas,48,CASES_Native,2021-04-10,Partial Coverage,0.0
+Texas,48,CASES_NotHispanic,2021-04-10,Partial Coverage,51.69910332980487
+Texas,48,CASES_OtherRace,2021-04-10,Partial Coverage,0.0
+Texas,48,CASES_Pacific,2021-04-10,Partial Coverage,0.0
+Texas,48,CASES_UnknownAge,2021-04-10,Partial Coverage,0.029630175653280376
+Texas,48,CASES_UnknownEthnicity,2021-04-10,Partial Coverage,0.0
+Texas,48,CASES_UnknownGender,2021-04-10,Partial Coverage,1.1553616260032156
+Texas,48,CASES_UnknownRace,2021-04-10,Partial Coverage,13.151864641099605
+Texas,48,CASES_White,2021-04-10,Partial Coverage,25.971758470200772
+Vermont,50,CASES_Adult,2021-04-10,Partial Coverage,0.0
+Vermont,50,CASES_Asian,2021-04-10,Partial Coverage,23.6
+Vermont,50,CASES_Black,2021-04-10,Partial Coverage,19.7
+Vermont,50,CASES_BlackDisparity,2021-04-10,Partial Coverage,2.020304568527919
+Vermont,50,CASES_Child,2021-04-10,Partial Coverage,0.0
+Vermont,50,CASES_Elderly,2021-04-10,Partial Coverage,0.0
+Vermont,50,CASES_Female,2021-04-10,Partial Coverage,45.8
+Vermont,50,CASES_Hispanic,2021-04-10,Partial Coverage,0.0
+Vermont,50,CASES_HispanicDisparity,2021-04-10,Partial Coverage,0.0
+Vermont,50,CASES_Male,2021-04-10,Partial Coverage,34.1
+Vermont,50,CASES_Native,2021-04-10,Partial Coverage,9.4
+Vermont,50,CASES_NotHispanic,2021-04-10,Partial Coverage,0.0
+Vermont,50,CASES_OtherRace,2021-04-10,Partial Coverage,0.0
+Vermont,50,CASES_Pacific,2021-04-10,Partial Coverage,4.4
+Vermont,50,CASES_UnknownAge,2021-04-10,Partial Coverage,100.0
+Vermont,50,CASES_UnknownEthnicity,2021-04-10,Partial Coverage,100.0
+Vermont,50,CASES_UnknownGender,2021-04-10,Partial Coverage,0.0
+Vermont,50,CASES_UnknownRace,2021-04-10,Partial Coverage,0.0
+Vermont,50,CASES_White,2021-04-10,Partial Coverage,39.8
+Virginia,51,CASES_Adult,2021-04-10,Partial Coverage,
+Virginia,51,CASES_Asian,2021-04-10,Partial Coverage,
+Virginia,51,CASES_Black,2021-04-10,Partial Coverage,
+Virginia,51,CASES_BlackDisparity,2021-04-10,Partial Coverage,
+Virginia,51,CASES_Child,2021-04-10,Partial Coverage,
+Virginia,51,CASES_Elderly,2021-04-10,Partial Coverage,
+Virginia,51,CASES_Female,2021-04-10,Partial Coverage,
+Virginia,51,CASES_Hispanic,2021-04-10,Partial Coverage,
+Virginia,51,CASES_HispanicDisparity,2021-04-10,Partial Coverage,
+Virginia,51,CASES_Male,2021-04-10,Partial Coverage,
+Virginia,51,CASES_Native,2021-04-10,Partial Coverage,
+Virginia,51,CASES_NotHispanic,2021-04-10,Partial Coverage,
+Virginia,51,CASES_OtherRace,2021-04-10,Partial Coverage,
+Virginia,51,CASES_Pacific,2021-04-10,Partial Coverage,
+Virginia,51,CASES_UnknownAge,2021-04-10,Partial Coverage,
+Virginia,51,CASES_UnknownEthnicity,2021-04-10,Partial Coverage,
+Virginia,51,CASES_UnknownGender,2021-04-10,Partial Coverage,
+Virginia,51,CASES_UnknownRace,2021-04-10,Partial Coverage,
+Virginia,51,CASES_White,2021-04-10,Partial Coverage,
+Washington,53,CASES_Adult,2021-04-10,Partial Coverage,
+Washington,53,CASES_Asian,2021-04-10,Partial Coverage,
+Washington,53,CASES_Black,2021-04-10,Partial Coverage,
+Washington,53,CASES_BlackDisparity,2021-04-10,Partial Coverage,
+Washington,53,CASES_Child,2021-04-10,Partial Coverage,
+Washington,53,CASES_Elderly,2021-04-10,Partial Coverage,
+Washington,53,CASES_Female,2021-04-10,Partial Coverage,
+Washington,53,CASES_Hispanic,2021-04-10,Partial Coverage,
+Washington,53,CASES_HispanicDisparity,2021-04-10,Partial Coverage,
+Washington,53,CASES_Male,2021-04-10,Partial Coverage,
+Washington,53,CASES_Native,2021-04-10,Partial Coverage,
+Washington,53,CASES_NotHispanic,2021-04-10,Partial Coverage,
+Washington,53,CASES_OtherRace,2021-04-10,Partial Coverage,
+Washington,53,CASES_Pacific,2021-04-10,Partial Coverage,
+Washington,53,CASES_UnknownAge,2021-04-10,Partial Coverage,
+Washington,53,CASES_UnknownEthnicity,2021-04-10,Partial Coverage,
+Washington,53,CASES_UnknownGender,2021-04-10,Partial Coverage,
+Washington,53,CASES_UnknownRace,2021-04-10,Partial Coverage,
+Washington,53,CASES_White,2021-04-10,Partial Coverage,
+West Virginia,54,CASES_Adult,2021-04-10,Partial Coverage,0.0
+West Virginia,54,CASES_Asian,2021-04-10,Partial Coverage,0.0
+West Virginia,54,CASES_Black,2021-04-10,Partial Coverage,0.0
+West Virginia,54,CASES_BlackDisparity,2021-04-10,Partial Coverage,0.0
+West Virginia,54,CASES_Child,2021-04-10,Partial Coverage,0.0
+West Virginia,54,CASES_Elderly,2021-04-10,Partial Coverage,0.0
+West Virginia,54,CASES_Female,2021-04-10,Partial Coverage,0.0
+West Virginia,54,CASES_Hispanic,2021-04-10,Partial Coverage,0.0
+West Virginia,54,CASES_HispanicDisparity,2021-04-10,Partial Coverage,0.0
+West Virginia,54,CASES_Male,2021-04-10,Partial Coverage,0.0
+West Virginia,54,CASES_Native,2021-04-10,Partial Coverage,0.0
+West Virginia,54,CASES_NotHispanic,2021-04-10,Partial Coverage,0.0
+West Virginia,54,CASES_OtherRace,2021-04-10,Partial Coverage,0.0
+West Virginia,54,CASES_Pacific,2021-04-10,Partial Coverage,0.0
+West Virginia,54,CASES_UnknownAge,2021-04-10,Partial Coverage,100.0
+West Virginia,54,CASES_UnknownEthnicity,2021-04-10,Partial Coverage,100.0
+West Virginia,54,CASES_UnknownGender,2021-04-10,Partial Coverage,100.0
+West Virginia,54,CASES_UnknownRace,2021-04-10,Partial Coverage,100.0
+West Virginia,54,CASES_White,2021-04-10,Partial Coverage,0.0
+Wisconsin,55,CASES_Adult,2021-04-10,Partial Coverage,0.0
+Wisconsin,55,CASES_Asian,2021-04-10,Partial Coverage,31.6
+Wisconsin,55,CASES_Black,2021-04-10,Partial Coverage,20.1
+Wisconsin,55,CASES_BlackDisparity,2021-04-10,Partial Coverage,5.168313570487483
+Wisconsin,55,CASES_Child,2021-04-10,Partial Coverage,0.0
+Wisconsin,55,CASES_Elderly,2021-04-10,Partial Coverage,0.0
+Wisconsin,55,CASES_Female,2021-04-10,Partial Coverage,61.0
+Wisconsin,55,CASES_Hispanic,2021-04-10,Partial Coverage,23.200000000000006
+Wisconsin,55,CASES_HispanicDisparity,2021-04-10,Partial Coverage,4.687478617858363
+Wisconsin,55,CASES_Male,2021-04-10,Partial Coverage,44.5
+Wisconsin,55,CASES_Native,2021-04-10,Partial Coverage,33.5
+Wisconsin,55,CASES_NotHispanic,2021-04-10,Partial Coverage,51.7
+Wisconsin,55,CASES_OtherRace,2021-04-10,Partial Coverage,0.0
+Wisconsin,55,CASES_Pacific,2021-04-10,Partial Coverage,0.0
+Wisconsin,55,CASES_UnknownAge,2021-04-10,Partial Coverage,200.0
+Wisconsin,55,CASES_UnknownEthnicity,2021-04-10,Partial Coverage,0.0
+Wisconsin,55,CASES_UnknownGender,2021-04-10,Partial Coverage,0.0
+Wisconsin,55,CASES_UnknownRace,2021-04-10,Partial Coverage,0.0
+Wisconsin,55,CASES_White,2021-04-10,Partial Coverage,50.6
+California,6,CASES_Adult,2021-04-10,Complete Coverage,0.0
+California,6,CASES_Asian,2021-04-10,Complete Coverage,0.0
+California,6,CASES_Black,2021-04-10,Complete Coverage,0.0
+California,6,CASES_BlackDisparity,2021-04-10,Complete Coverage,0.0
+California,6,CASES_Child,2021-04-10,Complete Coverage,0.0
+California,6,CASES_Elderly,2021-04-10,Complete Coverage,0.0
+California,6,CASES_Female,2021-04-10,Complete Coverage,0.0
+California,6,CASES_Hispanic,2021-04-10,Complete Coverage,0.0
+California,6,CASES_HispanicDisparity,2021-04-10,Complete Coverage,0.0
+California,6,CASES_Male,2021-04-10,Complete Coverage,0.0
+California,6,CASES_Native,2021-04-10,Complete Coverage,0.0
+California,6,CASES_NotHispanic,2021-04-10,Complete Coverage,0.0
+California,6,CASES_OtherRace,2021-04-10,Complete Coverage,0.0
+California,6,CASES_Pacific,2021-04-10,Complete Coverage,0.0
+California,6,CASES_UnknownAge,2021-04-10,Complete Coverage,100.0
+California,6,CASES_UnknownEthnicity,2021-04-10,Complete Coverage,100.0
+California,6,CASES_UnknownGender,2021-04-10,Complete Coverage,100.0
+California,6,CASES_UnknownRace,2021-04-10,Complete Coverage,100.0
+California,6,CASES_White,2021-04-10,Complete Coverage,0.0
+Colorado,8,CASES_Adult,2021-04-10,Complete Coverage,0.0
+Colorado,8,CASES_Asian,2021-04-10,Complete Coverage,0.0
+Colorado,8,CASES_Black,2021-04-10,Complete Coverage,0.0
+Colorado,8,CASES_BlackDisparity,2021-04-10,Complete Coverage,0.0
+Colorado,8,CASES_Child,2021-04-10,Complete Coverage,0.0
+Colorado,8,CASES_Elderly,2021-04-10,Complete Coverage,0.0
+Colorado,8,CASES_Female,2021-04-10,Complete Coverage,0.0
+Colorado,8,CASES_Hispanic,2021-04-10,Complete Coverage,0.0
+Colorado,8,CASES_HispanicDisparity,2021-04-10,Complete Coverage,0.0
+Colorado,8,CASES_Male,2021-04-10,Complete Coverage,0.0
+Colorado,8,CASES_Native,2021-04-10,Complete Coverage,0.0
+Colorado,8,CASES_NotHispanic,2021-04-10,Complete Coverage,0.0
+Colorado,8,CASES_OtherRace,2021-04-10,Complete Coverage,0.0
+Colorado,8,CASES_Pacific,2021-04-10,Complete Coverage,0.0
+Colorado,8,CASES_UnknownAge,2021-04-10,Complete Coverage,100.0
+Colorado,8,CASES_UnknownEthnicity,2021-04-10,Complete Coverage,100.0
+Colorado,8,CASES_UnknownGender,2021-04-10,Complete Coverage,100.0
+Colorado,8,CASES_UnknownRace,2021-04-10,Complete Coverage,100.0
+Colorado,8,CASES_White,2021-04-10,Complete Coverage,0.0
+Delaware,10,CASES_Adult,2021-04-10 00:00:00,Complete Coverage,0.0
+Delaware,10,CASES_Asian,2021-04-10 00:00:00,Complete Coverage,0.0
+Delaware,10,CASES_Black,2021-04-10 00:00:00,Complete Coverage,0.0
+Delaware,10,CASES_BlackDisparity,2021-04-10 00:00:00,Complete Coverage,0.0
+Delaware,10,CASES_Child,2021-04-10 00:00:00,Complete Coverage,0.0
+Delaware,10,CASES_Elderly,2021-04-10 00:00:00,Complete Coverage,0.0
+Delaware,10,CASES_Female,2021-04-10 00:00:00,Complete Coverage,0.0
+Delaware,10,CASES_Hispanic,2021-04-10 00:00:00,Complete Coverage,0.0
+Delaware,10,CASES_HispanicDisparity,2021-04-10 00:00:00,Complete Coverage,0.0
+Delaware,10,CASES_Male,2021-04-10 00:00:00,Complete Coverage,0.0
+Delaware,10,CASES_Native,2021-04-10 00:00:00,Complete Coverage,0.0
+Delaware,10,CASES_NotHispanic,2021-04-10 00:00:00,Complete Coverage,0.0
+Delaware,10,CASES_OtherRace,2021-04-10 00:00:00,Complete Coverage,0.0
+Delaware,10,CASES_Pacific,2021-04-10 00:00:00,Complete Coverage,0.0
+Delaware,10,CASES_UnknownAge,2021-04-10 00:00:00,Complete Coverage,100.0
+Delaware,10,CASES_UnknownEthnicity,2021-04-10 00:00:00,Complete Coverage,100.0
+Delaware,10,CASES_UnknownGender,2021-04-10 00:00:00,Complete Coverage,100.0
+Delaware,10,CASES_UnknownRace,2021-04-10 00:00:00,Complete Coverage,100.0
+Delaware,10,CASES_White,2021-04-10 00:00:00,Complete Coverage,0.0
+District of Columbia,11,CASES_Adult,2021-04-10,Complete Coverage,7.3753713802286205
+District of Columbia,11,CASES_Asian,2021-04-10,Complete Coverage,0.0
+District of Columbia,11,CASES_Black,2021-04-10,Complete Coverage,6.753183515982298
+District of Columbia,11,CASES_BlackDisparity,2021-04-10,Complete Coverage,1.2393046057640726
+District of Columbia,11,CASES_Child,2021-04-10,Complete Coverage,0.09987825059963402
+District of Columbia,11,CASES_Elderly,2021-04-10,Complete Coverage,29.12489323415512
+District of Columbia,11,CASES_Female,2021-04-10,Complete Coverage,10.87462739665479
+District of Columbia,11,CASES_Hispanic,2021-04-10,Complete Coverage,4.113139650464914
+District of Columbia,11,CASES_HispanicDisparity,2021-04-10,Complete Coverage,0.0
+District of Columbia,11,CASES_Male,2021-04-10,Complete Coverage,8.306270185324056
+District of Columbia,11,CASES_Native,2021-04-10,Complete Coverage,0.0
+District of Columbia,11,CASES_NotHispanic,2021-04-10,Complete Coverage,0.0
+District of Columbia,11,CASES_OtherRace,2021-04-10,Complete Coverage,0.0
+District of Columbia,11,CASES_Pacific,2021-04-10,Complete Coverage,0.0
+District of Columbia,11,CASES_UnknownAge,2021-04-10,Complete Coverage,0.20935203349632536
+District of Columbia,11,CASES_UnknownEthnicity,2021-04-10,Complete Coverage,100.0
+District of Columbia,11,CASES_UnknownGender,2021-04-10,Complete Coverage,0.2269200363072058
+District of Columbia,11,CASES_UnknownRace,2021-04-10,Complete Coverage,28.149796503967448
+District of Columbia,11,CASES_White,2021-04-10,Complete Coverage,8.369251434926875
+Florida,12,CASES_Adult,2021-04-10,Complete Coverage,9.676424758750722
+Florida,12,CASES_Asian,2021-04-10,Complete Coverage,0.0
+Florida,12,CASES_Black,2021-04-10,Complete Coverage,6.410239121071467
+Florida,12,CASES_BlackDisparity,2021-04-10,Complete Coverage,2.351667953164463
+Florida,12,CASES_Child,2021-04-10,Complete Coverage,1.1424881882299704
+Florida,12,CASES_Elderly,2021-04-10,Complete Coverage,41.854687173541215
+Florida,12,CASES_Female,2021-04-10,Complete Coverage,18.935838314581765
+Florida,12,CASES_Hispanic,2021-04-10,Complete Coverage,7.961990585925499
+Florida,12,CASES_HispanicDisparity,2021-04-10,Complete Coverage,0.0
+Florida,12,CASES_Male,2021-04-10,Complete Coverage,14.420995753476026
+Florida,12,CASES_Native,2021-04-10,Complete Coverage,11.663148233134466
+Florida,12,CASES_NotHispanic,2021-04-10,Complete Coverage,0.0
+Florida,12,CASES_OtherRace,2021-04-10,Complete Coverage,0.0
+Florida,12,CASES_Pacific,2021-04-10,Complete Coverage,0.0
+Florida,12,CASES_UnknownAge,2021-04-10,Complete Coverage,1.4206554664460433
+Florida,12,CASES_UnknownEthnicity,2021-04-10,Complete Coverage,100.0
+Florida,12,CASES_UnknownGender,2021-04-10,Complete Coverage,0.1114239581526308
+Florida,12,CASES_UnknownRace,2021-04-10,Complete Coverage,23.96779936570633
+Florida,12,CASES_White,2021-04-10,Complete Coverage,15.074753913144908
+Hawaii,15,CASES_Adult,2021-04-10,Complete Coverage,0.0
+Hawaii,15,CASES_Asian,2021-04-10,Complete Coverage,21.03609613108101
+Hawaii,15,CASES_Black,2021-04-10,Complete Coverage,5.1456812455585
+Hawaii,15,CASES_BlackDisparity,2021-04-10,Complete Coverage,2.898039975577176
+Hawaii,15,CASES_Child,2021-04-10,Complete Coverage,0.0
+Hawaii,15,CASES_Elderly,2021-04-10,Complete Coverage,0.0
+Hawaii,15,CASES_Female,2021-04-10,Complete Coverage,0.0
+Hawaii,15,CASES_Hispanic,2021-04-10,Complete Coverage,0.0
+Hawaii,15,CASES_HispanicDisparity,2021-04-10,Complete Coverage,0.0
+Hawaii,15,CASES_Male,2021-04-10,Complete Coverage,0.0
+Hawaii,15,CASES_Native,2021-04-10,Complete Coverage,0.0
+Hawaii,15,CASES_NotHispanic,2021-04-10,Complete Coverage,0.0
+Hawaii,15,CASES_OtherRace,2021-04-10,Complete Coverage,0.0
+Hawaii,15,CASES_Pacific,2021-04-10,Complete Coverage,16.493322837497995
+Hawaii,15,CASES_UnknownAge,2021-04-10,Complete Coverage,100.0
+Hawaii,15,CASES_UnknownEthnicity,2021-04-10,Complete Coverage,100.0
+Hawaii,15,CASES_UnknownGender,2021-04-10,Complete Coverage,100.0
+Hawaii,15,CASES_UnknownRace,2021-04-10,Complete Coverage,75.83190289891694
+Hawaii,15,CASES_White,2021-04-10,Complete Coverage,14.91238995120628
+Idaho,16,CASES_Adult,2021-04-10,Complete Coverage,13.535978033221257
+Idaho,16,CASES_Asian,2021-04-10,Complete Coverage,8.451517447944859
+Idaho,16,CASES_Black,2021-04-10,Complete Coverage,4.398629634161263
+Idaho,16,CASES_BlackDisparity,2021-04-10,Complete Coverage,2.3237558357871317
+Idaho,16,CASES_Child,2021-04-10,Complete Coverage,1.9746583745822228
+Idaho,16,CASES_Elderly,2021-04-10,Complete Coverage,40.02012571059529
+Idaho,16,CASES_Female,2021-04-10,Complete Coverage,0.0
+Idaho,16,CASES_Hispanic,2021-04-10,Complete Coverage,3.9753366159745522
+Idaho,16,CASES_HispanicDisparity,2021-04-10,Complete Coverage,0.0
+Idaho,16,CASES_Male,2021-04-10,Complete Coverage,0.0
+Idaho,16,CASES_Native,2021-04-10,Complete Coverage,5.061053984575834
+Idaho,16,CASES_NotHispanic,2021-04-10,Complete Coverage,0.0
+Idaho,16,CASES_OtherRace,2021-04-10,Complete Coverage,0.0
+Idaho,16,CASES_Pacific,2021-04-10,Complete Coverage,9.989858012170382
+Idaho,16,CASES_UnknownAge,2021-04-10,Complete Coverage,0.0
+Idaho,16,CASES_UnknownEthnicity,2021-04-10,Complete Coverage,100.0
+Idaho,16,CASES_UnknownGender,2021-04-10,Complete Coverage,100.0
+Idaho,16,CASES_UnknownRace,2021-04-10,Complete Coverage,0.0
+Idaho,16,CASES_White,2021-04-10,Complete Coverage,10.221341281848453
+Illinois,17,CASES_Adult,2021-04-10,Complete Coverage,18.91487238507511
+Illinois,17,CASES_Asian,2021-04-10,Complete Coverage,16.08313605906191
+Illinois,17,CASES_Black,2021-04-10,Complete Coverage,10.628194304394672
+Illinois,17,CASES_BlackDisparity,2021-04-10,Complete Coverage,1.5774649016131628
+Illinois,17,CASES_Child,2021-04-10,Complete Coverage,0.0
+Illinois,17,CASES_Elderly,2021-04-10,Complete Coverage,36.097332058502644
+Illinois,17,CASES_Female,2021-04-10,Complete Coverage,21.12374623037105
+Illinois,17,CASES_Hispanic,2021-04-10,Complete Coverage,9.577851435346565
+Illinois,17,CASES_HispanicDisparity,2021-04-10,Complete Coverage,2.1071987907113403
+Illinois,17,CASES_Male,2021-04-10,Complete Coverage,15.231288297643738
+Illinois,17,CASES_Native,2021-04-10,Complete Coverage,7.442384105960264
+Illinois,17,CASES_NotHispanic,2021-04-10,Complete Coverage,20.18243696217516
+Illinois,17,CASES_OtherRace,2021-04-10,Complete Coverage,0.0
+Illinois,17,CASES_Pacific,2021-04-10,Complete Coverage,48.56290995825879
+Illinois,17,CASES_UnknownAge,2021-04-10,Complete Coverage,0.0
+Illinois,17,CASES_UnknownEthnicity,2021-04-10,Complete Coverage,0.0
+Illinois,17,CASES_UnknownGender,2021-04-10,Complete Coverage,0.5256940673269099
+Illinois,17,CASES_UnknownRace,2021-04-10,Complete Coverage,21.29166481846178
+Illinois,17,CASES_White,2021-04-10,Complete Coverage,16.76560348270752
+Indiana,18,CASES_Adult,2021-04-10,Complete Coverage,11.121332338732355
+Indiana,18,CASES_Asian,2021-04-10,Complete Coverage,11.89839484978541
+Indiana,18,CASES_Black,2021-04-10,Complete Coverage,9.498327349625743
+Indiana,18,CASES_BlackDisparity,2021-04-10,Complete Coverage,1.9598562047327217
+Indiana,18,CASES_Child,2021-04-10,Complete Coverage,0.29528458699848265
+Indiana,18,CASES_Elderly,2021-04-10,Complete Coverage,54.5153842949055
+Indiana,18,CASES_Female,2021-04-10,Complete Coverage,20.863566460395933
+Indiana,18,CASES_Hispanic,2021-04-10,Complete Coverage,5.998540930575677
+Indiana,18,CASES_HispanicDisparity,2021-04-10,Complete Coverage,0.0
+Indiana,18,CASES_Male,2021-04-10,Complete Coverage,15.286904883807779
+Indiana,18,CASES_Native,2021-04-10,Complete Coverage,0.0
+Indiana,18,CASES_NotHispanic,2021-04-10,Complete Coverage,0.0
+Indiana,18,CASES_OtherRace,2021-04-10,Complete Coverage,0.0
+Indiana,18,CASES_Pacific,2021-04-10,Complete Coverage,0.0
+Indiana,18,CASES_UnknownAge,2021-04-10,Complete Coverage,0.1999999999999939
+Indiana,18,CASES_UnknownEthnicity,2021-04-10,Complete Coverage,100.0
+Indiana,18,CASES_UnknownGender,2021-04-10,Complete Coverage,0.3000000000000004
+Indiana,18,CASES_UnknownRace,2021-04-10,Complete Coverage,7.899999999999981
+Indiana,18,CASES_White,2021-04-10,Complete Coverage,18.615355790746523
+Louisiana,22,CASES_Adult,2021-04-10,Complete Coverage,0.0
+Louisiana,22,CASES_Asian,2021-04-10,Complete Coverage,0.0
+Louisiana,22,CASES_Black,2021-04-10,Complete Coverage,0.0
+Louisiana,22,CASES_BlackDisparity,2021-04-10,Complete Coverage,0.0
+Louisiana,22,CASES_Child,2021-04-10,Complete Coverage,0.0
+Louisiana,22,CASES_Elderly,2021-04-10,Complete Coverage,0.0
+Louisiana,22,CASES_Female,2021-04-10,Complete Coverage,0.0
+Louisiana,22,CASES_Hispanic,2021-04-10,Complete Coverage,0.0
+Louisiana,22,CASES_HispanicDisparity,2021-04-10,Complete Coverage,0.0
+Louisiana,22,CASES_Male,2021-04-10,Complete Coverage,0.0
+Louisiana,22,CASES_Native,2021-04-10,Complete Coverage,0.0
+Louisiana,22,CASES_NotHispanic,2021-04-10,Complete Coverage,0.0
+Louisiana,22,CASES_OtherRace,2021-04-10,Complete Coverage,0.0
+Louisiana,22,CASES_Pacific,2021-04-10,Complete Coverage,0.0
+Louisiana,22,CASES_UnknownAge,2021-04-10,Complete Coverage,100.0
+Louisiana,22,CASES_UnknownEthnicity,2021-04-10,Complete Coverage,100.0
+Louisiana,22,CASES_UnknownGender,2021-04-10,Complete Coverage,100.0
+Louisiana,22,CASES_UnknownRace,2021-04-10,Complete Coverage,100.0
+Louisiana,22,CASES_White,2021-04-10,Complete Coverage,0.0
+Maine,23,CASES_Adult,2021-04-10,Complete Coverage,12.878662425008352
+Maine,23,CASES_Asian,2021-04-10,Complete Coverage,10.941446613088406
+Maine,23,CASES_Black,2021-04-10,Complete Coverage,9.413423824423779
+Maine,23,CASES_BlackDisparity,2021-04-10,Complete Coverage,2.016871519109487
+Maine,23,CASES_Child,2021-04-10,Complete Coverage,0.4707543394716377
+Maine,23,CASES_Elderly,2021-04-10,Complete Coverage,55.96073756484903
+Maine,23,CASES_Female,2021-04-10,Complete Coverage,26.72671622212505
+Maine,23,CASES_Hispanic,2021-04-10,Complete Coverage,8.620253164556964
+Maine,23,CASES_HispanicDisparity,2021-04-10,Complete Coverage,0.0
+Maine,23,CASES_Male,2021-04-10,Complete Coverage,18.86229091704756
+Maine,23,CASES_Native,2021-04-10,Complete Coverage,15.368076174874576
+Maine,23,CASES_NotHispanic,2021-04-10,Complete Coverage,0.0
+Maine,23,CASES_OtherRace,2021-04-10,Complete Coverage,0.0
+Maine,23,CASES_Pacific,2021-04-10,Complete Coverage,45.934065934065934
+Maine,23,CASES_UnknownAge,2021-04-10,Complete Coverage,0.4040044061426813
+Maine,23,CASES_UnknownEthnicity,2021-04-10,Complete Coverage,100.0
+Maine,23,CASES_UnknownGender,2021-04-10,Complete Coverage,0.3735501846692153
+Maine,23,CASES_UnknownRace,2021-04-10,Complete Coverage,21.231776064277845
+Maine,23,CASES_White,2021-04-10,Complete Coverage,18.985666408787026
+Maryland,24,CASES_Adult,2021-04-10,Complete Coverage,16.113386961643677
+Maryland,24,CASES_Asian,2021-04-10,Complete Coverage,16.32008624105655
+Maryland,24,CASES_Black,2021-04-10,Complete Coverage,11.775774560920238
+Maryland,24,CASES_BlackDisparity,2021-04-10,Complete Coverage,1.7350990852502657
+Maryland,24,CASES_Child,2021-04-10,Complete Coverage,0.4923940680664053
+Maryland,24,CASES_Elderly,2021-04-10,Complete Coverage,43.33979336322923
+Maryland,24,CASES_Female,2021-04-10,Complete Coverage,21.436402224706953
+Maryland,24,CASES_Hispanic,2021-04-10,Complete Coverage,6.880939141563972
+Maryland,24,CASES_HispanicDisparity,2021-04-10,Complete Coverage,0.0
+Maryland,24,CASES_Male,2021-04-10,Complete Coverage,14.99444323995814
+Maryland,24,CASES_Native,2021-04-10,Complete Coverage,18.906080347448427
+Maryland,24,CASES_NotHispanic,2021-04-10,Complete Coverage,0.0
+Maryland,24,CASES_OtherRace,2021-04-10,Complete Coverage,0.0
+Maryland,24,CASES_Pacific,2021-04-10,Complete Coverage,31.409395973154364
+Maryland,24,CASES_UnknownAge,2021-04-10,Complete Coverage,0.0
+Maryland,24,CASES_UnknownEthnicity,2021-04-10,Complete Coverage,100.0
+Maryland,24,CASES_UnknownGender,2021-04-10,Complete Coverage,0.5058718877198027
+Maryland,24,CASES_UnknownRace,2021-04-10,Complete Coverage,15.142102378406543
+Maryland,24,CASES_White,2021-04-10,Complete Coverage,20.43213566876605
+Massachusetts,25,CASES_Adult,2021-04-10,Complete Coverage,18.05343313633444
+Massachusetts,25,CASES_Asian,2021-04-10,Complete Coverage,11.396595493219323
+Massachusetts,25,CASES_Black,2021-04-10,Complete Coverage,10.644763966026801
+Massachusetts,25,CASES_BlackDisparity,2021-04-10,Complete Coverage,1.6535083011640352
+Massachusetts,25,CASES_Child,2021-04-10,Complete Coverage,0.6204260810579781
+Massachusetts,25,CASES_Elderly,2021-04-10,Complete Coverage,39.283135201204274
+Massachusetts,25,CASES_Female,2021-04-10,Complete Coverage,22.608251913271605
+Massachusetts,25,CASES_Hispanic,2021-04-10,Complete Coverage,7.474497226014058
+Massachusetts,25,CASES_HispanicDisparity,2021-04-10,Complete Coverage,2.8182063319565116
+Massachusetts,25,CASES_Male,2021-04-10,Complete Coverage,15.441324163789227
+Massachusetts,25,CASES_Native,2021-04-10,Complete Coverage,3.2060623724861554
+Massachusetts,25,CASES_NotHispanic,2021-04-10,Complete Coverage,21.0646754105442
+Massachusetts,25,CASES_OtherRace,2021-04-10,Complete Coverage,0.0
+Massachusetts,25,CASES_Pacific,2021-04-10,Complete Coverage,9.446693657219972
+Massachusetts,25,CASES_UnknownAge,2021-04-10,Complete Coverage,0.6738039979037209
+Massachusetts,25,CASES_UnknownEthnicity,2021-04-10,Complete Coverage,0.0
+Massachusetts,25,CASES_UnknownGender,2021-04-10,Complete Coverage,1.2877143071048889
+Massachusetts,25,CASES_UnknownRace,2021-04-10,Complete Coverage,21.85370966534401
+Massachusetts,25,CASES_White,2021-04-10,Complete Coverage,17.601205581757114
+Mississippi,28,CASES_Adult,2021-04-10,Complete Coverage,16.095470570197424
+Mississippi,28,CASES_Asian,2021-04-10,Complete Coverage,21.721361104383632
+Mississippi,28,CASES_Black,2021-04-10,Complete Coverage,12.699911698719232
+Mississippi,28,CASES_BlackDisparity,2021-04-10,Complete Coverage,1.399087991621102
+Mississippi,28,CASES_Child,2021-04-10,Complete Coverage,1.5210087900961848
+Mississippi,28,CASES_Elderly,2021-04-10,Complete Coverage,37.30234417805685
+Mississippi,28,CASES_Female,2021-04-10,Complete Coverage,0.0
+Mississippi,28,CASES_Hispanic,2021-04-10,Complete Coverage,6.140245729697332
+Mississippi,28,CASES_HispanicDisparity,2021-04-10,Complete Coverage,0.0
+Mississippi,28,CASES_Male,2021-04-10,Complete Coverage,0.0
+Mississippi,28,CASES_Native,2021-04-10,Complete Coverage,3.3787757284148623
+Mississippi,28,CASES_NotHispanic,2021-04-10,Complete Coverage,0.0
+Mississippi,28,CASES_OtherRace,2021-04-10,Complete Coverage,0.0
+Mississippi,28,CASES_Pacific,2021-04-10,Complete Coverage,17.663344407530452
+Mississippi,28,CASES_UnknownAge,2021-04-10,Complete Coverage,5.991408292865148
+Mississippi,28,CASES_UnknownEthnicity,2021-04-10,Complete Coverage,100.0
+Mississippi,28,CASES_UnknownGender,2021-04-10,Complete Coverage,100.0
+Mississippi,28,CASES_UnknownRace,2021-04-10,Complete Coverage,14.97964138961524
+Mississippi,28,CASES_White,2021-04-10,Complete Coverage,17.768293952326427
+Missouri,29,CASES_Adult,2021-04-10,Complete Coverage,0.0
+Missouri,29,CASES_Asian,2021-04-10,Complete Coverage,0.0
+Missouri,29,CASES_Black,2021-04-10,Complete Coverage,0.0
+Missouri,29,CASES_BlackDisparity,2021-04-10,Complete Coverage,0.0
+Missouri,29,CASES_Child,2021-04-10,Complete Coverage,0.0
+Missouri,29,CASES_Elderly,2021-04-10,Complete Coverage,0.0
+Missouri,29,CASES_Female,2021-04-10,Complete Coverage,0.0
+Missouri,29,CASES_Hispanic,2021-04-10,Complete Coverage,0.0
+Missouri,29,CASES_HispanicDisparity,2021-04-10,Complete Coverage,0.0
+Missouri,29,CASES_Male,2021-04-10,Complete Coverage,0.0
+Missouri,29,CASES_Native,2021-04-10,Complete Coverage,0.0
+Missouri,29,CASES_NotHispanic,2021-04-10,Complete Coverage,0.0
+Missouri,29,CASES_OtherRace,2021-04-10,Complete Coverage,0.0
+Missouri,29,CASES_Pacific,2021-04-10,Complete Coverage,0.0
+Missouri,29,CASES_UnknownAge,2021-04-10,Complete Coverage,100.0
+Missouri,29,CASES_UnknownEthnicity,2021-04-10,Complete Coverage,100.0
+Missouri,29,CASES_UnknownGender,2021-04-10,Complete Coverage,100.0
+Missouri,29,CASES_UnknownRace,2021-04-10,Complete Coverage,100.0
+Missouri,29,CASES_White,2021-04-10,Complete Coverage,0.0
+Nebraska,31,CASES_Adult,2021-04-10,Complete Coverage,17.322069609414395
+Nebraska,31,CASES_Asian,2021-04-10,Complete Coverage,11.756632259762723
+Nebraska,31,CASES_Black,2021-04-10,Complete Coverage,9.645405555610688
+Nebraska,31,CASES_BlackDisparity,2021-04-10,Complete Coverage,2.0172336246125218
+Nebraska,31,CASES_Child,2021-04-10,Complete Coverage,0.2977275852379728
+Nebraska,31,CASES_Elderly,2021-04-10,Complete Coverage,45.39593006804867
+Nebraska,31,CASES_Female,2021-04-10,Complete Coverage,23.64883223359667
+Nebraska,31,CASES_Hispanic,2021-04-10,Complete Coverage,7.112841175533247
+Nebraska,31,CASES_HispanicDisparity,2021-04-10,Complete Coverage,0.0
+Nebraska,31,CASES_Male,2021-04-10,Complete Coverage,14.482398967767567
+Nebraska,31,CASES_Native,2021-04-10,Complete Coverage,4.828410449035342
+Nebraska,31,CASES_NotHispanic,2021-04-10,Complete Coverage,0.0
+Nebraska,31,CASES_OtherRace,2021-04-10,Complete Coverage,0.0
+Nebraska,31,CASES_Pacific,2021-04-10,Complete Coverage,11.919965942954445
+Nebraska,31,CASES_UnknownAge,2021-04-10,Complete Coverage,0.4035640968230118
+Nebraska,31,CASES_UnknownEthnicity,2021-04-10,Complete Coverage,100.0
+Nebraska,31,CASES_UnknownGender,2021-04-10,Complete Coverage,0.4912367782852303
+Nebraska,31,CASES_UnknownRace,2021-04-10,Complete Coverage,7.932354456604719
+Nebraska,31,CASES_White,2021-04-10,Complete Coverage,19.457036409802306
+North Carolina,37,CASES_Adult,2021-04-10,Complete Coverage,12.31437827995194
+North Carolina,37,CASES_Asian,2021-04-10,Complete Coverage,13.66851022587564
+North Carolina,37,CASES_Black,2021-04-10,Complete Coverage,11.618541957458348
+North Carolina,37,CASES_BlackDisparity,2021-04-10,Complete Coverage,1.4960732075074938
+North Carolina,37,CASES_Child,2021-04-10,Complete Coverage,0.06925823873390713
+North Carolina,37,CASES_Elderly,2021-04-10,Complete Coverage,41.362260277809476
+North Carolina,37,CASES_Female,2021-04-10,Complete Coverage,18.595211569800032
+North Carolina,37,CASES_Hispanic,2021-04-10,Complete Coverage,5.444161995652301
+North Carolina,37,CASES_HispanicDisparity,2021-04-10,Complete Coverage,0.0
+North Carolina,37,CASES_Male,2021-04-10,Complete Coverage,13.239535071125731
+North Carolina,37,CASES_Native,2021-04-10,Complete Coverage,7.153821023327716
+North Carolina,37,CASES_NotHispanic,2021-04-10,Complete Coverage,0.0
+North Carolina,37,CASES_OtherRace,2021-04-10,Complete Coverage,0.0
+North Carolina,37,CASES_Pacific,2021-04-10,Complete Coverage,0.0
+North Carolina,37,CASES_UnknownAge,2021-04-10,Complete Coverage,0.10000000000000324
+North Carolina,37,CASES_UnknownEthnicity,2021-04-10,Complete Coverage,100.0
+North Carolina,37,CASES_UnknownGender,2021-04-10,Complete Coverage,0.8999999999999948
+North Carolina,37,CASES_UnknownRace,2021-04-10,Complete Coverage,7.9999999999999964
+North Carolina,37,CASES_White,2021-04-10,Complete Coverage,17.382189332855106
+North Dakota,38,CASES_Adult,2021-04-10,Complete Coverage,0.0
+North Dakota,38,CASES_Asian,2021-04-10,Complete Coverage,14.4
+North Dakota,38,CASES_Black,2021-04-10,Complete Coverage,10.6
+North Dakota,38,CASES_BlackDisparity,2021-04-10,Complete Coverage,3.0377358490566038
+North Dakota,38,CASES_Child,2021-04-10,Complete Coverage,0.0
+North Dakota,38,CASES_Elderly,2021-04-10,Complete Coverage,0.0
+North Dakota,38,CASES_Female,2021-04-10,Complete Coverage,30.8
+North Dakota,38,CASES_Hispanic,2021-04-10,Complete Coverage,12.3
+North Dakota,38,CASES_HispanicDisparity,2021-04-10,Complete Coverage,2.463414634146341
+North Dakota,38,CASES_Male,2021-04-10,Complete Coverage,26.0
+North Dakota,38,CASES_Native,2021-04-10,Complete Coverage,28.8
+North Dakota,38,CASES_NotHispanic,2021-04-10,Complete Coverage,30.3
+North Dakota,38,CASES_OtherRace,2021-04-10,Complete Coverage,0.0
+North Dakota,38,CASES_Pacific,2021-04-10,Complete Coverage,17.1
+North Dakota,38,CASES_UnknownAge,2021-04-10,Complete Coverage,100.0
+North Dakota,38,CASES_UnknownEthnicity,2021-04-10,Complete Coverage,0.0
+North Dakota,38,CASES_UnknownGender,2021-04-10,Complete Coverage,0.0
+North Dakota,38,CASES_UnknownRace,2021-04-10,Complete Coverage,0.0
+North Dakota,38,CASES_White,2021-04-10,Complete Coverage,32.2
+Ohio,39,CASES_Adult,2021-04-10,Complete Coverage,12.092327708301625
+Ohio,39,CASES_Asian,2021-04-10,Complete Coverage,12.2125855124572
+Ohio,39,CASES_Black,2021-04-10,Complete Coverage,8.698846988338785
+Ohio,39,CASES_BlackDisparity,2021-04-10,Complete Coverage,2.1038730700096737
+Ohio,39,CASES_Child,2021-04-10,Complete Coverage,0.3777367228893947
+Ohio,39,CASES_Elderly,2021-04-10,Complete Coverage,49.98385379914126
+Ohio,39,CASES_Female,2021-04-10,Complete Coverage,21.624515946696988
+Ohio,39,CASES_Hispanic,2021-04-10,Complete Coverage,6.710425071525438
+Ohio,39,CASES_HispanicDisparity,2021-04-10,Complete Coverage,0.0
+Ohio,39,CASES_Male,2021-04-10,Complete Coverage,14.652227826869336
+Ohio,39,CASES_Native,2021-04-10,Complete Coverage,10.858571008526905
+Ohio,39,CASES_NotHispanic,2021-04-10,Complete Coverage,0.0
+Ohio,39,CASES_OtherRace,2021-04-10,Complete Coverage,0.0
+Ohio,39,CASES_Pacific,2021-04-10,Complete Coverage,15.903614457831322
+Ohio,39,CASES_UnknownAge,2021-04-10,Complete Coverage,0.4778559771380877
+Ohio,39,CASES_UnknownEthnicity,2021-04-10,Complete Coverage,100.0
+Ohio,39,CASES_UnknownGender,2021-04-10,Complete Coverage,1.9708910443230527
+Ohio,39,CASES_UnknownRace,2021-04-10,Complete Coverage,13.356751684863793
+Ohio,39,CASES_White,2021-04-10,Complete Coverage,18.30126991890072
+Pennsylvania,42,CASES_Adult,2021-04-10,Complete Coverage,12.075854102064671
+Pennsylvania,42,CASES_Asian,2021-04-10,Complete Coverage,0.6304513392421718
+Pennsylvania,42,CASES_Black,2021-04-10,Complete Coverage,3.410640403300582
+Pennsylvania,42,CASES_BlackDisparity,2021-04-10,Complete Coverage,3.9795547837439926
+Pennsylvania,42,CASES_Child,2021-04-10,Complete Coverage,0.4020438478402192
+Pennsylvania,42,CASES_Elderly,2021-04-10,Complete Coverage,33.539787164426365
+Pennsylvania,42,CASES_Female,2021-04-10,Complete Coverage,17.521387554560402
+Pennsylvania,42,CASES_Hispanic,2021-04-10,Complete Coverage,2.907863820426936
+Pennsylvania,42,CASES_HispanicDisparity,2021-04-10,Complete Coverage,0.0
+Pennsylvania,42,CASES_Male,2021-04-10,Complete Coverage,11.5312619085832
+Pennsylvania,42,CASES_Native,2021-04-10,Complete Coverage,0.5307080711030442
+Pennsylvania,42,CASES_NotHispanic,2021-04-10,Complete Coverage,0.0
+Pennsylvania,42,CASES_OtherRace,2021-04-10,Complete Coverage,0.0
+Pennsylvania,42,CASES_Pacific,2021-04-10,Complete Coverage,25.98559135481289
+Pennsylvania,42,CASES_UnknownAge,2021-04-10,Complete Coverage,4.022025136904744
+Pennsylvania,42,CASES_UnknownEthnicity,2021-04-10,Complete Coverage,100.0
+Pennsylvania,42,CASES_UnknownGender,2021-04-10,Complete Coverage,6.3438132297281165
+Pennsylvania,42,CASES_UnknownRace,2021-04-10,Complete Coverage,26.24403001020202
+Pennsylvania,42,CASES_White,2021-04-10,Complete Coverage,13.572830332585372
+Rhode Island,44,CASES_Adult,2021-04-10,Complete Coverage,17.297012423755465
+Rhode Island,44,CASES_Asian,2021-04-10,Complete Coverage,8.662990692027519
+Rhode Island,44,CASES_Black,2021-04-10,Complete Coverage,7.314555866293781
+Rhode Island,44,CASES_BlackDisparity,2021-04-10,Complete Coverage,2.3704176222361166
+Rhode Island,44,CASES_Child,2021-04-10,Complete Coverage,0.5545856478857273
+Rhode Island,44,CASES_Elderly,2021-04-10,Complete Coverage,42.65145748271858
+Rhode Island,44,CASES_Female,2021-04-10,Complete Coverage,23.69639828871812
+Rhode Island,44,CASES_Hispanic,2021-04-10,Complete Coverage,8.887073978823475
+Rhode Island,44,CASES_HispanicDisparity,2021-04-10,Complete Coverage,3.0337602130915826
+Rhode Island,44,CASES_Male,2021-04-10,Complete Coverage,16.139041062684832
+Rhode Island,44,CASES_Native,2021-04-10,Complete Coverage,4.374399720597223
+Rhode Island,44,CASES_NotHispanic,2021-04-10,Complete Coverage,26.961251447756162
+Rhode Island,44,CASES_OtherRace,2021-04-10,Complete Coverage,0.0
+Rhode Island,44,CASES_Pacific,2021-04-10,Complete Coverage,13.270588235294118
+Rhode Island,44,CASES_UnknownAge,2021-04-10,Complete Coverage,17.047477919760393
+Rhode Island,44,CASES_UnknownEthnicity,2021-04-10,Complete Coverage,0.0
+Rhode Island,44,CASES_UnknownGender,2021-04-10,Complete Coverage,16.647734195972692
+Rhode Island,44,CASES_UnknownRace,2021-04-10,Complete Coverage,37.06021311804035
+Rhode Island,44,CASES_White,2021-04-10,Complete Coverage,17.338552124293347
+Tennessee,47,CASES_Adult,2021-04-08 00:00:00,Complete Coverage,0.0
+Tennessee,47,CASES_Asian,2021-04-08 00:00:00,Complete Coverage,12.237835257615087
+Tennessee,47,CASES_Black,2021-04-08 00:00:00,Complete Coverage,9.931719482232555
+Tennessee,47,CASES_BlackDisparity,2021-04-08 00:00:00,Complete Coverage,1.5791509989657748
+Tennessee,47,CASES_Child,2021-04-08 00:00:00,Complete Coverage,0.0
+Tennessee,47,CASES_Elderly,2021-04-08 00:00:00,Complete Coverage,0.0
+Tennessee,47,CASES_Female,2021-04-08 00:00:00,Complete Coverage,20.219363528346967
+Tennessee,47,CASES_Hispanic,2021-04-08 00:00:00,Complete Coverage,7.4686623298976444
+Tennessee,47,CASES_HispanicDisparity,2021-04-08 00:00:00,Complete Coverage,2.0649251410512783
+Tennessee,47,CASES_Male,2021-04-08 00:00:00,Complete Coverage,14.342608678429125
+Tennessee,47,CASES_Native,2021-04-08 00:00:00,Complete Coverage,0.0
+Tennessee,47,CASES_NotHispanic,2021-04-08 00:00:00,Complete Coverage,15.422228615028258
+Tennessee,47,CASES_OtherRace,2021-04-08 00:00:00,Complete Coverage,0.0
+Tennessee,47,CASES_Pacific,2021-04-08 00:00:00,Complete Coverage,0.0
+Tennessee,47,CASES_UnknownAge,2021-04-08 00:00:00,Complete Coverage,100.0
+Tennessee,47,CASES_UnknownEthnicity,2021-04-08 00:00:00,Complete Coverage,0.0
+Tennessee,47,CASES_UnknownGender,2021-04-08 00:00:00,Complete Coverage,2796.0
+Tennessee,47,CASES_UnknownRace,2021-04-08 00:00:00,Complete Coverage,215957.0
+Tennessee,47,CASES_White,2021-04-08 00:00:00,Complete Coverage,15.683684741815386
+Texas,48,CASES_Adult,2021-04-10,Complete Coverage,21.676042809236
+Texas,48,CASES_Asian,2021-04-10,Complete Coverage,21.713440187491308
+Texas,48,CASES_Black,2021-04-10,Complete Coverage,9.608712616879293
+Texas,48,CASES_BlackDisparity,2021-04-10,Complete Coverage,1.049428548291343
+Texas,48,CASES_Child,2021-04-10,Complete Coverage,0.0
+Texas,48,CASES_Elderly,2021-04-10,Complete Coverage,38.14619263919195
+Texas,48,CASES_Female,2021-04-10,Complete Coverage,21.187515071253493
+Texas,48,CASES_Hispanic,2021-04-10,Complete Coverage,10.89293743012281
+Texas,48,CASES_HispanicDisparity,2021-04-10,Complete Coverage,1.8162527648314384
+Texas,48,CASES_Male,2021-04-10,Complete Coverage,15.978161597733536
+Texas,48,CASES_Native,2021-04-10,Complete Coverage,0.0
+Texas,48,CASES_NotHispanic,2021-04-10,Complete Coverage,19.784327724596427
+Texas,48,CASES_OtherRace,2021-04-10,Complete Coverage,0.0
+Texas,48,CASES_Pacific,2021-04-10,Complete Coverage,0.0
+Texas,48,CASES_UnknownAge,2021-04-10,Complete Coverage,0.007703404648684494
+Texas,48,CASES_UnknownEthnicity,2021-04-10,Complete Coverage,0.0
+Texas,48,CASES_UnknownGender,2021-04-10,Complete Coverage,0.6577810974186092
+Texas,48,CASES_UnknownRace,2021-04-10,Complete Coverage,6.891528011482282
+Texas,48,CASES_White,2021-04-10,Complete Coverage,10.083657332480346
+Vermont,50,CASES_Adult,2021-04-10,Complete Coverage,0.0
+Vermont,50,CASES_Asian,2021-04-10,Complete Coverage,0.0
+Vermont,50,CASES_Black,2021-04-10,Complete Coverage,0.0
+Vermont,50,CASES_BlackDisparity,2021-04-10,Complete Coverage,0.0
+Vermont,50,CASES_Child,2021-04-10,Complete Coverage,0.0
+Vermont,50,CASES_Elderly,2021-04-10,Complete Coverage,0.0
+Vermont,50,CASES_Female,2021-04-10,Complete Coverage,0.0
+Vermont,50,CASES_Hispanic,2021-04-10,Complete Coverage,0.0
+Vermont,50,CASES_HispanicDisparity,2021-04-10,Complete Coverage,0.0
+Vermont,50,CASES_Male,2021-04-10,Complete Coverage,0.0
+Vermont,50,CASES_Native,2021-04-10,Complete Coverage,0.0
+Vermont,50,CASES_NotHispanic,2021-04-10,Complete Coverage,0.0
+Vermont,50,CASES_OtherRace,2021-04-10,Complete Coverage,0.0
+Vermont,50,CASES_Pacific,2021-04-10,Complete Coverage,0.0
+Vermont,50,CASES_UnknownAge,2021-04-10,Complete Coverage,100.0
+Vermont,50,CASES_UnknownEthnicity,2021-04-10,Complete Coverage,100.0
+Vermont,50,CASES_UnknownGender,2021-04-10,Complete Coverage,100.0
+Vermont,50,CASES_UnknownRace,2021-04-10,Complete Coverage,100.0
+Vermont,50,CASES_White,2021-04-10,Complete Coverage,0.0
+Virginia,51,CASES_Adult,2021-04-10,Complete Coverage,12.707564314158795
+Virginia,51,CASES_Asian,2021-04-10,Complete Coverage,6.1416628512319615
+Virginia,51,CASES_Black,2021-04-10,Complete Coverage,7.388896648085844
+Virginia,51,CASES_BlackDisparity,2021-04-10,Complete Coverage,1.5301598207440057
+Virginia,51,CASES_Child,2021-04-10,Complete Coverage,0.4995299317361493
+Virginia,51,CASES_Elderly,2021-04-10,Complete Coverage,42.08036210593187
+Virginia,51,CASES_Female,2021-04-10,Complete Coverage,19.32614453290251
+Virginia,51,CASES_Hispanic,2021-04-10,Complete Coverage,6.550642240976387
+Virginia,51,CASES_HispanicDisparity,2021-04-10,Complete Coverage,2.9027636695529653
+Virginia,51,CASES_Male,2021-04-10,Complete Coverage,13.240642179752335
+Virginia,51,CASES_Native,2021-04-10,Complete Coverage,8.823655637097119
+Virginia,51,CASES_NotHispanic,2021-04-10,Complete Coverage,19.01496630934528
+Virginia,51,CASES_OtherRace,2021-04-10,Complete Coverage,0.0
+Virginia,51,CASES_Pacific,2021-04-10,Complete Coverage,0.0
+Virginia,51,CASES_UnknownAge,2021-04-10,Complete Coverage,8.56650434720784
+Virginia,51,CASES_UnknownEthnicity,2021-04-10,Complete Coverage,0.0
+Virginia,51,CASES_UnknownGender,2021-04-10,Complete Coverage,8.231683432947932
+Virginia,51,CASES_UnknownRace,2021-04-10,Complete Coverage,47.663067199202644
+Virginia,51,CASES_White,2021-04-10,Complete Coverage,11.30619277053102
+Washington,53,CASES_Adult,2021-04-10,Complete Coverage,15.096808410666325
+Washington,53,CASES_Asian,2021-04-10,Complete Coverage,0.0
+Washington,53,CASES_Black,2021-04-10,Complete Coverage,0.0
+Washington,53,CASES_BlackDisparity,2021-04-10,Complete Coverage,0.0
+Washington,53,CASES_Child,2021-04-10,Complete Coverage,0.38847763685046577
+Washington,53,CASES_Elderly,2021-04-10,Complete Coverage,42.15936315182971
+Washington,53,CASES_Female,2021-04-10,Complete Coverage,0.0
+Washington,53,CASES_Hispanic,2021-04-10,Complete Coverage,0.0
+Washington,53,CASES_HispanicDisparity,2021-04-10,Complete Coverage,0.0
+Washington,53,CASES_Male,2021-04-10,Complete Coverage,0.0
+Washington,53,CASES_Native,2021-04-10,Complete Coverage,0.0
+Washington,53,CASES_NotHispanic,2021-04-10,Complete Coverage,0.0
+Washington,53,CASES_OtherRace,2021-04-10,Complete Coverage,0.0
+Washington,53,CASES_Pacific,2021-04-10,Complete Coverage,0.0
+Washington,53,CASES_UnknownAge,2021-04-10,Complete Coverage,0.5053400019007793
+Washington,53,CASES_UnknownEthnicity,2021-04-10,Complete Coverage,100.0
+Washington,53,CASES_UnknownGender,2021-04-10,Complete Coverage,100.0
+Washington,53,CASES_UnknownRace,2021-04-10,Complete Coverage,100.0
+Washington,53,CASES_White,2021-04-10,Complete Coverage,0.0
+West Virginia,54,CASES_Adult,2021-04-10,Complete Coverage,0.0
+West Virginia,54,CASES_Asian,2021-04-10,Complete Coverage,0.0
+West Virginia,54,CASES_Black,2021-04-10,Complete Coverage,0.0
+West Virginia,54,CASES_BlackDisparity,2021-04-10,Complete Coverage,0.0
+West Virginia,54,CASES_Child,2021-04-10,Complete Coverage,0.0
+West Virginia,54,CASES_Elderly,2021-04-10,Complete Coverage,0.0
+West Virginia,54,CASES_Female,2021-04-10,Complete Coverage,0.0
+West Virginia,54,CASES_Hispanic,2021-04-10,Complete Coverage,0.0
+West Virginia,54,CASES_HispanicDisparity,2021-04-10,Complete Coverage,0.0
+West Virginia,54,CASES_Male,2021-04-10,Complete Coverage,0.0
+West Virginia,54,CASES_Native,2021-04-10,Complete Coverage,0.0
+West Virginia,54,CASES_NotHispanic,2021-04-10,Complete Coverage,0.0
+West Virginia,54,CASES_OtherRace,2021-04-10,Complete Coverage,0.0
+West Virginia,54,CASES_Pacific,2021-04-10,Complete Coverage,0.0
+West Virginia,54,CASES_UnknownAge,2021-04-10,Complete Coverage,100.0
+West Virginia,54,CASES_UnknownEthnicity,2021-04-10,Complete Coverage,100.0
+West Virginia,54,CASES_UnknownGender,2021-04-10,Complete Coverage,100.0
+West Virginia,54,CASES_UnknownRace,2021-04-10,Complete Coverage,100.0
+West Virginia,54,CASES_White,2021-04-10,Complete Coverage,0.0
+Wisconsin,55,CASES_Adult,2021-04-10,Complete Coverage,0.0
+Wisconsin,55,CASES_Asian,2021-04-10,Complete Coverage,10.3
+Wisconsin,55,CASES_Black,2021-04-10,Complete Coverage,6.9
+Wisconsin,55,CASES_BlackDisparity,2021-04-10,Complete Coverage,2.7971014492753623
+Wisconsin,55,CASES_Child,2021-04-10,Complete Coverage,0.0
+Wisconsin,55,CASES_Elderly,2021-04-10,Complete Coverage,0.0
+Wisconsin,55,CASES_Female,2021-04-10,Complete Coverage,23.8
+Wisconsin,55,CASES_Hispanic,2021-04-10,Complete Coverage,7.4
+Wisconsin,55,CASES_HispanicDisparity,2021-04-10,Complete Coverage,2.6621621621621623
+Wisconsin,55,CASES_Male,2021-04-10,Complete Coverage,16.1
+Wisconsin,55,CASES_Native,2021-04-10,Complete Coverage,12.9
+Wisconsin,55,CASES_NotHispanic,2021-04-10,Complete Coverage,19.7
+Wisconsin,55,CASES_OtherRace,2021-04-10,Complete Coverage,0.0
+Wisconsin,55,CASES_Pacific,2021-04-10,Complete Coverage,0.0
+Wisconsin,55,CASES_UnknownAge,2021-04-10,Complete Coverage,100.0
+Wisconsin,55,CASES_UnknownEthnicity,2021-04-10,Complete Coverage,0.0
+Wisconsin,55,CASES_UnknownGender,2021-04-10,Complete Coverage,0.0
+Wisconsin,55,CASES_UnknownRace,2021-04-10,Complete Coverage,0.0
+Wisconsin,55,CASES_White,2021-04-10,Complete Coverage,19.3
