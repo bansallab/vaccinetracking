@@ -13,7 +13,7 @@ If you use this data, please cite:
 ## Data source
 For more information about the data, see 
 
-- http://www.vaccinetracking.us/data.html and
+- http://www.vaccinetracking.us/data.html
 - Andrew Tiu, Zachary Susswein, Alexes Merritt, Shweta Bansal. Characterizing the spatiotemporal heterogeneity of the COVID-19 vaccination landscape. MedRxiv.
 
 ## Files:
