@@ -19,7 +19,7 @@ For more information about the data, see
 ## Files:
 - data_county_timeseries.csv: The file has the compiled CDC& individual state vaccination data at the county level weekly from December 13 to present. The data is then corrected using data from individual states. (More info below)
 
-- data_county_current.csv: This file is the same as the data_master_county file except it only has the latest available data for each state (might be different dates/weeks)
+- data_county_current.csv: This file is the same as the data_county_timeseries file except it only has the latest available data for each state (might be different dates/weeks)
 
 ## Codebook:
 'STATE_NAME': state name as an abbreviation
