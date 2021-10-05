@@ -6,7 +6,7 @@ This repository contains US county-level data for COVID-19 vaccination over time
 ## Citation:
 If you use this data, please cite:
 
-- Merritt, A., Tiu, A., & Bansal, S. Integrated US COVID-19 Vaccination Data (V1 ed.). Harvard Dataverse. https://doi.org/doi:10.7910/DVN/BFRIKI
+- Merritt, A., Tiu, A., Bansal, S. Integrated US COVID-19 Vaccination Data (V1 ed.). Harvard Dataverse. https://doi.org/doi:10.7910/DVN/BFRIKI
 
 - Andrew Tiu, Zachary Susswein, Alexes Merritt, Shweta Bansal. Characterizing the spatiotemporal heterogeneity of the COVID-19 vaccination landscape. MedRxiv.
 
