@@ -6,7 +6,7 @@ This repository contains US county-level data for COVID-19 vaccination over time
 ## Citation:
 If you use this data, please cite:
 
-- Alexes Merritt, Andrew Tiu, Shweta Bansal. COVID-19 vaccination data. Github. https://github.com/bansallab/vaccinetracking/tree/main/vacc_data
+- Merritt, Alexes; Tiu, Andrew; Bansal, Shweta, 2021, "Integrated US COVID-19 Vaccination Data", https://doi.org/10.7910/DVN/BFRIKI, Harvard Dataverse, V1, UNF:6:edR+/xtyDpMKqZvKUd3h+A== [fileUNF]
 
 - Andrew Tiu, Zachary Susswein, Alexes Merritt, Shweta Bansal. Characterizing the spatiotemporal heterogeneity of the COVID-19 vaccination landscape. MedRxiv.
 
