@@ -41,6 +41,10 @@ county_daily_total['COUNTY'] = county_daily_total['COUNTY'].apply(pad_fips_count
 county_daily_total['STATE'] = county_daily_total['STATE'].apply(pad_fips_state)
 state_demo['STATE'] = state_demo['STATE'].apply(pad_fips_state)
 
+# change some outdated FIPS codes so that they appear on map
+county_daily_total.loc[county_daily_total['COUNTY'] == '46102', 'COUNTY'] = '46113'
+county_daily_total.loc[county_daily_total['COUNTY'] == '02158', 'COUNTY'] = '02270'
+
 # setup multithreading
 # UPDATE_INTERVAL = 86400  # update interval in seconds; 86400 s --> 24 hrs
 
