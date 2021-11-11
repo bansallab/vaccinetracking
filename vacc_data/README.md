@@ -32,14 +32,14 @@ For more information about the data, see
 
 'GEOFLAG': 'County' denotes county level data; 'State' denotes downscaled state data
 
-'DATE': date from Dec 13, 2020 to present
+'DATE': date from Dec 13, 2020 to present. This date is more representative of data updating processes rather than of the vaccination process. It may also not be the same day of the week every week.
 
 'CASE_TYPE': 'Complete'  or 'Complete Coverage" : complete protection with 2-dose Moderna or Pfizer or 1-dose Janssen; 'Partial'  or 'Partial Coverage" : partial protection with 1-dose Moderna or Pfizer  
 
 'CASES': counts for CASE_TYPE = Complete or Partial; percentages of population for 
 CASE_TYPE = Complete Coverage or Partial Coverage
 
-'WEEK' = the week of 2021 the data is for (the DATE column is a date within this week, but not always the same day of the week).
+'WEEK' = the week of 2021 the data is for. (The DATE column is a date within this week, but not always the same day of the week. Thus, we recommend use of the WEEK column instead of DATE for all analyses.
 
 'DEMO_GROUP' = racial/ethnic group
 
@@ -61,7 +61,7 @@ CA,  NM, VT, TN:
 - The data for these states are from a data aggregator. The dates for which this data is available for each state is used; for any dates before the earliest available date for each state, the CDC data is used. Additionally there are a handful of counties where CDC > State so we use CDC data for those to capture vaccinations at by Veterans Affairs, the DoD, the Bureau of Prisons or the Indian Health Service.
 
 HI
-- Doesn't have county data, but there is little within-state variation, so just downscaled state coverage values (from CDC state data)
+- Doesn't have county data, but there is little within-state variation, so we have downscaled state coverage values (from CDC state data) using population weighting. (We note that the CDC has added some county-level data for HI since Oct 22 2021, but these data seem to have errors, so we are not currently using them)
 
 WV
 - We only have most recent weeks of corrected data. So we scale up incorrect CDC data time series to corrected end points.
