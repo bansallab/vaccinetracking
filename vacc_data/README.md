@@ -2,6 +2,10 @@
 
 This repository contains US county-level data for COVID-19 vaccination over time, by dose, and by demographic group.
 
+## Updates
+- Data will not be updated for the last two weeks of 2021. Data will be updated next in January 2022 and will include data updates for the last two weeks of 2021
+- Updated Dec 16: We have improved data interpolation so that all counties with missing data for certain weeks have been filled in by linear interpolation
+
 
 ## Citation:
 If you use this data, please cite:
@@ -44,7 +48,7 @@ CASE_TYPE = Complete Coverage or Partial Coverage
 'DEMO_GROUP' = racial/ethnic group
 
 
-## Details of data integration 
+## Details of data integration & cleanup
 #### CDC Data:
 - Removed "Unknown County" entries. These are entires for which vaccination counts are available but they cannot be attributed to a county of residence
 - Some counties are listed as strings rather than integers. All are converted to integers
