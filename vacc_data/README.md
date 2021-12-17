@@ -4,8 +4,7 @@ This repository contains US county-level data for COVID-19 vaccination over time
 
 ## Updates
 - Data will not be updated for the last two weeks of 2021. Data will be updated next in January 2022 and will include data updates for the last two weeks of 2021
-- Updated Dec 16: We have improved data interpolation so that all counties with missing data for certain weeks have been filled in by linear interpolation
-
+- We are working to add booster data to our dataset.
 
 ## Citation:
 If you use this data, please cite:
@@ -48,7 +47,7 @@ CASE_TYPE = Complete Coverage or Partial Coverage
 'DEMO_GROUP' = racial/ethnic group
 
 
-## Details of data integration & cleanup
+## Details of data processing
 #### CDC Data:
 - Removed "Unknown County" entries. These are entires for which vaccination counts are available but they cannot be attributed to a county of residence
 - Some counties are listed as strings rather than integers. All are converted to integers
@@ -72,3 +71,7 @@ WV
 
 MA
 - Three counties (Barnstable, Nantucket, Dukes) have incorrect data in CDC. So we scale use the timeseries for a neighboring county and rescale it to match the current corrected value.
+
+#### Data integration & cleaning
+- We collate these disparate data sources to produce a single estimate of cumulative vaccination counts for every county.
+- We interpolate any weeks of missing data using linear interpolation. (Additional interpolation added on Decembember 16, 2021).
