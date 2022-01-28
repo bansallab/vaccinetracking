@@ -162,6 +162,7 @@ def US_choropleth(coverage_sel):
 # define the pre-computed maps
 complete_map = US_choropleth('Complete Coverage')
 partial_map = US_choropleth('Partial Coverage')
+booster_map = US_choropleth('Booster Coverage')
 
 # disparity maps --> awaiting new data and mapping function
 # black_map =
@@ -211,10 +212,11 @@ tab1_content = html.Div(
                             dcc.RadioItems(
                                 id='coverage-buttons',
                                 options=[
+                                    {'label': 'Booster coverage', 'value': 'Booster Coverage'},
                                     {'label': 'Complete vaccination (2 dose) coverage', 'value': 'Complete Coverage'},
                                     {'label': 'Partial vaccination (1+ dose) coverage', 'value': 'Partial Coverage'}
                                     ],
-                                value='Complete Coverage',
+                                value='Booster Coverage',
                                 labelStyle={'display': 'block'}
                             ),
                             className='mt-3'
@@ -401,6 +403,8 @@ def update_disp_map(button_value):
     # uses precomputed map data rather than computing on the fly
     if button_value == 'Partial Coverage':
         return partial_map
+    elif button_value == 'Booster Coverage':
+        return booster_map
     else:
         return complete_map
 
