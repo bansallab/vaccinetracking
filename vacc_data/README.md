@@ -10,10 +10,13 @@ This repository contains US county-level data for COVID-19 vaccination over time
 If you use this data, please cite this repository and the following article:
 Andrew Tiu, Zachary Susswein, Alexes Merritt, Shweta Bansal. Characterizing the spatiotemporal heterogeneity of the COVID-19 vaccination landscape. medRxiv. https://doi.org/10.1101/2021.10.04.21263345
 
-## Files:
-- data_county_timeseries.csv: The file has the compiled CDC& individual state vaccination data at the county level weekly from December 13 to present. The data is then corrected using data from individual states. (More info below)
+## Dashboard
+The data in the data_county_timeseries file is visualized in the dashboard at: http://www.vaccinetracking.us/
 
-- data_county_current.csv: This file is the same as the data_county_timeseries file except it only has the latest available data for each state (might be different dates/weeks)
+## Files:
+- data_county_timeseries.csv: The file has the compiled CDC& individual state vaccination data at the county level weekly from Jan 1, 2021 to present. The data is then corrected using data from individual states. (More info below)
+
+- data_county_current.csv: This file is the same as the data_county_timeseries file but only contains the latest available data for each state (might be different dates/weeks)
 
 ## Codebook:
 'STATE_NAME': state name as an abbreviation
@@ -26,16 +29,17 @@ Andrew Tiu, Zachary Susswein, Alexes Merritt, Shweta Bansal. Characterizing the 
 
 'GEOFLAG': 'County' denotes county level data; 'State' denotes downscaled state data
 
-'DATE': date from Dec 13, 2020 to present. This date is more representative of data updating processes rather than of the vaccination process. It may also not be the same day of the week every week.
+'DATE': This date is more representative of data updating processes rather than of the vaccination process. It may also not be the same day of the week every week. Thus we recommend using the WEEK and YEAR column for analyses.
 
 'CASE_TYPE': 'Booster' or 'Booster Coverage': protection with an additional dose for compltely protected individuals; 'Complete'  or 'Complete Coverage" : complete protection with 2-dose Moderna or Pfizer or 1-dose Janssen; 'Partial'  or 'Partial Coverage" : partial protection with 1-dose Moderna or Pfizer  
 
 'CASES': counts for CASE_TYPE = Booster or Complete or Partial; percentages of population for CASE_TYPE = Booster Coverage or Complete Coverage or Partial Coverage
 
-'WEEK' = the week of 2021 the data is for. (The DATE column is a date within this week, but not always the same day of the week. Thus, we recommend use of the WEEK column instead of DATE for all analyses.
+'WEEK' = the ISO week of the year the data is for. (The DATE column is a date within this week, but not always the same day of the week. Thus, we recommend use of the WEEK and YEAR column instead of DATE for all analyses.) 
+
+'YEAR' = the year that the data corresponds to
 
 'DEMO_GROUP' = racial/ethnic group
-
 
 ## Details of data processing
 #### CDC Data:
