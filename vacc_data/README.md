@@ -4,7 +4,7 @@ This repository contains US county-level data for COVID-19 vaccination over time
 
 ## Updates
 - The data was updated on January 28th, 2022 with county-level booster vaccination data. This dataset is constructucted from CDC + state-level data as described below
-- As of January 28th, 2022, the data source for California data was changed to the CA Dept of Health
+- As of January 28th, 2022, the data source for WV, NM, VT, and TN  data was changed to the the CDC, and the data source for CA was changed to the CA Dept of Health
 
 ## Citation:
 If you use this data, please cite:
@@ -57,17 +57,10 @@ For more information about the data, see
 
 #### State Data
 GA, VA, TX, CO, NC, OH, CA
-- Added from respective state health dept. However, in GA and NC, there are a handful of counties (13039, 13053, 13179, 37173, 37133, 37051, 37117, 51001, 51105,51520,51740, 51710) where CDC > State so we use CDC data for those to capture vaccinations at by Veterans Affairs, the DoD, the Bureau of Prisons or the Indian Health Service.
-
-NM, VT, TN:
-- The data for these states are from a data aggregator. The dates for which this data is available for each state is used; for any dates before the earliest available date for each state, the CDC data is used. Additionally there are a handful of counties where CDC > State so we use CDC data for those to capture vaccinations at by Veterans Affairs, the DoD, the Bureau of Prisons or the Indian Health Service.
-- These states do not provide booster vaccination data at the county-level, so we rely on CDC data for booster coverage levels.
+- Added from respective state health dept due to past errors observed in the CDC data. However, in GA and NC, there are a handful of counties (13039, 13053, 13179, 37173, 37133, 37051, 37117, 51001, 51105,51520,51740, 51710) where CDC > State so we use CDC data for those to capture vaccinations at by Veterans Affairs, the DoD, the Bureau of Prisons or the Indian Health Service.
 
 HI
 - Doesn't have county data, but there is little within-state variation, so we have downscaled state coverage values (from CDC state data) using population weighting. (We note that the CDC has added some county-level data for HI since Oct 22 2021, but these data seem to have errors, so we are not currently using them)
-
-WV
-- We only have most recent weeks of corrected data. So we scale up incorrect CDC data time series to corrected end points.
 
 MA
 - Three counties (Barnstable, Nantucket, Dukes) have incorrect data in CDC. So we scale use the timeseries for a neighboring county and rescale it to match the current corrected value.
