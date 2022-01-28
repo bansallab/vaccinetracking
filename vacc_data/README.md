@@ -7,17 +7,8 @@ This repository contains US county-level data for COVID-19 vaccination over time
 - As of January 28th, 2022, the data source for WV, NM, VT, and TN  data was changed to the the CDC, and the data source for CA was changed to the CA Dept of Health
 
 ## Citation:
-If you use this data, please cite:
-
-- Merritt, Alexes; Tiu, Andrew; Bansal, Shweta, 2021, "Integrated US COVID-19 Vaccination Data", https://doi.org/10.7910/DVN/BFRIKI, Harvard Dataverse, V1.
-
-- Andrew Tiu, Zachary Susswein, Alexes Merritt, Shweta Bansal. Characterizing the spatiotemporal heterogeneity of the COVID-19 vaccination landscape. MedRxiv.
-
-## Data source
-For more information about the data, see 
-
-- http://www.vaccinetracking.us/data.html
-- Andrew Tiu, Zachary Susswein, Alexes Merritt, Shweta Bansal. Characterizing the spatiotemporal heterogeneity of the COVID-19 vaccination landscape. MedRxiv.
+If you use this data, please cite this repository and the following article:
+Andrew Tiu, Zachary Susswein, Alexes Merritt, Shweta Bansal. Characterizing the spatiotemporal heterogeneity of the COVID-19 vaccination landscape. medRxiv. https://doi.org/10.1101/2021.10.04.21263345
 
 ## Files:
 - data_county_timeseries.csv: The file has the compiled CDC& individual state vaccination data at the county level weekly from December 13 to present. The data is then corrected using data from individual states. (More info below)
