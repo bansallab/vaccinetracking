@@ -5,6 +5,7 @@ This repository contains US county-level data for COVID-19 vaccination over time
 ## Updates
 - The data was updated on January 28th, 2022 with county-level booster vaccination data. This dataset is constructucted from CDC + state-level data as described below
 - As of January 28th, 2022, the data source for WV, NM, VT, and TN  data was changed to the the CDC, and the data source for CA was changed to the CA Dept of Health
+- As of the week of April 4th, 2022, all state data is sourced from CDC except CA, CO, VA, MA, and HI (as described below).
 
 ## Citation:
 If you use this data, please cite this repository and the following article:
@@ -51,8 +52,12 @@ The data in the data_county_timeseries file is visualized in the dashboard at: h
 - The data is translated from wide to long format
 
 #### State Data
-GA, VA, TX, CO, NC, OH, CA
-- Added from respective state health dept due to past errors observed in the CDC data. However, in GA and NC, there are a handful of counties (13039, 13053, 13179, 37173, 37133, 37051, 37117, 51001, 51105,51520,51740, 51710) where CDC > State so we use CDC data for those to capture vaccinations at by Veterans Affairs, the DoD, the Bureau of Prisons or the Indian Health Service.
+
+*  Locations where CDC rates > State rates, we use CDC data to capture vaccinations at by Veterans Affairs, the DoD, the Bureau of Prisons or the Indian Health Service.
+*  Locations where CDC rates < State rates, we use the state data as described below:
+
+VA, CO, CA
+- CA (8 missing counties in CDC data), VA (state-reported rates are at least five percentage points above CDC-reported rates for 83% of counties), CO (state-reported rates are at least five percentage points above CDC-reported rates for 90% of counties).
 
 HI
 - Doesn't have county data, but there is little within-state variation, so we have downscaled state coverage values (from CDC state data) using population weighting. (We note that the CDC has added some county-level data for HI since Oct 22 2021, but these data seem to have errors, so we are not currently using them)
