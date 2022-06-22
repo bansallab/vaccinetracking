@@ -9,7 +9,7 @@ This repository contains US county-level data for COVID-19 vaccination over time
 
 ## Citation:
 If you use this data, please cite this repository and the following article:
-Andrew Tiu, Zachary Susswein, Alexes Merritt, Shweta Bansal. Characterizing the spatiotemporal heterogeneity of the COVID-19 vaccination landscape. medRxiv. https://doi.org/10.1101/2021.10.04.21263345
+Andrew Tiu, Zachary Susswein, Alexes Merritt, Shweta Bansal. Characterizing the spatiotemporal heterogeneity of the COVID-19 vaccination landscape. American Journal of Epidemiology, 2022; kwac080, https://doi.org/10.1093/aje/kwac080
 
 ## Dashboard
 The data in the data_county_timeseries file is visualized in the dashboard at: http://www.vaccinetracking.us/
