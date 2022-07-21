@@ -30,8 +30,8 @@ with urlopen('https://raw.githubusercontent.com/plotly/datasets/master/geojson-c
 # state_demo = pd.read_csv('vacc_data/data_demo.csv', parse_dates=['DATE'])  # read demographic data
 
 # read vacc data directly from GitHub repo
-county_daily_total = pd.read_csv('https://raw.githubusercontent.com/bansallab/vaccinetracking/main/vacc_data/data_county_current.csv', parse_dates=['DATE'])  # read data
-state_demo = pd.read_csv('https://raw.githubusercontent.com/bansallab/vaccinetracking/main/vacc_data/data_demo.csv', parse_dates=['DATE'])  # read demographic data
+county_daily_total = pd.read_csv('https://media.githubusercontent.com/media/bansallab/vaccinetracking/main/vacc_data/data_county_current.csv', parse_dates=['DATE'])  # read data
+state_demo = pd.read_csv('https://media.githubusercontent.com/media/bansallab/vaccinetracking/main/vacc_data/data_demo.csv', parse_dates=['DATE'])  # read demographic data
 
 # function to zero pad county FIPS codes
 def pad_fips_county(x):
