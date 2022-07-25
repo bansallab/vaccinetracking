@@ -5,7 +5,8 @@ This repository contains US county-level data for COVID-19 vaccination over time
 ## Updates
 - The data was updated on January 28th, 2022 with county-level booster vaccination data. This dataset is constructucted from CDC + state-level data as described below
 - As of January 28th, 2022, the data source for WV, NM, VT, and TN  data was changed to the the CDC, and the data source for CA was changed to the CA Dept of Health
-- As of the week of April 4th, 2022, all state data is sourced from CDC except CA, CO, VA, MA, and HI (as described below).
+- As of the week of April 4th, 2022 (still true as of July 25, 2022), all state data is sourced from CDC except CA, CO, VA, MA, and HI (due to significant deviations between the two data sources, as described below). The state of Colorado does not provide booster coverage data by county, so CDC data is provided there.
+- As of June 2022, CDC vaccination data is updated weekly on Thursdays
 
 ## Citation:
 If you use this data, please cite this repository and the following article:
