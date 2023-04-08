@@ -6,8 +6,8 @@ import plotly.graph_objects as go
 from urllib.request import urlopen
 import json
 import dash
-import dash_core_components as dcc
-import dash_html_components as html
+from dash import dcc
+from dash import html
 import dash_bootstrap_components as dbc
 from dash.dependencies import Input, Output, State
 
@@ -138,14 +138,16 @@ alert = html.Div(
     [
         dbc.Alert(
             [
-                html.H5('Tips', className='mb-0'),
+                # html.H5('Tips', className='mb-0'),
+                html.H5('Warning', className='mb-0'),
                 html.Hr(className='mb-0'),
-                html.P('Hover over a county to see vaccination coverage and the source of the data (state or county).')
+                # html.P('Hover over a county to see vaccination coverage and the source of the data (state or county).')
+                html.P('With so few states continuing to report COVID vaccination data, we have stopped updating this dashboard after October of 2022. However, this dashboard and the data on GitHub will remain.')
             ],
             id='alert-fade',
             dismissable=True,
             is_open=True,
-            color='secondary'
+            color='danger'
         )
     ]
 )
@@ -237,7 +239,7 @@ row_2 = dbc.Row(
                 )
             ], width=2, style={'height': '100%'}
         )
-    ], justify='left', no_gutters=True, className='h-100'
+    ], justify='left', className='g-0'
 )
 
 
