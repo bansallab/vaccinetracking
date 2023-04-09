@@ -2,6 +2,7 @@
 click==8.1.3 ; python_version >= '3.7'
 colorama==0.4.6 ; platform_system == 'Windows'
 dash==2.9.2
+dash-bootstrap-components==1.4.1
 dash-core-components==2.0.0
 dash-html-components==2.0.0
 dash-table==5.0.0
