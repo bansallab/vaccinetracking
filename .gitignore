@@ -7,8 +7,8 @@ bin-release/
 # Other files and folders
 .settings/
 .vscode/
+.venv/
 
-Pipfile
 # Executables
 *.swf
 *.air
