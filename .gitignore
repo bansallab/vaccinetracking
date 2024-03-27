@@ -9,6 +9,7 @@ bin-release/
 .vscode/
 .venv/
 
+Pipfile
 # Executables
 *.swf
 *.air
