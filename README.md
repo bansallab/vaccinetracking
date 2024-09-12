@@ -1,5 +1,5 @@
 # COVID-19 Vaccination Tracking
-- Repository for COVID-19 vaccination tracking [dashboard](https://www.vaccinetracking.us/), underlying data, and modeling
+- Repository for COVID-19 vaccination tracking dashboard [no longer live], underlying data, and modeling
     - `COVID_dash_app.py` contains all the vaccination dashboard code
     - `vacc_data` folder contains the dashboard's underlying data
     - `modeling` folder contains code for the logistic growth models used in the journal article below
